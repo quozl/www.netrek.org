@@ -1,0 +1,54 @@
+This file is located at <http://www.netrek.org/RSA.agreement.txt>
+
+** Netrek RES-RSA
+
+This information and agreement is relevant only to U.S. Netrek client
+developers/builders and Netrek server developers/administrators.
+
+Many Netrek servers are RSA-enabled and require special RSA-enabled
+"blessed" client binaries for gameplay.  This requirement prevents
+players from downloading a client's source code and adding special
+"borgish" features (such as auto- phasers, cloakers on tactical, etc.) 
+to gain unfair advantages over others.
+
+Both clients and servers use the RSA algorithm from RSA Laboratories
+to employ public key cryptography for client validation.  You will
+need access to the Netrek RES-RSA source code only if you plan to run
+an RSA-enabled server or build an RSA-enabled client.  If you are
+building a client, please be sure to check with the client
+maintainer(s) to see if a blessed client for your platform is already
+available.
+
+Because of U.S. export restrictions on encryption technology, you must
+truthfully answer the following questions before a copy of the Netrek
+RES-RSA library can be released to you.
+
+- State your full, legal name.
+
+- Are you a citizen or national of the United States or a person who
+has been lawfully admitted for permanent residence in the United
+States under the Immigration and Naturalization Act?
+
+- Do you agree not to export RSA and all related support code to the
+extent incorporated therein, in violation of the export control laws
+of the United States of America as implemented by the United States
+Department of State Office of Defense Trade Controls?
+
+- Do you agree to the terms and conditions of the RSAREF license?
+<http://www.netrek.org/RSA.txt>
+
+- Do you agree to use Netrek RES-RSA and RSAREF solely for
+non-commercial purposes?
+
+Send a copy of this file with your answers to rsakey@us.netrek.org.
+If you are a PGP user, sign the message and include your public key.
+The decrypt key for the U.S. RES-RSA package will be sent to you
+afterwards.  The encrypted U.S. RES-RSA package is located at
+<ftp://ftp.netrek.org/pub/netrek/rsa/>.
+
+If you are trying to build an RSA-enabled client, please check with
+the client maintainers for additional information.  RSA-enabled
+clients not sanctioned by the maintainers are usually rejected by the
+RSA client keys maintainer and RSA-enabled servers.
+
+-da 3/25/99

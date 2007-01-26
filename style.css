@@ -1,0 +1,182 @@
+body {
+	font-family:tahoma,arial,helvetica,sans-serif;
+	font-size:13px;
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	min-width:800px;
+	background:#181818;
+	color:#EEEEEE;
+}
+
+img {	border-style:none; }
+
+#content {
+	margin-left:60px;
+	margin-right:60px;
+	padding-top:5px;
+
+	/*
+	IE5x PC mis-implements the box model. Because of that we sometimes have...
+	Read more at http://www.glish.com/css/hacks.asp
+	*/
+	
+	voice-family:"\"}\"";
+	voice-family:inherit;
+}
+
+#content a:link		{ color:#E0E0FF; text-decoration:underline; }
+#content a:visited	{ color:#E0E0FF; text-decoration:underline; }
+#content a:active	{ color:#FFFFFF; text-decoration:underline; background:#444444; }
+#content a:hover	{ color:#b0b0FF; text-decoration:underline; }
+
+#content h2 {
+	color:#F0F0FF;
+	font-size:18px;
+	font-weight:bold;
+	margin:0px;
+	padding-top:6px;
+	display:block;
+	clear:left;
+}
+
+#content h2 a:link {text-decoration:none;}
+#content h2 a:visited {text-decoration:none;}
+#content h2 a:hover {text-decoration:underline;}
+
+#content li {margin-bottom:10px;}
+
+#content td { vertical-align:middle; }
+
+#content p {
+	margin-right:0px;
+	margin-bottom:20px;
+	margin-left:0px;
+	margin-top:0px;
+	clear:left;
+}
+
+#content h2 img {
+	float:left;
+	width:100px;
+	height:70px;
+	margin-right:30px;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-top:0px;
+}
+
+#sidebar {
+	float:right;
+	right:0px;
+	top:110px;
+	width:201px;
+	background:#555555;
+	color:#ffffff;
+	margin-left:60px;
+	margin-bottom:15px;
+}
+
+#sidebar a:link		{ color:#C0C0FF;}
+#sidebar a:visited	{ color:#C0C0FF;}
+#sidebar a:hover	{ color:#FFF85F;}
+
+#sidebar form { text-align: center;}
+
+#sidebar h1 {
+	text-align:center;
+	background:#dddddd;
+	color:#000000;
+	font-size:12px;
+	letter-spacing:+2px;
+	line-height:140%;
+	margin:0px;
+	text-transform:uppercase;
+}
+
+#sidebar h2 {
+	font-size:12px;
+	font-weight:bold;
+	color:#000000;
+	display:block;
+}
+
+#title {
+	height:80px;
+	text-align:center;
+	color:#777777;
+	background:#000000;
+	clear:both;
+}
+
+#title img {
+	width:800px;
+	height:80px;
+}
+
+#menu {
+	background:#000000;
+	color:#ffffff;
+	text-transform:uppercase;
+	border-top:2px solid #999999;
+	border-bottom:2px solid #999999;
+	clear:both;
+}
+
+#menu a	{ color:#ffffff; text-decoration:none; font-weight:bold;}
+
+#menu td {
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:2px;
+	padding-top:2px;
+}
+
+#menu td:hover { background:#b0b0FF; }
+
+#menu th { width:100%; }
+
+html>body #banner {
+	height:108px;
+	min-width:800px;
+}
+
+#submenu {
+	background:#000000;
+	color:#ffffff;
+	border-bottom:2px solid #999999;
+	padding-left:15px;
+	padding-right:15px;
+	clear:both;
+}
+#submenu a:link		{ color:#E0E0FF; text-decoration:none; }
+#submenu a:visited	{ color:#E0E0FF; text-decoration:none; }
+#submenu a:active	{ color:#FFFFFF; text-decoration:underline; }
+#submenu a:hover	{ color:#b0b0FF; text-decoration:underline; }
+
+#footer {
+	text-align:center;
+	color:#777777;
+	background:#181818;
+	margin-top:30px;
+	margin-bottom:10px;
+	font-size:10px;
+	overflow:hidden;
+	clear:both;
+}
+
+#footer a:link { color:#C0C0FF;}
+#footer a:visited { color:#C0C0FF;}
+#footer a:hover	{ color:#FFF85F;}
+
+input {
+	font-size:75%;
+	font-weight:normal;
+	background:#E0E0FF;
+	border:solid 1px #cccccc;
+	padding:2px;
+}
+
+input:hover, input:focus {
+	background:white;
+}
+
