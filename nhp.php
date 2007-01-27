@@ -34,7 +34,7 @@ define('NPH_LOC_WEB_PEOPLE',	NPH_LOC_WEBROOT.'people/');
 define('NPH_LOC_WEB_LINKS',	NPH_LOC_WEBROOT.'links/');
 define('NPH_LOC_WEB_CINEMA',	NPH_LOC_WEBROOT.'cinema2/');
 define('NPH_LOC_WEB_NEWS',	NPH_LOC_WEBROOT.'news.php');
-define('NPH_LOC_WEB_FEEDBACK',	'mailto:Shadow.Hunter@netrek.org');
+define('NPH_LOC_WEB_FEEDBACK',	'mailto:netrek-web@mirror.to');
 define('NPH_LOC_WEB_ADVERTISE',	NPH_LOC_WEBROOT.'advertise.html');
 
 
