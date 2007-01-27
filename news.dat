@@ -1,0 +1,57 @@
+# This is the NEWS file
+#
+# Rules:
+# 1) Add new entries *on top*.
+# 2) Each entry should occupy one single line.
+# 3) Prepend each line with a date stamp of YYYYMMDD format
+# 4) Empty lines and lines starting with '#' are ignored
+
+20050107 Added a local copy of <a href="beginner/dantesdogfightguide.php">Dantes Dogfight Guide</a> to the website since the original went down.
+
+20050103 Version RC4 of Trents <a href="http://www.speakeasy.org/~xyzzy/netrek/">Paradise 2000</a> client for Linux is available! Download it <a href="downloads/clients/paradise-2000-rc4.tar.gz">here</a>.
+
+20050101 Happy New Year!
+
+20040802 I got my act together and finally made sure this website is <a href="http://validator.w3.org/check?uri=www.netrek.org">Valid HTML 4.01 Strict</a>!
+
+20040801 Added HTML compression, otherwise called gzip content encoding. This shaves another few Kb's off and speeds up the site.
+
+20040711 Version 4.4.0.3 of Stas' <a href="http://netrek.keyos.org/">Netrek XP Mod</a> client for Windows is available! Download <a href="downloads/clients/NetrekXP4403_installer.exe">here</a>.
+
+20040604 Netrek XP is now listed in <a href="http://rutgers.games.tucows.com/preview/360727.html">Tucows</a>. It got a <img src="img/tucows4.png" alt="" width=79 height=14> rating.
+
+20040508 Optimized all GIF and PNG images upto an <i>average</i> of 46% lossless!! Thanks to <a href="http://www.pcbit.com/gifopt/">Absolute Gif Optimizer</a>, <a href="http://www.cs.toronto.edu/~cosmin/pngtech/optipng/">OptiPNG</a> and <a href="http://advsys.net/ken/utils.htm">PNGout</a>. Plus deleted some dead links.
+
+20040504 Removed old link to playnetrek.org and also mentioned <a href="http://home.comcast.net/~dantes/">Dantes Dogfighting Guide</a> in the beginner section.
+
+20040425 Added links to <a href="http://netrek.hwy.com.au/">Netrek in Australia</a>, <a href="http://home.comcast.net/~dantes/">Dantes Dogfighting Strategy</a> and <a href="http://www3.sympatico.ca/mfurrow/netrek/">Caradhras' Netrek page</a>.
+
+20040424 Joe's playnetrek.org site now points to netrek.org.
+
+20040410 New website design goes live! <a href="mailto:Shadow.Hunter@netrek.org">Feedback</a> appreciated!
+
+20040321 There is a new build of the <a href="downloads/clients/COW.3.01pl0.linux_glibc23.bz2">COW client Version 3.01pl0 for Linux glibc2.3.x</a> available!
+
+20040310 Version 4.4.0.2 of Stas' <a href="http://netrek.keyos.org/">Netrek XP Mod</a> client for Windows is available! Download <a href="downloads/clients/NetrekXP4402_installer.exe">here</a> or use the <a href="http://netrek.keyos.org/netrek.exe">mirror</a>. Further removed some dead links.
+
+20040205 Added the <a href="http://netrek.game-host.org/netrek/">Netrek Web Forum</a> to the Info section</font>
+
+20040201 Updated the <a href="http://www.metaserver.netrek.org/">Metaserver HTML output</a> url to point to Sven's forwarding proxy
+
+20040201 Added <a href="http://cha.rlie.nl/dfmanual/">Charlie's Beginner's Guide to Dogfighting</a>
+
+20040123 Updated and weeded out <a href="http://validator.w3.org/checklink?uri=www.netrek.org%2F&amp;summary=on&amp;hide_type=all&amp;recursive=on&amp;depth=2">dead links</a> (over 200 so far!)
+
+20040119 New homepage maintainer: Erik Hietbrink.
+
+20011216 Fixed some broken links.
+
+20010210 COW 3.00pl3 i386/NetBSD binary available <a href="ftp://ftp.netrek.org/pub/netrek/clients/cow/COW-bin/">here</a>.
+
+20010210 <a href="http://www.speakeasy.org/%7Exyzzy/netrek/">Paradise 2000</a> beta7 now available. Get it <a href="ftp://ftp.netrek.org/pub/netrek/clients/paradise2000/">here</a>.
+
+20001113 ftp.netrek.org is back up.
+
+20001026 Check out Joe's Netrek sticker. Want one? Only 40 left as of today. <a href="http://www.netrek.org/sticker.html">Get one now!</a>
+
+20001025 Thanks to Karthik at Global NAPs, the Netrek Home Page has a new, dedicated web server. Downloads should be much faster now. It may take a few days for the DNS changes for www.netrek.org to propage.
