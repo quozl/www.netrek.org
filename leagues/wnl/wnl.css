@@ -1,0 +1,91 @@
+
+/* GLOBAL styles */
+
+body			{
+  color: #99ccff;
+  background: #000000;
+  font-family: arial,helvetica,sans-serif;
+  font-size: small;
+}
+
+dl,td,th,ol,ul,p { font-family: arial,helvetica,sans-serif; font-size: small }
+
+a		{ text-decoration: none }
+a:link		{ color: #cccc33 }
+a:visited	{ color: #cccc33 }
+a:active	{ color: #ff0000 }
+a:hover		{ color: #00ff00 }
+
+td.std			{
+  color: #99ccff;
+  vertical-align: top;
+  font-family: arial,helvetica,sans-serif;
+  font-size: small;
+}
+
+td.side-menu			{
+  color: #99ccff;
+  background: #000000;
+  vertical-align: top;
+  font-family: arial,helvetica,sans-serif;
+  font-size: small;
+}
+
+/* main-menu styles */
+div.main-menu table	{ background: #99ccff }
+div.main-menu th	{ color: #000000; text-align: left; font-family: arial,helvetica,sans-serif; font-size: small }
+div.main-menu th.right	{ text-align: right }
+div.main-menu a		{ text-decoration: none }
+div.main-menu a:link	{ color: #0000ff }
+div.main-menu a:visited	{ color: #0000ff }
+div.main-menu a:active	{ color: #ff0000 }
+div.main-menu a:hover	{ color: #00ff00 }
+
+/* side-menu styles */
+div.side-menu a		{ text-decoration: none }
+div.side-menu a:link	{ color: #cccc33 }
+div.side-menu a:visited	{ color: #cccc33 }
+div.side-menu a:active	{ color: #ff0000 }
+div.side-menu a:hover	{ color: #00ff00 }
+
+/* tail-menu styles */
+div.tail-menu p		{ text-align: center }
+div.tail-menu a		{ text-decoration: none }
+div.tail-menu a:link	{ color: #cccc33 }
+div.tail-menu a:visited	{ color: #cccc33 }
+div.tail-menu a:active	{ color: #ff0000 }
+div.tail-menu a:hover	{ color: #00ff00 }
+
+/* body content styles */
+div.body a		{ text-decoration: none }
+div.body a:link		{ color: #cccc33 }
+div.body a:visited	{ color: #cccc33 }
+div.body a:active	{ color: #ff0000 }
+div.body a:hover	{ color: #00ff00 }
+
+/* WNL rulebook styles */
+div.rulebook a		{ text-decoration: none }
+div.rulebook a:link	{ color: #cccc33 }
+div.rulebook a:visited	{ color: #cccc33 }
+div.rulebook a:active	{ color: #ff0000 }
+div.rulebook a:hover	{ color: #00ff00 }
+div.rulebook td		{ color: #99ccff; font-family: arial,helvetica,sans-serif; font-size: small }*/
+
+/* right side splash styles */
+div.splash td		{ vertical-align: top }
+
+/* site index styles */
+div.index table		{ background: #000000 }
+div.index th		{ color: #99ccff; font-family: arial,helvetica,sans-serif; font-size: small; text-align: left }
+div.index td		{ color: #99ccff; font-family: arial,helvetica,sans-serif; font-size: small; vertical-align: top }
+div.index a		{ text-decoration: none }
+div.index a:link	{ color: #cccc33 }
+div.index a:visited	{ color: #cccc33 }
+div.index a:active	{ color: #ff0000 }
+div.index a:hover	{ color: #00ff00 }
+
+/* newbie manual styles */
+div.manual td		{ vertical-align: top; font-family: courier }
+
+/* address styles */
+address 		{ font-style: normal; font-size: smaller; font-family: serif; }

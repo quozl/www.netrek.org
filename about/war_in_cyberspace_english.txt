@@ -1,0 +1,107 @@
+Article called 'War in Cyberspace'
+
+"Everyone prepare for a baseogg! 30 seconds!" echos through the computerroom.
+Sitting next to the captain, Fraser, Mark and Rakesh acknowledge the command.
+On the screen Frank and Erik playing from the Netherlands signal that they're
+ready too. Everyone manouvres his spaceship steadily into a good attacking
+position. "Don't let the defenders distract you, avoid them! 15 seconds! Save
+your fuel!" Mark has penetrated deeply into enemy space already, Frank has lost
+precious time with eliminating an enemy vessle. The encirclement of the enemy
+base is nearly complete. From all sides defenders are rushing in at high speed.
+"Uh oh.. I think they're on to us" sneers Fraser. Five seconds. The circle is
+closed. The enemy base starts to panic and shoots randomly around. It is now or
+never. "OGG DA BASE!"
+
+Seven ships cloack and become virtually invisible to the enemy. The distance
+to the base is covered in no time. An attacker flies into a crossfire and
+explodes. The base continues to shoot randomly around to discover more
+invisible enemies before they reach him. Too late. Six ships become visible
+near the base. One is shot down immedeately, but the others survive and open
+fire on their turn. BOOM! A giant explosion signals the end of the most
+powerfull enemy ship. Cries of victory scroll over the screen and through the
+terminalroom. But the intoxication of victory is shortlived. The base might be
+gone, but the battle itself is not won yet...
+
+<b>European Netrek League</b>
+This battle of life or death for the ultimate power in space takes place on
+nothing less than your own monitorscreen. Netrek is a high paced action game
+played via the Internet, meaning that the geographical location of the players
+doesn't matter. Today an important game between the brittish team Chainsaw
+Hamsters and the swedish team Swedish Erotica is being played. It are the finals
+of the European Netrek championships. The winning team may call itself champion
+of the ENL Spring 1997 season, a title they have been playing for since februari
+this year.
+
+Netrek is a teamgame and is based upon Star Trek. Two teams of each eight players
+try to conquer each others planets. Both teams choose a race of their own first:
+Klingon, Romulon, Orion or of course the Federation. At the beginning of the
+battle each race owns ten planets which can very slowly produce armies. These
+armies must be used to conquer the enemy planets. All players fly in a spaceship
+of their own and they can choose from several different shiptypes. Each ship
+has strengths and weaknesses depending on the tasks that must be fullfilled. All
+players on a team must cooperate if they want to achieve their goal: the
+complete and total extermination of the inferior race occupying the other end of
+the galaxy!
+
+The succesfully executed baseogg of a moment ago is the summit of teamwork
+within Netrek. It is a suicideattack by the entire team to get rid of the
+starbase of the opposing team. With less ships this will simply not work. The
+starbase is the most powerfull ship in the game and can be compared to the Death
+Star from Star Wars. Each team only has one at a time and after it is being
+killed it takes 25 minutes to rebuild it. The word 'ogg' represents the Netrek
+variant of Kamikaze attack. Because a ship can only fire to one side at once the
+attackers must all come from different angles. The building up of a good attack
+position in itself is already hard enough, because the defenders won't allow you
+to do that unharrassed. And further the timing of the arrival at the enemy base
+must be perfect. If the attackers arrive one by one the base can simply shoot
+them easily one by one too.
+
+Killing? Suicide attack? How many lives it is you have at your disposal? The
+answer is you have an infinite amount of ships. The idea is that players
+resurrect after their death in a new and fully armed ship at their homeworld.
+Only... that is deep into their own territory. Now first precious time is lost
+by flying back to your old position, time which the enemy has used in the
+meantime in its own advantage by taking over a planet for example. The more
+planets a team conquers, the more the front moves towards the homeworld of the
+enemy and the harder it gets to conquer more planets since each time you kill an
+enemy he is faster back at the front.
+
+There have been developed tactics and strategies to enforce such advantages and
+eventually win the game. One of the players of a team is the captain who gives
+guidance to his team. He assigns the tasks and coordinates joint actions. The
+more experienced the team and the single players, the faster they react to each
+other. This speed is crucial because the element of surprise is very important
+in Netrek. Not every player knows what his teammates and the enemy players are
+doing now or planning to do. Yet he has to know what his captain is planning and
+he has to inform his team of his own actions. For that purpose Netrek has an
+advanced message communiation system which shows close resemblence to IRC
+(Internet Relay Chat). This enables the entire team to work together.
+
+Netrek allows people to use nicknames, just like on IRC (or MUD), but also
+ranks. All flight information and achievements of a player is recorded and is
+used for promotion. When being promoted someone can go from Ensign all the way
+up to Admiral, with all the status that comes with it.
+
+<b>All must be networked!</b>
+The current rage in computerland is to make every game networked, and preferably
+with internet support. The problem with this approach is that these games are
+not explicitly written for the online experience and just extended to allow
+multiple persons to play the game. The fenomenon 'teamgame' is still completely
+undiscovered in the massgamingindustry. It is the team cooperation one finds in
+sports like soccer that it is about here. The gameconcept must enforce this
+kind of cooperation in order for a player to be successfull.
+
+In the future games will eventually evolve in the direction of electronic
+sports. Not only the multi-player concept will make these games popular, but
+the added value of cooperation on tactical and strategical level as well. In
+America already exist great arcade halls where tens of flight simulators are
+lined up next to each other in which teams keep their aireal combats. It will
+take some time before this comes over to Great Brittain, but untill that time
+there is an alternative that everyone can play and that is at least as
+fascinating: Netrek.
+
+
+
+
+
+Copyright 1997, May 23rd by Erik Hietbrink, ehb@sci.kun.nl

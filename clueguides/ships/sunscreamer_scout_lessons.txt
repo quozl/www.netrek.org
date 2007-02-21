@@ -1,0 +1,103 @@
+From: rhodesia@wixer.cactus.org (Felix S. Gallo)
+Newsgroups: rec.games.netrek
+Subject: sunscreamer's scout lessons: #1 in a series
+Date: 19 Oct 92 04:03:16 GMT
+
+Well, I'm bored, so here is part of my Collected Knowledge of
+Scoutbombing.  In no particular order.
+
+1.  Scouts can perform a very important function in base oggs
+    by flying around cloaked and detting single torps.  Since
+    their maneuverability is high, scouts are less at risk of
+    actually getting hit with torps; detting single torps forces
+    the base to either 'play honest' and not fire at explosions
+    or to wtemp firing on a gamble that the ship's really there.
+
+2.  Know your turning radius.  At warp 12, you have a great
+    potential of walking too far into a developing firefight
+    if you're not careful.  Make sure you *always* have enough
+    turning radius to escape the clutches of any larger ship.
+
+3.  Never cloak while tractored, phasered, or within tractor
+    or phaser range.
+
+4.  Always go as far as strategically possible to get armies.
+    Don't pick from planets that your regular carriers might
+    use unless you think they won't get there until the planet
+    is bombed.
+
+5.  Assuming that the enemy is relatively flat, four of your
+    ships are worth one of their armies.
+
+6.  Don't lock on to a planet until the moment that you have
+    to.  Locking on lowers speed unnecessarily when closing in.
+    Ships locked onto planets from afar can be targetted as
+    having a destination, and that destination can be protected.
+
+7.  Feigning fuellessness or damage can be an easy way to get a
+    kill, but timing is essential.  Always be prepared to book
+    if the enemy decides to whittle you down with phasers before
+    coming in hard.
+
+8.  Scout torps look just as dangerous as other torps.
+
+9.  Scout phasers are utterly useless except at extremely short
+    ranges (on top of) or against other scouts.  Since your fuel
+    tank is small, save up for a string of fast torps instead.
+
+10. Consider the enemy's perception when creating a new fake move.
+    If the enemy is clueless or combat-hungry, fake for the planet
+    and pause momentarily, trying to arrive cloaked in orbit just
+    after the torps pass through.  If the enemy is patient, try to
+    exert enough pressure to stick her to the planet or force her
+    to call for help.  If the enemy is fixated on defense, consider
+    faking for the planet and uncloaking to kill her when she's
+    left her torps out.
+
+11. Feel the enemy pressure like a wind through a field.  If the
+    stalks of grass feel like they're bending your way, flow with
+    the wind and shift away, maintaining a cushion of safety while
+    staying threatening.  If the flow is too strong, divide it
+    like a knife and try to break through before it can slow and
+    reverse its course.
+
+12. Use your torpedoes not only to damage the enemy, but to coax
+    her into mistakes.  A line of torpedoes laid out a little ahead
+    of a ship can cause it to slow or veer, increasing the chance
+    that you'll get to your objective.
+
+13. If trapped by a base, relax.  You will die soon, and your
+    objective is to die in the manner of your choosing.  Build up
+    fuel as fast as you can, and then either jet towards the base,
+    forcing it to destroy you, or feint towards the base and then
+    attempt to break free before it can tractor you again.
+
+14. Always send a message to your teammates whenever any enemy
+    picks up, along with her location.  Also send messages if you
+    detect a long term threat building.
+
+15. Watch the exact trajectories of enemies.  If an enemy picks up
+    at Earth and points towards Eri, she has asked to be killed by
+    your oggers.
+
+16. Assist your oggers in deep backcourt oggs by getting between the
+    ogged enemy and her friends before she knows that you're there.
+
+17. Map the nearest neutral planets for fueling purposes.
+
+18. Resist the temptation to refit and ogg or take full-time.  Every
+    team needs a scoutbomber.
+
+19. A scout has two modes; hover and break.  There is no reason for
+    a scout to be going any warps other than 0 (refuelling and
+    being nearly unnoticeable on the galactic), 4 (combat speed)
+    and 12 (general movement speed).  Don't waste your one
+    advantage by being timid or overly cautious.
+
+20. Rank is meaningless.  For the scoutbomber, there can be only
+    success or failure.
+
+That's all for today.
+
+rear ensign sunscreamer
+minister of education, HELL'S BAGELS

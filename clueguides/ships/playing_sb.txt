@@ -1,0 +1,323 @@
+			      PLAYING SB
+
+	     See also "starbases" for a collection of hints
+
+------------------------------
+
+Newsgroups: alt.games.xtrek
+Date: Sun, 26 Jan 1992 14:12:49 -0500 
+From: Craig Boas <cb39+@andrew.cmu.edu>
+Subject: Starbase Help File
+
+Hi All!
+
+  This is the file I posted last semester with the intent of fixing it
+and reposting... I consider it finished at this point, but if anyone has
+suggestions please send them.
+
+
+==============================================================================
+Balton's Guide to Playing a Starbase
+By Craig Boas, cb39@andrew.cmu.edu
+Thanks to Kevin Michael Bernatz kb32+@andrew.cmu.edu for editorial help
+
+
+  Starbases are unique among ships in netrek in that they always play a
+supporting role.  Starbases are prohibited from orbiting planets owned
+by other races, even friendly ones.  As a base, you should concentrate
+on making yourself an asset to your team by going to planets which are
+being contested and either clearing the way for your team's
+planet-takers or defending it from potential enemies.  Your other
+functions are to draw attention from ships with armies, carry armies to
+protect them from bombing, and give kills to your own team's planet
+takers.  However, if you are unable to hold a very aggressive position
+(ie close to the enemy home planet) don't throw the base away trying.
+
+  The first order of business, naturally, is survival.  If you are unable
+to live without a large escort, you are probably hurting more than
+helping your team.  Although your low speed makes you an easier target
+than most ships, that fact allows you to turn rather quickly, something
+you need to exploit if you are to survive.  Practicing dogfighting in a
+battleship at low warp is a good way to learn how to dodge at these
+speeds.  Nonetheless, when being attacked, you tend to get hit by more
+photon torpedoes than most other ships, and as such you should
+concentrate on eliminating enemies before they are able to whittle you
+down with occasional hits.  You should also learn how to use tractors
+and pressors to  help yourself and others avoid photon torpedoes.  A
+good base player can estimate how a nearby teammate will dodge and
+tractor or pressor appropriately to keep the player from being hit. 
+When in doubt do not help a teammate dodge as you may end up causing
+them to hit photon torpedoes they would have been able to escape.  It is
+best to use enemies as tractor/pressor points to help you dodge photon
+torpedoes since you don't mind if they take damage.   If all else fails,
+pressoring the ship that fired will give you extra room to dodge since
+you will be moving away from the offending ship more quickly.
+
+  Detonating enemy photon torpedoes is a trade-off between weapon
+temperature and damage.  Detonating causes all torpedoes in range to
+explode in place and damage you, but not nearly as severely as if they
+had hit.  On most servers detonating enemy photon torpedoes does *NOT*
+hurt your teammates, and as such is a valid way to keep ships docked on
+your base from taking damage.  It is much better for you to detonate
+photon torpedoes than to let the ship explode on you as a docked ship's
+explosion will inflict 100 points of damage, 75 if it's a scout.  In the
+event that you are faced with many photon torpedoes and a docked ship,
+pressoring the ship is often the optimal course since this gets both of
+you away from the photon torpedoes.  Detonating costs approximately 2
+weapon temperature per use.  Holding the detonate key down results in
+rapidly increasing weapon temperature, so tapping it several times when
+incoming photon torpedoes are in range (about one ship length away) is
+the best way to proceed.  You should always watch your weapon
+temperature closely when detonating photon torpedoes since detonation
+does increase it.
+
+  Occasionally, you will not be able to dodge all the photon torpedoes
+you wanted to.  In this case, try to minimize your damage as much as
+possible.  If you take a bad hit, move away soon.  Not only will this
+allow you more time to repair between attacks, it will also move you
+closer to your teammates.  Remember, you serve your team no purpose if
+you have to keep going to a repair planet.  It is important to remember
+that if you appear hurt, you will probably be comprehensively ogged.
+There are few things that will throw your enemies into a killing frenzy
+faster than someone yelling that your base is moving warp 1.
+Accordingly, if you are particularly unhurt (you took an ogg that
+*looked* ugly but not much damage) go warp 1 and move back to convince
+the enemy team you are on your last legs.  At the same time, inform your
+team that you are not that hurt so they don't waste time flocking to
+save you.  This tactic should only be employed in conjunction with a
+teammate who is going to take a heavily defended planet under cloak
+since it may well result in your demise if enough enemies join in the
+ogg.
+
+  If your weapon temperature exceeds 130, your weapons will almost
+certainly become inoperable for a number of seconds.  The exact time is
+random, and whether or not they actually overheat depends on how far
+over 130 you go, but it is to be avoided at almost all costs!  A
+starbase without weapons is a sitting duck for any enemies who decide to
+strike.  However, it is vital to remember that your cloaking device and
+your tractor/pressor beams are independent of weapons systems and can be
+used to buy time by hiding or pushing enemies away until your weapons
+reactivate.  To avoid overheating your weapons you must guide your
+attacking strategy by your current weapon temperature.  If you have
+little or no heat (approximately 35 or less), a plasma torpedo is an
+option, but only at a cloaked ship.  The reason for this is that others
+are likely to blow it up on top of you if they are close enough (your
+plasma torpedoes have the shortest range of any ship, though they do the
+most damage).  Your phasers are your most potent weapons, and this is
+due not only to their range and power, but also to the fact that you can
+fire them every 4 ticks rather than every 10 as with other ships  (a
+tick is approximately a tenth of a second).  this essentially makes your
+phasers do 2.5 times the damage, for a maximum of 300 points in the time
+it takes a battleship (the ship with the next best phasers) to do 105. 
+Considering that *no* ship has 300 shields will give you an idea of just
+how powerful your phasers are since you can kill even an assault ship in
+less than the time it takes for one of its phasers to disperse.  Of
+course these damage figures are for phasering at point blank range
+(something you will hopefully not do too often!) they should give you
+some idea of how dangerous they are.  The disadvantage to this is that
+each time you fire phasers you add 9.6 to your weapon temperature and
+only disperse this at .4 per click.  This is equivalent to firing just
+under 5 photon torpedoes.  In the short run, this is not a problem.  You
+can kill even an assault ship at moderate range without overheating, but
+if there are other enemies around, you should concentrate on using
+photon torpedoes.  photon torpedoes do not significantly heat up your
+weapons (only 2 per photon torpedo).  You should always fire them in
+preference to (or at least in concert with) another weapon.  Although
+your photon torpedoes are only average speed and do only moderate
+damage, your advantage lies in the fact that you get what amounts to an
+unlimited number of them because of the starbase's tremendous fuel
+reserves and fuel regeneration rate.  You should fire a cluster of them
+at cloakers to try and hit at least once, and then phaser the explosion
+to get a "phaser-lock".  This trick tends to allow you to do excellent
+phaser damage without overheating your weapons by missing with phasers.
+
+  Learning to use tractors and pressors is crucial.   Not only do they
+help you stay alive, but they are also the best way to kill enemies
+quickly.  You should learn how to judge the movements of tractored
+ships, and fire your photon torpedoes where they will be pulled to.  If
+an enemy is crippled and a teammate has fired upon him, using tractors
+or pressors to push or pull the enemy ship into the incoming photon
+torpedoes will prevent it from dodging and give your teammate a kill.  A
+good starbase player gives kills away at every opportunity since he
+doesn't need them.  This requires some judgment and experience to do
+well, and usually involves taking some damage, but is worthwhile if you
+can do it.  The standard method is to phaser and torpedo an enemy ship
+until it is about to explode, then pressor it towards a teammate, who
+can hit it last and blow it up while it fires at you.  This sort of
+behavior makes you a true asset to your team and a good player besides. 
+At the same time, if the situation is not favorable to this sort of
+maneuver, as it often is not in the presence of multiple oggers or a
+single cloaker, killing the enemy is an acceptable and necessary
+alternative.  Always pressor oggers that charge at you while uncloaked
+as soon as they are within range so they do not get close enough to
+inflict serious damage.  As a final note on tractors, you should tractor
+friendly ships coming towards you if you think they want to dock, and
+break tractors as their ship overlaps yours so you do not accidentally
+tractor them off of you after they dock.  This seemingly simple maneuver
+actually requires some practice to get right.  Friendly ships flashing
+shields and heading at you often are requesting a tractor beam to help
+them dock more quickly and are often hurt.
+
+  While playing a base the most important display to watch the galactic
+map.  You MUST do this even if enemies are currently on your screen.  If
+you don not, you will fall prey to oggers who attack when you are
+already engaged.  This is the main difference between an average base
+player, and a good base player. You should observe the "group" movements
+of the enemies.  If a large group seems to be headed your way, move back
+immediately.  If you are ogged from more than one direction, pressor one
+while moving away and kill the one(s) you are moving towards.  This will
+place you as far as possible from the point your enemies are converging
+upon.  In a well coordinated ogg, you will often have people coming in
+both cloaked and uncloaked.  In this case, it is imperative that you
+pressor the uncloaked ship as soon as it is in range.  Once you do that,
+you will be moving away from all oggers (at least from that direction)
+at a much greater speed.  You should then fire at the other ships first,
+since they are the most dangerous threat (the pressored ship will close
+very slowly).  If more than one enemy is uncloaked, you should kill the
+non-pressored uncloaked people as quickly as possible, changing targets
+only if the cloaked ships seem to be getting very close to you.  In
+cases like this, it is usually unwise to fire plasma torpedoes since
+they will probably get phasered on top of you.
+
+  In starbase to starbase combat, the base with more support usually
+wins.  If you see that your teammates are coming to help and you aren't
+too damaged, be aggressive, tractor the enemy base keep it from
+retreating without getting so close you get caught in its explosion.  In
+this type of combat, photon torpedoes are the weapon of choice.  Don't
+get so caught up in trying to hit him that you forget to dodge.  Fire
+your photon torpedoes and weave back and forth. It is often bad to
+detonate photon torpedoes, since you are increasing your weapon
+temperature and taking damage; in a starbase vs. starbase battle you
+will need all the weapon temperature you can get.  If you get close
+enough, you should consider phasering until your weapons get hot (but be
+careful not to overheat, 80-100 is about the highest you should go).  In
+starbase vs. starbase combat you should *never* fire a plasma torpedo. 
+With your opponent's exceptional phaser range and recharge speed, it is
+almost guaranteed to be phasered on top of you.  There are a couple of
+exceptions to this:  1)  You KNOW the enemy base has blown his weapons,
+or 2) He is currently very, very occupied with oggers.  You must also
+consider your weapon temperature vs. the extra damage from the plasma. 
+Finally, if the enemy base starts to tractor you, pressor him and and in
+the direction away from him.  If you forget to move in the opposite
+direction, he will still gain on you.  In the event that you believe you
+will lose the battle, tractor and move towards the enemy base and fire
+all weapons irrespective of weapon temperature since your weapons will
+not actually break until you stop firing.
+
+  Most of being a good starbase beyond just surviving is learning to be
+in the right place at the right time.  Be in the wrong place and at best
+hordes of enemies will converge on you and kill you. At worst you will
+drift off alone as all foes give you a wide berth since you are simply
+not doing anything except occupying one of your team's player slots. 
+You should almost always be in one of the following states: 1) Picking
+up armies (from front line planets) 2) Guarding a weak planet, 3)
+Supporting the front line, 4) Helping take an enemy planet 5) Repairing
+or 6) Drawing enemy fire.  At the same time, you should act as an army
+storehouse if you feel able to stay alive and there are armies on your
+side.  Hoarding armies is discussed below.  Guarding a weak planet is
+obvious, it takes time and coordination for your foes to have a prayer
+of taking a planet with an observant starbase there.  Supporting the
+front line involves sitting slightly behind it while tractoring hurt
+ships out of battle and acting as a roving refuel and repair point.  If
+your team has no fuel/repair planets on one side of your front, go to
+that side if you are not clearly needed elsewhere.
+
+  Getting around as a base isn't as simple as in other ships.  Although
+you can simply go somewhere, it's slow.  If you need to be somewhere
+fast, get a tow.  This involves getting a teammate or three to go where
+you want to be while you tag along with a tractor beam.  You should
+tractor at least one of the towers.  The towers should go warp 8 so that
+they do not break out of your tractor or get pulled back to your base. 
+Don't forget to lock on to the tower, so you don't have your movement is
+working with your tractors.  Watch your weapon temperature when
+employing this tactic to be certain that you do not overheat.  If you
+do, you will be restricted to warp one and will be without your
+tractor/pressor beams until they repair.
+
+  Unless you are under nearly constant fire or very damaged, repairing
+can be done in transit since you move slowly and repair quickly with
+shields down.  Drawing enemy fire is most effectively done by moving
+forwards and attracting attention when someone else on your team wants
+to enter enemy space unnoticed to bomb or take planets.  Carrying armies
+seems self-explanatory and it is for the most part.  You should carry
+armies to prevent them from being bombed and to keep them accessible (so
+planet takers do not have to fly around gathering them)  The only
+important thing to note here is that you should play a bit more
+defensively (ie: closer to your home planet) if you are carrying a
+significant proportion of your team's armies.  Also, you should
+periodically post to the team message board how many you are carrying so
+that your team will know if it's time to make a delivery of armies to
+you or if they can expect to be able to pick up armies at the base.
+
+  As your team's starbase, you will occasionally be called upon to deal
+with enemy robots.  Never use plasma on them as they will *always* blow
+it up on top of you.  Since you are only moving warp 2, it will be very
+difficult to dodge their photon torpedoes.  The best strategy is to
+tractor the hapless robot and quickly phaser it to death.  You will take
+damage, (200 points is about average for killing an uninjured robot
+without assistance once you get good at it) but it's quick.  In an
+otherwise even game, an enemy robot can easily unbalance a game if left
+alive.  If the robot is in as a base, you should run while pressoring
+him and keep firing photon torpedoes, which will cause him to veer off.
+
+  Inevitably you will be damaged, badly.  In this situation, start moving
+directly away from the enemy home planet (so oggers have to travel
+further to reach you) and send a distress call.  If you are alone and
+hurt badly enough to be unable to move faster than warp one, cloak until
+a friendly ship arrives on your screen since this sign of weakness will
+be seized upon by your enemies as a call to obliterate you.  Pressoring
+enemies (if any) is a quick way to get home since it both slows them
+down and speeds you up.  As soon as there is a friendly ship on your
+screen, tractor or pressor it as appropriate to speed your trip to the
+nearest repair planet, or your home planet if the damage is severe
+enough.  As a final note, do not abuse the distress call.  Use it only
+when badly hurt or you really need your team (such as when you are about
+to enter combat with the enemy base) or they will tend not to come when
+you really need them.
+t
+  A starbase is about the best cover any prospective planet taker could
+hope for.  If an enemy planet is contested and you are there as the
+starbase, you should destroy all hostile ships in the area.  If there
+are too many enemies, placing yourself between them and the planet works
+in conjunction with detonating photon torpedoes so that a teammate can
+slip in behind you and take the planet unmolested.
+
+  One final clue, split damage.  In most ships, taking internal (hull)
+damage has a detrimental effect on your ship's performance in terms of
+top speed.  However, since you don't suffer the effects of damage in a
+base until internal damage exceeds 400 points, you should attempt to
+take roughly one point of damage internally for every two points you
+take on your shields.  This is more important than some people realize
+because shields and hull repair simultaneously.  This technique
+substantially increases your repair rate leaving you more time to help
+your team.
+
+  Good luck!
+
+Notes:
+
+  Remember to enable docking with the "e" key.  This allows ships to lock
+on and dock at your base to repair, refuel, and pick up or beam down
+armies.  Your teammates will most likely get upset if you leave it
+deactivated.  You will know when it is enabled by searching for the "D"
+docking flag by your alerts.
+
+  To deal with the player who locks on and cloaks (eating your fuel the
+whole time), hit "e" twice (toggle docking permission off then on again)
+so all ships currently locked on break off.  If the person continues in
+this behavior, disable docking until he tires and tell your team about
+it.
+
+  Remapping tractors to an easily accessible key is desirable since you
+will be using it often.  Having it right next to pressors is also
+important since often when an enemy ship realizes it is doomed, it will
+turn around and try to ram.  You have to be quick to pressor or you will
+tend to take severe damage.  Having the detonate photon torpedoes key
+accessible is also useful since you will be doing a lot of detonating as
+a base.
+
+----------------------------------------------------------------------
+
+End of PLAYING SB
+*****************
+

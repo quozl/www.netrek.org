@@ -1,0 +1,151 @@
+From rec.games.netrek Thu Mar  5 10:12:09 1998
+Path: sci.kun.nl!sun4nl!bullseye.news.demon.net!demon!woodstock.news.demon.net!demon!news.idt.net!news-peer.gip.net!news.gsl.net!gip.net!news-peer.sprintlink.net!news-peer-east.sprintlink.net!news.sprintlink.net!Sprint!newsfeed.xcom.net!cam-news-hub1.bbnplanet.com!news.bbnplanet.com!prodigy.com!prodigy.com!not-for-mail
+From: Tony Chamberlain <tonyc@icarus.weber.edu>
+Newsgroups: rec.games.netrek
+Subject: Exercises to help in playing CA(long) Part II
+Date: Tue, 03 Mar 1998 18:22:52 -0700
+Organization: Prodigy Services Corp
+Message-ID: <34FCACEC.5152@icarus.weber.edu>
+Reply-To: tonyc@icarus.weber.edu
+NNTP-Posting-Host: port3.layt2.prodigy.net
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Post-Time: 4 Mar 1998 01:23:24 GMT
+X-Auth-User: 001888422/9374de7b238cbc55
+X-Problems-To: abuse@prodigy.com
+X-Mailer: Mozilla 3.03Gold (Win95; I)
+Lines: 201
+Xref: sci.kun.nl rec.games.netrek:62876
+
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+
+The second part of my CA exercises.  Please see part I or this will make no 
+sense :) 
+
+Section II:  General CA skills
+
+	Now that you can fight at least slightly better than the average player,
+you can then proceed to skills you will need to become a netrek player, rather
+than just another df'er. 
+
+Exercise 5:  Space control
+
+	This is probably by far the most important exercise and concept you will
+need to learn and understand.  Thus I rate it with the highest hours. If you 
+don't totally understand the reasoning, just do the exercise anyway and it will
+become apparant.
+
+Note :  You must play on a pickup server to achieve this exercise, preferably
+in a full 8 on 8 game.  Since you will at least be moderately helping the team,
+you shouldn't worry to much about taking up a slot.  A key to this exercise..
+as with all the others.. is to do it do the exclusion of all else. Don't 
+worry about bombing, taking, or running to save a planet.  Just do the exercise.
+
+	3 hrs:  First step,  find the dividing line between your planets and your
+opponents.  Now fly to just on their side of the border.  Your job now, is not
+to let ANYONE by you.  Use your dogfighting skills from earlier to kill everyone 
+trying to get past you.  If you get to your position and no one is near, slowly
+infiltrate and penetrate as far into their space as possible. Eventually, some
+one will notice you and try to kill you.  Your job now is to slowly give ground,
+will butt-torping and fighting them back to your original position. Hopefully,
+you will have killed them, as its easy to run than to chase.  If not..  again DO 
+NOT LET THEM past.  Mutual on them at this point of that's all you can do.  
+
+NOTE:  do not retreat to quickly during the "giving ground" phase.  do it about
+warp 4 or 5, and stopping every so often to df with them.. then start giving 
+ground again.  Do this constantly and a LOT until you really get a feel for it
+and I think you will come to understand why you should.. If not read the following
+section and start doing the exercise again. 
+
+	The reasoning behind this idea, is that if you don't let anyone in your 
+area, they can't take, they can't gas and be escorts FOR the taker, they can't ogg
+your carriers, they can't help the SC bomb.. in general they just can't do 
+anything that helps them win.  By penetrating you are taking ground (and in a real
+game you would be doing all the can'ts from above) then by slowly giving ground
+you are giving yourself and advantagde in dogfighting.. so when you kill them, you
+still have position to do all the above mentioned items.. and your IN THEIR SPACE.
+Don't concern yourself too much be the giving ground.. as all you are doing is 
+slowly giving up space you took, to gicve yourself a tactical advantdagde in 
+killing them.. However, remember.  if you are pushed to the front line..  STOP
+RETREATING, and kill, mutual whatever ;)
+
+Exercise 6: Escorting
+
+	Probably the primary thing you will be doing other than space control.
+
+	1 hr:  Pick some planet scummer, or convince someone on your team to take.
+Your job now is to make sure the person takes as many planets as possible in the
+shortest amount of time :)  This shouldn't be hard to do as ANYONE will welcome
+a constant escorter *grin*.  The basic goals of the escorter are to make sure the
+planet is clear when the escorter gets there.  This generally means killing anyone
+who is there, and once the planet is clear.. sitting about 3 shiplengths from the
+planet between the taker and the incoming oggers.  Use the DET key extensively.  
+You WILL DIE a lot, its ok, ships are cheap.
+
+	As you gain proficiency in this, try helping the carriers who are being 
+ogged.  Use your ship as a pick.  Get between the ogger and where he wants to be.
+Not necessarily directly between him and the carrier.  Basically try to visualize
+where his "ogging lane" is and step into it. 
+
+	Note: Here are some basic no-nos to avoid.  Don't fire to many torps once
+you've basically cleared the planet.  Use phasers.  they will not only hit the
+cloaked guys, but will save your fuel for dets.  DO NOT FIRE over the taker at
+cloaked oggers.  wait for them to decloak and tractor/phaser them. their is  a 
+significant lag between decloaking and actually being able to fire.  do escort
+too close to the planet.. move out a bit, so when you do blow up those oggers, it
+doesn't hurt the taker.  
+
+Exercise 7:  Galactic awareness
+
+	Probably the hardest exercise to learn, and one you will probably need
+to come back to more than any other (I still constantly have to pracxtice this
+one ).  
+
+	2 hr:  Your job is to fly around and do whatever you feel like doing, with
+1 big exception.  YOU MUST call every pickup of the enemy.  If an enemy takes a 
+planet and you didn't call the pickup, count it against yourself.  Keep at his
+until your are only missing 3 or 4 an hour.  If you become extremely proficient at
+this, try not only calling, but becoming a "free safety".  Fly right behind
+your front line, targetting EVERY possible taker.  If they attempt to cross the
+line, mutual/ogg them.  Be at every enemy attempt at a planet take.. oh yeah.. you
+still have to call EVERY pickup and keep it to less than 4 misses an hour :)
+
+Exercise 8:  Taking
+
+	This final exercise i hesitate to include, for fear of misunderstaning.
+But, if you get the gist of it, you will be much more effective in a game.
+
+	1 hr:  You goal here is not to become the main planet taker of a game. 
+That is beyond the scope of what these exercises will provide.  However, limited
+taking in certain situations is everyone's responsibility.  Try this for just
+1 hour.  Every time you get a kill, you must pick up if possible, and drop the
+armies UNESCORTED on a planet.  If someone decides to escort you that's ok, but
+you may not CALL for escort.  Also, if there is only 1 ship between you and your
+destination you must kill him and still drop.
+
+	This exercise will help for 2 reasons:
+
+	a)  For some reason, when people can out dogfight many others, they
+become extremely conservative while carrying.  In fact in a 1-1 situation, they 
+will turn tail with armies, even when they normally defeat the opp. 90% of the 
+time.
+
+	b) In many situation in the game, it is important for your 1 kill CA to
+pickup from the front line and quickly drop on the enemy front line. This will
+usually involve and unescorted drop.. with possible dfing in between.
+NOTE:  This should be used sparingly in a real game.  For example, in the recent
+past in clue and INL games, I have had a 100% PAD with about 8 TAC  ( basically
+that means in a 90 minute perioud i picked up and successfully dropped 8 armies, 
+with no dooshes.)  While this is nowhere near a main planet taker.. 4 guys on
+a team doing this helps a lot.
+
+
+Well, I hope this exercises help, they certainly help me :).  However, they are
+nowhere near a complete course on becoming a "clued" player.. for that you have 
+to go to a real player and ask him :)  
+
+Tony
+drwhat aka Revenge
+
+

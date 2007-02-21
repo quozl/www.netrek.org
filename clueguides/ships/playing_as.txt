@@ -1,0 +1,283 @@
+			      PLAYING AS
+
+----------------------------------------------------------------------
+
+Newsgroups: alt.games.xtrek
+Date: Sat,  7 Mar 92 16:32:47 -0500 
+From: Todd Andrew Williamson <tw0i+@andrew.cmu.edu>
+Subject: AS players guide
+
+Here's my guide to playing an assault ship.  I don't consider myself
+to be a great AS player, but it *is* my favorite ship type.  What I'm
+posting here is just the basics.  Bert (Red Shirt) will probably post
+his more advanced stuff pretty soon.
+
+-- Araman
+
+==================================
+Assault Ship (AS) Play
+
+SHIP SPECIFICATIONS:
+
+Internal damage/shields: 200/80
+Maximum warp speed: 8 
+Torpedo Speed: 16
+Maximum fuel: 6000
+Fuel threshold speed (with/without shields): 6/5
+Torpedo damage/fuel: 30/270
+Plasmas damage/fuel: N/A
+Phaser damage/fuel: Poor (80 max damage)
+Maximum armies: 20 
+Bombing: Excellent 
+Cloaking: Excellent
+Manuverabilty: Poor/Fair 
+Tractor/Pressor strength: Poor/Fair
+
+BATTLE TACTICS:
+ 
+Assault ships have wimpy phasers and very little fuel, which makes them
+pretty bad at dogfighting.  You get maybe 3 torp spreads, and you're out
+of fuel.  The good news is that they have the fastest torps available
+(along with the scout), which makes it easier to hit with the torps you
+do fire.  In order to kill someone, you're going to have to rely on your
+torps, since you won't be able to kill anything with your phasers alone.
+The huge hull means you can take a lot of damage and still get away, but
+the slow speed and poor manuverability sometimes make that difficult.
+Tractor beams are not often useful, as they are extremely weak, but
+don't forget that you have them, since there are some occasions when
+they may be necessary.
+
+Assault are ships bad at ogging, too.  To ogg effectively, you really
+need both good tractors and good phasers.  An exception to this is for
+starbase oggs, where the large hull means you can survive more phaser
+bursts (and thus get closer to the starbase so that your explosion does
+more damage), and more of your faster torps will hit the slow-moving
+starbase.
+
+I find myself going at a variety of speeds in AS.  Battle speed moves
+between 4/5/6.  AS have pretty fair acceleration, and poor
+manuverability, so moving between speeds to dodge is a bonus.
+
+vs. BB/CA
+
+These ships manuver poorly enough that you might be able to kill them,
+especially if they're inexperienced.  Stay out of tractor range, and try
+to get them moving at warp 6 or more so that they can't dodge.  Then
+pelt them with a stream of torps.  They may just suck them all.
+
+vd. DD/SC
+
+These ships are too manuverable to hit with torps consistently, and are
+very hard to kill with an AS.  You'll have to guess which way they're
+going to dodge, and have your torps waiting for them.  Even so, you may
+run out of fuel before you've damaged them significantly.
+
+PLANET TAKING
+
+Which brings me to the main purpose of the Assault Ship: taking planets.
+Where taking planets is concerned, the Assault ship is King.  The
+extremely low cost of cloaking, the low cost of going max warp, the high
+engine temperature threshold, the huge hull, and the superior bombing
+ability all combine to make the AS the ship of choice for planet-takers
+(which is not to say that it is appropriate in all planet-taking
+situations; sometimes the maunverability and speed of a DD or SC makes
+it preferable).  For example, the AS can go warp 8, cloaked, with
+shields down from Earth almost to Draconis before it runs out of fuel.
+It can stay cloaked and go warp 1 without losing fuel.
+
+The assault ship is the best ship for bombing.  It is much more likely
+to bomb a planet to 1 or 2 armies than the other ship-types, so it
+should be used for bombing whenever your team is in a low-army
+situation.
+
+There are other guides to planet-taking that say more than I could
+possibly come up with, so I'll limit myself to a few points.  When
+approaching a defended planet (presumably at warp 8 cloaked; the only
+time you shouldn't be doing warp 8 in an AS is when you're dodging,
+repairing, or dead), slow down to around warp 5 and begin to dodge.
+It's good to det torps a little bit, so that they don't know your exact
+location, but you have to be careful, since detting costs a lot of fuel,
+which is a scarce commodity.  If you're orbitting a planet and you're
+going to get hit, don't just sit there like a lump.  Raise your shields
+(don't bother if they're already gone...) and det the stream at max
+range, then resume bombing or beaming.
+
+Assault ship pilots are often accused of being runner scum.  That's
+because ogger scum like to hunt us down and kill us, and they're often
+successful.  If you're going to be ogged, your best shot is to run away
+and fire torps out the back.  The combination of your fast torps and the
+fact that they're moving so fast that they can't dodge makes it possible
+to damage them heavily.  Cloaking is also an option.  If you have a
+kill, you should be constantly looking at the galactic map for those
+incoming ??.  Chances are there's sombody coming for you.  Remember that
+the ogger is not afraid of dying, as long as he can do damage to you.
+An ogger's ship is worthless to him, and since you already have a kill,
+he doesn't lose anything by giving you another.  This is why you should
+run away.  If he can cripple you, he'll be back to finish you off in his
+bright, shiny new CA (or even SC) before you get a chance to repair.
+
+Of course, having escorts helps.  Let your escorts det the torps for you
+while you're beaming down armies; you're much more effective this way.
+If you die, but take the planet, that's cool.
+
+-- Araman
+
+------------------------------
+
+Newsgroups: alt.games.xtrek
+From: hde+@CS.CMU.EDU (Herbert Enderton)
+Subject: tips on playing assault ships
+Date: Sat, 07 Mar 92 22:46:56 GMT
+
+I'm not a great assault ship either, but I like spouting off, so here
+is some more advice on playing the assault ship.  Take it or leave it.
+
+Tips for playing the assault ship
+=================================
+
+Conserve your fuel; don't fire until you're pretty sure that you will
+hit.  For example if you're being ogged, one good strategy is to wait or
+run until the moment when the ogger uncloaks behind you, then blow him
+away before he gets a chance to fire.  The warp 16 torps are very good
+for this.  A reasonable rule of thumb is to fire when you get tractored,
+not before.  Try to stay near fuel planets, because you're sure to be
+low on fuel after every fight.  If someone attacks you when you have
+less than half a tank of fuel, you're probably not going to be able to
+kill him, so if you need to live, cloak, dodge, det where necessary, and
+pray that he doesn't get a phaser lock on you.  Or else run towards a
+friend.
+
+When planet-taking or bombing, save your last 1000 units of fuel for
+staying cloaked when getting to the planet and for detting (which costs
+100 fuel every time you hit the key).  Learn how early you can afford to
+cloak when going for a planet.  Remember that if you cloak when it's
+condition green, they can't even see the ?? on the galactic map.
+
+If you can get to the planet before an enemy gets within phaser range of
+it, you can guarantee yourself a few seconds on the planet by detting
+all torps.  It takes 800 points worth of torps to kill you, if you just
+keep bombing or beaming down your armies while detting at the maximum
+range.  Stay cloaked, of course, so you don't get tractored off the
+planet.  Detting also has the advantage that it hides your exact
+position.  The assault ship is by far the best choice for trying to take
+the last planet, because it can take so much punishment while beaming
+down armies.
+
+Look for planets with exactly 5 armies.  You can destroy or take these
+with a one-kill assault ship carrying 3 armies.  Planets with 6 armies
+are annoying, because the assault ship's bombing advantage is nullified.
+
+Always send one distress call when you pick up armies, to inform your
+team.  Also call out the planet you intend to try for, but be flexible
+if it's not going to work.  Your teammates won't necessarily escort you,
+but at least they'll have some idea what you're doing, and even the
+greedy ones might use the opportunity to scum a kill off someone ogging
+you, or to attack a planet elsewhere while you get clobbered.  This
+advice applies to all ships, of course.  Two distress calls means you're
+in trouble, e.g. you're low on fuel and Val Ckurai is coming to kill
+you.
+
+Assault ships are great for playing the "machine gun": orbiting a fuel
+planet and firing at anybody in range, while detting (at maximum range)
+any torps that might hit you.  The assault ships torpedos have the
+longest range of all; they go off the screen and then some.  On the
+offensive side of a last planet stand (or a last-two-planet stand), it's
+great fun to be an assault ship machine gun at a fuel planet within
+range of the target planet.  For example last night we had the Feds down
+to Earth and Vega, so I flew down to Altair and fired continuously from
+there towards Earth.  This was sufficient to pick up an easy kill or
+two, and also drew their attention away from our cloakers -- it's hard
+to watch the galactic map while you're dodging torpedos.  Of course
+eventually they would come after me and usually kill me, but that's the
+idea in an assault ship: force them to attack you, then run away.  Other
+things the machine gun is good for include defending one planet against
+multiple cloakers, breaking up a starbase-og wave, and in general taking
+pot-shots.  Try to avoid overheating your weapons though.
+
+When the enemy has many planets with many armies on each one, the
+assault ship is the only reasonable choice.  For example if you're a
+Romulan, and you just genocided the Feds and now have to face the
+Klingons, your side will have 20 planets with typically about 15 armies
+on each one, and the Klingons will have 10 planets with an average of 35
+armies on each one, and 55 on the agris.  In this case to play anything
+but an assault ship and to do anything but bomb would be very foolish.
+Some people complain that they always get killed in assault ships, in
+such situations.  This may be true, but it's not because assault ships
+are easy to kill; they're not.  It's because an assault ship poses a
+much bigger threat to the Klingons than anything else, so the good
+players will concentrate on killing the assault ships.  So the obvious
+Romulan strategy is to take 8 assault ships into Klingon space at the
+same time, and some of them will get through to flatten some planets.
+In situations like this it is important not to try to fight the enemies;
+if you spend 40 seconds getting to Castor, smash into a Klingon and you
+both die, that only helps the Klingon defense.  Instead just fire a few
+torpedos, if you like, to give them something to think about, then
+cloak, dodge and det on your way to one of their planets.  Fuel planets
+tend to be harder to bomb this way, because a clueful defender will
+orbit the planet in order to shoot at you without running out of fuel.
+The usual strategy for the Klingons in this situation is to send a few
+AS bombers, but keep the starbase and some good cruisers back to kill
+bombers, and when some of these cruisers get a few kills they refit to
+assault ships, load up with as many as 20 armies each, and go take the
+Fed quadrant.
+
+Assault ships make excellent decoys because they look like
+planet-takers, they can stay cloaked for a long time, and they can
+detonate a lot of torps without dying.  The role of a decoy is to draw
+attention away from the real planet-taker, and to use up the enemy's
+fuel.  So if your friend up at Canopus says she wants to take Earth, you
+fly past Earth cloaked (all cloakers look alike, they won't know you
+don't even have a kill, let alone armies) and make like you're going to
+attack Vega.  With luck some of them will come charging after you,
+leaving Earth open.  Then the idea is to stay alive, cloaked, looking
+threatening, for as long as possible.  So don't go straight into Vega if
+that will get you killed; dodge torpedos and pretend you're Mr. Wizard,
+as if you're just going to wait for them to use up their fuel and then
+take the planet under their noses.  This is where cloaking in repair
+mode can be handy.  Run away in earnest if they get a phaser-lock on
+you.  If for some reason they don't come after you, then uncloak.  It's
+also sometimes useful to decoy/escort to the same planet that the real
+taker is going for; in this case be sure not to blow up on your friend,
+and be doubly sure to detonate all torpedos that will hit either one of
+you, especially when she is orbiting the planet.  Don't go in too far
+ahead of her, lest you draw extra defenders and die before it's time to
+usefully detonate their torps.  One good trick is to overlap with your
+planet-taker as you approach, then you both cloak and split up, so they
+can't possibly know who is who.  Uncloaking and blowing people up is
+always an option, of course.
+
+If you're getting ogged by some of their best players, consider simply
+runing to neutral space, and keep running as far as they want to chase
+you.  The assault ship can go practically forever at warp 8 without
+running out of fuel or burning out its engines; in the long run even a
+destroyer will have trouble keeping up.  If you're running away from
+them you should be able to easily dodge all of their torpedos, so you
+really shouldn't die.  Be content to waste their time.  Your teammates
+should take advantage of the opportunity to attack their planets while
+you're distracting the oggers.  Eventually they'll get tired of trying
+to kill you, and then you can sneak back and actually try to take a
+planet.  When you're sneaking around in neutral space, be aware of the
+rules about when you are hidden on the galactic and when you aren't.  If
+you're one third galaxy width away from all enemies, stay uncloaked,
+because you can't be seen anyway (unless you orbit a planet you don't
+own).
+
+As with any big slow ship, you can't go around picking your fights.  If
+you're within range of a planet that their scout is approaching to bomb,
+fire some torps at the planet, maybe you'll get lucky.  But don't go
+chasing him if he veers off!  In general, if you want a fight, attack
+their planets, and thereby force them to attack you.  A multiple-kill
+assault ship can actually be a surprisingly good ogger, because the
+target will often charge at you, which is much better than you having to
+charge at it.  And when you can achieve surprise, those fast torps can
+kill him before he has time to react.  Play in such a way that you are
+content no matter what the enemy does; if he leaves you alone you bomb
+his planets, and if he attacks you, you kill him.
+
+ -- Red Shirt
+
+------------------------------
+
+End of PLAYING AS
+*****************
+

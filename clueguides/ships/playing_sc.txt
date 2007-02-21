@@ -1,0 +1,390 @@
+			       PLAYING SC
+
+----------------------------------------------------------------------
+
+Newsgroups: alt.games.xtrek
+From: hde+@CS.CMU.EDU (Herbert Enderton)
+Subject: playing scouts
+Date: Tue, 29 Oct 91 02:04:16 GMT
+
+This is supposed to be along the lines of the excellent guides to BB
+and CA play that Tom and Andrew posted, but I haven't formatted the
+sections in the same way.  Some of this stuff more properly belongs in
+chapters on bombing and on taking planets when you only have one kill.
+
+Scouts fly warp 12, and accelerate and turn extremely well, so they can
+be very hard to catch and kill.  A good scout pilot can stay out of
+tractor and phaser range of the big ships and dodge all the torpedos
+thrown his direction.  This makes them ideal for bombing lightly-
+populated planets that are deep in enemy space.  A scout bomber need
+not feel obliged to engage or even shoot at enemy ships; his job is to
+race to the undefended planets that need to be bombed before any enemy
+can get there.  If the planet has 24 or more armies, the scout will
+usually die from planetary fire while bombing it; that's okay, bomb
+anyway.  Be sure to raise your shields just as you enter orbit, and to
+raise them again as soon as you finish bombing, to minimize damage from
+the planet.  If a defender comes to kill you while you're bombing a
+planet, you can sometimes keep bombing if you cloak (to avoid being
+tractored) and prepare to zoom away the moment he shoots torpedos that
+will hit.  Often the defender is a ship with kills and maybe carrying
+armies, who is distressed that you're bombing the armies he wants to
+pick up.  In this case a good option, if you have enough fuel, is to
+cloak, pretend to continue bombing, dodge, uncloak and kill him.  If
+he's moving at high speed towards the planet in his effort to save its
+armies, he becomes an easy target.  On average a scout bombs 1.6 armies
+per second (just like the other non-assault ships), so it's usually not
+worth trying to bomb a defended planet when you know you'll be
+instantly killed.  It's better just to stay alive in enemy space, in
+position to quickly strike at any of several planets.
+
+Bombing isn't the only thing a scout can do.  All ships are pretty
+similar in their abilities; don't be afraid to do something just
+because you'd rather have a different ship to do it with.  A scout's
+speed makes it good for defending planets.  If there's an enemy assault
+ship threatening to take a planet, the scout is often the only ship
+that can get there in time.  Then the problem is killing the assault
+ship.  Scout torpedos go warp 16 and do 25 points of damage each.
+Scout phasers do 75 points at close range.  An assault ship can barely
+live by detting your entire tankful of torpedos, unless you get in
+close and use phasers too.  To kill a large uncloaked ship, one idea is
+to stay at a safe distance and spray torpedos, and the other idea is to
+zoom in to close range and hope for mutual destruction.  Firing from a
+distance usually drains the scout's small fuel tank too soon.  I like
+to get a few hits in from a distance and then close in.  One on one, a
+scout is unlikely to win an honest dogfight against any of the other
+ships, but it is fast enough and slippery enough that it can get behind
+enemy lines and attack ships as they retreat.  Many players will charge
+headlong at scouts, especially scouts that are threatening to bomb, so
+you can get a kill from someone like that easily enough.  I'll usually
+either run away from an enemy or charge right into him.
+
+With a kill, you can start dropping armies two at a time on enemy
+planets.  If the planet starts at five armies you have a 20% chance of
+bombing it to two, and can then destroy it with your two armies.  If it
+has more than five, your chances drop to 12%, but you still have a 40%
+chance of reducing it to three or fewer, in which case you can often
+take it with two trips.  Planets that the enemy just took often have
+only one army.  If your team is ahead, bomb everything you can, and
+drop armies as often as you can.  (If your team is behind, you only
+want to drop armies when you can actually take a planet.)  When you
+reduce a planet to zero or one armies, they will start worrying about
+it.  If there's a ship guarding a planet, you have some chance of
+taking it anyway by cloaking and dodging, but it's sometimes smarter to
+start whittling away on a different planet.  Don't try to take
+agricultural planets in multiple trips; an agricultural planet with
+less than four armies will gain at least one army every 40 seconds.
+
+Some things that you seldom need to think about when playing a scout:
+detonating other's torps, aborting your own torps, tractoring,
+pressoring, and to some extent phasering.  They're all useful in
+various situations, but not as essential as they are to other ship
+classes.  The exception is when dogfighting another scout; these can be
+treated just like cruiser-cruiser battle except at closer range and
+much higher speed.  You never need to think about getting a second
+kill, or finding more than two armies.  Your ship is expendable,
+although you don't want to give away kills.
+
+The only three speeds I use are 4, 8, and 12, but maybe that's just me.
+Warp 8 is good when you're completely out of fuel.
+
+Two scouts working together can have a lot of fun.
+
+	-- Red Shirt
+
+------------------------------
+
+Rereading my old guide to playing scouts, I see that there's some good advice
+I left out.  So here's some more stuff to add to that file.  -- Red Shirt
+
+The scout's main advantage is that it can go warp 12.  Use it!  If you're
+going warp 12 and see that you're going to run into some torps, you have two
+options:  decelerate to let the torps pass in front of you, or detonate them
+so they won't hurt so much.  Note that decelerating doesn't help if you're
+going straight in the direction the torps are coming from.  So if you're
+charging up to a nearly-stationary enemy, aim your ship at a point off to the
+side of him.
+
+There are two popular philosophies on scout bombing.  One is that you should
+be willing to die for the chance of eliminating one army.  The other is that
+you should stay alive in enemy space, running away from enemies, in the hopes
+that you will either waste their time or get a chance to bomb undefended
+armies.  I lean towards the latter philosophy.  The worst thing you can do as
+a scout bomber is to give away an easy kill to someone who doesn't already
+have one, right next to a planet where they can pick up armies.
+
+Setting your galactic map to show resources is a must.  As a bomber you need
+to notice when and where the armies pop instantly, and race to get there
+ahead of any enemy.  All the planets in the galaxy have their chance to pop
+every 40 seconds.  Often two or more of their planets will pop at the same
+time, so info each one to see which has more armies.  With more than one
+planet to attack, you can have some fun by feinting this way and that.
+
+Even if your nominal role is as a deep bomber, when you die there are many
+useful things you can do on your way back into enemy space.  You can
+intercept enemy bombers, counter-og (i.e. smash into an enemy who's ogging
+one of your teammates), help clear a planet, help kill an enemy planet-taker,
+or serve a decoy by cloaking and pretending to be a planet-taker.  All the
+while you can still be moving quickly towards the enemy planets.
+
+The scout is good for ogging because it can catch up with any other ship.
+The usual result is that you hurt but don't kill the target, so you want
+another scout to finish him off.  If you're working together with somebody to
+kill a particular carrier, be sure that you stay on opposite sides of the
+target, and never overlap.  Your job will be to keep him from running one
+way, and it's up to your partner to keep him from running the other way.
+Often when scout-ogging you end up out of fuel, but still alive near the
+target (e.g. if he cloaks).  In this case get on top of the target, and hope
+to use your explosion to kill him.  If his teammates are so kind as to fire
+torpedos at you, these will hurt him too, especially if you can detonate them
+on top of him.
+
+The scout is a good choice for planet-taking when the main obstacle is one or
+two fearsome oggers.  In a scout you can go around them, while in any other
+ship you'd need good escort.
+
+When you're in enemy space you don't want to be fighting enemies, because
+you'll run out of fuel and get crippled.  When an enemy is chasing you,
+use torpedos not to kill him but just to force him to slow down.
+
+------------------------------
+
+From: "Joseph E. Beck" <jb8n+@andrew.cmu.edu>
+Newsgroups: rec.games.netrek
+Subject: Re: Any SC users out there?
+Date: Fri, 16 Apr 1993 01:23:57 -0400
+
+This is "kind of" lengthy, and to a large extent is my trying to get
+some feedback on my SC bombing strategies.  But I think they're pretty
+good.
+
+(Abbreviated version is at the end)
+
+Client selection:
+
+Use a client with arfmoo bitmaps (they're the ones with dotted circles
+for planets with no armies, and solid circles for planets with
+armies).  It makes identifying when armies was picked up *much*
+easier.  Arfmoo bitmaps are in the Berkeley client, and Rick's moo (I
+prefer Rick's moo, but either will do nicely).
+
+(If you need details on how to get these, send mail)
+
+
+Getting into position:
+
+Find out where the friendly fuel is.  Touch the 3rd space planets that
+border the enemy, and if any of them are fuel, note that fact.  Warp
+12ing into enemy space drains a fair amount of fuel.
+
+To find out where to sit, look at where the enemy AGRIs are.  Find a
+position the puts you closest to their AGRIs (you may want to ignore
+front line planets in this calculation).  Do not select a point to
+close to their home planet, since you don't want ships entering the
+game anywhere near you.  Also, being behind the area where their ships
+come in helps, since most people maxwarp off to the front.  Given
+these constraints (AGRI location, not near their home planet and
+preferably behind it) find a good place to sit. 
+
+
+Getting chased:
+
+If they're in a CA, run away at warp 9.  They can either chase you and
+burn their engines and all of their fuel, or give up.  If they give up
+return to their space immediately.  Most people are not persistent
+enough to keep chasing.  A CA has to have a couple thousand fuel to
+kill a SC, so if it chases you for too long it can't kill you even if
+you get close enough.  Try to judge when this time has passed, and
+turn around and blow past (not too close, obviously).  
+
+If they are in a DD, I usually stay in their backfield and fly around
+at warp 8.  The DD doesn't have the tractor strength to pose a serious
+danger to the SC, if you have a lot of fuel (more than 3000) and feel
+threatened, shoot a torp spread at him (2 to 4) to keep him away.   If
+you have less fuel, move away, if the DD wants to chase at warp 9 or
+10 accelerate and match its speed.
+
+If they are chasing in a SC, and are better than you, you have little
+choice than to move away.  You then have 2 options:
+	You're willing to scum a kill and planet scum, so you run away
+	and runner scum the anti bomber.  Start taking planets.  This
+	is very difficult if they're much better than you.
+
+	You want to bomb, move away and try to cripple them (5 or 6 SC
+	torps do the trick) and then go back to bombing since they 
+	cannot chase.  If they do not chase sit on the edge of their
+	space and try to work back into position.
+
+	(both of these strategies work on DD's also, if you have to
+	run from them)
+
+
+If they are in a SC and aren't as good as you, you can follow a
+strategy similar to the one for dealing with DD's.
+
+In general, if you really want to bomb, you don't want to kill the
+anti bomber unless your goal is immediate (he is sitting on the planet
+with armies, and can't bomb it unless he dies).  
+	
+
+Avoiding being chased:
+
+If you're on someone's tactical and you're uncloaked, expect to be
+chased.  So, obviously you want to avoid this.  Even good players tend
+to pay SC bombers little regard if they're far enough away.  So when
+you pick your position (see above) try to make sure that you're not
+sitting where they're coming in.  Also, when bombing core planets you
+should *always* go in cloaked.  Ok, always is too strong of a word,
+but until you get pretty good, I'd strongly advise this.  The reason
+is that having an enemy pop in right next to you when you're bombing
+really sucks, and if you're uncloaked he'll tractor you off the
+planet.  
+
+So I advise staying cloaked while you're bombing on someone's
+tactical, unless you don't mind being chased.  
+
+
+Where to bomb:
+
+Bombing the front line is really harsh on SC bombers, there is a lot
+of firepower flying around, and is not a good place for fragile ships
+to try to bomb.  If at all possible, try to talk the CA players at the
+front into bombing the front line for you, this lets you concentrate
+on core and the side planets.  
+
+
+When to bomb:
+
+Ok, so you're in position, now do you go for the armies that just
+popped?  Look at your fuel, if it's too low, try to find the friendly
+fuel planet (see above), or sit at warp 0 and wait.  Going for planets
+behind the home planet uncloaked isn't too bad, but going for ones in
+front of it doesn't usually work.
+
+If the enemy SB is "running" towards a pop and you think you can get
+the armies but will die:  go for it.  A lot of people think the
+opposite way, but what is the SB going to do with the kill?  I'm more
+likely to make a lemming run against an SB than against a ryche CA
+(hell, or even an Exodus CA :-).  
+
+
+Trading kill for armies:
+
+There are 2 schools of thought here, some people will bomb very
+passively, giving away few kills, but backing away from armies that
+are uncontested.  Others give away a lot of kills to get the armies.
+The "right" answer hasn't been decided yet, and this is an open
+question.  
+
+
+Planet approach:
+
+If you're going for a contested planet, don't go straight in.  Anyone
+clueful enough to stop your approach will probably slaughter you.
+Instead decel to warp 4, and dodge.  Neat trick:
+
+	.   .   .     .   .    .         <--------- (torp spread)
+ 
+    *
+    ^you
+
+Hit det, and det the single torp.  The opponent will probably start
+phasering and torping very rapidly at that location.  Immediately go
+for the planet (accelerate to get their rapidly) and go for the bomb.
+Or, after he's shot 8 torps at the planet go in and bomb (not many
+players will det the torps quickly enough, if they det at all).  Oh,
+and keep your shields up during the approach; that way if you get
+phaser locked you still have a chance.
+
+
+Bombing the planet:
+
+Ok, you're getting close to the enemy planet (cloaked hopefully) and a
+CA is rushing over to scum the kill.  At this point, if you back out
+you'll probably give a kill away anyway, so bomb.  Go to the planet
+and begin bombing ASAP, if the CA fires a torp stream:
+
+	-wait until it is at max det range (LEARN max det range, it is 
+	 your friend), 
+	-raise shields
+	-det
+	-begin bombing again immediately
+
+This buys you a few extra seconds.  It's important to learn when to
+raise shields to suck torps while bombing.  
+	
+
+Basic tips:
+
+Fly around with shields down, this saves fuel (important, since you
+have a small fuel tank) and allows you to regenerate damage to your
+hull (also important since a few bombs can drastically lower your top
+speed).  
+
+Keep your eyes clued on the galactic, and keep a good eye on your
+personal message board, and glance at the team board occasionally (not
+that often, it is low priority).  I know some people think you should
+keep your eyes glued on the team board, but you can only keep so much
+stuff well attended, *someone* on the team should be watching the
+enemies well.  Basically, you can have intricate knowledge about what
+your opponents are doing, or know exactly what your team is doing, but
+not both (anyone who claims you can have intricate knowledge of both
+has lower standards of intricate knowledge).
+
+Basically, unless your team is cracking their core, looking at the
+team message board isn't terribly useful.  If someone distresses,
+you're not in a good ship to crash a planet, nor should you leave your
+position to do so (except in very rare circumstances).  Since most
+team board traffic has to do with this, it is of low priority.  If you
+see a planet name, see if you are near it, and if so help out.  
+
+
+OTHER PEOPLE:
+	-Nice ways to be friendly to your SC bombers are to call
+	 out any planet name in CAPS, so it can easily be detected.
+	-And if you're expecting help from the SC bomber, send them
+	 a personal message.
+
+
+Some of the advantages of knowing what the enemy is doing is that you
+get to write a lot of messages to the team board.   If an enemy picks
+up, tell your team immediately.  It's polite if you tell them where
+the opponent is picking up from eg. "a++ @tau".  
+
+
+Ok, here's the quick reference version:
+
+1.  Quickly learn opponent quality
+	Figure out which people will tractor-phaser slaughter, and 
+	which ones rely on torps
+
+2.  Find a good place to hang out
+	balance AGRI location with staying away from where opponents
+	enter
+
+3.  Keep your eyes glued on the galactic, paying pretty good attention
+    to your personal message area, and an occasional glance at the
+    team board.
+
+4.  When bombing, if you're going to get hit, raise shields and det
+    the torps while they're at max det range.
+
+5.  Run from CA's, play with DD's.  SC's require extra work.
+
+6.  Periodically, visit a friendly 3rd race fuel planet if one exists
+
+7.  Use a client with arfmoo bitmaps
+
+8.  Cloak while bombing core planets (or approaching core planets)
+
+
+I'm really interested from feedback from good SC bombers about this
+post.  What do you do differently?
+
+	joe
+	Lamb, Leg Of
+
+------------------------------
+
+End of PLAYING SC
+*****************
+

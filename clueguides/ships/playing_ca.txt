@@ -1,0 +1,180 @@
+			      PLAYING CA
+
+----------------------------------------------------------------------
+
+Newsgroups: alt.games.xtrek
+Date: Fri, 18 Oct 1991 19:27:28 -0400 
+From: John Andrew Markiel <jm79+@andrew.cmu.edu>
+Subject: Re: First installment of Xtrek Player's Guide
+
+Very interesting...I'll follow up with a description of my favorite
+ship, the cruiser.
+
+
+- cut here-
+
+Cruiser (CA) Play
+
+SHIP SPECIFICATIONS:
+
+Internal damage/shields: 100/100
+Maximum warp speed: 9
+Maximum fuel: 10000 
+Fuel threshold speed (with/without shields): 5/6
+Torpedo damage/fuel: 40/? 
+Plasma damage/fuel: 100/? 
+Phaser damage/fuel: Good (90-100  max)/? 
+Maximum armies: 10
+Bombing: Good 
+Cloaking: Fair-Good
+Manuverabilty: Fair 
+Tractor/Pressor strength: Good
+
+BATTLE TACTICS
+
+General:
+
+Cruisers in general are a very strong ship, although they have to be
+more subtle than a BB. Their big advantage is that they have vast oceans
+of fuel; in a sense they actually have more fuel than a BB, because the
+BB's weapons use more fuel per fire, and the BB regenerates fuel slower.
+and doesn't cloak as well. The big disadvantage to a cruiser is that
+it's torps are as slow as BB torps (warp 12, and do the same damage as
+BB torps), but the CA doesn't have the huge phasers of the BB, so it can
+be difficult getting kills since it is hard to dish out the damage
+without getting close, and the CA isn't quite hefty enough to live
+through close combat. In general, a CA usually wants to plink away at
+enemies, since a single torp is an awfully big plink. Very large torp
+spreads aren't very effective, since hte torps are so slow: it's usually
+more effective to second guess your opponent and try for just a hit or
+two. I find the best thing about cruisers is that they are pretty good
+at everything: they can stand in battle, they're fast enough to bomb and
+take planets, and they're heavy enough for suicide missions.
+
+Cruiser battle speed is between 4 and 5, depending on the situation. I
+like to change speeds a lot, so this may not apply to other players.
+Above warp 7, the turning radius becomes terrible, and you become an
+easy target for a line of torps. Both tractors and pressors are useful
+for a CA, although not as much as for a BB. They're generally used to
+make slight differences in the distance between you and the enemy,
+either pulling him in for a phaser and some quick torps, or getting a
+little extra push to help in dodging (this last trick helps to improve
+the manuverability of the CA...combining a pressor with a turn is a good
+way to spin away from incoming torps).
+
+Watch carefully how much fuel your opponent is using. This is most
+important for CA, since at close range you can do gruesome damage with
+your 40 point torps, but you can't afford to take as many hits as a BB
+can. If your opponent is low on fuel, you can quite literally run him
+over with no risk to yourself, but if you guess wrong, you'll probably
+both space dust.
+
+vs. Battleship (BB)
+
+The BB is the only ship larger than the CA, and must be treated as such.
+I find the best method is either to just get around the BB (using your
+higher combat speed) or try to stay at range and get some torp hits in
+before the BB can close. You need about 7 torp hits to kill the BB, and
+you should probably get half of those before closing. Your phasers do
+less damage than the BB's, so try to avoid getting into a phaser battle:
+you'll lose. Stick to your photons which do the same damage as BB
+photons.
+
+vs. Cruiser (CA)
+
+CA-CA battles usually involve deciding how close to get to the enemy,
+since the amount of damage a CA can do rising sharply as the distance
+decreases. Again, torps are usually more effective than phasers, as you
+only need 5 torps and a small phaser to kill, and most enemies will turn
+tail after taking 3-4 torps. These battles usually involve endless
+circling, trying to get in a few torp hits without taking any yourself.
+If you're gutsy, you can try to strafe your opponent, easily smearing
+him with torps and hoping he doesn't react fast enough to take you down
+too: this often ends in a fiery mutual annihilation.
+
+vs. Destroyer (DD)
+
+Destroyers are a little quicker than cruisers, but can't do as much
+damage. Charging straight as a DD is likely to net you a faceful of
+torps; I find it best to be a little more sneaky. Try to guess when he's
+going to fire and slip close to him, or turn toward him as he turns
+toward you: before he realizes his mistake, you can pour torps and
+phasers into him, and his response just isn't heavy enough to take you
+out. Especially if he tries to keep his shields down, you can whittle
+down a DD with some carefully chosen phasers...try to fire only when
+you're doing about 25 points or more, less damage isn't really woth it.
+
+vs. Scout (SC)
+
+CA can usually deal with scouts as long as you don't get too
+enthusiastic or greedy. torps are usually a waste, since a scout can
+almost fly circles around your torps. Try to hit the scout with about
+two decent phasers while continuing to dodge: then tractor him and go
+for the kill. He probably only has about 100 damage points left: you can
+dish this out in two close phasers before he can hit you with enough
+torps. Also, be prepared to det the incoming torps, and the scout will
+have a rough time doing enough damage to you.
+
+vs. Assault Ship (AS)
+
+AS are a pain, especially for cruisers, beacuse you have to pound them
+again and again before they go down. Be patient: you have almost twice
+as much fuel as the AS, so keep dodging and hit him with torp, after
+torp, after torp...try to force the AS to use his fuel keeping you away,
+and when you think he's out, run him over. Of course, if you're wrong...
+
+KEY REMAPS:
+
+Cruisers do just about everything, so all combat keys are useful to a
+CA. I made my keymap by deciding which keys were most important and
+ensuring that I could hit those easily. I think this really depends on
+personal style, but I think shields, tractor/pressor, det both your and
+enemy torps should all be within easy reach.
+
+PLANET TAKING
+
+Cruisers are quite good for planet taking. They have a good sized hull
+for taking hits, and have enough speed that they can actually get around
+fast enough. Also, their cloak is good enough, combined with their
+enourmous fuel, to spend a long time cloaked. I find it useful to be a
+little subtle when taking planets: try to avoid taking lots of hits, and
+in a pinch try to get your opponent to run out of fuel. You are quite
+capable of circling a planet cloaked again and again while the enemy
+pours fuel into empty space. Cruisers have another big advantage in
+taking planets: they are less conspicuous. An asssault ship is almost
+always tagged as a probably planet taker, but since a cruiser can
+suicide, bomb, escort, the enemy is never certain if you're actually a
+planet taker until it's too late.
+
+SUICIDE ATTACKS (OGGING)
+
+In my opinion, for suiciding a particular target, no ship is better than
+the CA, because only a BB can do more damage at close range, and the
+BB's manuverability is often to poor to intercept a target. Your best
+chance of success is if the enemy doesn't notice you, so try to attack
+when the enemy is distracted. Cloak and fly toward your target at warp
+7: this is fast enough to get there quickly but still gives you an
+acceptable turning radius. When you get about 1/2-1 inch away, raise
+shields, uncloak, tractor, and phaser continuously. Wait till he starts
+to fire at you, and then unload a full stream of torps, since he won't
+have time to start dodging. If you fire too soon, your target may be
+able to dodge your slow torps and respond with his faster fire.  This
+works well against starbases too, although against an SB you fire as
+soon as you can.
+
+DEFENSE
+
+Cruisers can be great for just holding an area of space. Although it can
+be hard for you to kill an opponent, it is also often hard for an
+opponent to dislodge you. Just be patient, dodging back, and forth,
+until your opponent is pointed toward you, and then unload your full
+fire right into his face. If you're good you can hold against several
+cautious enemies, or several over-enthusiastic ones. Also, your speed is
+usually enough to match the enemy, so you don't have to worry a lot
+about being outrun to a planet.
+
+------------------------------
+
+End of PLAYING CA
+*****************
+

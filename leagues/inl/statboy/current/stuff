@@ -1,0 +1,140 @@
+Path: news.wfu.edu!concert!gatech!newsfeed.internetmci.com!in2.uu.net!svc.portal.com!news1.best.com!nntp1.best.com!shellx.best.com!not-for-mail
+From: doosh@shellx.best.com (Tom Holub)
+Newsgroups: rec.games.netrek
+Subject: Re: The First Kill (long)
+Date: 6 Apr 1996 12:31:40 -0800
+Organization: Best Internet Communications
+Lines: 34
+Message-ID: <4k6kbc$f2p@shellx.best.com>
+References: <4k3fhh$hla@magna.ksu.ksu.edu> <QlNeJG_8XZ8VA2oo5w@pitt.edu> <4k6hi4$3dt@mark.ucdavis.edu>
+NNTP-Posting-Host: shellx.best.com
+
+In article <4k6hi4$3dt@mark.ucdavis.edu>,
+Dan Zerkle <zerkle@cs.ucdavis.edu> wrote:
+)Kevin M Bernatz (kmbst30+@pitt.edu) wrote:
+): We aren't in the
+): playoffs yet.  
+): So the question is... What tie breaking scheme is being used
+): this semester?  
+)
+)Considering that this is my first INL season, I can't say for sure
+)what that means, but isn't it decided by the season planet total?
+
+The tie-breaking system is the same one we use every season.
+These tie-breakers are applied in sequence until one team drops off the
+*bottom*.  They are then *reapplied* from the beginning if 2 or more teams
+remain.
+
+1: Head-to-head
+2: Fewest planets AGAINST (cumulative opponent's planet totals)
+3: Most planets FOR (cumulative planet total)
+4: Random selection
+
+Note that 2 and 3 used to be reversed; that was changed about 2 years ago
+when it was noticed that a 19-1-0 win got the same credit on the first
+tiebreaker as a 19-0-1 geno.  We've never had to go past the second
+tiebreaker.
+
+In response to your implied question, Kevin, the GB-VD game is for the
+second playoff spot.  If VD wins, they get the second slot at 3-1.  If
+VD loses, we have a three-way tie at 2-2 between GB, VD, and HNIC.  
+We can't apply head-to-head, because GB lost to HNIC, HNIC lost to VD, and VD 
+would have lost to GB.  HNIC will be eliminated on the second tiebreaker
+(planets against=46).  We then reapply from the start, and GB beats VD on
+head-to-head. 
+ -Tom
+
+Newsgroups: rec.games.netrek
+Path: news.wfu.edu!concert!gatech!udel!rochester!hood.cc.rochester.edu!callisto.pas.rochester.edu!markiel
+From: markiel@callisto.pas.rochester.edu (Andrew Markiel)
+Subject: INL tiebreakers
+Message-ID: <1996Apr6.222025.23042@galileo.cc.rochester.edu>
+Sender: news@galileo.cc.rochester.edu
+Nntp-Posting-Host: callisto.pas.rochester.edu
+Organization: Denizens of the Grey Wastes
+X-Newsreader: TIN [version 1.2 PL0]
+References: <4k3fhh$hla@magna.ksu.ksu.edu> <QlNeJG_8XZ8VA2oo5w@pitt.edu>
+Date: Sat, 6 Apr 96 22:20:25 GMT
+Lines: 25
+
+Kevin M Bernatz (kmbst30+@pitt.edu) wrote:
+> Second, (and also sort of in Re: to Prasanth's post).   We aren't in the
+> playoffs yet.  We still have to beat GB.  If we lost to GB, then GB, HNIC
+> and VD will all be tied with two losses, with head-to-head being useless
+> (GB > VD > HNIC > GB ..etc).  So the question is... What tie breaking
+> scheme is being used this semester? 
+> Can Tom or Andrew please post this information...thanks.
+
+First tiebreaker is head-to-head, then total planets against (least is
+best), then total planets for (most is best). Tiebreakers are applied
+in sequence until a lowest team can be removed, then one goes back to
+head-to-head to resolve the remaining ties.
+
+So, if GB, VD, and HNIC all ended 2-2, then the team with the most planets
+against would end up 4th, and whoever won head-to-head of the remaining
+two would be the second place team (and in the playoffs).
+
+> -Kevin/Akira
+
+-Grey Elf
+markiel@callisto.pas.rochester.edu
+
+INLC: inlcouncil@soda.csua.berkeley.edu
+netrek ftp site: ftp.csua.berkeley.edu /pub/netrek
+netrek home page: http://www.cycor.ca/TCave/netrek.html
+
+Path: news.wfu.edu!concert!gatech!newsfeed.internetmci.com!howland.reston.ans.net!torn!news.ryerson.ca!hopper.acs.ryerson.ca!mveaudry
+From: mveaudry@acs.ryerson.ca (Christopher Veaudry - PHAS/W94)
+Newsgroups: rec.games.netrek
+Subject: Re: INL tiebreakers
+Date: 7 Apr 1996 03:42:05 GMT
+Organization: Ryerson Polytechnic University
+Lines: 22
+Message-ID: <4k7did$19qd@ns2.ryerson.ca>
+References: <4k3fhh$hla@magna.ksu.ksu.edu> <QlNeJG_8XZ8VA2oo5w@pitt.edu> <1996Apr6.222025.23042@galileo.cc.rochester.edu>
+NNTP-Posting-Host: hopper.acs.ryerson.ca
+X-Newsreader: TIN [version 1.2 PL2]
+
+: Kevin M Bernatz (kmbst30+@pitt.edu) wrote:
+: > Second, (and also sort of in Re: to Prasanth's post).   We aren't in the
+: > playoffs yet.  We still have to beat GB.  If we lost to GB, then GB, HNIC
+: > and VD will all be tied with two losses, with head-to-head being useless
+: > (GB > VD > HNIC > GB ..etc).  So the question is... What tie breaking
+: > scheme is being used this semester? 
+
+Currently:
+
+	Games Left	PA	PF
+HNIC	     0		45	34
+VD	     1		21	38
+GB	     1		31	27
+
+So, If GB beats VD by a score of 15-4-1, or better, they get the
+final playoff spot. HNIC can do no better than finish in 4th. 
+
+Go GB!
+
+Frothy
+
+: > -Kevin/Akira
+
+Path: news.wfu.edu!concert!gatech!newsfeed.internetmci.com!newsxfer2.itd.umich.edu!agate!not-for-mail
+From: tom@soda.CSUA.Berkeley.EDU (Tom Holub)
+Newsgroups: rec.games.netrek
+Subject: ftp.csua.berkeley.edu mirror/move
+Date: 6 Apr 1996 15:31:55 -0800
+Organization: UC Berkeley Computer Science Undergraduate Organization
+Lines: 9
+Message-ID: <4k6utb$5ec@soda.CSUA.Berkeley.EDU>
+NNTP-Posting-Host: soda.csua.berkeley.edu
+
+Because of continued problems with the ftp.csua.berkeley.edu server, I
+am now mirroring all the netrek FAQ's and the INL-related documents on
+best.com.  You can access them with:
+
+ftp://ftp.best.com/pub/doosh/netrek
+
+I'm considering moving these permanently, but for now this will at least let
+people access the information they need.
+ -Tom
+

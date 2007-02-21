@@ -1,0 +1,369 @@
+Path: news.wfu.edu!concert!gatech!news.cse.psu.edu!uwm.edu!math.ohio-state.edu!cs.utexas.edu!news.sprintlink.net!news-stk-200.sprintlink.net!news.sprintlink.net!news-stk-11.sprintlink.net!news.clark.net!world1.bawave.com!newsfeed.internetmci.com!torn!news.ryerson.ca!hopper.acs.ryerson.ca!vlouie
+From: vlouie@acs.ryerson.ca (Vincent Louie - AERE/F92)
+Newsgroups: rec.games.netrek
+Subject: Smack Pack defeats DOOM, GENO 17-0-3
+Date: 4 Jul 1996 18:02:15 GMT
+Organization: Ryerson Polytechnic University
+Lines: 167
+Message-ID: <4rh0v7$566@ns2.ryerson.ca>
+NNTP-Posting-Host: hopper.acs.ryerson.ca
+X-Newsreader: TIN [version 1.2 PL2]
+
+Since no-one else wrote this up, I guess I will.  *SMACK!* Pack hosted
+DOOM and did really well.
+
+DOOM is a new team that seems quite enthusiastic.  They started showing up
+an hour before the match, and 30 minutes before the game, they had 8
+players and 2 coaches.  *SMACK!* (as usual) couldn't get enough players,
+so Scott, Rob, chafey subbed in.  I doubt Alex Nielson could stop drewling
+:) Oh yeah, I was there too (I don't belong in the same sentence as Rob)
+
+A time out was called when they were down to just a few planets, about ten
+minutes into the game.  Rob and chafey offered to switch, and gave them
+many suggestions.  They didn't want our advice, and as for switching, one
+of them said "we don't want charity."  DOOM probably thought we were trash
+                            ^^^^^^^
+talking them, but that really wasn't the case.  Scott noticed how bad
+their pings were early, and suggested they hit '+' and tried explaining
+UDP, which they might have found insulting.  If anyone from DOOM reads
+this, most good players don't put down newbies.  Scott noticed his own UDP
+was off and made the suggestion to you - only one DOOM had better lag than
+Excalibur, a modem player from Canada...(umm there's no way all of DOOM is
+on PPP is there? *cringe*)  And another thing, recognizing logins helps out.
+Hero is Spaceace!, chafey is Hoser, scottt is GREEN ELF, cs922253 is RAIDEN.
+We didn't have damouth :)
+
+After we resumed, the game lasted until the 25 minute mark.  Scott was
+really bored.  He brought the base to their backwall core agri and started
+picking.  We gave up 4 ACC, but incredibly, we had 2 ACK.
+
+Some tips for DOOM:
+* Don't ogg Spaceace! in his own core
+	Both Spaceace! and Hoser suggested you bomb aggressively (and
+	save up for your core agri)  You want to bomb to force us to
+	go back to pick up, and to have a ship in our space.  The
+	galactic map only shows ships a certain distance from your
+	team, so if you're in your own core, we can pick our quadrant
+	without you knowing it.  You're giving up a free kill and a
+	valuable position if you try to ogg Spaceace! in his own core,
+	because 99.9925% of the time you'll fail.  (Don't pay any
+	attention to Rob's 16 PAD, that must be a mistake :))
+
+* Watch the galactic
+	The bomber(s) should be calling when Spaceace! picks up, and
+	it's a good idea to then keep track of where he is and try to
+	delay him and signal for help if you're one-on-one or try to
+	kill him if you out-number him (by a lot).  You also want to
+	keep track of ships that don't carry, because a lot of times
+	we cloaked and flew around in your core without armies to get
+	you to waste valuable fuel. You might also want to practice 
+	killing cloakers at vlsi.  I seriously just hit lock-on,
+	maxwarp and cloak every time I carried and trusted you to not
+	see me, or to miss.  And you did.  Your lag has something to
+	do with this to.
+  
+PW style stats - INL server version 4.0, Patchlevel 8.
+Normal Stats.
+                      Planets        Armies                    Kills    Deaths
+                    ----------- ------------------- --- ---Good-----Bad -------
+Name       team min tpt tpd tpb tab tac pad fao eao tof eck pck tek fck def acc
+X Moriarty  O6   23   0   0   0   0   2  50   0  11 111   5   6  15   0  21   4
+wormwood    O7   21   0   0   1   3   7  57   0   1 118   1   2  10   0  46   3
+SmAcKeR     O3   22   0   0   1   0   0   0   0   6 113   3   3  17   0  28   4
+OpenTerror  O4   16   1   1   3  23   5 100   0   6 104   1   2  10   0  14   2
+(V)oron     O5   23   0   0   2  20   0   0   0   7 105   5   8  16   0  25   9
+Toes        O9   16   0   0   0   0   0   0   0   2 109   1   5  17   0  18   6
+BaronX      O2   25   1   0  20  77   2 100   0   0  83   0   1   4   0   8   3
+Salamander  Og    5   0   0   0   0   0   0   0   0 102   0   0   2   0   1   0
+Skull       O0   24   0   0  22  69   0   0   0   0  53   0   0   2   0  14   8
+Team Total  O_  180   2   1  49 192  16  75   0  33   0  16  27  93   0 175  39
+Coaches: 
+
+DD KORE FAG F1   25   2   3   3  24  26  88   0   0 119   0   0   7   0   5   0
+Blackraven  F8   23   0   0   2   7   2   0   0   0  95   0   0  12   0  21   1
+FisherKing  Fa   25   0   0   6  46   5  60   0   0  86   0   0  17   0  11   0
+AtG         Fb    9   0   0   0   0   0   0   0   0 115   0   0  10   0   7   1
+Hero        Fc   24   0   1   4  23  18  16   0  20  94   1   0  25   0  15   0
+Excalibur   Fd   24   2   2   3  19  13  69   0   1  98   1   1  24   0  20   0
+ensignerato Fe    0   0   0   0   0   0   0   0   0 100   0   1   0   0   0   0
+hozer       Ff   24   6   6   1   3  38  65   0   3 100   1   1  23   0  15   1
+centaur     Fb   14   0   0   0   0   0   0   0   0  99   0   0   9   0  11   1
+Team Total  F_  171  10  12  19 122 102  61   0  24   0   3   3 127   0 105   4
+Coaches: 
+
+PW style stats - INL server version 4.0, Patchlevel 8.
+Stats are Normalized to game length for individual player and team output.
+                      Planets        Armies                    Kills    Deaths
+                    ----------- ------------------- --- ---Good-----Bad -------
+Name       team min tpt tpd tpb tab tac pad fao eao tof eck pck tek fck def acc
+X Moriarty  O6   23   0   0   0   0   2  50   0  11 111   5   6  15   0  22   4
+wormwood    O7   21   0   0   1   3   8  57   0   1 118   1   2  11   0  53   3
+SmAcKeR     O3   22   0   0   1   0   0   0   0   6 113   3   3  18   0  30   4
+OpenTerror  O4   16   1   1   4  34   7 100   0   9 104   1   3  15   0  21   3
+(V)oron     O5   23   0   0   2  21   0   0   0   7 105   5   8  17   0  26   9
+Toes        O9   16   0   0   0   0   0   0   0   2 109   1   7  25   0  26   8
+BaronX      O2   25   1   0  20  77   2 100   0   0  83   0   1   4   0   8   3
+Salamander  Og    5   0   0   0   0   0   0   0   0 102   0   0   9   0   4   0
+Skull       O0   24   0   0  22  70   0   0   0   0  53   0   0   2   0  14   8
+Team Total  O_  180   2   1  49 192  16  75   0  33   0  16  27  93   0 175  39
+Coaches: 
+
+DD KORE FAG F1   25   2   3   3  24  26  88   0   0 119   0   0   7   0   5   0
+Blackraven  F8   23   0   0   2   7   2   0   0   0  95   0   0  12   0  22   1
+FisherKing  Fa   25   0   0   6  46   5  60   0   0  86   0   0  17   0  11   0
+AtG         Fb    9   0   0   0   0   0   0   0   0 115   0   0  27   0  18   2
+Hero        Fc   24   0   1   4  23  18  16   0  20  94   1   0  25   0  15   0
+Excalibur   Fd   24   2   2   3  19  13  69   0   1  98   1   1  24   0  20   0
+ensignerato Fe    0   0   0   0   0   0   0   0   0 100   0 162   0   0   0   0
+hozer       Ff   24   6   6   1   3  38  65   0   3 100   1   1  23   0  15   1
+centaur     Fb   14   0   0   0   0   0   0   0   0  99   0   0  15   0  19   1
+Team Total  F_  171  10  12  19 122 102  61   0  24   0   3   3 127   0 105   4
+Coaches: 
+
+PW style stats - INL server version 4.0, Patchlevel 8.
+Player stats/5min relative to team stats/5min (100== team average).
+                      Planets        Armies                    Kills    Deaths
+                    ----------- ------------------- --- ---Good-----Bad -------
+Name       team min tpt tpd tpb tab tac pad fao eao tof eck pck tek fck def acc
+X Moriarty  O6   23   0   0   0   0  94  66   0 251 111 236 167 122   0  90  77
+wormwood    O7   21   0   0  17  13 366  76   0  25 118  52  62  90   0 220  64
+SmAcKeR     O3   22   0   0  16   0   0   0   0 144 113 148  88 145   0 127  81
+OpenTerror  O4   16 543 999  66 130 339 133   0 197 104  68  80 117   0  87  56
+(V)oron     O5   23   0   0  32  80   0   0   0 164 105 241 229 133   0 110 178
+Toes        O9   16   0   0   0   0   0   0   0  64 109  66 197 194   0 109 163
+BaronX      O2   25 359   0 293 288  90 133   0   0  83   0  27  31   0  33  55
+Salamander  Og    5   0   0   0   0   0   0   0   0 102   0   0  72   0  19   0
+Skull       O0   24   0   0 329 264   0   0   0   0  53   0   0  16   0  59 150
+Team Total  O_  180 100 100 100 100 100 100   0 100   0 100 100 100   0 100 100
+Coaches: 
+
+DD KORE FAG F1   25 136 170 108 134 174 144   0   0 119   0   0  38   0  32   0
+Blackraven  F8   23   0   0  76  41  14   0   0   0  95   0   0  68   0 143 179
+FisherKing  Fa   25   0   0 216 258  34  98   0   0  86   0   0  92   0  72   0
+AtG         Fb    9   0   0   0   0   0   0   0   0 115   0   0 145   0 123 461
+Hero        Fc   24   0  58 147 132 123  26   0 583  94 233   0 138   0 100   0
+Excalibur   Fd   24 141 118 111 110  90 113   0  29  98 235 235 133   0 134   0
+ensignerato Fe    0   0   0   0   0   0   0   0   0 100   0 999   0   0   0   0
+hozer       Ff   24 417 348  37  17 259 106   0  87 100 232 232 126   0  99 174
+centaur     Fb   14   0   0   0   0   0   0   0   0  99   0   0  84   0 124 297
+Team Total  F_  171 100 100 100 100 100 100   0 100   0 100 100 100   0 100 100
+Coaches: 
+
+
+
+ Bases (for maxkills includes non-t stats):
+Name          team min maxkills kills losses toffense tac tad cak
+Toes           O9    7   10.131    10      1  110.925  20   0  20
+ensignerato    Fe   25   48.494    47      0   94.147  43  41   0
+
+
+ Lag statistics (appropriate clients only):
+Name          team avrt(ms) stdv(ms)  pkls(s->c / c->s)
+OpenTerror     O4    256       42           37% /   1%
+Salamander     Og    283      101            8% /   3%
+(V)oron        O5    294       54            7% /   1%
+X Moriarty     O6     67       15           10% /   1%
+BaronX         O2    269       30            4% /   2%
+Skull          O0    269       60            2% /   2%
+Blackraven     F8    258       56            1% /   1%
+hozer          Ff    133       41            2% /   3%
+wormwood       O7    248       56            1% /   1%
+Excalibur      Fd    288       30            1% /   1%
+Hero           Fc     47       21            2% /   4%
+FisherKing     Fa     77       38            1% /   2%
+AtG            Fb     84       11            2% /   2%
+Toes           O9    109       25            1% /   1%
+DD KORE FAG    F1     67       33            1% /   1%
+ensignerato    Fe     98       20            1% /   1%
+SmAcKeR        O3      0        0            0% /   0%
+
+Path: news.wfu.edu!concert!gatech!newsfeed.internetmci.com!torn!news.ryerson.ca!hopper.acs.ryerson.ca!vlouie
+From: vlouie@acs.ryerson.ca (Vincent Louie - AERE/F92)
+Newsgroups: rec.games.netrek
+Subject: Smack Pack defeats DOOM, GENO 18-0-2
+Date: 4 Jul 1996 19:15:32 GMT
+Organization: Ryerson Polytechnic University
+Lines: 178
+Message-ID: <4rh58k$j2a@ns2.ryerson.ca>
+NNTP-Posting-Host: hopper.acs.ryerson.ca
+X-Newsreader: TIN [version 1.2 PL2]
+
+The first game ended so quickly that we played again.  chafey decided not
+to participate in the euthanasia (he's not karim, after all, hehe) and Alex, 
+the *SMACK!* captain opted to sit out.  We played 7 on 8 and sometimes 7 
+on 9, and Rob flew around at warp 0 whenever they had a bust to help even 
+out the sides a bit more, but well, you know.
+
+*SMACK!* got off to a slow start.  Fisher took the base, I scummed kills off
+their bombers and started picking, and the other 6 flew into third space.
+Apparently Rob and Scott didn't notice they picked red instead of blue this
+time.
+
+Their base died really fast.  A *SMACK!* got caught napping and maxwarped
+into their base, and shot a lot.  I saw that and followed up.  Scott 
+finished it off.  After that, Rob escorted Scott to take all their 
+remaining planets.  DOOM might want to spend some time on a base practice
+server (megalag or vlsi are two I play at), and/or recruit a base.
+
+We called a time-out somewhere along the line.  Their captain called one 
+too when he saw us call it.  When one side calls a timeout, the games 
+pauses when everyone is in green alert or after a few minutes.  The other 
+side does not need to do anything/can not do anything to prevent this.  
+You only get one time-out, and you don't want to waste it like this.  "Pause"
+is a related command.  It's normally used for emergencies, such as a few 
+slots get busted.  We kept pausing cos Rob was keeping track of DOOM's
+busts.  "Free" is the command to clear up a busted slot.
+
+Wierd thing is they got hit by plague 4 times this game, and 3 times the
+previous one, which reminds me of Hugh's > 100% of armies lost due to
+mess-ups post two months ago.
+
+Some tips for *SMACK!*
+* Hey Alex, don't get too excited.  We're not going to sub for you all 
+  the time :)  Besides, if you poke fun of DOOM too much, they might
+  disband before SIN get's a chance to geno them.  Then I'd give you SO
+  MUCH CRAP!
+
+Some tips for DOOM:
+* Don't fly around in a DD
+	I won't try to give an explaination, because I haven't been
+	able to convince anyone	from acs.ryerson.ca to trade up to a
+	cruiser :(
+
+* Leave core
+	The further away you intercept us, the less chance we have of
+	sync'ing for a good genocide wave.  You should also prefer to
+	fight us closer to your former front-line than to wait for us
+	to fly into your core.  If we are in your core, you have to
+	kill us, even if it takes you 10 ships to do it (or in my case
+	you can just kill me with 1 SC).  If you don't leave your core
+	to fight us, then we can obviously go into your core.  At that
+	point, if you don't fight us very aggressively, then we can bomb.
+	I bombed 10 armies - which you could have used to take 2 or more 
+	planets.  And, flying around in enemy core lets us set up to escort 
+	carriers.  As well, DOOM was hanging on to it's own kills way too 
+	much.  When they were down to just homeworld and DRA@7,  I cloaked.
+	3 ships sitting on DRA ran away from me.  I bombed.  DOOM
+	needed those 3 armies a lot more than it needed 3 1-kill ships.
+	I don't mean to brag, because it's no big deal - Spaceace! would
+	have just killed all three of you and bombed - I just wanted
+	to point this out because:
+	a) good players know when they have to risk their kills
+	b) better players ignore their kills
+	c) all three of you wanted to fight over those armies?
+	d) any one of you should be able to kill me if you bothered
+	   to try, let alone three of you.  But you all ran away...
+
+PW style stats - INL server version 4.0, Patchlevel 8.
+Normal Stats.
+                      Planets        Armies                    Kills    Deaths
+                    ----------- ------------------- --- ---Good-----Bad -------
+Name       team min tpt tpd tpb tab tac pad fao eao tof eck pck tek fck def acc
+Trickster   R4   28   0   1   6  42   1 100   0   2  96   1   4  18   0  27   7
+wormwood    R7   17   0   0   0   0   0   0   0   0  97   0   0   8   0  27   8
+SmAcKeR     R5   17   0   0   0   0   0   0   0   6 107   2   3  11   0  19   4
+OpenTerror  R3   26   0   0   5  19   2   0   0   8 104   3   6  24   0  25   1
+(V)oron     R0   28   4   1   5  34  12  83   0   9 105   4   9  24   0  17   5
+Toes        R9   21   1   0   0   0   1 100   0   2 108   1   5  16   0  25   8
+BaronX      R2   29   1   0  18  66   2 100   0   0  78   0   0   7   0  21   8
+Salamander  Rg   12   1   1   0   0   4  75   0   0 121   0   0   5   0  10   2
+Skull       R0    7   0   0   2  17   0   0   0   0  73   0   0   0   0   4   4
+buddy       R3    0   0   0   0   0   0   0   0   0  96   0   0   0   0   0   0
+Team Total  R_  190   7   3  36 178  22  77   0  27   0  11  27 113   0 175  47
+Coaches: 
+
+DD KORE FAG F1   27   3   4   2  10  27  59   0   0  97   0   0  17   0  17   3
+Blackraven  F8   28   0   0   1   4   4 100   0   0 116   0   2  16   0  23   1
+Hero        Fc   29   2   4   3  29  26  61   0   3 100   2   3  41   0  13   0
+Excalibur   Fd   29   1   4   5  35  17  88   0   0  97   0   0  21   0  16   1
+ensignerato Fe   29   8   3   2  13  22  86   0  13  88   1   0  28   0  15   1
+centaur     Fb   29   0   0   4  37   4   0   0   0  97   0   2  22   0  25   2
+ChumpMan    F6   28   0   2   0   0   9 100   0   2  98   1   2  16   0  17   1
+Team Total  F_  202  14  17  17 128 109  72   0  18   0   4   9 161   0 126   9
+Coaches: 
+
+PW style stats - INL server version 4.0, Patchlevel 8.
+Stats are Normalized to game length for individual player and team output.
+                      Planets        Armies                    Kills    Deaths
+                    ----------- ------------------- --- ---Good-----Bad -------
+Name       team min tpt tpd tpb tab tac pad fao eao tof eck pck tek fck def acc
+Trickster   R4   28   0   1   6  43   1 100   0   2  96   1   4  18   0  27   7
+wormwood    R7   17   0   0   0   0   0   0   0   0  97   0   0  13   0  45  13
+SmAcKeR     R5   17   0   0   0   0   0   0   0  10 107   3   5  19   0  33   6
+OpenTerror  R3   26   0   0   5  21   2   0   0   8 104   3   6  26   0  27   1
+(V)oron     R0   28   4   1   5  35  12  83   0   9 105   4   9  25   0  17   5
+Toes        R9   21   1   0   0   0   1 100   0   2 108   1   6  21   0  34  10
+BaronX      R2   29   1   0  18  66   2 100   0   0  78   0   0   7   0  21   8
+Salamander  Rg   12   2   2   0   0   9  75   0   0 121   0   0  11   0  23   4
+Skull       R0    7   0   0   8  70   0   0   0   0  73   0   0   0   0  16  16
+buddy       R3    0   0   0   0   0   0   0   0   0  96   0   0   0   0   0   0
+Team Total  R_  190   7   3  36 178  22  77   0  27   0  11  27 113   0 175  47
+Coaches: 
+
+DD KORE FAG F1   27   3   4   2  10  29  59   0   0  97   0   0  18   0  18   3
+Blackraven  F8   28   0   0   1   4   4 100   0   0 116   0   2  16   0  23   1
+Hero        Fc   29   2   4   3  29  26  61   0   3 100   2   3  41   0  13   0
+Excalibur   Fd   29   1   4   5  35  17  88   0   0  97   0   0  21   0  16   1
+ensignerato Fe   29   8   3   2  13  22  86   0  13  88   1   0  28   0  15   1
+centaur     Fb   29   0   0   4  37   4   0   0   0  97   0   2  22   0  25   2
+ChumpMan    F6   28   0   2   0   0   9 100   0   2  98   1   2  16   0  17   1
+Team Total  F_  202  14  17  17 128 109  72   0  18   0   4   9 161   0 126   9
+Coaches: 
+
+PW style stats - INL server version 4.0, Patchlevel 8.
+Player stats/5min relative to team stats/5min (100== team average).
+                      Planets        Armies                    Kills    Deaths
+                    ----------- ------------------- --- ---Good-----Bad -------
+Name       team min tpt tpd tpb tab tac pad fao eao tof eck pck tek fck def acc
+Trickster   R4   28   0 219 110 155  30 129   0  49  96  60  97 105   0 102  98
+wormwood    R7   17   0   0   0   0   0   0   0   0  97   0   0  76   0 167 184
+SmAcKeR     R5   17   0   0   0   0   0   0   0 248 107 203 124 109   0 121  95
+OpenTerror  R3   26   0   0  99  76  65   0   0 212 104 195 159 152   0 102  15
+(V)oron     R0   28 382 223  93 128 365 107   0 223 105 243 223 142   0  65  71
+Toes        R9   21 125   0   0   0  40 129   0  65 108  79 162 124   0 125 149
+BaronX      R2   29  92   0 322 239  59 129   0   0  78   0   0  40   0  77 110
+Salamander  Rg   12 210 491   0   0 268  97   0   0 121   0   0  65   0  84  63
+Skull       R0    7   0   0 147 253   0   0   0   0  73   0   0   0   0  61 226
+buddy       R3    0   0   0   0   0   0   0   0   0  96   0   0   0   0   0   0
+Team Total  R_  190 100 100 100 100 100 100   0 100   0 100 100 100   0 100 100
+Coaches: 
+
+DD KORE FAG F1   27 159 174  87  58 183  81   0   0  97   0   0  78   0 100 247
+Blackraven  F8   28   0   0  42  22  26 138   0   0 116   0 158  70   0 129  79
+Hero        Fc   29  97 160 120 154 162  84   0 114 100 341 227 173   0  70   0
+Excalibur   Fd   29  49 160 200 186 106 122   0   0  97   0   0  89   0  86  76
+ensignerato Fe   29 391 121  80  69 138 119   0 494  88 171   0 119   0  81  76
+centaur     Fb   29   0   0 163 201  25   0   0   0  97   0 154  95   0 138 154
+ChumpMan    F6   28   0  84   0   0  59 138   0  80  98 179 159  71   0  97  80
+Team Total  F_  202 100 100 100 100 100 100   0 100   0 100 100 100   0 100 100
+Coaches: 
+
+
+
+ Bases (for maxkills includes non-t stats):
+Name          team min maxkills kills losses toffense tac tad cak
+Toes           R9    7   10.363    10      1  102.687  13   0  13
+FisherKing     Fa   15   13.000    13      0   97.727  39  39   0
+
+
+ Lag statistics (appropriate clients only):
+Name          team avrt(ms) stdv(ms)  pkls(s->c / c->s)
+OpenTerror     R3    236       31           27% /   1%
+ChumpMan       F6    323      107            4% /  17%
+Salamander     Rg    270       71            9% /   7%
+(V)oron        R0    290       29           10% /   1%
+BaronX         R2    270       31            4% /   1%
+Skull          R0    266       57            1% /   2%
+wormwood       R7    252       79            0% /   1%
+Blackraven     F8    258       54            1% /   1%
+Excalibur      Fd    288       32            1% /   1%
+Trickster      R4    238       32            1% /   1%
+Hero           Fc     46       21            1% /   5%
+FisherKing     Fa     74       36            1% /   2%
+Toes           R9    108       25            1% /   1%
+ensignerato    Fe     96       17            1% /   1%
+DD KORE FAG    F1     76       33            0% /   1%
+centaur        Fb      0        0            0% /   0%
+buddy          R3      0        0            0% /   0%
+
+

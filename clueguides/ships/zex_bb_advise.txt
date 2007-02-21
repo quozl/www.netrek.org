@@ -1,0 +1,124 @@
+Date: Mon, 8 Sep 1997 09:53:04 +0200 (MET DST)
+From: "C.J. ter Horst" <terhorst@wins.uva.nl>
+To: teamdead@cs.vu.nl
+Subject: Re: [TEAMDEAD] BBloodly auckward....
+
+On Sun, 7 Sep 1997, TK Whipp wrote:
+
+> 
+> Hi all,
+> 
+> 	well I have decided that my df is definatly not up to scratch, and
+> so I'm trying to spend some time in a BB to improve my survival times
+> (without having to resort to butt torps).
+> 
+> I know I need to improve my phasering accuracy and dodge a little more -
+> but beyond the obvious T/P dodge, split damage, det at max range stuff are
+> there any cool tricks I should know.
+> 
+> More to the point - is the BB an aggresive craft - how do I push for
+> space?  I guess move up slowly and kill anything that comes near.  I also
+> guess that a BB wants range as its the slower phaser drop off that makes
+> it dangerous (ie BB 30 pts is CA 20 pts or something).
+> 
+> what (in general) is max df speed of a BB? I think its about 3 with cruise
+> at 2 and dodging up to about 4.
+> 
+> I get the feeling that what I really lack is patence - rushing in to close
+> and mutualling rather than just sitting back and refusing to move.  But
+> when I try to hold my ground I just get plinked to death.
+> 
+> sigh - maybe I am sounding  twinky here but I think currently my BB ratio
+> is worse than my CA ratio...
+> 
+> any advice?
+> 
+> 	Tom
+I'm not a very good BB player, you should probably ask Barry, or Henryk.
+But this is what I know. (I've played some time as a BB).
+
+1) You phaser like mad. If you just have a phaser battle with your
+   opponent -> you win.
+2) You dodge by T/P. You know that. But USE it. I mean, it's not that you
+   use once in a while. Or 'when the situation is right'. You ALWAYS T/P.
+   Learn to 'read' your opponent's moves and anticipate by already T/P,
+   the right guy. And, btw., never forget that you can T/P as easily, 
+   some enemy scout which is just flying next to your opponent. T/P is
+   good on *any* ship, friend or foe, big or small.
+3) Don't spray to many torps. BB's just use their phasers to slaughter
+   people.
+4) Fly at base speed of warp 2.
+5) Have maximum acceleration at an easy to reach key: the trick is simple.
+   As soon as you see a torp stream coming your way: T/P nearest ship, and
+   press maxwarp. That will give you the edge.
+6) Learn to det. Let me repeat this one. * L E A R N    T O     D E T *.
+   Detting is hard to do, and if you are not any good at it, you'll blow
+   up most of the time. BUT, if you KNOW how to det, you can save your ass
+   numerous times. Learn how to det single torps out of torpstreams,
+   through which you can dodge. * DETTING IS THE KEY TO WINNING * for a
+   BB. If you want to see some good detting, observe the dtek twinks and
+   Henryk. They're the masters of det, imho.
+7) Learn to det.
+8) When you get plinked: just det the torps which are probably going to
+   hit. If you just det 2 of the torps coming your way, you receive 
+   2 * 10 pt = 20 pt damage. It costs your opponent the fuel for a full
+   stream. So in essence, he can't keep that up. Let him just plink. When
+   he's out of fuel, just grab him in your tractor and finish him.
+9) Don't let yourself get buttorped. Chasing a buttorper in your BB is
+   lethal. You will never make it. BB's just suck at dodging, and
+   especially at high warps.
+10)Repair as soon as there is no real danger. You'll say. "Jesus, I know
+   that". Fact is: MANY people just keep flying around at warp2 after a
+   df, gloating that they killed that sucker, and forget to repair. To
+   put it bluntly: if your not dogfighting, you're repairing :).
+11)Phaser's are psychological weapons. You wanted to know how you claim
+   space in a BB. It's simple. You move at warp 2 towards your opponent,
+   and let yourself not get buttorped. Meanwhile you tractor-phaser your
+   opponent repeatedly, always on the watch for the buttorps he throws
+   at you. As soon as he buttorps, pressor, and maxwarp to the side. Maybe
+   detting the first two torps coming your way, which might just hit you.
+   The rest of the stream will miss. Anyways, the repeated pounding with
+   your phaser will get you your space. The enemy ship will be scared.
+   Honest. Just try it during pickup. Just pound your phasers repeatedly
+   at someone, and move his way. He'll definitely run.
+12)Plan WHERE you will dogfight. Try to battle in close range of fuel or
+   fuel+repair planets. Fuel is the issue for BB's. You might consider
+   peacescumming if their front is better than yours. But just try to 
+   avoid the big heavy battle in the middle of some rocks, because you
+   might win. And that would end up with you, in the middle of your space,
+   with no fuel. And that is annoying. Because you can only fly at warp 5
+   as a maximum, to the closest fuel planet. 
+13)Get your priorities straight. 
+   1) DODGING
+   2) KILLING
+  
+   This means in essence, that you have to let go of your tractor, as soon
+   as your opponent starts buttorping. At that point you immediately
+   pressor him, and turn, and maxwarp, and det. If you do NOT do that,
+   you'll just be sucking torps. I know that you can get carried away by
+   killing some one, but *always* dodge. Even if he's at warp
+   2, and needs a final phaser. Just dodge first, and *then* give him the
+   final phaser.
+14)Be prepared to let your victim loose, if he turns out to be just to
+   much of a buttorper. You won your space. Let him run. Just don't waste
+   your hull and fuel on someone who's just running to his core.
+15)Point 13 and 14 are very important. It shows, that one of the big
+   assets of a BB is: 'the THREAT'. In most cases it is not necessary to
+   use all your ammo to get someone out of your space. You can achieve the
+   same by flying towards your opponent and phasering a little. You'll
+   be surprised to see, how many people just run when they see a BB who's
+   phasering agressively at them.
+16)BB's don't have to kill things. They just need to be there, and look
+   dangerous. 
+17)With regard to point 16: ALWAYS fly warp 2. There is a good reason for
+   that. If you always fly warp 2, nobody is ever going to know, whether
+   you are hurt, or need fuel. Because they only know, that you're a BB
+   who is always at warp 2. So this is a big point here: you can even
+   be of use at front, with 60% damage, and no fuel. Just be there, and
+   how do they put it... 'fly casual'.
+
+Kind regards,
+
+Charlie aka 'BB's suck ;)'
+
+

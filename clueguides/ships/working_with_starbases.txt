@@ -1,0 +1,168 @@
+Newsgroups: rec.games.netrek
+From: danny@cs.su.oz.au (Danny)
+Subject: Re: working with starbases
+Date: Thu, 24 Jun 1993 01:57:22 GMT
+
+OK.  I think I posted this before but I have added some stuff.  Now I
+have to work out how to include the stuff in Red Shirt's latest posting...
+
+Any comments appreciated.
+
+
+MAKING USE OF YOUR STARBASE
+
+Here is some advice for people playing on my team while I'm basing.
+Most of it is be applicable to other bases too.  It is NOT a guide
+to basing (see Balton's playing-sb for that).
+
+**Ask not what you can do for your base, but what your base can do for you**
+
+I base to help my team win.  My primary purpose is normally to store and
+protect armies, but there are other things I can do, both for the team
+and for you individually.  
+
+Armies:
+
+Do not ask me whether I have armies or not.  I will regularly send
+army count calls, either when the number changes or when the last message
+has scrolled of my team message window (which is about 8 lines long).
+
+When picking armies up off me do not worry about incoming torps.  I will
+det them for you and you should take no damage.  It's probably best not
+to try to pick up of me in the middle of an ogg wave though.  If an 
+ogger is after you your best bet is to get behind me and let me try to find 
+him with a torp spread or phaser-lock.
+
+If we have lots of planet bound armies and you can't use them all
+(only one kill maybe), it may be a good idea to ferry them to me so that
+they will be safe from SC bombers.  Remember that I have a carrying
+capacity of 25 armies.  It is probably best not to ferry to me when I
+am doing space control on the front line.
+
+Kills:
+
+If you are looking for some kills and I am in the action, then hanging
+around me is a good way to get some.  I will do my best to give kills
+away (they are no use to me) by holding people down with my tractors/
+pressors and softening them up so you can nail them.  However I do not
+like having enemies nearby and shooting at me, so try to get them fast.
+You will find that ships that have been struggling with base tractors
+for any length of time will tend to be short of fuel.
+
+(Sometimes my ogg reflexes take over and I will phaser a half dead scout
+just before you get him.  I'm working on it...) 
+
+Logistics:
+
+You can refit (to a different ship type) on a starbase.  You can refuel
+and repair on a base.  So a base is like a mobile home planet!  There is
+the additional advantage that my firepower tends to deter enemies from
+approaching.  If you are on my tactical and need help fast (eg you are
+80% damaged), toggle your shields on-off-on-off-... and I will try to
+tractor you in.  (If you are coming in to pick up armies you can get me
+to speed up your run in in the same way.) 
+
+If I am being ogged then do not try to use me as a base.  There are
+likely to be a lot of torps flying/ships exploding, and you will do a
+lot of damage to me if you blow up while docked.  
+
+Boosting:  
+
+If I am around our home planet/entry point, I will use tractors and/or 
+pressors to give you a boost towards the front line.  I try to be careful
+not to get this wrong, but I will probably send you the wrong way sometimes.
+
+
+LOOKING AFTER YOUR STARBASE
+
+Since a base is such a useful thing to have, it is worth investing some
+effort in keeping it!  Mostly I can look after myself, but there are some
+situations when I appreciate support.  The first is when they are trying
+to ogg me.  This will usually involve waves of 4+ ships coming in
+cloaked.  One or two escorts can do a lot of damage to an ogg wave on
+the way in, especially if they are good at phaser-locking (hitting 
+cloaked ships with phasers).
+
+The best thing you can do here is to use the numerical advantage the ogg
+should give our team to take their planets.  (If you genocide them they 
+can't ogg me :) But if you do get a chance to hassle someone who is coming 
+to ogg me by all means do so!  Forcing them to use fuel dodging and/or 
+cloaking early will reduce the time they have to plan their approach and/or 
+the amount of stuff they can shoot at me.  
+
+Towing:
+
+It is important to get the base to where it can be of the most use as
+fast as possible.  A base can move much faster with the assistance of
+another ship and tractors or pressors.  Procedure for towing a base is to
+move over the base in the direction of movement while the base tractors
+you (you will etemp fast if you do the tractoring).  If there is more
+than one ship then the others can tractor me themselves, however do not
+ever tractor me unless you are sure I want it - it is particularly
+annoying not being able to orbit a planet because someone is tractoring
+you.  If I want a tow I may flash my shields to request one.  
+
+Close escorting your base:
+
+I do appreciate escorts when I'm being ogged, but two close escorts is
+the most I would ever need/expect except when seriously damaged/crippled.
+
+Do not fire torps over the base - cloaked enemy ships can det them on me, 
+and I may be waiting for a cloaked ship to uncloak so I can pressor him
+away from me before killing him.  Try to phaser lock cloaked ships/catch
+them with a torp spread - even if you only score one hit it will give me
+something to target the base's heavy phasers on.  
+
+If there are uncloaked ships firing at me from a distance, you should
+det the torps for me (fly alongside and hit "det torps" repeatedly) -
+with practise you can det a lot of torps without taking much damage.
+Detting torps is particularly important when several ships are firing at
+me at once - I can usually dodge a torp spread from one ship without
+collecting more than one or maybe two torps.
+
+The other purpose of a close escort is to give me something to
+tractor/pressor myself off.  A base can improve its manoevourability
+greatly by doing this, and that matters a lot when dodging torps or
+cloaked incoming ships.  
+
+The Advanced Base:
+
+If it is necessary to hold a critical front-line planet, or clear a
+critical front-line planet for a take, or front line space control is 
+needed, the base will often move forward.  Under these circumstances it 
+is very exposed, and may need support in a hurry if the enemy try to ogg
+it.
+
+The Crippled Base:
+
+If the base is crippled (moving at warp 1), then the most important
+thing is to get it to a repair planet as fast as possible.  So a tow
+should be organised (the base can still use tractors and pressors fine).
+If more than one ship wants to help then pressoring is slightly better
+than tractoring as it puts you between me and potential oggers.  The
+critical thing if a crippled base is being attacked is to kill the enemy
+ships before they get close enough to do any damage (counter ogging).  
+It is essential to try and phaser lock cloaked ships and uncloaked ships 
+firing from a distance should have their torps detted (it's much harder 
+to dodge at warp 1 than at warp 2) and be killed as quickly as possible.
+
+The Wtemped Base:
+
+The major constraint on a good base's survival is his wtemp limit rather
+than his hull/shields.  If I send a distress call and don't appear damage,
+it may be because I am wtemped (look for the W in the call) or close
+to wtemped (the message will give the percentage).  A wtemped base cannot
+use its weapons or det (but can T/P).  The most vital thing when trying to 
+protect a wtemped base is to stop enemies getting near it and to kill
+anyone who uncloaks on top of it real fast (don't worry about the explosion
+doing damage, multiple torps will do far more).  If you are out of fuel
+you might want to dock with me and use my fuel (since I can't).  (NOTE:
+don't do this when I am not wtemped, 'cause I will run out of fuel and
+you will blow up on me.)
+
+
+Thanks to Tim Healy (Angel of Death), Craig Boas (Balton) and Herbert 
+Enderton (Red Shirt) for suggestions.  Please mail me about anything you 
+think I've left out.
+
+Danny Yee.

@@ -1,0 +1,157 @@
+			       PLAYING DD
+
+----------------------------------------------------------------------
+
+Newsgroups: alt.games.xtrek
+From: hill@norman.VI.RI.CMU.EDU (Robert Hill)
+Subject: DD players guide (at last)
+Date: Wed, 04 Mar 92 18:34:36 GMT
+
+Here is my DD players guide.  Sorry it took so long to get out.  My
+thanks to Bert Enderton, who game me some stats, and the CMU trekkers
+who helped me correct some errors.  Once again, i'm sorry that it took
+so long.
+
+Please forgive my poor writing skills:
+
+Destroyer (DD) Play
+
+SHIP SPECIFICATIONS:
+
+Internal damage/shields: 85/85
+Maximum warp speed: 10
+Torpedo Speed: 14
+Maximum fuel: 7000 
+Torpedo damage/fuel: 30/210
+Plasma damage/fuel: 75/2250
+Phaser damage/fuel: Good:60-85/595 
+Maximum armies: 5
+Bombing: Fair
+Cloaking: Good
+Maneuverability: Good
+Acceleration: Good 
+Deceleration: Great
+Tractor/presser strength: Fair
+
+BATTLE TACTICS
+
+General:
+
+Destroyers are commonly noted as the ship of lose.  They are perhaps the
+most difficult ship to fly, but they can be useful in certain roles.  It
+can be difficult to decide when to fly a DD.  The best use of a DD is
+space control and aggressive bombing.  The most important thing to keep
+in mind about a DD is your etemp.  You must keep a modest distance
+between your ship and your enemies, so you generally need to move faster
+than they do.  This causes your etemp to skyrocket.  If you can't run,
+you die.
+
+Battle speed in a destroyer is warp 4 or 5.  You often need to
+accelerate to max warp to avoid the phasers of the heavier ships.  If
+your enemy is content to phaser you to death and you can't seem to hit
+him with your torps, run.  Tractors and pressors are important, but in
+general, if a large ship is close enough for you to t/p them, you are
+dead anyway.  If you are close to a DD or a SC, tractor them and crush
+them, or pressure them and get away.
+
+Be very careful of internal damage.  Two torps from any ship type can
+render you useless, and probably dead.  Also beware of the CA phasers.
+They will try to tag you repeatedly with 20 point phasers until you
+can't run.  They you die.
+
+It can be useful to fake etemp in a DD.  You opponents will close with
+you, and then you can nail them if they are smaller.  Remember, use your
+cloaking to your advantage, but watch your fuel.  Lastly, DD decelerate
+faster than any other ship.  This has saved me many times.  Don't
+dogfight at one speed!  Use your acceleration, deceleration advantages!
+
+vs. Battleship (BB)
+
+Stay away from him.  You need to hit him repeatedly with torps, while
+avoiding his powerful phasers.  If you can stay out of his phaser range,
+and repeatedly hit him with multiple torps, then you will do well
+against this ship class.  If your opponent is clueful, it will be very
+difficult for you to kill him without dying.  Try and recruit help from
+other ships if you have to deal with this ship type on the front.  BB
+weakness if maneuverability.  You must exploit this weakness if you are
+to survive.
+
+vs. Cruiser (CA)
+
+Watch your range.  You can close to t/p range, but not for long.  You
+should try to get him to chase you.  Do this by keeping your distance.
+If you can irritate him, and get him to follow you, you have a good
+chance of killing him by multiple torps.  If he won't chase you, try and
+run him out of fuel, then close and destroy him.  You must beware,
+because it only takes about 1500 CA fuel to kill you.  Watch his
+tractors and pressers.  As a hint, try and hit him with torps while he
+is hitting you with a 20 point phaser.  His phaser may cover the torps
+you are firing, and he may not see them. You can also do this with
+planets, they can also obstruct his view(this works best on a monochrome
+display.)  Most of your opponents will be CA's.
+
+vs. Destoyer (DD)
+
+Use your tractor and pressors.  You enemy probably doesn't, so this can
+be a huge advantage.  You can close to you leisure against DD, because
+your phasers are equal to theirs.  Remember, your torps are you primary
+weapon.  You don't have enough fuel to phasor a DD to death at long
+range.
+
+vs. Scout (SC)
+
+Try and phaser them to dust.  If they get too close, tractor them, and
+pelt them.  Fire torps to force them to maneuver closer.  Realize that
+you won't hit with many torps, so phaser them alot.  You can chase them,
+but watch the back torps.  Also evaluate if they are worth chasing.
+
+vs Assault Ship (AS)
+
+You need to get close to them, but beware their fast, 30 point torps.
+You can get close to them, and you should get close to them.  Their
+phasers are about as strong as yours, so you need not worry about
+them.Try and hit them with multiple short range torps.  Try and run them
+out of fuel.  They don't have a lot, then you can close and crush them.
+
+KEY REMAPS:
+
+All ships should remap tractor and pressure.  In addition, I find
+max-warp to be a good remap.  Detonate your own torps is important,
+because in close range you need those torps back that miss in a hurry,
+or you are dead.  Detonate enemy torps is also important, in case you
+get hit be the occasional torps.
+
+PLANET TAKING
+
+Destroyers are fair for planet taking.  Use a DD when speed is
+essential.  You can only carry 5 armies, so be aware you won't be able
+to hard-take many planets.  You cloak very well, so if the planet is
+guarded and not a fuel planet, try and run your enemies out of fuel
+before landing.  If you land on a planet and there is a single enemy
+with fuel, it is unlikely that you will survive or take the planet.
+
+SUICIDE ATTACKS (OGGING)
+
+Use a DD to ogg smaller ships that will run from CA or BB.  You will
+have a hard time ogging a CA, BB, or AS in a destroyer.  It is too hard
+to unload on them before you die.  Don't forget to tractor your target.
+Try not and over run him, as well.  If you are ogging an SB, try and
+uncloak as you are going past him, then unload a spread and phasers into
+him.  You won't live long, but it is about the best you can do in a DD.
+
+DEFENSE
+
+A DD is a powerful defender because of its acceleration, speed, and
+refueling capacity.  You can often beat the planet taker to the planet
+or bomber to the armies.  Your main task is to kill them when they
+arrive.  If you want to suicide them, then close fast and try and phaser
+lock them (they will usually be cloaked).  Once they are phaser locked
+(you have hit them with your phasers).  Try and hit them with phaser,
+plasmas, and torps.  If you want to live, wait until they are on the
+planet, then kill them by firing everything you have.
+
+------------------------------
+
+End of PLAYING DD
+*****************
+

@@ -1,0 +1,328 @@
+			 PLAYING DD (ALTERNATE)
+
+		   An alternative look at playing DDs
+
+----------------------------------------------------------------------
+
+From: blojo@xcf.berkeley.edu (Jon Blow)
+Newsgroups: rec.games.netrek
+Subject: "Better" DD players' guide
+Date: 22 Jul 92 18:42:47 GMT
+
+I recently read the old destroyer player's guide by Robert Hill and,
+as someone who flies DDs most of the time, found that I had things
+to contribute that weren't present in that guide.
+
+So, I here present to you an "alternative" DD player's guide.  It
+makes some references to the original for clarity and to emphasize
+certain points.  Throughout most of the guide, it is assumed that
+you are fighting "clued" players, but this fact is made explicit
+where it becomes important.
+
+I didn't go into too much detail-- a lot of the stuff I commonly do
+in a DD just seemed too weird to stick in here.  If there's enough
+call for it, though, I could write up a more detailled version.
+
+Any requests and comments on this guide that have more intellectual
+content than "dude, destroyers suck" are welcome.
+
+  -Jon (Hell Peacock), Proud Pilot of the Ship of Lose.
+
+
+
+
+FOR NEW PLAYERS:
+
+    The "destroyer" is the second smallest ship in netrek, larger
+    than a scout but smaller than a cruiser.  They are correspondingly
+    fast and maneuverable, but their weapons are less powerful than
+    the heavier ships'.
+
+    The destroyer is commonly referred to as "The Ship of Lose" for
+    many reasons, some having to do with the fact that the destroyer
+    is popularly considered to be unbalanced (toward the weak side)
+    with respect to the other ships; the rest of the reasons have to
+    do with the playing styles of many people who fly destroyers.
+
+    The two-letter abbreviation for "destroyer" is "DD".  In this
+    guide, the two terms will be used interchangably.
+
+
+(The following ship stats thing quoted directly from Hill's guide):
+
+SHIP SPECIFICATIONS:
+
+Internal damage/shields: 85/85
+Maximum warp speed: 10
+Torpedo Speed: 14
+Maximum fuel: 7000 
+Torpedo damage/fuel: 30/210
+Plasma damage/fuel: 75/2250
+Phaser damage/fuel: Good:60-85/595 
+Maximum armies: 5
+Bombing: Fair
+Cloaking: Good
+Maneuverability: Good
+Acceleration: Good 
+Deceleration: Great
+Tractor/pressor strength: Fair
+
+
+
+ENEMIES:
+
+Scouts are generally easy to fight in a destroyer.  You can outgun them
+and out-tractor them, and as long as you don't fly in a straight line,
+you can chase them.  A destroyer has more than enough firepower to quickly
+doosh a scout who has decided to try and bomb a planet, thinking (often
+quite incorrectly) that the DD cannot arrive in time.
+
+Enemy destroyers are by far the easiest opponents for the simple fact that
+nobody else plays destroyers much, so anybody you see flying one is probably
+pretty bad at it.  When fighting a destroyer, keep in mind the tactics
+highlighted here and expect the enemy to use them.
+
+Battleships are not too difficult to fight because of their poor acceleration,
+but a clued BB will tractorphaser you, or just detonate your torpedoes all
+day without blinking twice.  DD/BB combat is likely to be long since it
+is difficult to kill a BB on one tank of fuel unless the BB is a hoser or
+you are ogging it.
+
+Combat with Assault craft is likely to be as prolonged as that versus a
+battleship due to the AS's large damage capacity.  However, AS's have even
+less fuel than you do, and once they're out, you're in.  
+
+Starbase: Destroyers can be very useful when attacking starbases, but only
+under certain circumstances.  Do _not_ attack a starbase alone in a destroyer
+unless the starbase is lame-- a clued, nonlagged SB can invariably toast a DD
+with phasers before the DD manages to uncloak.  However, destroyers are very
+useful in a multiple-player coordinated ogg of a defended starbase, since
+the destroyer is able to get behind the base quickly and relatively safely.
+It is true that you do less damage than other shiptypes, but you have a much
+higher probability of actually doing the damage than any other shiptype.
+
+CRUISER: The cruiser is by far the destroyer's worst enemy.  In a "fair fight"
+(one-on-one, no lag, all clue being equal), the destroyer generally doesn't
+stand much of a chance of survival.  Destroyers can do a fair job of ogging
+cruisers, however.
+
+Throught this guide, you will notice occasional specific references to
+cruisers; they are important.
+
+
+BASIC TACTICS:
+
+(This section is presented as a stepping-stone for the discussions of weapons
+ and advanced tactics.)
+
+
+RUN    Destroyers are traditionally looked upon as the "scavenger" vessel,
+AWAY:  or the "runner-scum's choice".  There is a simple reason for this:
+       they are very good at running away.  Many of the hints below are aimed
+       at helping DD pilots flee more effectively.
+
+       Do NOT run away "too much".  Intelligent exceptions can be made to
+       this guideline depending on how much enemy attention you are drawing
+       (i.e. how useful you are being overall), but it should always be kept
+       in mind: if you spend too much time running away or wimping out, you
+       are not doing your team any good, and you'll probably die eventually
+       anyway.
+
+       Running away should only commonly occur under two circumstances:
+
+           1) An unforeseen emergency occurs while you are attempting
+              to accomplish an important objective, AND it seems likely
+              that you will have a better chance to accomplish it in the
+              _near_ future, or
+
+           2) You have just accomplished a major objective and wish to
+              escape with a ship capable of performing another major
+              mission immediately.
+
+       In short, run away only to preserve the state of a useful ship.
+       That does, however, *not* say "run away _always_ when you have a
+       useful ship".  There are many objectives that are a lot more
+       important than the state of your ship, and which you will probably
+       die accomplishing.  _These_ are the objectives you should be saving
+       your ship for, and they should be given priority.  Kills don't do
+       your team any good unless you use them well.  
+
+       Keep this in mind and you will be much more effective than the
+       stereotypical "runner scum".
+
+FUEL:  In a DD, fuel is your most important resource; guard it carefully.
+       As long as a destroyer is in reasonable shape and has fuel (*and*
+       paying attention, of course), it cannot be ogged unless it is
+       willing to take the risk.
+
+       If you are not willing to die, fuel is your only defense against an
+       angry cruiser.  You *must* save enough fuel to get away at maxwarp
+       (and/or cloak) in order to survive.  The DD's cruising speed (warp 7)
+       is not sufficient to escape a cruiser, no matter how much you plan
+       to try to outmaneuver/outdistance it with right-angle turns and the
+       like.
+
+CLOAK: Cloaking is useful.  Do it a lot.  More discussion on this later.
+
+DET:   Detting enemy torpedoes is often a good idea, even in a destroyer.
+       Though a destroyer doesn't have much hull, you can afford to abuse it.
+       At 75% damage, a destroyer can still move at warp 4.
+
+       Detonating your own torpedoes is essential.  When in close-range
+       combat, a destroyer's lifetime is generally measured in enemy
+       phaser shot units.  Because of this, you need to be able to dish out
+       a large quantity of damage in a short period of time, which is
+       difficult because of the DD's relatively weak weapons.  This quite
+       often means detonating your own torpedoes so you can fire more, even
+       if some of the torps in the air are about to strike a target.
+
+SPEED: Accelerate and decelerate a lot.  I've found shifting between warps
+       4, 7, and 10 to be very effective.  Your maneuverability is your best
+       defense, so use it.
+
+
+
+WEAPONS:
+
+Torpedoes are the destroyer's primary weapon.  There's not much that can be
+said about DD torps that aren't true for anyone else.  Note that your torps
+do the same damage as AS torps but are slower.  They do less damage than those
+of any other ship except the scout.
+
+Phasers are useful in a DD but are not a good general weapon; their range
+is short and their damage weak.  The old DD flyer's guide rates DD phaser
+damage as "good", but neglects to mention that closing to "good" range in
+a DD is quite hazardous to your health.  One example of a good time to use
+phasers is when fighting a (clued) heavy ship that you have severely damaged;
+he goes into Warp-2-Extreme-Dodge-Mode and is difficult to hit with torps.
+
+Destroyer plasmas are a joke.  Don't even bother with them unless you're
+really bored.  They do 2.5 torpedoes worth of damage and cost almost 11 torps
+worth of fuel.  Remember that this fuel is your most critical resource.
+
+There's not much to say about DD tractors/pressors that doesn't apply to
+any other ship type.  Remember that they are fairly weak in this case, but
+they're not too weak to be useful.
+
+
+
+ADVANCED/SCENARIO-DEPENDANT TACTICS
+
+
+Planet taking:
+
+    It is undoubtedly a controversial opinion, but I find the DD to be
+    the best overall planet-taking vessel.  Because of its high speed,
+    a DD is usually able to pick up armies and run for an enemy planet
+    within 30 seconds of getting a kill, which does not take long,
+    especially with damaged, scavengable enemies floating around.
+
+    Hill's DD guide cites the 5-army capacity as a disadvantage.  This
+    is illusory since during a "real" game the following generalizations
+    are (usually) true:
+
+        1) Your team doesn't have more than 5 accessible armies.
+        2) You don't have enough kills to carry 5 armies.
+        3) You're a fool to carry more than 5 armies anyway.
+
+    When taking a planet, take your time.  Of course, you should *always*
+    be cloaked.  Zoom around the planet for a while; let the enemy shoot
+    at you a bit.  Go in and drop when you see an opening.  In a destroyer
+    at warp 3 or 4 you can stay cloaked and keep dodging torps for quite a
+    while.  Don't get hit, though, because if you do, you'll get phaser
+    locked, which basically means instant death at that proximity.
+
+    You can afford to drop some armies on a planet, leave it to avoid torps,
+    and then re-orbit to drop the rest.  You can afford to change your mind
+    and zoom off to take a different planet than the one you originally
+    intended; even clued opponents may not notice until a little too late,
+    and will probably be too slow to stop you.  This works well with core
+    worlds.
+
+    People often say that it's dumb to cloak on the same screen as the
+    enemy, but you can get away with it in a destroyer.  It can be useful
+    to do this if you need the extra fuel for extended cloak distance.
+    If you're trying to take one of a few remaining core worlds, the
+    enemy is going to see you coming anyway; you won't be giving away
+    any "surprise factor" by waiting to cloak.
+
+    If, on the other hand, the element of surprise is what you're really
+    after, then start your cloak run when out of enemy scanner range.
+    This generally only works versus a weak team because when playing a
+    strong one, you won't be able to get out of scanner range and stay
+    that way for long.  If you can do it, though, you can usually stop
+    at a friendly fuel planet along the way; remember that when cloaked
+    you are not detectable until you are very close to the enemy, so you
+    can afford to stop without being seen.
+
+Defending:
+
+    Hill's DD guide states that the DD is a "powerful defender".  This
+    is partly true.  The destroyer can be useful in terms of light
+    space control and as a deterrant; however, they are not very useful
+    for general planet defense.  It is difficult for a DD to put out
+    enough damage to kill a cloaked heavy ship and escort in a time-urgent
+    situation (e.g. they are taking a planet), especially if the DD is not
+    fully fueled.  The best way for a DD to defend is to make sure the
+    enemy doesn't have any armies.
+
+Ogging:
+
+    Destroyers can be good ogging ships because they are so maneuverable
+    and so fast.  An ogging DD should match velocity with its target and
+    uncloak directly on top of it to achieve maximum phaser damage.
+
+    DDs can also be effective at something I have termed the "Fool's Ogg"
+    for lack of a better name.  A DD will generally engage in a fool's ogg
+    when the target is deep within its core worlds surrounded by many
+    defenders; the DD does not expect to kill the target.  It cloaks
+    far out (by necessity to avoid being destroyed by the target's teammates)
+    and, by the time it reaches the target (having been cloaked a long time
+    and dodging energetically to avoid being squished), the destroyer
+    uncloaks on the target with about 1000 fuel remaining.  This is
+    generally enough fuel to do a moderate amount of damage to the enemy,
+    as well as causing him to use up much of his own fuel.  A good series of
+    5 or 6 fool's oggs will keep the target and 2 or 3 opponents busy
+    refueling, repairing, and generally watching for you, while the rest
+    of your team has a corresponding numbers advantage.  It will, of course,
+    hose your ratio, if you care about that sort of thing.
+
+Lag:
+
+    Network lag is very dangerous to a destroyer, because the lag effectively
+    steals the destroyer's maneuverability, which is its main defense.  Most
+    ships can afford to take a few torps when lagged, but a destroyer will
+    go foom.
+
+    Note also that lag can work especially to your advantage if it is present
+    on both sides (or only the enemy side).  If a destroyer quickly changes
+    direction and accelerates right before a fit of lag, the enemy will
+    not notice the change until some time has passed; by then, it is too late
+    for the enemy to catch up unless they are flying a light ship.
+
+Morale:
+
+    Destroyers can be effective morale weapons.  The destroyer's high
+    speed and refueling rates give you the ability to be in the enemy's
+    face constantly.  They are generally looked down upon but can be
+    *very* dangerous, especially when underestimated.  A big cruiser or
+    battleship who is constantly being obliterated by this small craft
+    can become frustrated and/or depressed.
+
+    One of the most effective things a DD can do morale-wise is to cloak
+    and dodge torps being fired by 4 or 5 enemies.  When they fire and
+    fire and *cannot* hit you, they will generally begin to panic.
+
+    It can be very frustrating for an enemy to throw lots of torps at you
+    only to watch you "effortlessly" dodge them with your _shields_down_.
+
+    Keep watch over your own morale.  You have to remain fairly wired to
+    fly a destroyer combat-effectively.  If you keep getting blown away and
+    become tired and/or frustrated that you are unable to get a kill,
+    take a break.  Fly a different ship for a while.
+
+------------------------------
+
+End of PLAYING DD (ALTERNATE)
+*****************************
+

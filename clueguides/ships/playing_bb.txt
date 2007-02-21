@@ -1,0 +1,165 @@
+			       PLAYING BB
+
+----------------------------------------------------------------------
+
+From: tom@ocf.berkeley.edu (Tom Holub)
+Newsgroups: alt.games.xtrek
+Subject: First installment of Xtrek Player's Guide
+Date: 16 Oct 91 07:56:14 GMT
+
+This is the first draft of the first thing I've written for the Xtrek
+Player's Guide; it's a description of how to play a battleship.  I
+could write descriptions for the other ships, but I think there are 
+people who know them better than me.  I can take care of the 
+ship specs for all of 'em, but I'd appreciate descriptions of 
+strategies.
+
+- cut here --- cut here --- cut here --- cut here --- cut here ---
+
+Battleship (BB) Play
+
+SHIP SPECIFICATIONS:
+
+Internal damage/shields: 130/130 
+Maximum warp speed: 8 
+Maximum fuel: 14000 
+Fuel threshold speed (with/without shields): 4/4 
+Torpedo damage/fuel: 40/? 
+Plasma damage/fuel: 130/? 
+Phaser damage/fuel: Excellent (105 max)/? 
+Maximum armies: 6 
+Bombing: Good 
+Cloaking: Fair
+Manuverabilty: Poor 
+Tractor/Pressor strength: Excellent
+
+BATTLE TACTICS:
+
+General:
+
+Battleships have great phasers and can take a lot of damage; this makes
+them the best ship for close-quarters combat.  At long range,
+battleships can't dodge torps as well as other ships, so it's imperative
+to try and close in on the opponent.  Once you're at close range,
+remember that it's more important to dodge often than to dodge well;
+with 260 damage to give up, a torp hit or two doesn't matter that
+much--you should concentrate on not being Pac-Man.  
+(wakka wakka wakka wakka...)
+
+Battle speed should be 3.  Speeds up to 6 can be useful in battle, but
+acceleration is so slow that maximum warp should never be reached in a
+normal dogfight.  Above warp 3, dodging will be too slow to avoid
+well-aimed torps.
+
+Tractor beams are crucial--they are the best way to get close to the
+enemy.  When he gets too close, let go of the tractor.  If he tries to
+suicide you, pressor him away.  You have the strongest tractors and
+pressors in the game, so you should be able to keep the other ship where
+you want it.
+
+
+vs. Battleship (BB)
+
+BB-BB battles result in mutual death more often than not, since both
+players are trying to tractor the other one in.  Be prepared for his
+tractor beam; a well-timed pressor can often hang your opponent out on
+the end of a string of torps.  Try to get at least 2-3 torp hits before
+you go in for the kill.
+
+vs. Cruiser (CA)
+
+Battleships are the best cruiser-killers.  Cruisers can't dodge
+significantly better than BB's, their phasers are a lot weaker, and
+their pressors aren't strong enough to keep a determined battleship
+away.  You also need to do 60 less damage to them than they need to do
+to you.  The most efficient way to kill them is the Tractor-Phaser
+Method: Tractor them in and dodge; their retaliatory string of torps
+will usually go to the place you just dodged from.  Phaser and dodge the
+other way.  Repeat, adding torps when necessary.  You'll be surprised
+how little damage they're able to do to you if you get in a groove.
+
+vs. Destroyer (DD)
+
+You have to be cautious around destroyers; if you try to fight them at
+long range, their superior dodging and fast torps will destroy you, but
+if you try too hard to tractor them in, you'll be greeted with a
+connect-the-dots puzzle as they take off at warp 10.  You have to watch
+them when you slap on the tractor; if they accelerate, let go and dodge.
+If they don't, they're toast; it doesn't take many battleship phasers to
+kill a destroyer.
+
+vs. Scout (SC)
+
+Easy kill.  All you have to do is get them close enough to phaser to
+death, and you can do this by heading for them at warp 8 while
+detonating their torps, and tractoring them when they get in range (you
+may need to rush them slightly off-line so they can't get a good burst
+of torps into you).  If you catch them while you still have some shield
+left (which is a good possibility), they don't have a prayer.  Three
+good phasers (or two very good ones) and they're gone.
+
+vs. Assault Ship (AS)
+
+Assault ships are difficult to kill, no matter what you're flying, just
+because they're good at running away and have the highest
+Internal+Damage rating in the game.  They can't do damage too well,
+though, so all you have to do is make sure that you don't eat all their
+torps.  Dodging often is again the key; AS's have so little fuel that
+even if they hit you with 5 or 6 torps out of 3 lines of 'em, they won't
+be able to finish the job.
+
+SUGGESTED KEY REMAPS:
+
+Tractors and pressors should be next to each other; I remap 'T' to 't'
+and use the mouse for torps.  It's also important to be able to get to
+'D'; I remap that to space bar.  I could also see the value of three
+keys in a row, one for tractors, one for phasers, and one for pressors.
+It can be useful having maximum warp handy, but in a BB it's not crucial
+since it'll take you long enough to get up there that any high number
+will do (I just direct my fingers in the general direction of the right
+side of the top of the keyboard, and press '8' or '9' when I have time
+to).
+
+PLANET TAKING:
+
+Battleships aren't as good at taking easy planets as DD's or CA's,
+mainly because they can't get around as fast, but their ability to take
+a lot of damage makes them very good at taking heavily guarded planets.
+The general strategy is to cloak in at maximum warp--slower warps just
+eat up your fuel too fast.  Even after you start beaming down armies,
+you can take 3 BB torp hits and live; only AS's fare better (and they're
+not as good for other reasons).
+
+CLOAK ATTACKING:
+
+Battleships are great at cloak attacking; the powerful tractors keep the
+runner from getting away, and the strong phasers can't be dodged.
+Cloaking takes a lot of fuel, as does tractoring and phasering the
+target, so you can't do it from too far away, and you can't mess around
+with dodging torps or adjusting your course, either.  If the target sees
+you coming and turns tail (and it doesn't look like you can get a
+tractor lock), pull out.  If you *can* get a tractor lock, you should be
+able to get a running ship (if it's smaller than you) at least 75% of
+the time.
+
+You can also do *mass* damage to starbases.
+
+DEFENDING PLANETS:
+
+Battleships are the consumate planet defense ship; the great plasmas and
+torps can kill anything you can get a bead on.  One thing to watch out
+for is using your fuel too soon; if a DD fakes going for Earth, you fire
+all your torps at him and then he takes off for Altair, there's not much
+you can do; even if you can catch him before he takes the planet, you
+probably won't have much fuel left.  Also be wary of teams that are
+smart enough to send a fake cloaker in; if you chase the wrong guy,
+you'll never be able to get back in time to kill the right one.  Also
+watch out for guys that wait for you to come out on an ogging run and
+then cloak towards your home planet; if you don't notice soon enough,
+he'll be past you and you won't be able to turn around fast enough.
+
+------------------------------
+
+End of PLAYING BB
+*****************
+

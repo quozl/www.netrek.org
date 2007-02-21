@@ -1,0 +1,623 @@
+# Netrekrc
+# Erik Hietbrink / Shadow Hunter
+# Shadow.Hunter@netrek.org
+# V2.14.031021
+
+# default server and port
+
+#server:                 fisher.psy.vu.nl
+#port:                   2592
+
+#logfile: c:\NetrekXP\logfile.txt
+
+# setting short names
+#server.studs3: studs3.sci.kun.nl
+#server.studs2: studs2.sci.kun.nl
+#server.se: se.netrek.org
+#server.nl: nl.netrek.org
+#server.de: de.netrek.org
+#server.route66: rt66.com
+#server.fisher: fisher.psy.vu.nl
+#server.platon: platon.cs.rhbnc.ac.uk
+#server.legend: legend.cma.fr
+#server.force: force.wu-wien.ac.at
+#server.wormhole: wormhole.ecst.csuchico.edu
+#server.bigbang: bigbang.astro.indiana.edu
+#server.mean: mean.mu.caltech.edu
+#server.factoryx: factoryx.factoryx.com 
+#server.linkwood: linkwood.dcs.st-and.ac.uk
+#server.ido: ido.ling.gu.se
+#server.aberfeldy: aberfeldy.dcs.st-and.ac.uk
+#server.yucc: netrek.yucc.yorku.ca
+#server.castle: netrek.castle.net
+#server.bifrost: bifrost.atklab.yorku.ca
+#server.pita: pita.nms.unt.edu
+#server.realtime: continuum.real-time.com
+#server.dustbunny: dustbunny.physics.indiana.edu
+#server.flits: flits.cs.vu.nl
+#server.206: 206.7.94.4
+#server.sun1: sun1.bham.ac.uk
+#server.haifa: study.haifa.ac.il
+#server.hockey: hockey.ksu.edu
+#server.oldhag: old.hag.housing.washington.edu
+#server.gasoline: gasoline.idirect.com
+#server.celerity: netrek.celerity.net
+#server.eskel: eskel.dtek.chalmers.se
+#server.linkwood: linkwood.dcs.st-and-ac.uk
+#server.jole: jole.dtek.chalmers.se
+#server.dias: dias.umiacs.umd.edu
+#server.wn5: wn5.sci.kun.nl
+#server.kirk: kirk.ci.houston.tx.us
+#server.megalag: megalag.risc.uni-linz.ac.at
+
+# metaserver
+#metaserver:     carrier.cs.vu.nl
+#metaport:       3521
+# metaserver
+metaport: 3521
+metaserver: metaserver.netrek.org
+metaserver: metaserver.us.netrek.org
+metaserver: metaserver2.us.netrek.org
+metaCache: metaCache.txt
+
+# Control the amount of information that the MetaServer displays:
+#  0	Servers which have players but not a wait queue.
+#  1	+ Servers with a wait queue.
+#  2	+ Servers with nobody playing. (see NOTE1).
+#  3	+ Servers which have Timed Out for the MetaServer (see NOTE2).
+#  4	+ Servers which the MetaServer has not been able to connect to.
+metaStatusLevel: 2
+
+# show ping statistics in the metaserver window. Enabled by default.
+#metaPing: off
+
+
+showHints:off
+
+# PlanetBitmap: 0
+# 0 = bronco style bitmaps, 1 = Moo style bitmaps, 
+# 2 = Rabbit Ear bitmaps
+
+# disable in-game movement of client windows
+windowMove: off
+
+# disable resizing of main window (not in-game)
+mainResizeable: off
+
+# display AGRI planet names in capital letters on the map window
+agriCAPS: on
+
+# to choose between: 0 - owner race color, 1 - white, 2 - gray
+agriColor: 2
+
+#Use "phaserShrink" and "theirPhaserShrink" even if a phaser misses.
+#shrinkPhaserOnMiss: off
+
+#(integer 0-16) Don't draw the first "phaserShrink"/16 th of
+#your phaser.  This makes it easier to see incomming torps.
+phaserShrink: 16
+theirPhaserShrink: 0
+
+
+# phaser shrinks during rechange time: 0 - COW style, 1 - BRMH style
+phaserShrinkStyle: 1
+
+# show armies count on galactic
+showArmiesCount: on
+
+
+
+# font specificication
+
+# font:                 -*-clean-medium-r-normal--10-100-75-75-c-60-*
+# boldfont:             -*-clean-bold-r-normal--10-100-75-75-c-60-*
+# italicfont:           -*-clean-bold-r-normal--10-100-75-75-c-60-*
+# bigfont:              -adobe-helvetica-bold-r-normal--34-*-*-*-*-*-*-*
+
+# fill in name and password for auto-login
+name:                   Shadow Hunter
+#name:		 	DEADly Shadow
+#name:                  Shadow Hamster
+#name:                  SLIP Shadow
+#name:                  Londo Mollari
+#password:              ************ ;-)
+#name: guest
+login:                  ehb
+
+# shows shield status on tactical (left) display
+showshields:            on
+
+# stats are already shown so no extra window for it
+showstats:              on
+
+keeppeace:              on2
+reportkills:            on
+
+# shows things on tactical display
+extraAlertBorder:       on
+showmyspeed:            on
+showtractorpressor:     on
+varyShields:            on
+
+# use button- en keymap to make life easier: the keys come in pairs and
+# the first one is the old key and the second the new.
+#buttonmap:            1u2p
+buttonmap:            1T2p
+
+keymap:                 tTTtsX d0%5%$%#%dee%hHHhQqq[w]Wwurry3243Q
+#keymap:			q%a3wueTry ddDtlgoywut
+#keymap:			9%83c0tTTtsXoyyouppu7D d
+# nice graphics
+#newDashboard2:          on
+
+# make columns of players sorted by team
+sortPlayers:            on
+
+# show a lock-triangel on both the tactical and the glactic display
+showLock:               3
+
+#showgalactic:          1
+#showlocal:             1
+
+# (integer) length of time to wait on team selection screen
+# before Auto-quit exits for you.
+autoquit:		180
+
+
+# some connection settings
+tryUdp:                 on
+udpDebug:               off
+udpSequenceChk:         on
+tryShort:               on
+
+# this is int range
+udpClientSend:          3
+# 0=TCP  1 simple UDP  2 = enforced UDP (state only) 
+# 3 = enforced UDP (state & weap )
+udpClientReceive:       2
+# 0=TCP  1 simple UDP  2 = fat UDP (state only) 
+# 3 = double UDP (state & weap )
+
+forcemono:              off
+ignoreCaps: 		on
+
+#color.ROM:				tomato
+color.ROM:				#ffa080
+
+
+#repeating mouse buttons
+continuousMouse: on
+motionThresh: 0
+
+
+
+
+
+
+# The main window -- only map it when there's no wait queue
+netrek.geometry:        1017x814+0+0
+netrek.mapped:          off
+
+netrek.w32caption:      on
+Console.mapped:		off
+
+# Ok, on the left side we have a column of six windows; message, warning,
+# my messages, team messages, all messages, and the general review window.
+# The top four windows are partially overlapped by the graphic
+# stats window (but this is easily toggled on and off)
+
+message.parent:         netrek
+#message.geometry:       496x20-2+506     # crop for stat window (width 80)
+message.geometry:       423x20-2+506
+message.mapped:         on
+
+warn.parent:            netrek
+#warn.geometry:          496x20-2+527     # crop for stat window (width 80)
+warn.geometry:          423x20-2+527
+warn.mapped:            on
+
+review_your.parent:     netrek
+review_your.geometry:   81x4+0+547
+review_your.mapped:     off
+
+review_team.parent:     netrek
+review_team.geometry:   81x4+0+599
+review_team.mapped:     off
+
+review_all.parent:      netrek
+review_all.geometry:    81x4+0+651
+review_all.mapped:      off
+
+review_kill.parent:     netrek
+review_kill.geometry:   81x6+0+701
+review_kill.mapped:     off
+
+# If you want a really big review window (so that you can eg see all the
+# stats on a genocide), make the "review" lines above into "review_kill"
+# lines (or find some other use for the space), and uncomment the following:
+
+review.parent:          netrek
+#review.geometry:        81x21+0+548
+review.geometry:        81x25-2+548
+review.mapped:          on
+
+# With this setup, you can use "?" to cycle between the big review window, the
+# four small message windows, and no windows at all.
+
+stats.parent:           netrek
+stats.geometry:         80x80+422+506
+
+# On the right side we have tstats (which is useful for tournament,
+# tractor, pressor, repair, etc flags), plus the player list
+
+tstat.parent:           netrek
+tstat.geometry:         507x43+503+506
+tstat.mapped:           on
+
+player.parent:          netrek
+player.geometry:        84x25+503+550
+player.mapped:          on
+
+# Macro's
+# Please note that the total number of macro LINES may not exceed 75.
+
+# variables usable in macrolines:
+# %p: number of player closest to mouse pointer
+# %u: name of ENEMY player closest to mouse pointer
+# %b: planet closest to YOU
+# %l: planet closest to MOUSE POINTER
+# %a: Number of armies you carry
+# %n: Number of armies on targeted planetsS
+# %i: Your handle
+# %t: Your teamletter
+# %c: Your callnumber
+# %S: Your ship-type
+# %s: percentage shields
+# %d: percentage damage
+# %f: percentage fuelsO
+# %%: Percentage sign.. ;)
+# %?: Start of an if parameter, follow with %check
+# %{: Start of the instruction
+# %}: End of the instruction.
+
+# Ask for escort to planet pointed to with mouse pointer,
+# giving the number of armies carried by you and the number of armies
+# on the destination planet. Recipients: team
+#mac.e.T: Need escort, carrying %a to %l%?%n>-1%{ @ %n%}
+
+# Say to team to bomb the planet pointed to with the mouse pointer.
+#mac.b.T: %?%n>0%{Bomb %l @ %n!%}
+
+#mac.b.T: %?%n<0%{Touch %L!%!%?%n>4%{Bomb %!%}%L %?%n=0%{is neutral%!@ %n%}%}
+#mac.b.T: %?%n<0%{Touch %L!%!%?%n>4%{%?%T=%t%{Pick%!Bomb%} %!%}%L %?%n=0%{is neutral%!@ %n%}%}
+mac.b.T: %?%n<0%{Touch %L!%!%?%n=0%{%L is neutral%!%?%n<5%{%L @ %n%!%?%T=%t%{Pick %L @ %n%!Bomb %L @ %n%}%}%}%}
+
+
+# Say to team to protect the planet pointed to with the mouse pointer.
+
+#mac.z.%p: I am at %f%% fuel, %?%s=100%{full%!%s%%%} shld, %?%d=0%{no%!%d%%%} dmg%?%E=1%{, ETEMP%}%?%W=1%{, WTEMP%}%?%a=0%{%!, %a arm%?%a=1%{y%!ies%}%}
+#mac.z.%p: (%S+%a) %?%f<30%{ LOW%!%} fuel(%f%%) %?%s<30%{POOR %!%}%?%s<100%{Shds(%s%%) %!%}%?%d>60%{BAD %!%}%?%d>0 %{DMG(%d%%) %!%}%?%e>99%{ETEMP %!%?%e>50%{Etmp(%e%%) %!%}%}%?%w>99%{WTEMP %!%?%w>80%{Wtmp (%w%%) %!%}%}
+#mac.z.%p: (%S+%a) %?%f<30%{ LOW%!%} fuel(%f%%) %?%s<30%{ POOR%!%}%?%s<80%{ Shds(%s%%) %!%}%?%d>60%{ BAD%!%}%?%d>10%{ DMG(%d%%) %!%}%?%E=1%{ ETEMPED %!%?%e>50%{ Etmp(%e%%) %!%}%}%?%W=1%{ WTEMPED %!%?%w>80%{ Wtmp(%w%%) %!%}%}
+mac.z.%p: (%S+%a) %?%f<30%{ LOW%!%} fuel(%f%%) %?%s<30%{ POOR%!%}%?%s<60%{ Shds(%s%%) %!%}%?%d>60%{ BAD%!%}%?%d>30%{ DMG(%d%%) %!%}%?%E=1%{ ETEMPED %!%?%e>80%{ Etmp(%e%%) %!%}%}%?%W=1%{ WTEMPED %!%?%w>80%{ Wtmp(%w%%) %!%}%}
+
+mac.x.%p: Going to %L %?%n>0%{@ %n%}
+
+#mac.S.T: Stop/slow down/distract %h (%u) @ %L
+
+mac.A.T: Ogging %h (%u) @ %L   (%f%% fuel, %s%% shld, %d%% dmg)
+mac.O.T: %T%c is in no condition to ogg (%f%% f, %s%% s, %d%% d)
+
+
+
+
+
+# Say to team to take the planet pointed to with the mouse pointer.
+#mac.c.T: Take %l%?%n>-1%{ @ %n%}!
+
+#mac.a.T: %p++ @ %L
+mac.a.T: %?%p=%h%{%?%K>0%{%p++ @ %L%!%}%!%}
+
+# Say to team to protect the planet pointed to with the mouse pointer.
+mac.w.T: Warning! Protect %l%?%n>-1%{ @ %n%}!
+
+# Status team report
+mac.Z.T: %?%S=SB%{SB %}Status: %?%d=0%{No%!%d%%%} dam, %?%s=100%{full%!%s%% %} shlds, %f%% fuel,%?%E=1%{ E-temped,%}%?%W=1%{ W-temped,%} %?%a=0%{NO%!%a%} armies (%_#)
+
+# Ogg base
+mac.o.T: ** %T%c, %S, is thinking about a   BASE OGG   **
+mac.h.T: GET READY FOR BASEOGG (in 30 secs)
+mac.H.T: ### OGG BASE ### OGG BASE ### OGG BASE ####
+mac.W.T: % _    _  _ ____ _  _ ____    _ _ _ ___ _  _ ___    /
+mac.W.T: % |    |__| |__| |  | |___    | | |  |  |\/| |__]  /
+mac.W.T: % |    |  | |  |  \/  |___    |_|_|  |  |  | |    .
+#mac.P.T: /~\ /~_ /~_    ~|~ |_| (~    |~)  /\ (~ (~  | | | 
+#mac.P.T: \_/ \_/ \_/     |  | | (_    |_) /~~\_) (_  . . .
+mac.X.T: +                                                     +
+mac.X.T: | HELP YOUR BASE!  BREAK THAT WAVE!  BREAK THAT WAVE! |
+mac.X.T: +                                                     +
+
+
+# Repeat last macro.
+mac.m: %m
+
+# Repeat last macro capitalized.
+mac.M: %M
+
+# Lag report
+mac.l: My lag is %v average, %V std-dev and %y%% loss
+
+mac.D.A: :::::::.   .:::::.   .:::::.   .::::::: :::   :::   :::  :::  :::
+mac.D.A: :::   ::: :::   ::: :::   ::: :::       :::   :::   :::  :::  :::
+mac.D.A: :::   ::: :::   ::: :::   :::  `:::::.  :::::::::   :::  :::  :::
+mac.D.A: :::   ::; :::   ::; :::   ::;       ::; :::   :::
+mac.D.A: ::::::;'   `::::;'   `::::;'  ::::::;'  :::   :::   :::  :::  :::
+
+#mac.[.A: %   ___ _ __  _
+#mac.[.A: %  / _ \ '_ \| |    The European Netrek League is a tournament league
+#mac.[.A: % |  __/ | | | |__  through which various teams get together to play
+#mac.[.A: %  \___|_| |_|____| organised netrek games.
+#mac.[.A: %
+#mac.].A: %     EUROPEAN      If you are interested in playing netrek at a high
+#mac.].A: %      NETREK       level join the league. Email to enlc@solace.mh.se
+#mac.].A: %      LEAGUE       about joining an existing team or forming your own 
+#mac.].A: %  
+#mac.].A: % Read more at:     http://pmwww.cs.vu.nl/service/Netrek/enl/join.html
+
+#mac.9.A:%  _  _   __   ___  ___  _  _   ___   _  _   __   ___   _  _  ___  _
+#mac.9.A:% ( )( ) /  \ (   )(   )( )( ) (   \ ( )( ) /  \ (   ) ( )( )( __)/ )
+#mac.9.A:% ( __ )( /\ )( O_)( O_)( \/ ) ( |) )( /\ )( /\ )( O ) ( )( )( _) \ \
+#mac.9.A:% (_)(_)(_)(_)(_)  (_)   (__)  (___/ (_/\_)(_)(_)(_)\_\ \__/ (___)(_/
+#mac.9.A:% Your Worst NightMare! (http://)
+
+#mac.8.A:% :::::::.   .:::::.  :::   :::  ::::::::: :::::::::   :::  :::  :::
+#mac.8.A:% :::   ::: :::   ::: :::   :::  :::          :::      :::  :::  :::
+#mac.8.A:% :::   ::: :::   ::: :::   :::  :::::::      :::      :::  :::  :::
+#mac.8.A:% ::::::;'  :::   ::: :::   :::  :::          ::: 
+#mac.8.A:% :::        `::::;'   `::::;'   :::::::::    :::      :::  :::  :::
+
+#mac.8.A:%       _ _ _            _     ____    The official macro [tm] 
+#mac.8.A:%      | (_) |_ ___  ___| |__ / ___| _   ___  __
+#mac.8.A:%   _  | | | __/ _ \/ __| '_ \\___ \| | | \ \/ /
+#mac.8.A:%  | |_| | | ||  __/\__ \ | | |___) | |_| |>  < 
+#mac.8.A:%   \___/|_|\__\___||___/_| |_|____/ \__,_/_/\_\
+
+#mac.5.A: %  _____  __   __  _____  __  __  __  _____  _____  __    __
+#mac.5.A: % /     \|  |_|  |/  _  \|  ||  \|  |/  ___>/  _  \|  |/\|  |
+#mac.5.A: % |  <--<|   _   ||  _  ||  ||      |\___  \|  _  ||        |
+#mac.5.A: % \_____/|__| |__|\_/ \_/|__||__|\__|<_____/\_/ \_/ \__/\__/
+
+#mac.6.A: %  __   __  _____  __  __  _____  ______  _____  _____  _____
+#mac.6.A: % |  |_|  |/  _  \|  \/  |/  ___>|_    _||  ___||  _  \/  ___>
+#mac.6.A: % |   _   ||  _  ||      |\___  \  |  |  |  ___||     /\___  \
+#mac.6.A: % |__| |__|\_/ \_/|_|\/|_|<_____/  |__|  |_____||__|__\<_____/
+
+#macro.1.A:  %      _       _        _ 
+#macro.1.A:  %   __| |_   _| |_  ___| |__
+#macro.1.A:  %  / _` | | | | __|/ __| '_ \
+#macro.1.A:  % | (_| | |_| | |__ (__| | | |
+#macro.1.A:  %  \__,_|\__,_|\__|\___|_| |_|
+
+#macro.1.A:  %      _                 _
+#macro.1.A:  %   __| |_ ___   _ _ __ | | __
+#macro.1.A:  %  / _` | '__/| | | '_ `| |/ / 
+#macro.1.A:  % | (_| | | | |_| | | | |   (   
+#macro.1.A:  %  \__,_|_|  \__,_|_| |_|_|\_\ 
+
+#macro.2.A:  %              _   
+#macro.2.A:  %     ___ _  _| |_ _ __ __ _ 
+#macro.2.A:  %    / _ \ \/ / __| '__/ _` |  
+#macro.2.A:  %   |  __/)  (| |_| | | (_| |    
+#macro.2.A:  %    \___|_/\_\\__|_|  \__,_|     
+
+#macro.3.A:  %                                          _
+macro.3.A:  %   b   __ _  ___  ___ _ __ ___  ___  ___ |_|_   _ ___ 
+macro.3.A:  %      / _` |/ __|/ __| '__/ _ \/ __|/ __|| | | | / _ \ 
+macro.3.A:  %     | (_| | (_ \ (_ \ | |  __/\__ \\__ \| | |/ /  __/ 
+macro.3.A:  %      \__,_|\___/\___/_|  \___||___/|___/|_|\__/ \___|
+
+macro.4.A: %  ____  See the NETREK  ___  _      HTTP://facefiles.netrek.org/
+macro.4.A: % |  __|__ _  ___  ___  |  _|(_)_    ___  ___ 
+macro.4.A: % | |_ / _` |/ __|/ _ \ | |_ | | |  / _ \/ __|
+macro.4.A: % |  _| (_| | (__|  __/ |  _|| | |_|  __/\__ \  SUBMIT NOW !!
+macro.4.A: % |_|  \__,_|\___|\___| |_|  |_|___|\___||___/  (and get free DI)
+
+#macro.4.A:  %            _           _   
+#macro.4.A:  %         __| |_   _  __| | ___  ___ 
+#macro.4.A:  %        / _` | | | |/ _` |/ _ \/ __|
+#macro.4.A:  %       | (_| | |_| | (_| |  __/\__ \
+#macro.4.A:  %        \__,_|\__,_|\__,_|\___||___/
+
+#macro.0.A:  %      _                _                o        
+#macro.0.A:  %   __| | ___  __ _  __| |     DUTCH     |888888888
+#macro.0.A:  %  / _` |/ _ \/ _` |/ _` |     EXTRA     |        | 
+#macro.0.A:  % | (_| |  __/ (_| | (_| |   AGRESSIVE   |#########
+#macro.0.A:  %  \__,_|\___|\__,_|\__,_|     DUDES     |
+
+macro.R.A:% __________ ________   ________   ____  __.______________ _________
+macro.R.A:% \______   \\_____  \  \_____  \ |    |/ _|   \_   _____//   _____/
+macro.R.A:%  |       _/ /   |   \  /   |   \|      < |   ||    __)_ \_____  \ 
+macro.R.A:%  |    |   \/    |    \/    |    \    |  \|   ||        \/        \
+macro.R.A:%  |____|___/\_________/\_________/____|___\___/_________/_________/
+
+# "Shadow Hunter" with upper left corner car.
+#mac.J.A: %> 
+
+
+
+  
+  
+  
+
+
+
+  
+
+
+    
+
+   
+   
+    
+  
+  
+  
+  
+  
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+#mac.J.A: %> 
+     
+  
+  
+  
+  
+  
+  
+  
+  
+   
+    
+  
+  
+  
+  
+
+ 
+  
+  
+   
+  
+  
+#mac.J.A: %> 
+
+
+
+  
+
+
+
+  
+
+
+
+  
+  
+  
+  
+  
+ 
+ 
+    
+
+
+
+  
+  
+  
+ 
+
+  
+  
+
+
+ 
+
+
+  
+#mac.J.A: %>    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+    
+  
+  
+  
+  
+  
+  
+  
+   
+  
+     
+#mac.J.A: %> 
+
+
+
+  
+  
+  
+  
+  
+
+
+    
+
+   
+   
+    
+  
+  
+
+
+
+  
+  
+  
+  
+
+
+ 
+  
+ 
+
+# ___ ___ __           __   ______ _______ ________ _____   _______ 
+#|   |   |  |.---.-.--|  | |   __ \    ___|  |  |  |     |_|     __|
+#|   |   |  ||  _  |  _  | |      <    ___|  |  |  |       |__     |
+# \_____/|__||___._|_____| |___|__|_______|________|_______|_______|
+
+#mac.L: http://studs.sci.kun.nl:8011/users/ehb/players/
+
+#mac.N.A: %   ____/\ ___ _____   _       /\  _   _   _/\   _   _  ________
+#mac.N.A: %  | ___| \   \_   _|_| |     /  \| | | | | | \ | \ | |/ __/  __|
+#mac.N.A: %  | __|_  \  / | |  _  |    /    \ |_| |_| |  \|  \| | |__| __|_
+#mac.N.A: %  |     |  \ \ | | | | |   /  __  \   |   ||_  \     |     \    |
+#mac.N.A: %  \_____|\__\_\|_|_| |_|  /__/  \__\__|___|| \__\|\__|\____/____|
+
+#mac.5.%u: % ************ READ THIS ** READ THIS ** READ THIS ******************
+#mac.6.%u: % This is a clue server, you MUST read messages on the game
+#mac.7.%u: % To verify, try to answer the following question.                 
+#mac.8.%u: % Are you a _regular_ european Netrek player, subscribed to the
+#mac.9.%u: % euroclue mailinglist? No? Wrong answer. Go subscribe TODAY!
+#mac.0.%u: % More info on http://pmwww.cs.vu.nl/service/Netrek/enl/euroclue.html
+#mac.0.%u: % *******************************************************************
+
+#mac.N.A: %  ________________________(advertisement)___________________________
+#mac.N.A: % |                                                                  |
+#mac.N.A: % |              THIS COULD HAVE BEEN *YOUR* MACRO!                  |
+#mac.N.A: % |                                        (donations to 27.14.455)  |
+#mac.N.A: % |__________________________________________________________________|
+
+#mac.4.A: %  ____  See the NETREK  ___  _      HTTP://facefiles.netrek.org/
+#mac.4.A: % |  __|__ _  ___  ___  |  _|(_)_    ___  ___ 
+#mac.4.A: % | |_ / _` |/ __|/ _ \ | |_ | | |  / _ \/ __|
+#mac.4.A: % |  _| (_| | (__|  __/ |  _|| | |_|  __/\__ \  SUBMIT NOW !!
+#mac.4.A: % |_|  \__,_|\___|\___| |_|  |_|___|\___||___/  (and get free DI)
+
+

@@ -1,0 +1,97 @@
+This season we have 13 teams, and again we have a lot of parity, with
+at least 6 teams having a shot at the title.  Once again we will be
+splitting the teams into two divisions and running a round robin in
+each division (each team plays every other team).
+
+Since the number of teams is odd, Division 2 will have one more game to play
+than Division 1; if a team drops out early, we may do some reshuffling.
+Division 2, especially, will have a lot of regular-season games; GET
+SCHEDULED EARLY so we don't have to worry about forfeits and unplayed games.
+
+There will be a 4-team playoff between the two top teams from each division.
+The format and the manner of selection will be the same as in previous
+seasons.
+
+The teams were divided randomly, using a perl script I wrote specifically
+for this task.  The perl script, and a transcript of my session, are
+available upon request.  If you are not satisfied with a transcript of
+my session as verification, I suggest you seek professional help.
+
+Rosters, this file, and all other INL-related documents may be obtained via
+anonymous FTP from ftp.csua.berkeley.edu, /pub/netrek/INL, or via WWW at
+http://indigo2.medeng.bgsm.edu/~ahn/INL/.  The INL Council may be reached
+at inlcouncil@csua.berkeley.edu; INL captains and schedulers may be reached 
+at inlcaptains@csua.berkeley.edu.
+
+Schedule:
+
+2/9: Schedule released.
+2/26: At least ONE game should be complete.
+3/11: At least TWO games should be complete.
+3/25: At least THREE games should be complete.
+3/26: TRADE DEADLINE; no players may change rosters after this date.  New
+        players may be added to a roster still.
+4/1: At least FOUR games should be complete.
+4/8: At least FIVE games should be complete (Division 2).
+4/15: REGULAR SEASON ENDS.  ALL GAMES SHOULD BE COMPLETE.
+4/17: Playoff pairings released.
+4/29: First playoff round complete.
+
+Division 1
+
+Old Dirty Buttorpers
+The Usual Suspects
+Hockey Night In Canada
+99 Cent Value Meal
+Lagg U
+Golden Bears
+
+Division 2
+
+EuroTwinks
+Team Asterix
+Magnum Opus
+Team 80s
+The Milkmen
+Team Tuber
+SMACK Pack
+
+
+Division 1:
+
+Old Dirty	Usual Suspects	Hockey Night	99 Cent Value Meal
+
+Vs Usual	At ODB		Vs ODB		At ODB
+At HNIC		Vs HNIC		At Usual	Vs Usual
+Vs 99 Cent	At 99 Cent	Vs 99 Cent	At HNIC
+At LaggU	Vs LaggU	At LaggU	Vs LaggU
+Vs GB		At GB		Vs GB		At GB
+
+LaggU		Golden Bears
+
+Vs ODB		At ODB
+At Usual	Vs Usual
+Vs HNIC		At HNIC
+At 99 Cent	Vs 99 Cent
+Vs GB		At LaggU
+
+
+Division 2:
+
+EuroTwinks	Team Asterix	Magnum Opus	Team 80s
+
+Vs T*		At ET		Vs ET		At ET
+At Magnum	Vs Magnum	At T*		Vs T*
+Vs 80s		At 80s		Vs 80s		At Magnum
+At Milkmen	Vs Milkmen	At Milkmen	Vs Milkmen
+Vs Team Tuber	At Team Tuber	Vs Team Tuber	At Team Tuber
+At SMACK	Vs SMACK	At SMACK	Vs SMACK
+
+Milkmen		Team Tuber	SMACK Pack
+
+Vs ET		At ET		Vs ET
+At T*		Vs T*		At T*
+Vs Magnum	At Magnum	Vs Magnum
+At 80s		Vs 80s		At 80s
+Vs Team Tuber	At Milkmen	Vs Milkmen
+At SMACK	Vs SMACK	At Team Tuber

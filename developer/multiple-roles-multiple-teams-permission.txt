@@ -1,0 +1,150 @@
+From - Sun Mar 14 14:27:06 2004
+BCC:  ehb@publishnet.nl
+Message-ID: <40545DA9.6090107@netrek.org>
+Date: Sun, 14 Mar 2004 14:27:05 +0100
+From: "E. Hietbrink" <Shadow.Hunter@netrek.org>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.6) Gecko/20040113
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: Tedd Hadley <hadley@reliant.yxi.com>, 
+ Marcus Huber <marcush@cse.ogi.edu>
+Subject: Netrek publicaton request: "Multiple Roles, Multiple Teams, Dynamic
+ Environment: Autonomous Netrek Agents"
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+I hope I've contacted the correct Tedd Hadley and Marcus Huber, who loooong ago
+wrote the paper:
+
+"Multiple Roles, Multiple Teams, Dynamic Environment: Autonomous Netrek Agents,"
+Proceedings of the First International Conference on Autonomous Agents (AA),
+Marina del Rey, CA, February 1997, pgs 332-339.
+
+I am the current maintainer of the Netrek Homepage (www.netrek.org), currently
+in the process of a long due update of those webpages. Yes, it means Netrek is
+still alive! ;-) Since recently someone had the bright idea of advertising
+Netrek on download.com and several other download sites, we are seeing a nice
+influx of new players again!
+
+Now my request: on http://www.netrek.org/developer.html we mention your paper.
+It would be nice if we could actually provide it directly. Actually I could
+link already directly to CiteSeer: http://citeseer.ist.psu.edu/27115.html,
+but I would like to get permission from the authors first.
+
+Can I put up a copy of the paper for the netrek community?
+
+Regards,
+Erik Hietbrink
+(Shadow.Hunter@netrek.org)
+
+
+
+
+
+From - Sun Mar 14 18:56:33 2004
+X-UIDL: 20040314163357.AAA.c9164214
+Return-Path: <marcush@marcush.net>
+Received: from smtp.pn.nl ([127.0.0.1]) by sparky.publishnet.nl
+          (Netscape Messaging Server 3.54)  with ESMTP id AAA20DC
+          for <ehb@publishnet.nl>; Sun, 14 Mar 2004 17:33:56 +0100
+Return-path: <marcush@marcush.net>
+Received: from pace.mosquito.net ([213.239.192.3])
+	by smtp.pn.nl (smtp.pn.nl [212.241.49.8])
+	(MDaemon.PRO.v7.0.0.R)
+	with ESMTP id 38-md50000000431.msg
+	for <ehb@publishnet.nl>; Sun, 14 Mar 2004 17:34:42 +0100
+Received: (qmail 7705 invoked by uid 103); 14 Mar 2004 16:35:01 -0000
+Delivered-To: netrek-Shadow.Hunter@netrek.org
+Received: (qmail 7702 invoked from network); 14 Mar 2004 16:35:01 -0000
+Received: from fed1mtao05.cox.net (68.6.19.126)
+  by pace.mosquito.net with SMTP; 14 Mar 2004 16:35:01 -0000
+Received: from marcus ([68.107.6.106]) by fed1mtao05.cox.net
+          (InterMail vM.5.01.06.08 201-253-122-130-108-20031117) with ESMTP
+          id <20040314163431.GWYV2180.fed1mtao05.cox.net@marcus>
+          for <Shadow.Hunter@netrek.org>; Sun, 14 Mar 2004 11:34:31 -0500
+Reply-To: <marcush@marcush.net>
+From: "Marc Huber" <marcush@marcush.net>
+To: "'E. Hietbrink'" <Shadow.Hunter@netrek.org>
+Subject: RE: Netrek publicaton request: "Multiple Roles, Multiple Teams, Dynamic Environment: Autonomous Netrek Agents"
+Date: Sun, 14 Mar 2004 08:34:20 -0800
+Organization: Intelligent Reasoning Systems
+Message-ID: <002601c409e2$338ffdb0$b100a8c0@marcus>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+In-Reply-To: <40546090.1040604@netrek.org>
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4807.1700
+Importance: Normal
+X-MDRcpt-To: ehb@publishnet.nl
+X-Rcpt-To: ehb@publishnet.nl
+X-MDRemoteIP: 213.239.192.3
+X-Return-Path: marcush@marcush.net
+X-MDaemon-Deliver-To: ehb@publishnet.nl
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on smtp
+X-Spam-Status: No, hits=0.0 required=7.0 tests=none autolearn=no version=2.63
+X-Spam-Level: 
+X-Spam-Processed: smtp.pn.nl, Sun, 14 Mar 2004 17:34:42 +0100
+X-MDAV-Processed: smtp.pn.nl, Sun, 14 Mar 2004 17:34:42 +0100
+
+Hi Erik,
+
+Boy, it's been a LONG time since I did any Netrek "domain knowledge
+acquisition". :) Sure, feel free to offer the paper directly from the
+Netrek.org site. That might violate a copyright with whichever publisher
+holds that paper but nobody will complain.
+
+Glad to hear Netrek's still going strong. I went to play a while back
+but my old .netrekrc file busted the client I downloaded and I never got
+around to modifying it.
+
+-Marc "Your mother" Huber
+
+  > -----Original Message-----
+  > From: E. Hietbrink [mailto:Shadow.Hunter@netrek.org] 
+  > Sent: Sunday, March 14, 2004 5:39 AM
+  > To: Marcus Huber
+  > Subject: Netrek publicaton request: "Multiple Roles, 
+  > Multiple Teams, Dynamic Environment: Autonomous Netrek Agents"
+  > 
+  > 
+  > Hi,
+  > 
+  > I hope I've contacted the correct Tedd Hadley and Marcus 
+  > Huber, who loooong ago
+  > wrote the paper:
+  > 
+  > "Multiple Roles, Multiple Teams, Dynamic Environment: 
+  > Autonomous Netrek Agents,"
+  > Proceedings of the First International Conference on 
+  > Autonomous Agents (AA),
+  > Marina del Rey, CA, February 1997, pgs 332-339.
+  > 
+  > I am the current maintainer of the Netrek Homepage 
+(www.netrek.org), currently
+in the process of a long due update of those webpages. Yes, it means
+Netrek is
+still alive! ;-) Since recently someone had the bright idea of
+advertising
+Netrek on download.com and several other download sites, we are seeing a
+nice
+influx of new players again!
+
+Now my request: on http://www.netrek.org/developer.html we mention your
+paper.
+It would be nice if we could actually provide it directly. Actually I
+could
+link already directly to CiteSeer:
+http://citeseer.ist.psu.edu/27115.html,
+but I would like to get permission from the authors first.
+
+Can I put up a copy of the paper for the netrek community?
+
+Regards,
+Erik Hietbrink
+(Shadow.Hunter@netrek.org)

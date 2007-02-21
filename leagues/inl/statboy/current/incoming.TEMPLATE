@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Incoming Game Statistics</title>
+</head>
+<body bgcolor=000000 text=70e0e0 link=ffd700 vlink=5ddf70 alink=490d80>
+<link rev="made" href="mailto:ahn@indigo2.medeng.bgsm.edu">
+<h1>Incoming Game Statistics</h1>
+<hr>
+<pre>
+Time:         
+Server:       
+</pre><p>
+<h3>Summary</h3>
+(none submitted)
+<h3>Statistics</h3>
+<li><a href="Conquer"> Conquer</a>
+<li><a href="Logins"> Player Logins</a>
+<li><a href="PWstats"> PW Style Stats</a>
+<li><a href="SnidlyStats"> Snidly Style Stats</a>
+<li><a href="MiniLog"> Planet transition Logs</a>
+<li><a href="MessageLog"> Message Logs</a>
+</html>

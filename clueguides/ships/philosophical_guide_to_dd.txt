@@ -1,0 +1,398 @@
+From: polaris@wam.umd.edu (John M Cho)
+Subject: Philosophical Guide To the DD
+Date: 1996/08/27
+Message-ID: <4vtjtv$5a1@dailyplanet.wam.umd.edu>
+organization: University of Maryland, College Park, MD
+newsgroups: rec.games.netrek
+
+
+
+Subject: Philosophical Guide To the DD
+Newsgroups: rec.games.netrek
+Summary: 
+Keywords: 
+
+Oh well, here we go again... Have to put up my bi-annual post on the
+DD... 
+
+This has been slightly updated. :)
+			
+I wish to post this philosophical view of the DD on this newsgroup in
+hopes of promoting the DD as a valuable ship.  I do believe many INL 
+teams still look at the DD with some suspicions on its ability to 
+compete effectively in a team-effort.  I am thoroughly convinced that
+yes it can fill a niche and be an asset to a team (not necessarily all
+teams).
+
+Q: So why are you really posting this?
+
+A: Being a pilot who prefers the DD, I am interested in seeing a new
+   batch of deadly, cunning, and talented DD pilots in Netrek.
+
+Q: So what makes you an authority on the subject?
+
+A: Well, I do not profess to be the best DD player there is (by any
+   stretch of the imagination), but having played alot in DDs, I know
+   what a good DD pilot does.  Aside from that, perhaps my insights 
+   may provide other potentially promising DDs to raise their game up
+   a notch... Maybe.
+
+Here goes...
+
+I've read Hill's playing-dd.Z file as well as the playing-dd-alt.Z.
+In addition, I've also read strategy.Z, teamwork.Z, hints.Z,
+ship-opinions.Z, etc...etc... And I must say, I'm really glad I
+had the opportunity to read them.  I really appreciate the insight.
+Yet, as much as I agree with alot of what has been said, I believe
+that DDs can be played many different ways, with the style varying 
+due to a player's preference... I wish to explain my observations
+and what I see in the DD as a warship.  I certainly welcome any 
+SERIOUS discussion on the matter.  I understand alot of vets out
+there who use to play the DD are now violently against their use
+over the CA.  Maybe I'm just a fool...but I am convinced the DD
+stands as a ship that is unique and deadly when used correctly.
+
+***You Want Me To Fly A Destroyer?***
+
+I think its important to realize that not everyone is going to play 
+the DD... Why?  Because not everyone likes to play the type of game 
+a DD pilot must play... Thats what makes Netrek so cool; the ship
+variations provide for numerous styles and strategies.  Someone who
+is into heavy firepower, strong shields, and strong tractor/pressors
+is more likely to seek out a BB rather than the DD.  My concern is
+that those who do NOT play the DD may unjustly "rag" on the ship, 
+simply on the basis that its not the ship they'd be caught in.  And,
+even more destructive, dogmatically tell others that (obviously 
+because they "know" the game), the DD is not for them either.  On the 
+other hand, I believe the DD is not the ship for every situation.  
+During LPS, the BB is definitely the clear choice.  In bombing and 
+taking, the AS is by far the most obvious choice.  Then again, I
+doubt you know alot of AS oggers... Yes, the game, with its ever
+changing situations, does require the use of different ships at 
+different times for optimum results.  But lets just suppose...
+
+...you got trapped in a DD... How can a DD best handle the different
+situations its suited and not suited for?  
+
+***Pilot Qualifications***
+
+You know, its the pilot that makes a ship feared... And in my opinion,
+the DD is one of the most difficult ships to "drive".  So what sort of
+pilot should be flying a DD?  
+
+1)	How about a patient one for starters?  One who is not so jumpy.
+When I say patient, I am referring to the not-so-trigger-happy type.
+The ones who do not go into a berserker rage and charge the enemy line
+with phasers and torps flying wildly about. The reason for this is 
+simply put in one word:  FUEL.  DDs easily run out of fuel if you get
+into Rambo mode.... They just aren't designed to unload indefinitely.
+In addition to that, their weaponry is fairly weak... And only a focused
+burst of phasers and torpedos are going to give results. 
+
+2)	One who watches the Galactic...alot.  Now I know this is a 
+requirement for clue in general.  But I think DDs need to watch the
+galactic more than the average clued player.  Why?  A DD putting around
+the galaxy without any sort of mission or idea of what is going on is
+useless.  A DD can't just charge into an area and do whatever it wants.
+Most players in larger ships that have played for a while really look
+at the DD as an EZ kill.  But, a DD that is keyed on situations occurring
+around him can be their at the right time to do the right thing....with
+(I might add) deadly results.  
+
+3)	Someone who has excellent hand/eye coordination.  A SC can turbo
+out of a bad situation, a CA can fight his way out, an AS can take the 
+damage and crawl out, and the BB can fight his way out AND take damage.
+A DD knows it can't do any of these things (that well)...except maybe
+sneaking out.  But sneaking around (cloaking) will not solve all of
+your problems if you have 3 ships after you.  Thus, the ability to dodge
+streams of torps and fit through the little gaps is imperative.  The hull
+is not strong enough to det for any length of time...dodging is the
+way to go when torps are raining.
+
+4)	Someone who is not afraid to die.  DDs have traditionally been told
+to "FLEE" or run when in tight situations.  Though a good DD pilot knows
+how to do this well, he also knows when to NOT run and face the possibility
+of death for the betterment of the team.... That may mean anything from 
+detting, to ogging, to tractoring an ogger.
+
+***Skills Worth Having***
+
+Vectorsense.
+
+DDs like any other ship on the game is subject to the basic laws of 
+vectors.  I think it is IMPERATIVE that the DD pilot obtain a good
+sense of vectors in this game... Yeah, when you are flying parallel at
+the same speed with the enemy, you don't move the site on his icon and fire...
+You know your torps are going to miss... But moving your site ahead of
+the CA (depending on how fast both of you are going) will allow for your
+torps to hit on the dot.  Vectorsense is a learned trait that only comes
+after alot of practice... It also serves well in dogfights... With 
+superior maneuverability compared to the larger ships, vectorsense allows
+you to "lead" a ship into your torps.  This trait allows for you to
+be precise and conserves fuel... Why?  Because, every torp you shoot
+is fuel thrown at the enemy... With this skill mastered you can try other
+variations like charging past a ship rather than having to lock on him
+directly.  With alot of cocky SC, CA, and BB players out there...superior
+vectorsense can really put them in their place.
+
+Rangesense.
+
+The DD is just not the ideal ship for closed in fighting.  If you like
+closed in fighting, you should reconsider using a DD.  A good DD knows
+when he is too close to a ship, especially in terms of tractors and 
+phasers.  By keeping your range just at the end of their phaser range,
+your DD stands a very good chance of survival.  Usually a DD closes in
+on the kill when it knows the other ship is damaged and out of fuel or
+knows how to weave through streams of torps.  Do not venture to close, 
+or you will realize why so many label the DD as "D'Crunchy" (as Wreck 
+so affectionately coined the term).
+
+6thsense.
+
+Know thy enemy... It is so important to know how the enemy thinks.
+For instance experience tells me that a CA who is keeping me preoccupied
+in a dogfight is doing just that...keeping me preoccupied.  But why?
+Questions should be coming into your mind.  Is he clueless?  Is he 
+holding me back while a planet is being taken?  Am I about to be ogged
+by a second ship?  Another situation is when you are maybe pinning
+down an enemy carrier...say chasing him into 3rd space.  Enough experience
+in this matter will allow you to guess if he is going to cut or evade
+or speed for a fuel planet.  Is the enemy CA you are targetting for a
+good ogging, traveling at warp 2, faking it?  Is that other DD really out
+of fuel or trying to draw you close?  These are questions that you should
+address constantly.  These intangibles are extremely valuable to the DD.  
+Again, its important to realize that the DD rides a fine line between 
+being a liability to a team OR an asset.  Engaging with a CA with no real
+purpose or motive at hand is a liability to the team, ESPECIALLY in a DD.
+
+Commonsense.
+
+Overextension beyond your limitations will always be detrimental.  If
+you enter a combat area where you are a DD and there are two enemy
+CAs on your tactical, you know your chance of surviving is slim if
+you engage.  Learn to run.  Learn to watch your fuel.  Unless the target
+is worth it, if you are badly damaged and out of fuel, don't try to
+finish the enemy BB off... Learn to go heal your wounds to fight another
+day.  Take into account what is in your general region?  Are you behind
+enemy lines?  Where is the nearest place I can repair or refuel or both?
+Can I expect help from my team-mates?  How much fuel do I have left...
+Don't let the enemy taunt you... Hey if they died because they got
+butt-torped by you...they obviously did not have as much commonsense as
+you did.  The basic gist is to know your limitations.  In a DD, this is
+very critical because of its lack of strengths with respect to other 
+ships in specific roles.
+
+***Solutions To Conflicts***
+
+Ogging.
+
+DDs are effective oggers.  They have good speed, great Etemp, and do
+not consume as much fuel as the other ships (save the AS) when cloaked.
+Some things need to be noted.  A DD will not be able to kill an AS or
+a BB simply by exploding on it... A DD must be able to dish out a good
+salvo of torps and get two good closed in phaser shots to successfully
+ogg an AS or a BB (and you generally still have to explode on them).  CAs
+and SCs can be ogged without having to mutual with them...but that is
+easier said than done... 
+
+1) I'm-(not really)-leaving-Oggs.  Nothing like passing by your target ship,
+pretending to be clueless, or lagged, or just unaware... Slipping off their
+tactical.  Cloaking and locking on them...and ogging them...  You'd be 
+surprised how many players just totally write you off when you seem to 
+passively drift off their tactical.  NOTE: Though all clued players will
+one time or another fall for this, generally clued players keep an eye on
+their galactic... Not to mention, they will take notice when the Red Alert
+flag appears on their screen.  Be cautious, use commonsense... If they are
+speeding up and you are directly behind them, get ready to be butt-torped.
+
+2) You're-Too-Busy-To-Notice-Me-Oggs.  When you can see a carrier
+preoccupied with running from/dogfighting with another of your team,
+thats a great time to cloak and ogg.  Nothing like a nice blindside
+blast.  
+
+3) I'm-(not really)-not-going-to-engage-Oggs.  This is really a very
+advanced form of ogging.  But to be able to cloak while the enemy
+watches you...speed past him or position yourself coming from another
+direction and then uncloaking can really take him by surprise.  I've
+watched DDs cloak as they were headed toward me on my tactical... And
+then 2-3 seconds later appear from a diagonal direction unleashing
+bloody hell.  
+
+4) All-out-standard-Oggs.  To key in on a carrier or target ship from
+your galactic and then to cloak and at full speed approach him.  At the 
+point you reach him tactically, you have two options... You can lock
+onto him and then at full speed uncloak and unload... Or you can uncloak
+near him and speed past him unloading... Of course the latter option 
+allows you to live, whereas the former generally results in mutualing.
+The problem with the latter is that it is easier for them to evade
+your shots.  The former's problem is a matter of the enemy butt-torping
+you into oblivion (hence the term stupid ogging)
+
+
+Planet-taking.
+
+DDs are great for planet taking...but only on certain situations.  DDs,
+with an effective escort, can and will take planets quickly and more 
+efficiently than an AS when on the offensive.  I see only one major rule
+in planet taking... WATCH THE GALACTIC.  If you see the enemy or a ??
+converging on your ship do not try to take so quickly... Nothing wrong 
+with flying over the planet and circling around it to allow the enemy
+to empty their fuel tanks before you drop... In addition, your escorts
+need to be given a chance to either get in position to det or to eliminate
+the enemy.  Be watchful for opportunities to drop... Your escorts can't 
+guarantee a totally safe drop... When dealing with one or two enemy craft,
+try to dodge their streams of 8 torps...and drop right after you clear
+them... The enemy will not be able to fire another set until the torps
+disappear or they det them themselves... Don't hesitate to have a second
+planet to take in case your initial one is too hairy... The DD makes some
+pretty sweet sharp turns at warp 5...and can accelerate at a reasonable 
+rate to totally lose the enemy ships...
+
+Escorting.
+
+If you ever get caught having to escort in a DD...know this...you stand
+little chance of survival if the target you are escorting is being 
+heavily ogged... Suggestion...DET and fire back.  A great way to prevent
+the oggers from coming in (especially if they are coming in from one 
+direction) is to fire torps at them and charge them while holding the 
+det key... As they try to shoot torps past you...you just suck um in.
+Oh yeah, you will die.  But believe me, your carrier will have enough
+time to put down 2-3 armies.  By the way, this tactic should be done
+when they are firing streams of torps at tactical range.... If the torps
+are in a spread formation...detting will buy more time for your carrier.
+Another tactic if you happen to be good at quick aiming is to fire a string
+of 2-3 torps at 2-3 enemy ships approaching at the same time... I've watched
+a CA and a SC both dodge these torps, giving my carrier some extra seconds.
+This only works on some players... I for one would plow through the torps
+with my det key pressed...but I notice quite a few players will dodge 
+1-2 torps...  A major concern here is that if you are a designated escort
+for the team....do not fly the DD.  Escorting in a DD should only happen 
+on an emergency/extreme/clutch-play case... It is the exception to escort
+in a DD...definitely not the rule.
+
+Dogfighting.
+
+You can fight in a DD certainly...but the DD is simply not designed
+to fight in a dogfight against larger ships.  Like escorting, dogfighting
+in a DD should be the exception....not the rule.
+
+Rule number one: Choose your fights unless you have no other choice.
+DDs, with their maneuverability, make them decent dogfighters against 
+most low clue players.  Fighting against mid-level to high clue in a DD
+is just asking to be killed.  Should a dogfight occur, the pilot of the 
+DD must be patient... If a ship tries to close in on your from the back,
+I had previously mentioned (a long time ago) to make a sharp turn and 
+pressor them... Another way to take them by surprise is to slow down
+to warp 4 or 5...and tractor him... Your DD will immediately make a sharp 
+turn and come around to his behind and you can just unload.... Another 
+great tactic when I know I am gonna die is to det his final spread of
+torps when another enemy is close by.  I've killed more enemy BBs 
+this way than any other method... Of course the BB has to be somewhat
+injured...and NOT the ship that shot the torps. :)  If you plan to
+charge an injured ship with a full tank of gas...give him some room and
+then charge him at warp 7... Decelerate to warp 5 and begin cutting across
+the grain and dodge his torps.  I can usually shoot 4-5 torps into a ship
+before dodging and not take damage... At warp 5, you can dodge most streams.
+If a torp spread is beyond avoiding, try to get hit by one...or run 
+away from the torps long enough for the holes in between two torps is 
+big enough for a DD to fit through.  Alot of CAs and BBs like to close in
+on a DD and speed up past him while phasoring and torping the DD...
+A DD can counter this move by moving in a diagonal direction away from
+the CA or BB and using vectorsense to "lead" the ship to its death...
+I have the accel rate of the CA and BB down pretty good so that I can
+generally plant 5 out of 8 torps into them.  Clue will det these torps, 
+but they rarely turn away from their path...so a continuous stream of 
+torps will also wear them down... Do not hesitate to turn toward them 
+at warp 4 and dodge and evade while shooting torps at them... If you can
+plant enough torps to damage them slightly...coming in close will almost
+guarantee a mutual with a CA and sometimes a BB.  WATCH YOUR FUEL...
+If you are clearly missing...don't keep firing torps.  Remember, the DD's
+best asset is his fuel... Alot of BBs and CAs will try to get you to
+unload as much of your fuel as possible...before they hunt you down...
+
+A common tactic used by many BBs and CAs is to tractor a DD in and 
+phasor him to death... One way that gives you a slim chance of avoiding
+death is to tractor him as well...the moment you are overhim....head 
+in the opposite direction of the enemy ship while pressoring him.
+This surprise maneuver has saved me on some occaisions.  But dont 
+hesitate to butt-torp him if need be. :)  If you are running and 
+butt-torping and the BB or CA is tractoring you, you still might 
+prevail...  However, dont hold your breath.  If I feel that escape
+is not evident, I try to slow down and tractor the CA or BB and unload
+my torps as well...this, unfortunately is NOT a guarantee mutual unless 
+you can explode on the CA or BB after it has taken significant damage.  
+Cloaking and speeding off in another direction is an option that allows
+for you to escape a tractor (if you aren't too damaged) and a small 
+chance of escaping P-lock... But I've found this tactic to have a small
+success rate.  If this situation occurs...the best tactic maybe for the
+DD to get whatever ship that is chasing it as far from the battle as
+possible and (by exploding on the enemy) crippling the ship.
+
+Remember when you cloak...you do not automatically disappear.  You fade
+out of view... So the enemy can still see the shape of your ship and
+where it is heading for half-second.  Use this to your advantage.  A
+DD, with such sharp turns, should radically change directions once it
+is COMPLETELY out of sight. This is a great way to avoid being successfully
+ogged as well... 
+
+***Advanced Tactics?***
+
+I personally believe that as DD pilots get better, the DD may be able
+to filll certain roles that previously were considered unheard of.  For
+instance, we know how effective the SC has been in bombing and in army
+dropping.  In fact, this tactic is a very popular trend in many INL 
+teams.  Yet, many will recall that ships like the SC and the BB were 
+viewed by many as having no role or future at all just a few years 
+ago.  I firmly believe the DD will finally reach legitmacy soon.  
+
+I can realistically see the DD undertaking three roles.  Granted perhaps
+the way the DD is played now contributes to the large inability it has
+as a ship.  But I think with careful development and maybe some 
+encouragement of the use of the DD, we might see the following.
+
+Anti-Scout Warfare
+
+I have always believed that a good DD can beat a great SC player.  It
+is faster than the CA and has greater maneuverability and fuel regen.
+As the Classics Battles SC vs DD indicated, good DD players can beat
+the SCs.  If anything, a DD can harass an SC much more effectively if
+it is careful (i.e. not steaming at maxwarp into a stream of SC torps).
+Playing a rough zone-to-zone on the edges and then an aggressive 
+man-to-man on the SC bomber can prove to be effective.  And, should the
+DD obtain a kill, it can proceed as a carrier threat as well (which has
+already been established as a competent role for the DD).
+
+Medium Bomber/Ogger
+
+With some teams are actually trying 2 SCs as bombers against other teams,
+I would have to wonder the feasibility of perhaps having a full-time
+SC bomber deep in enemy space and a DD bomber/ogger in mid-enemy space
+that would lead all the back to the frontline.  Granted the DD player
+would have to be very good...especially at running.  But having the
+ability to cloak indefinitely (at warp 0) and reasonable speed, I feel
+the DD could help in the bombing while keying in on carriers and calling
+oggs for the SB.  I believe that for this tactic to be successfully
+utilized, tandem ogging would have to be used...in which a frontline
+spacecontrol CA would try to chase an suspectiing carrier into a cloaked
+DD.  Ideally, once the SC has established firm control over the bombing,
+the DD would be free to cloak and "watch" and assist where need be.
+The DD could act as a deep escort, a carrier harrasser, an ogger, and
+a diversion.  And, should the SC need help, the DD can provide additional
+bombing and perhaps even help the SC bomb a planet by "escorting" the SC
+to a planet that needs to be bombed.  Also should the DD have kills, it
+also has the option of going back and planet-taking as well.
+
+Granted, both roles would have to be done by DD pilots who KNOW how to
+play the DD like the back of their hand (I don't think I qualify).  And
+the team would have to play with the notion of having two ships in enemy 
+space fighting a bit more passively than the remaining 5 (excluding the SB).
+But I believe if the DD plays wisely, even in a passive role, it will be
+VERY useful.
+
+Well, this is my input... I welcome any criticisms and comments on my
+opinions.  
+
+
+					POLARIS
+					Silvertree
+					polaris@wam.umd.edu

@@ -1,0 +1,354 @@
+ACC:
+	Actual carriers created.  A stat tracked by the INL servers, this is
+how many times you gave someone a kill that they then used to pick up armies.
+[Developed by Mark Noworolski]
+
+ASW:
+	Anti-Scout Warfare, i.e. harrassment of the enemy scout bomber.  A.k.a.
+anti-bombing.  
+
+Borg:
+	A netrek client that has some sort of  automatic "cheat" feature, e.g.
+auto-dodge or phaser, cloaker display, etc. This is cheating (except on
+servers which explicitly allow it).  [Perhaps named after Fil Alleva's
+character]
+
+Bronco-type server:
+	A.k.a. vanilla servers, these are ordinary netrek servers such as
+wormhole.ecst.csuchico.edu or fisher.psy.vu.nl.  Servers with small mods
+such as bigbang.astro.indiana.edu and calvin.usc.edu are considered
+bronco-type too, except by the purists.  But definitely not Paradise servers,
+Chaos servers, Hockey servers,  Dogfight servers, or Sturgeon (upgrade)
+servers.  Named after bronco.ece.cmu.edu, a now-defunct server run by
+the great Terence Chang.
+
+Butt torp:
+	Fire out the rear of one's ship; runner-scum.
+
+Chain reaction:
+	The explosion of one ship killing a nearby teammate's ship, and so
+forth.
+
+Chung:
+	To kill oneself by firing plasma point-blank at the wall.  If you carry
+armies, most servers give you DI for this, and in any case it denies the kill
+to enemies.  Named after Greg Chung, pioneer of this dubious tactic, who will
+never forgive me putting this entry here.
+
+Clear:
+	To kill the defenders of a planet, so that a teammate (following
+close behind) can bomb or take it.
+
+Clue:
+	Basic grasp of strategy.
+
+Core planets:
+	Usually refers to the homeworld and four nearest planets of each
+system.  However, the server has its own idea of what a core world is,
+which it uses to award double planet DI to an enemy who takes one,
+namely the homeworld and three of the four nearest planets.  Alp, Hyd,
+Lyr, and Her are not core for this purpose.
+
+Cut:
+	Make a sharp turn, especially to go to take a different planet than
+the one you had been headed for.
+
+Decoy:
+	Fly deep into enemy space,  perhaps cloaked, pretending to be a
+planet-taker, for the sole purpose of drawing enemy attention to oneself
+(and away from teammates).  Ben Peal calls this the Magna Doodle tactic.
+A variant is the Rob Hill Memorial Decoy, where you do this while carrying
+armies just in case you get through.
+
+Det:
+	To detonate enemy torpedos.
+
+DI:	According to the authors, DI is "Destruction Inflicted."  It is simply
+your (planets+bombing+offense) ratings x (Tmode hours).  Note that it is
+possible to lose DI because your ratings are always relative to the global
+average. To achieve a given rank, you must accumulate a certain amount of
+DI before going over some number of hours.  Or you can get promotions
+on double DI or quad DI with lesser ratings but more hours. [Terence
+Chang]
+
+Doosh:
+	Kill a carrier by making a good play.
+
+Fake:
+	In the context of planet taking, making a feint towards a planet,
+fully intending to cut to a different one when the defenders react.
+
+Fire-hose:
+	Orbit a fuel world and fire continuous streams of torpedos.
+[Coined by Bean Peal]
+
+Flat:
+	A planet is flat when it has four armies or fewer.  See also kill-flat.
+	
+Fly casual:
+	Fly carrying armies in the same manner you would if not carrying.
+
+Free beer:
+	Someone who is consistently easy to kill.
+
+Front line:
+	The line of contention.  E.g. in a close Fed-Rom battle, the Romulan
+front is Cap-Ind-Reg and the Fed front is Rig-Can-Org.
+
+Giving away kills:
+	Giving the enemy kills is bad, of course, but this term is also applied
+to teammates, especially starbases, who wound enemies and hold them, allowing
+a teammate who can better use the kill to "steal" it.
+
+God:
+	The server god is the person who set up and controls the server.
+He or She has great power but seldom if ever uses it.
+
+Hard-take:
+	Effectively take and reinforce all in one trip.  As opposed to taking
+a planet but leaving it at 1 army.
+
+Hero of Core:
+	Someone who hides in his own core, ratio-scumming, sometimes retaking
+nearby planets, and talking trash.
+
+Hoser:
+	Practice robot.  Also a derogatory term.
+
+Hotel:
+	Or Army Motel:  the armies check in but they don't check out.  A
+player who carries a lot of armies around for a long time and never manages
+to use them..
+
+Iggy:
+	HunterKiller, an Independant team robot appearing on some
+servers. So named because it is often the ship in slot 'g', on the Independant
+team, thus Ig.
+
+INL:
+	International Netrek League
+
+INL server:
+	Bronco-vanilla server set up for timed games.  Games are normally 90
+minutes, with a 30 minute sudden-death overtime, where the victory condition
+is owning at least 11 planets with the opponents owning no more than 8.
+Planets start at 17 armies.  Ensigns can starbase.  One player on each team
+gets captain's privileges, allowing him to start the game, pause it, etc.
+
+!kcamS:
+	"Smack!" backwards, you get to say this when you phaser
+somebody's plasma right in his face as they fire it.
+
+Kill-flat:
+	A team is kill-flat when they have no ship with a kill, other than
+perhaps their starbase.
+
+Last Planet Stand (LPS):
+	Once they're down to one planet, most of them will likely hang
+around it, and it can be pretty darn tough to take, even if getting to that
+point seemed easy.
+
+Loaded:
+	Carrying many armies (typically 5 or more).
+
+Mutual:
+	Kill and be killed (usually in your victim's explosion).
+
+Newbie:
+	Beginner
+
+Ogg:	
+	Suicide, Kamikaze.  Attack a ship without caring about dying in the
+process.  Especially, a cloaked approach to an enemy carrier or starbase.
+
+Open:
+	A (momentarily) undefended planet.
+
+Open side:
+	As opposed to the wall side.  The region near the planets facing 3rd
+space.  E.g. in a Fed-Rom war, the Federation's open-side planets are
+Beta, Ceti, and Organia.
+
+PWstats:
+	Stats calculated by INL servers after the game.  PW stands for Passing
+Wind, the character played by INL server hacker Mark Noworolski.  They are:
+tpt (total planets taken), tpd (total planets destroyed), tpb (total
+planets bombed), tab (total armies bombed), tac (total armies carried), pad
+(percent armies delivered), fao (friendly armies ogged), eao (enemy armies
+ogged), tof (normalized average distance to enemy homeworld), eck (enemy
+carries killed), pck (potential carriers killed), tek (total enemies killed),
+fck (friendly carriers killed), def (deaths by enemy fire), and acc (actual
+carriers created).
+
+Peace scum:
+	Players who declare peace against the opposing team so they can
+fuel off of enemy planets.  A worthwhile technique, but can have bizarre
+results when players on both teams are doing it.
+
+Phaser lock:
+	Hit a cloaker with a phaser, thus determining the cloaker's position.
+
+Plasma scum:
+	Anyone using plasma, especially if that seems to be their main goal.
+
+Planet scum:
+	Sometimes used derogatively to indicate someone who is just trying
+to improve their planet rating without thinking of his team's welfare.  (E.g.
+someone who takes an enemy core world for the double DI when he could
+have taken a more strategic planet instead.)  But normally just refers to
+someone trying to take planets.
+
+Plink:
+	Lob torpedos (at) from long range.
+
+Pop:
+	When a planet grows armies.
+
+++:
+	Carrying, e.g. "R9++".  More or fewer plusses represent an exact
+knowledge of number of armies.  [Coined by Randy Dean]
+
+Quitter scum:
+	Someone who quits out when facing certain death, to avoid giving
+the enemy a kill (and the satisfaction thereof).  If there's no wait queue, the
+quitter scum can quickly re-enter, so this is occasionally a clever ploy.
+
+Rank scum:
+	Players for whom ratings and rank are more important than helping
+their team.  Usually they wind up helping their team by accident anyway.
+
+Ratio scum:
+	Someone playing for ratio rather than to help their team.
+
+Reinforce:
+	Beam armies onto a planet you already own, e.g. to bring it from 1
+army to 3.  The symmetric operation is to weaken an enemy planet.
+
+Res:
+	Resurrect; i.e., re-enter after dying.
+
+Res scum:
+	Kill someone right when he reses, before he gets a chance to move.
+MUCUS PIG was a master at this, and would taunt his victims afterwards and
+runner-scum them.
+
+Rewl:
+	Rule.  Win dogfights without giving ground.  Take up residence
+at a contested planet and crush all comers.  Also as a carrier, beat
+the defender dogfighting and take the planet.
+
+Role:
+	A long-term assignment for a particular player.  E.g. scout-bomber.
+
+Runner scum:
+	Run away while fighting, hoping to be chased.  If chased, the runner
+scum has a natural advantage in that torpedos don't reach him quickly, and
+his torpedos reach the chaser very quickly.  Sometimes derogatory,
+because a runner scum might be ceding important territory or leaving a
+teammate in the lurch, and also because there's a feeling that if everybody
+tried to runner-scum the game would stagnate.
+
+Scarecrow:
+	A player who stays in a dangerous situation even though he is out of
+fuel or badly damaged in the hopes of tricking an opponent into wasting
+time or even running. [Hugh Moore]
+
+Scout bombing:
+	Bombing deep in enemy territory, especially with a scout.  The usual
+idea is to try to stay behind enemy lines and bomb the armies that pop, and
+to run and/or cripple any enemy who chases you.
+
+Scout-dropping:
+	Delivering two armies at a time to random enemy planets, using a
+scout.  This seems to be a particularly powerful plan when one's team is
+ahead 13-7 or so.
+
+Scum:
+	In the absence of a modifier, to take planets (or someone who
+does so -- scum can be a verb or a noun).
+
+Shadow:
+	Or shark.  Stay near an enemy, without cloaking, far enough to
+avoid being runner-scummed, but close enough that he or she can't safely
+orbit a planet.
+
+Shuttle:
+	Pick up from planets and drop on the starbase or homeworld.
+
+Sling:
+	What a starbase does to help teammates who want to fly from one
+side of it to the other; namely, tractor them in and then pressor them out on
+the other side.  (Or on calvin, to touch a transwarping ship with tractor or
+pressor beams to bring him out of transwarp without his incurring the five
+second lock-up.)
+
+Slot scum:
+	Someone who connects but doesn't play.  A.k.a pizza scum.  This
+is very bad; slot scummers should be banned.  Slot scumming the enemy
+team to help your real team is out-and-out cheating.  
+
+Smack:
+	Hit with a plasma torpedo.  Plasma scums seem to like writing
+SMACK! or :-* to the All board whenever they do this.
+
+Space controlling:
+	As a role, this generally means dogfighting at the front and
+escorting, point-defending, and dealing with front-line armies as needed.
+
+Split damage:
+	Take 1 point on the hull for every 2 points to the shields.  Increases
+repair efficiency.
+
+Steal:
+	(Lagg U folks call it "hork".)  To steal someone's kill is to get the
+kill with one phaser or a couple long-range torps after your teammate did the
+hard work.  To steal someone's planet is similar, e.g. he used 4 armies to
+destroy it, and you just drop 1 and get all the DI.  Both are perfectly fine
+instances of teamwork, but some pople care about their stats.
+
+Stupid ogging:
+	The strategy of slamming into and mutualling with any enemy ships in
+one's space.  E.g. the Human Target style.  A.k.a. offense scumming.  
+
+Synch:
+	Synchronize, e.g. for a starbase og.  E.g. "synch on d" means to
+time your approach so that you reach the target at about the same time as
+your teammate in the d slot.  Many ships synchronized comprise a wave.
+	
+Third space:
+	The section of the galaxy owned by teams with no players on them,
+e.g. Orion and Klingon space in a Fed vs. Rom game.
+
+Third space scum:
+	Someone who takes over neutral space rather than working for a
+genocide.  Disallowed by most servers these days.
+
+Tournament Mode (t-mode):
+	Server mode when there are at least 4 players on each of two
+adjacent teams.  Without t-mode it's just practice, not a netrek game.
+
+TOF:
+	A stat computed by the INL servers, this is proportional to your
+ship's average distance to the enemy homeworld   It's normalized to the rest
+of your team's distances, with 100 being the average for your team.
+Generally speaking, low tof is worth striving for.  Stands for Total Offense, I
+think, although that makes no particular sense.
+
+Traitor:
+	Someone deliberately working against the interests of his own team.
+
+Twink:
+	A bad player, especially one who has been playing a long time and
+still sucks.
+
+Twink-bashing:
+	Picking on the bad players, e.g. to get kills.
+
+Type scum:
+	Kill someone who is typing a message.  
+
+Wall side:
+	The region near the galaxy side-wall.  E.g. in a Fed-Rom war, Veg
+Alt Rig Cap Hyd and Ald are considered wall-side planets.
+
+

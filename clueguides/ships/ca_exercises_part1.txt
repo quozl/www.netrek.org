@@ -1,0 +1,156 @@
+From: Tony Chamberlain <tonyc@icarus.weber.edu>
+Subject: Exercises to help in playing a CA (long)
+Date: 1998/03/03
+Message-ID: <34FCA557.40A0@icarus.weber.edu>
+Content-Transfer-Encoding: 7bit
+X-Auth-User: 001888422/1af4de7b51585009
+X-Post-Time: 4 Mar 1998 00:51:21 GMT
+Content-Type: text/plain; charset=us-ascii
+Organization: Prodigy Services Corp
+X-Problems-To: abuse@prodigy.com
+Mime-Version: 1.0
+Reply-To: tonyc@icarus.weber.edu
+Newsgroups: rec.games.netrek
+
+
+
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+
+	Just thought I'd post a quick little message on some things I 
+like to do to practice certain skills.   I think if you follow these 
+you will gain a minimum needed ability so most teams will feel your 
+presence is better than an empty slot :)  These exercises are based
+on the principle of isolating skills and practicing them till they become
+second nature. ( You don't want to have to "think" about how long it takes
+before you can phaser again, you just want to "know" ).  Also, I would not
+mind.. no I encourage both follow up posting and/or email  of opinions as 
+to the effectiveness of the following exercises.  
+
+	2 notes of caution before doing these. The first is that many 
+of these exercises WILL NOT help any at the actual winning of the game.
+So if you do these during pickup (some of the steps you have to) and you
+feel that any members of the team would even notice (well it is pickup .. :),
+you might want to let them know what you are up to.  Also, I would avoid 
+doing these during peak hours on the more popular servers, i.e  if there
+is a wait queue.  
+	
+	Secondly, the following time limits are meant as a rough guide. 
+I mean them only to give a reference point as to my own personal view on
+relative time that should be spent doing each exercise.  If you want to
+half all of the times, or double them feel free ;). Although I
+really feel 95% of the people playing today could benefit from at least
+some of the exercises, feel free to skip over a few if you feel confident
+in that area. ( Though, try them all once.. you might be surprised ).
+
+PART 1:  Dogfighting
+	
+	It is essential to become an average dogfighter.  This does not mean
+you need to rewl the netrek communty.  But, unless you have a modicum of skill
+in this area, mastery of other aspects of the game will be much harder
+to achieve.
+
+NOTE: During this entire section you MAY NOT  exceed warp 4, except after you
+res to get back in position.
+
+Exercise 1:  Dots and Lines
+
+	1 hr:  This first hour should be spent learning about torps.  As this
+is the least useful skill we will spend a minumum of time on it.   The Goal 
+here is to learn how shoot a spread of torps to herd a player as killing 
+with torps is both ineffective and fuel-wasteful compared to phasers. This 
+skill can come in useful in trying to keep a player out of your space, or 
+forcing them to run into a friendly ship to tag-team them.  First you should 
+fly to the front.  Now pick a direction.   Alternate between left, right, up,
+and down.  Now spend your entire load tyring to "force" that player in that
+general direction.   You won't always succedd and you will oftern die, but 
+after about 1 hour of this you should get a feel for how to spread you torps
+and where to aim them to make a player turn in the direction that you want.
+
+	2 hrs: The next 2 hours should be spent learning all about phasers.
+For this exercise YOU CAN NOT FIRE TORPS.  You must kill every single ship
+you encounter using phasers only.  You should pay very close attention to the
+following details  (yes this will detreact from the actual killing, but your
+goal here is to learn, not increase DI) :
+	
+	a) phaser regeneration rate -- you should become proficient in timing
+your phaser fire as soon as the next phaser becomes available.  Pay special
+attention to how long the CA has to wait before firing again.  Constant
+firing is essential.
+
+	b) phaser range/damage -- pay very close attention to the damage yoettu
+are doing to the opponent.  Get a feel for how close 15pt range is, how close
+20 pt range is, etc.  Another way to do this is to watch your own hull/shields
+as you opp. phasers you to figure this out.
+
+Exercise 2:  Detting
+
+	Probably the most talked about, but maybe least understood principle 
+of dogfighting.  Yes, everyone knows you need to det.. but do you know which
+torps to det, or how much your saving by detting?  The goal of this exercise
+is to practice and learn both the maximum det range of your CA, and to 
+learn exactly how many torps your are going to det when you hit that det
+key.
+
+	1 hr:  You are not allowed to fire a torp or phaser for this entire
+exercise.  Just fly to the nearest enemy ship and practice detting all his 
+torps.  Initially try to see how far away you can det a torp.  Keep doing this
+until you know EXACTLY how far you max det range is.  Once you have figured 
+this out, begin learning the damage you take from a det.  I believe you will
+find out that at max det a torp will only do about 25% damage.  (FYI:  a 
+CA/BB torp does 40, DD: 25, SC: 15,  AS & BASE: ?? I forget *grin* ). Once 
+you begin to get a feel for the damage, try predicting how much you will
+take.
+
+
+Exercise 3:  Tractors and Pressors
+
+	1 hr:  The goal of this exercise is to become proficient with the 
+tractor beam.  Remap that beam to an easily accessible key.  Now fly to the 
+nearest ship  (remember once you get their stay at warp 4 or lower). Just
+fight the ship in general but you MUST use your tractor at least once per
+dogfight.  Make sure to try the tractor at various times.. while you and he
+are approaching each other, going sideways in front of each other..  heading in
+the same direction, etc.  In general just get a feel for how the tractor will
+affect both you and him, and get used to using it constantly.  Do not worry
+about when to use it, just use it.. even if it doesn't help you paticularly
+in that fight.
+
+	1 hr: Now for the next hour repeat the the previous  exercise but
+with the pressor beam.  DO NOT MIX THEM.  Just use the pressor and get use to
+it.
+
+	1 hr:  Now you can mix them up. In fact you have to.  For the next
+exercise you MUST use the tractor and pressor in each battle.  Now that you 
+have a feel for how they will work,  keep an eye on using them to help you 
+manuever,  dodge torps.. force him INTO your torps.  Try using tractors for 
+the purpose of making sure you explode on top of him.  Try pressors to AVOID
+having him blow up on you.  Spend this entire hour trying to maximize the 
+the effectiveness of using both the pressor and the tractor.
+
+Exercise 4:  Total OFFENSE :)
+
+	The goal of this exercise is combine the previous 3 exercises to form
+an offensive machine!  Their is no time limit on this exercise, rather a 2 part
+goal.  All the goals require that you log onto a pickup server as a guest.  I
+have given a range to the following goals to allow you to choose how well you
+want to become.
+
+	goal 1:  Ratio.    You must maintain a 1.25-1.5 ratio for a full 
+hour.   Continue to do this until you can get this ratio with ease. 
+
+	goal 2:  Offense.  Now you must achieve the previous ratio while 
+maintaining 1.25-1.5 offense. 
+
+	The premise behind the 2 goals is that first you must be able to 
+utilize your dogfighting skills to become better than the average pickup-player.
+	Secondly, you must be able to quickly dispatch your opponent to then
+proceed to the next assignment thus the need a above average offense.
+
+This is the end of Section I.  I will post the remaining exercies in the
+following post, as this is getting longer than i expected.
+
+tony
+drwhat aka Revenge
+
+
+

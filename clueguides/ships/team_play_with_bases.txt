@@ -1,0 +1,155 @@
+From: leonard@mimsy.umd.edu (Leonard Dickens)
+Newsgroups: alt.games.xtrek
+Subject: Team play with starbases
+Date: 3 Feb 92 14:05:11 GMT
+
+I have been borg basing it a bit on rwd4 lately, often against a
+remarkably lack of clue.  (151 kills == someone has no clue)  I have
+noticed both friendly and enemy play that reveals that people have not
+pondered enough what is going on.  Here are a few tips for people to
+use when playing with a starbase in the game.  
+
+First, a few tips for the enemy:
+
+o Don't ogg the enemy base without coordination
+
+The base is more powerful than you.  You will die.  And unless he is
+near to your home planet, he will be FULLY repaired before you get back
+to give him another kill.  UNLESS you coordinate with at least two
+other people on your team, forget it.
+
+
+o Avoid the enemy base, unless there is a reason not to.
+
+The way to kill bases is to lure them too far away from their home
+planet, then to ogg like crazy.  The way to lure them forward is
+simply to avoid them... you are faster than they are.  They cannot
+kill you unless you ask for it by going to them.  And there is almost
+always something better for you to be doing than trying to ogg bases.
+Scout bomb.  Take a planet that is just off the base's screen.  Ogg
+enemies with kills that are not lurking near the base.
+
+IMO, the only time you should go near an enemy base is to ogg it or an
+important enemy planet-taker (who admittedly are often found near
+bases...)
+
+
+Now some tips for my pals:
+
+o Use a base to free scout chasers
+
+As soon as a side is down to about two or three planets with the
+typical 30 or so armies on them after the initial bombing surge, it is
+time to enter a base.  Bases can pick up as many as 25 armies, and
+need no kills to do so.  Armies in a base are far safer than armies on
+planets, and do not need players constantly guarding them.  This frees
+up those players that would otherwise be fruitlessly chasing AS and
+scouts to do other things.  Thus, anytime your base has indicated he
+is more or less full of armies, do NOT bother to pursue scouts.  Get
+kills and take planets, content in the knowledge that with those
+scouts in your rear lines bombing the occasional army or two, you have
+a numerical advantage over the other enemy ships.
+
+
+o Use your base to conceal army movement
+
+Netrek is *not* a game about ships, but planets and armies.  Clueless
+and/or angry people may be content to dogfight aimlessly, but persons
+of clue only dogfight with a purpose, and they often do other things.
+They scout bomb, for one, which has been previously stressed on this
+newsgroup.  But they also watch enemy players beam up armies, and then
+announce that fact to their team, and then try to ogg the carrier.
+
+This trait is even more pronounced in a borg game; every pig borg, and
+also apparently all sunborgs have the capability to report to their
+rider exactly who has picked up armies and how many.  Regardless of
+whether you are cloaked or in range.  Therefore, you *will* be
+ogged...
+
+Unless you Use Your Starbase.  The server does NOT (to my knowledge)
+report the PF_BEAM flags for people beaming from/to bases.  And of
+course you cannot see the number of armies in an enemy base even with
+a borg.  Thus, it is usually far better to get your armies from a base
+than from a planet.  (Of course if the base is nowhere near a planet
+with armies, go ahead and grab them.)  There have been numerous
+occasions over the weekend where I have approached a planet with
+armies on it at the same time as one of my side's planet takers, only
+to have them take the armies and get ogged.
+
+Summary: don't make life easy for the enemy.  Get armies from your
+base preferentially.
+
+Also, a *real* useful thing to do when you have one kill and feel
+generous is ferry armies to your base.  Yet another positive action
+that earns no DI.  (People with 2+ kills should be taking planets.)
+Seems like a good tactic might to be to (obviously) pick up armies,
+drop them on your base, and then wait for oggers to come and give you
+additional kills.  (Use a BB for this.)
+
+
+o Use your base to refit/refuel/repair -- smartly
+
+Your base is exactly like your home planet -- you refuel, refit and
+repair much faster there than just sitting around.  (I believe that
+you actually repair there even faster than on a repair planet -- any
+gurus out there to confirm/deny this?)  So, when you are hurt or out
+of fuel, consider your base just as you might consider a planet.
+
+But remember: unlike a planet, a base can die.  Especially if you blow
+up on him/her.  Therefore, if battle is hot or looks to get hot
+nearby, do NOT dock.  Go somewhere else.  Flash if you need help; a
+base can help you even without docking; see below.
+
+
+o Your base can help you take planets -- even if you only have one kill
+
+Often people with one kill try to get a second before moving into
+planet-taking mode.  This is not always necessary -- if the planet you
+are targeting is next to your base and not to near the enemy
+homeworld.  Go to your base, possibly get into an AS, and quickly
+ferry armies from the base to the planet.  (Tell the base what you are
+doing, of course.)  The base can pressor you to the planet and tractor
+you back to speed the process... you can even take agris this way.
+
+Remember: to take a planet it is only necessary to get armies there
+faster than it pops.
+
+
+o Your base can save your ass
+
+Bases have big tractors and pressors.  Good bases use them.  Your base
+can sometimes pressor or tractor you out of the way of a torp stream.
+Be prepared for this.  Your base can also tractor you entirely out of
+a battle, if you are too injured to fly fast -- but this is unlikely
+unless he/she *knows* you are injured.  Signal to your base if you
+need help, by flashing your shields up and down three or five times.
+
+Bases can also det for you, since they can absorb lots of damage.
+(They take 600 internal, and have 500 shields.)  If the base values
+you, he may decide to tractor you in and protect you even in a pitched
+battle.  (Hint: I personally will do all sorts of things for my side's
+planet takers while basing.)
+
+A base is great cover to take a planet behind.  Or even near.  Enemies
+tend to avoid bases unless they are explicitly trying to attack them.
+
+
+o You can save your base's ass
+
+Bases will inevitably take a big ogg or two, often far from their home
+planet.  You will know this because (a) they will give a distress call
+showing substantial damage, and (b) the enemy will mass to try and
+annihilate them.  Now, if your base is carrying precious armies, or
+you need it for other reasons, try to help it live.  Here are some
+useful things to do.  Get between the oggers and the base, and try to
+kill them before they get there.  Or, put yourself in a position to
+tow the base.  (That is, about 1/2 screen away from the base in the
+direction of the home planet.  Be prepared to accelerate when you
+notice the pull of the tractor.)
+
+Or, get between the base and the oggers in a BB or AS (ideally) and
+det enemy torps that may hit the base.  This last tactic I have very
+rarely seen but it is ever so helpful to a base.  Kill-ratio?  I *am*
+talking about team play here...
+
+-Wreck
