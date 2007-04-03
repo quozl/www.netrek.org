@@ -21,15 +21,19 @@
   /*     define('NPH_LOC_FILEROOT',	'/var/www/'); */
   /*     define('NPH_LOC_WEBROOT',	'/'); */
 
-  /* akb cucs   */
-  /*  define('NPH_LOC_FILEROOT',	'/home/bressen/html/netrek/'); */
-   /* define('NPH_LOC_WEBROOT',	'http://www1.cs.columbia.edu/~bressen/netrek/'); */
-
 /*   define('NPH_LOC_FILEROOT',	'/var/www/');  */
 /*     define('NPH_LOC_WEBROOT',	'/'); */
 
-  /* production: www.netrek.org */
-   define('NPH_LOC_FILEROOT',      '/var/www/www.netrek.org/'); 
-   define('NPH_LOC_WEBROOT',       '/'); 
+$server_name = $_SERVER['SERVER_NAME'];
+
+if ($server_name == 'www.netrek.org' || $server_name == 'netrek.org') {
+   define('NPH_LOC_FILEROOT', '/var/www/www.netrek.org/');
+   define('NPH_LOC_WEBROOT', '/');
+}
+
+if ($server_name == 'www1.cs.columbia.edu') {
+   define('NPH_LOC_FILEROOT', '/home/bressen/html/netrek/');
+   define('NPH_LOC_WEBROOT', 'http://www1.cs.columbia.edu/~bressen/netrek/');
+}
 
 ?>
