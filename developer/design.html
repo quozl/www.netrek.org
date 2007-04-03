@@ -1,0 +1,201 @@
+<title>Netrek Game Design</title>
+<h2 align="center">Netrek Game Design</h2>
+<h5>This document lives at <a href="http://www.best.com/~doosh/netrek/design.html">
+http://www.best.com/~doosh/netrek/design.html</a>.  It was created for a 
+CS 198 seminar class on game design at UC Berkeley, Spring 1997.
+</h5>
+<h3><a href="http://www.ecst.csuchico.edu/~netrek/history/History.html#Chap1">
+Pre-history: Empire and Plato
+</a></h3>
+
+<h3><a href="http://www.ecst.csuchico.edu/~netrek/history/History.html#Chap2">
+1986: Xtrek
+</a></h3>
+
+<ul>
+<li>Inspired by the X Windows sytem
+<li>Written by Chris Guthrie, Ed James and KJ Pires, UC Berkeley
+<li>Server ran on a Sequent Symmetry multi-processor 386 box
+<li>Forked a process for each connected client (xhost sequent; telnet sequent 520)
+<li>Processes communicated through shared memory
+<li>Clients were sent X windows over TCP/IP
+<li>Was played almost exclusively at Berkeley, some at CMU
+</ul>
+
+<p>
+The actual play of the game has not changed much since the original Xtrek.
+There are 10 planets per team, and two teams in a 40-planet galaxy.  At
+the time, all
+ships were identical, and there were two types of weapons, torpedoes and
+phasers.  The objective of the game was the same as it is now; to capture
+all the enemy planets by bombing their armies down below 5 per planet, and
+then captuer them by dropping your team's armies on the enemy planets
+(one friendly army kills one enemy army).  The game ends when one team 
+loses its last planet; this is known as <i>genocide.</i>
+
+<h3><a href="http://www.ecst.csuchico.edu/~netrek/history/History.html#Chap3.1">
+1988: Netrek
+</a></h3>
+
+<ul>
+<li>Designed to improve playability
+<li>Written by Kevin Smith and Scott Silvey, UC Berkeley
+<li>Used a client-server model, with its own protocol running over TCP
+<li>Reduced load on the server and the network
+<li>Dealt with source-available client issues
+<li>Added new ship types, weapons
+<li>Updates/second client-configurable
+<li>Added player database and DI (Destruction Infliced) system
+<li>Servers began to spread, notably bronco.ece.cmu.edu (run by Terence Chang, 
+UCB alum)
+</ul>
+
+<p>
+Netrek's client-server model made for improved playability over the Internet, 
+and soon after it was released to the world, servers started to show up 
+in places other than Berkeley, notably at Carnegie-Mellon University in
+Pittsburgh, where Terence Chang, a UCB grad in a master's program at CMU, 
+set up bronco.ece.cmu.edu, which soon became one of the most popular servers.
+<p>
+The introduction of the DI system also spurred growth.  The idea of the DI 
+system is to reward people for trying to accomplish team goals, such as bombing
+and taking planets, instead of individual goals, such as trying to live
+as long as possible, or have the highest kill ratio.  This system had
+two effects; one, it encouraged team-based play, which accentuated the
+strategic aspects of the game and thereby made it more interesting, and two,
+it gave people more incentive to come back, so they could build their
+characters to higher ranks (although rank isn't rewarded with additional
+privileges, with a few exceptions).  It also provided a feedback mechanism
+so players would know when they were improving their play.
+
+<h3><a href="http://www.best.com/~doosh/netrek/INL/">1992: The International
+Netrek League (INL)</a></h3>
+
+<ul>
+<li>Founded by <a href="http://www.best.com/%7Edoosh/">Tom Holub</a>, UC Berkeley
+<li>Changed winning conditions for games
+<li>Increased research into strategies
+</ul>
+
+The INL took the team aspects of netrek to a new level; for the first time,
+players from all over the world came together into teams to discuss strategies
+and play organized, time-limited games.  In games between good teams, netrek
+tends towards a 10-10 equilibrium; genocide is extremely rare.  So the INL
+defined games as 2 hours long (later shortened to 90 minutes), with winning
+conditions of 11-8 (with one neutral planet).  If neither team is ahead by
+a score of 11-8 at the end of regulation, a 30-minute sudden death overtime 
+is begun.
+<p>
+The league increased the amount of time people spent talking about strategies,
+and created some new strategies and tactics, particularly relating to
+the opening of the game, the beginning of OT, and winning in OT.  The
+league is still active today.
+
+<h3>1992: UDP</h3>
+
+<ul>
+<li>Written by Andy McFadden, UC Berkeley alum
+<li>Tacked onto the side of the TCP protocol
+<li>Allowed non-vital information to be dropped painlessly
+<li>Included "fat UDP", "enforced state"
+</ul>
+
+TCP is an easy protocol to use for networked games, but for a game like netrek
+it has many drawbacks.  The majority of information sent over the wire in netrek
+is transient; if it shows up 2 seconds after it's sent, it's no longer useful
+(examples are torpedo and ship positions).  TCP guarantees that all packets
+will arrive, and that they'll arrive in sequence, so if one of your torpedo
+update packets gets delayed or lost, more urgent information will be delayed
+waiting for the first packet to get re-sent.  With this addition to the netrek
+protocol, non-vital information could be sent via UDP.  While you'd still
+lose just as many packets, a lost packet would no longer freeze up your game.
+This improved cross-country play immensely.
+
+<h3><a href="http://metaserver.ecst.csuchico.edu:1080">1992: Metaserver</a></h3>
+
+<ul>
+<li>Written by <a href="http://www.csua.berkeley.edu/%7Emehlhaff/">Eric Mehlhaff</a>, 
+UC Berkeley alum (later updated by Andy McFadden)
+<li>Helped players find servers with active games
+</ul>
+
+The METASERVER polls known servers to see how many people are playing; it
+allows people who are looking for a pickup game to join to find active
+games.  It has now been integrated into most netrek clients.
+
+<h3>1992: RSA</h3>
+
+<ul>
+<li>Allowed verification of source-available clients
+<li>Valid public keys maintained centrally
+<li>Later included Feature Packets
+</ul>
+
+Since the source for the netrek client is publicly available, anyone can
+change, for example, the phaser() routine to automatically hit the closest
+target, instead of aiming at the cursor as it does in most clients; this
+sort of modification is usually referred to as a "borg".  With the RSA
+system, servers can require that only clients which are on an approved
+list can connect and play.  This has allowed client development to grow
+without harming the nature of the game.
+
+<h3>1993: Short Packets</h3>
+
+<ul>
+<li>Written by Heiko Wengler, Germany
+<li>Combined data into TCP-packet sized chunks
+<li>Reduced bandwidth by defining some messages on the client side
+</ul>
+
+<hr>
+<h3>Why Netrek Rules</h3>
+Netrek in its various forms has been played for over 10 years, and it
+still manages to hold the interest of thousands of people.  There are
+a number of reasons for this, but among them are:
+
+<ul>
+<li>The player database<br>
+In addition to providing feedback and incentive for a person to do well,
+the player database gives long-time players a chance to work on specific
+skills or just mess around with different characters.
+<p>
+<li>Tactics <b>and</b> strategy<br>
+Like most great games, netrek can be enjoyed on a very basic level, by
+players unfamiliar with the game--the dogfighting system is robust and
+fun.  But dogfighting is only a small part of the overall game, so when
+a player has mastered the dogfighting system (or is bored of it) there
+is plenty of other stuff to do, and plenty of decision-making and
+planning that isn't twitch-related.  The tactics don't overwhelm the
+strategy.
+<p>
+<li>Playability<br>
+While this is going to change over the next few years, for now netrek is
+one of the only real-time games that a team located in Europe can reasonably
+play against a team located in Berkeley.  The constant focus on improving
+playability has expanded netrek's player base.
+</ul>
+
+<hr>
+<h3>More information</h3>
+<h4>
+<a href="http://www.netrek.org/">The Netrek Home Page:
+http://www.netrek.org/</a><p>
+<a href="http://www.inl.org/">The INL Home Page: 
+http://www.inl.org/</a><p>
+<a href="http://www.best.com/~doosh/netrek/">The Netrek FAQ and FTP list:
+http://www.best.com/~doosh/netrek/</a><p>
+</h4>
+<hr>
+<h3>Netrek clients</h3>
+<a href="ftp://cad.ics.uci.edu/pub/netrek/">BRMH: various Unix clients</a><p>
+
+<a href="ftp://bigbang.astro.indiana.edu/pub/netrek/COW/COW-bin/COW.2.10pl1.win32.zip">
+WinCOW (requires Windows and 32-bit networking):
+ftp://bigbang.astro.indiana.edu/pub/netrek/COW/COW-bin/COW.2.10pl1.win32.zip</a><p>
+
+<a href="ftp://ftp.cs.umn.edu/users/glamm/paradise/bin/netrek.macintosh-ppc.sea.bin">
+Macintosh (PowerPC only): 
+ftp://ftp.cs.umn.edu/users/glamm/paradise/bin/netrek.macintosh-ppc.sea.bin</a>
+
+<hr>
+<i>Last Updated 8/24/97</i>
