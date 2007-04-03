@@ -66,8 +66,7 @@ Netrek!</h2>
 <h2><li>
 	Start your client and select a server to play on from the list.</h2>
         <tt>continuum.us.netrek.org</tt> and <tt>pickled.psychosis.net</tt>
-        are the main pickup servers,<br> and <tt>netrek.pulsar-zone.com</tt> has 
-        practice robots if the other servers are empty. 
+        are the main pickup servers.
 </li>
 <br><br>
 
