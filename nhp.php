@@ -10,9 +10,29 @@
    compressed web pages. */
 /* ob_start("ob_gzhandler");*/
 
-define('NPH_LOC_FILEROOT',	'/var/www/genocide.netrek.org/');
-/*define('NPH_LOC_WEBROOT',	'http://www.netrek.org/img/tmp/nhp-beta/');*/
-define('NPH_LOC_WEBROOT',	'/');
+
+/* testing value from genocide, dating back to shadowhunter's dev work */
+/* define('NPH_LOC_WEBROOT',     'http://www.netrek.org/img/tmp/nhp-beta/');*/
+
+/* OK, this code really wants an absolute filesystem and url root for the
+   site. This makes it not very portable. I may try to fix this later,
+   but right now I am performing a kludge. --akb 11-mar-2007 */
+
+
+/* original from genocide.netrek.org */
+/* define('NPH_LOC_FILEROOT',      '/var/www/genocide.netrek.org/'); */
+/* define('NPH_LOC_WEBROOT',       '/'); */
+
+/* works on akb's desktop */
+/*       define('NPH_LOC_FILEROOT',	'/var/www/'); */
+/*       define('NPH_LOC_WEBROOT',	'/'); */
+
+
+/* akb cucs */
+/*   define('NPH_LOC_FILEROOT',	'/home/bressen/html/netrek/'); */
+/*   define('NPH_LOC_WEBROOT',	'http://www1.cs.columbia.edu/~bressen/netrek/'); */
+
+
 
 define('NPH_LOC_SEARCHURL',	NPH_LOC_WEBROOT.'search.php');
 
@@ -26,6 +46,8 @@ define('NPH_LOC_IMGADS',	NPH_LOC_IMGBASE.'ads/');
 define('NPH_LOC_WEB_HOME',	NPH_LOC_WEBROOT);
 define('NPH_LOC_WEB_ABOUT',	NPH_LOC_WEBROOT.'about/');
 define('NPH_LOC_WEB_DOWNLOADS',	NPH_LOC_WEBROOT.'downloads/');
+define('NPH_LOC_WEB_DLFILES',	NPH_LOC_WEBROOT.'files/');
+define('NPH_LOC_WEB_DEVELOPER',	NPH_LOC_WEBROOT.'developer/');
 define('NPH_LOC_WEB_BEGINNER',	NPH_LOC_WEBROOT.'beginner/');
 define('NPH_LOC_WEB_CLUEGUIDES',	NPH_LOC_WEBROOT.'clueguides/');
 define('NPH_LOC_WEB_SERVERS',	NPH_LOC_WEBROOT.'servers/');
@@ -36,6 +58,26 @@ define('NPH_LOC_WEB_CINEMA',	NPH_LOC_WEBROOT.'cinema2/');
 define('NPH_LOC_WEB_NEWS',	NPH_LOC_WEBROOT.'news.php');
 define('NPH_LOC_WEB_FEEDBACK',	'mailto:netrek-web@mirror.to');
 define('NPH_LOC_WEB_ADVERTISE',	NPH_LOC_WEBROOT.'advertise.html');
+
+/* depending on error_level setting of server, php can toss errors
+   if you access an undefined variable. kludging around. --akb 11-mar-2007 */
+if (isset($GET['print'])) {
+      $UNDERSCORE_GET_PRINT= $GET['print'];
+ }
+ else {
+       $UNDERSCORE_GET_PRINT="no";
+ }
+if (isset($GET['ads'])) {
+      $UNDERSCORE_GET_ADS= $GET['ads'];
+ }
+ else {
+       $UNDERSCORE_GET_ADS="no";
+ }
+
+/* ok, there are unset vars all over shadowhunter's code; I'm just turning
+ off the notices. -- akb 11-mar-2007 */
+error_reporting(E_ALL ^ E_NOTICE);
+
 
 
 /* Add your page: filename and then parentfilename, title, author (optional) */
@@ -60,26 +102,41 @@ $siteparentlist = array(
 			"About Netrek"
 	),
 
+	"about/akira-history-of-ogg.php" => array(
+			"about/",
+			"The Origin of Ogging",
+			"",
+			""
+	),
+
 	"about/history_overall.php" => array(
 			"about/",
 			"Netrek Overall History",
-			"<a href=\"mailto:fadden@catapent.com\">Andy McFadden</a>",
+			"Andy McFadden",
 			"May 01 1994"
 	),
 
 	"about/history_servers.php" => array(
 			"about/",
 			"Public Netrek Server History",
-			"<a href=\"mailto:fadden@catapent.com\">Andy McFadden</a>",
+			"Andy McFadden",
 			"May 09 1994"
 	),
 
 	"about/history_timeline.php" => array(
 			"about/",
 			"Netrek Timeline",
-			"<a href=\"mailto:fadden@catapent.com\">Andy McFadden</a>",
+			"Andy McFadden",
 			"Jan 18 1995"
 	),
+
+	"about/leagues.php" => array(
+			"about/",
+			"Netrek League History",
+			"",
+			""
+	),
+
 
 	"about/wired_article.php" => array(
 			"about/",
@@ -95,30 +152,24 @@ $siteparentlist = array(
 			"Nov 03 1994"
 	),
 
-	"downloads/" => array(
-			"/",
-			"Downloads"
-	),
-
-	"downloads/customize.php" => array(
-			"downloads/",
-			"Netrekrc Configuration Tool",
-			"<a href=\"mailto:Shadow.Hunter@netrek.org\">Erik Hietbrink</a>"
-	),
-
-	"downloads/clients/" => array(
-			"downloads/",
-			"Client Software"
-	),
-
-	"developer/" => array(
-			"/",
-			"Netrek Software Development"
-	),
-
 	"beginner/" => array(
 			"/",
 			"Beginner Section"
+	),
+
+	"beginner/keymapping.php" => array(
+			"beginner/",
+			"Customizing the Keymap"
+	),
+
+	"beginner/macros.php" => array(
+			"beginner/",
+			"Messaging Macros"
+	),
+
+	"beginner/messaging.php" => array(
+			"beginner/",
+			"In-Game Messaging"
 	),
 
 	"beginner/newbie.php" => array(
@@ -126,79 +177,107 @@ $siteparentlist = array(
 			"Netrek Newbie Manual"
 	),
 
-	"beginner/kiaclueguide.php" => array(
+	"beginner/newbie-part2.php" => array(
 			"beginner/",
-			"KIA's Clue Guide",
-			"Jan Sandorf",
-			"June 07 1995"
+			"Netrek Newbie Manual: Appendices"
 	),
 
-	"beginner/redshirtguides/" => array(
+	"beginner/quickstartguide.php" => array(
 			"beginner/",
-			"Red Shirt's Guides to Netrek",
-			"Bert Enderton",
-			"1995"
-	),
-
-	"beginner/redshirtguides/advice.php" => array(
-			"beginner/redshirtguides/",
-			"Strategic Advice",
-			"Bert Enderton",
-			"March 03 1995"
-	),
-
-	"beginner/redshirtguides/gameworkings.php" => array(
-			"beginner/redshirtguides/",
-			"How the Game Works",
-			"Bert Enderton",
-			"1995"
-	),
-
-	"beginner/redshirtguides/jihadgameplan.php" => array(
-			"beginner/redshirtguides/",
-			"Buddhist Jihad game-plan",
-			"Bert Enderton",
-			"1995"
-	),
-
-	"beginner/redshirtguides/clueoutlines.php" => array(
-			"beginner/redshirtguides/",
-			"Outline of clues for beginners",
-			"Bert Enderton",
-			"April 1995"
-	),
-
-	"beginner/redshirtguides/antibombinggameplan.php" => array(
-			"beginner/redshirtguides/",
-			"Game-plan with anti-bombing",
-			"Bert Enderton",
-			"June 06 1993"
-	),
-
-	"beginner/redshirtguides/proverbs.php" => array(
-			"beginner/redshirtguides/",
-			"Netrek Proverbs",
-			"Bert Enderton",
-			"1995"
-	),
-
-	"beginner/redshirtguides/tao.php" => array(
-			"beginner/redshirtguides/",
-			"Tao of netrek",
-			"Bert Enderton",
-			"1995"
-	),
-
-	"beginner/dantesdogfightguide.php" => array(
-			"beginner/",
-			"Dantes Dogfight Guide",
-			"Dante",
-			"February 06 2004"
+			"Netrek Ultra-Short Startup Page"
 	),
 
 	"clueguides/" => array(
 			"/",
 			"Clue Guides"
+	),
+
+	"clueguides/cow-manual.php" => array(
+			"clueguides/",
+			"Manual for the COW client",
+			"Bret Jordan (Redshirt)",
+			"September 1995"
+	),
+
+	"clueguides/dantesdogfightguide.php" => array(
+			"clueguides/",
+			"Dantes Dogfight Guide",
+			"Dante",
+			"February 06 2004"
+	),
+
+	"clueguides/greyelf.php" => array(
+			"clueguides/",
+			"Grey Elf's Guide to Taking Planets"
+	),
+
+	"clueguides/hammond-dfguide.php" => array(
+			"clueguides/",
+			"Lance's Dogfight Guide"
+	),
+
+
+	"clueguides/kiaclueguide.php" => array(
+			"clueguides/",
+			"KIA's Clue Guide",
+			"Jan Sandorf",
+			"June 07 1995"
+	),
+
+	"clueguides/redshirtguides/" => array(
+			"clueguides/",
+			"Red Shirt's Guides to Netrek",
+			"Bert Enderton",
+			"1995"
+	),
+
+	"clueguides/redshirtguides/advice.php" => array(
+			"clueguides/redshirtguides/",
+			"Strategic Advice",
+			"Bert Enderton",
+			"March 03 1995"
+	),
+
+	"clueguides/redshirtguides/gameworkings.php" => array(
+			"clueguides/redshirtguides/",
+			"How the Game Works",
+			"Bert Enderton",
+			"1995"
+	),
+
+	"clueguides/redshirtguides/jihadgameplan.php" => array(
+			"clueguides/redshirtguides/",
+			"Buddhist Jihad game-plan",
+			"Bert Enderton",
+			"1995"
+	),
+
+	"clueguides/redshirtguides/clueoutlines.php" => array(
+			"clueguides/redshirtguides/",
+			"Outline of clues for beginners",
+			"Bert Enderton",
+			"April 1995"
+	),
+
+	"clueguides/redshirtguides/antibombinggameplan.php" => array(
+			"clueguides/redshirtguides/",
+			"Game-plan with anti-bombing",
+			"Bert Enderton",
+			"June 06 1993"
+	),
+
+	"clueguides/redshirtguides/proverbs.php" => array(
+			"clueguides/redshirtguides/",
+			"Netrek Proverbs",
+			"Bert Enderton",
+			"1995"
+	),
+
+	"clueguides/redshirtguides/tao.php" => array(
+			"clueguides/redshirtguides/",
+			"Tao of netrek",
+			"Bert Enderton",
+			"1995"
 	),
 
 	"clueguides/ships/" => array(
@@ -211,9 +290,45 @@ $siteparentlist = array(
 			"Playing SC"
 	),
 
+	"downloads/" => array(
+			"/",
+			"Downloads"
+	),
+
+	/*	"downloads/customize.php" => array(
+			"downloads/",
+			"Netrekrc Configuration Tool",
+			"<a href=\"mailto:netrek-web@mirror.to\"></a>"
+	), */
+
+	"downloads/clients/" => array(
+			"downloads/",
+			"Client Software"
+	),
+
+	"developer/" => array(
+			"/",
+			"Netrek Software Development"
+	),
+
 	"servers/" => array(
 			"/",
 			"Servers"
+	),
+
+	"servers/machines.php" => array(
+			"servers/",
+			"Specific Netrek Servers"
+	),
+
+	"servers/metaservers.php" => array(
+			"servers/",
+			"Metaservers"
+	),
+
+	"servers/variants.php" => array(
+			"servers/",
+			"Types of Netrek"
 	),
 
 	"servers/inl_server_guide.php" => array(
@@ -235,7 +350,7 @@ $siteparentlist = array(
 
 	"people/" => array(
 			"/",
-			"People"
+			"Communicate"
 	),
 
 	"cinema2/" => array(
@@ -357,7 +472,8 @@ function getHeader($title)
 	<meta name=\"author\" content=\"".NHP_AUTHOR."\">
 	<link rel=\"shortcut icon\" href=\"".NPH_LOC_FAVICON."\">";
 
-	if ($_GET['print'] != "yes")
+	global $UNDERSCORE_GET_PRINT;
+if ($UNDERSCORE_GET_PRINT != "yes") 
 	{
 		return "$text
 	<link rel=\"stylesheet\" type=\"text/css\" href=\"".NPH_LOC_WEBROOT."style.css\">
@@ -381,7 +497,10 @@ function getHeader($title)
 
 function getMenu()
 {
-	if ($_GET['print'] == "yes") { return ""; }
+  /*	if ($_GET['print'] == "yes") { return ""; } */
+	global $UNDERSCORE_GET_PRINT;
+	if ($UNDERSCORE_GET_PRINT == "yes") { return ""; } 
+
 
 	// Workaround for MSIE non-conformace to XML standards...
 	$msieClutter = "";
@@ -395,16 +514,16 @@ function getMenu()
 <table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">
 <tr valign=\"middle\">
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_HOME."\"><img src=\"".NPH_LOC_IMGBASE."home.gif\" alt=\"Home\" width=\"23\" height=\"18\"></a></td>
-	<td$msieClutter><a href=\"".NPH_LOC_WEB_ABOUT."\">About&nbsp;Netrek</a></td>
-	<td$msieClutter><a href=\"".NPH_LOC_WEB_DOWNLOADS."\">Downloads</a></td>
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_BEGINNER."\">Get&nbsp;Started</a></td>
+	<td$msieClutter><a href=\"".NPH_LOC_WEB_DOWNLOADS."\">Downloads</a></td>
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_CLUEGUIDES."\">Clue&nbsp;Guides</a></td>
+	<td$msieClutter><a href=\"".NPH_LOC_WEB_PEOPLE."\">Communicate</a></td>
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_SERVERS."\">Servers</a></td>
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_LEAGUES."\">Leagues</a></td>
-	<td$msieClutter><a href=\"".NPH_LOC_WEB_PEOPLE."\">People</a></td>
+	<td$msieClutter><a href=\"".NPH_LOC_WEB_DEVELOPER."\">Developers</a></td>
+	<td$msieClutter><a href=\"".NPH_LOC_WEB_ABOUT."\">History</a></td>
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_LINKS."\">Links</a></td>
 	<th></th>
-	<td$msieClutter><a href=\"?print=yes\"><img src=\"".NPH_LOC_IMGBASE."print.gif\" alt=\"Print\" width=\"23\" height=\"18\"></a></td>
 </tr>
 </table>
 </div>
@@ -416,16 +535,16 @@ function getMenu()
 <table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">
 <tr valign=\"middle\">
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_HOME."\"><img src=\"".NPH_LOC_IMGBASE."home.gif\" alt=\"Home\" width=\"23\" height=\"18\"></a></td>
-	<td$msieClutter><a href=\"".NPH_LOC_WEB_ABOUT."\">About&nbsp;Netrek</a></td>
-	<td$msieClutter><a href=\"".NPH_LOC_WEB_DOWNLOADS."\">Downloads</a></td>
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_BEGINNER."\">Get&nbsp;Started</a></td>
+	<td$msieClutter><a href=\"".NPH_LOC_WEB_DOWNLOADS."\">Downloads</a></td>
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_CLUEGUIDES."\">Clue&nbsp;Guides</a></td>
+	<td$msieClutter><a href=\"".NPH_LOC_WEB_PEOPLE."\">Communicate</a></td>
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_SERVERS."\">Servers</a></td>
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_LEAGUES."\">Leagues</a></td>
-	<td$msieClutter><a href=\"".NPH_LOC_WEB_PEOPLE."\">People</a></td>
+	<td$msieClutter><a href=\"".NPH_LOC_WEB_ABOUT."\">History</a></td>
+	<td$msieClutter><a href=\"".NPH_LOC_WEB_DEVELOPER."\">Developers</a></td>
 	<td$msieClutter><a href=\"".NPH_LOC_WEB_LINKS."\">Links</a></td>
 	<th width=\"100%\"></th>
-	<td$msieClutter><a href=\"?print=yes\"><img src=\"".NPH_LOC_IMGBASE."print.gif\" alt=\"Print\" width=\"23\" height=\"18\"></a></td>
 </tr>
 </table>
 </div>
@@ -436,7 +555,8 @@ function getMenu()
 
 function getSidebarScreenshot()
 {
-	if ($_GET['print'] == "yes") { return ""; }
+	global $UNDERSCORE_GET_PRINT;
+	if ($UNDERSCORE_GET_PRINT == "yes") { return ""; }
 
 	// So far we have 43 screenshot images. All png format.
 	$var = rand(1,43);
@@ -450,22 +570,26 @@ More screenshots can be found in the <a href=\"".NPH_LOC_WEB_CINEMA."\">Cinema</
 
 function getSidebarDownload()
 {
-	if ($_GET['print'] == "yes") { return ""; }
+	global $UNDERSCORE_GET_PRINT;
+	if ($UNDERSCORE_GET_PRINT == "yes") { return ""; }
 
 	return "
 <h1>Download Now!</h1>
 <table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">
-<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_win.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DOWNLOADS."clients/NetrekXP4403_installer.exe\">NetrekXPmod</a> (2.5 MB)</td></tr>
-<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_linux.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DOWNLOADS."clients/paradise-2000-rc4.tar.gz\">Paradise 2000</a> (963 KB)</td></tr>
+<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_win.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."NetrekXP_2006/netrekXP2006v12install.exe\">Netrek XP 2006</a> (8.1 MB)</td></tr>
+<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_win.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."NetrekXP_Mod/NetrekXP4404_installer.exe\">Netrek XP Mod 4.4.0.4</a> (small, fewer features) (2.4 MB)</td></tr>
+<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_macosx.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."MacTrek/MacTrek-1.1.0.dmg\">MacTrek</a> (28 MB)</td></tr>
+<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_linux.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."Paradise_2000/paradise-2000-rc6.tar.gz\">Paradise 2000</a> (1.4 MB)</td></tr>
 </table>
-<p>Find other clients in the <a href=\"".NPH_LOC_WEB_DOWNLOADS."clients/\">Download</a> section.</p>
+<p>Find other clients, servers, and more in the <a href=\"".NPH_LOC_WEB_DOWNLOADS."\">Download</a> section.</p>
 ";
 }
 
 
 function getSidebarSearch()
 {
-	if ($_GET['print'] == "yes") { return ""; }
+	global $UNDERSCORE_GET_PRINT;
+	if ($UNDERSCORE_GET_PRINT == "yes") { return ""; }
 
 	return "<br><br>
 <h1>Search</h1>
@@ -481,8 +605,7 @@ function getSidebarColofon()
 	return "
 <h1>Colofon</h1>
 Webmasters: 
-<a href=\"mailto:Shadow.Hunter@netrek.org\">Erik Hietbrink</a> and
-<a href=\"mailto:ahn@netrek.org\">Dave Ahn</a>. Comments and suggestions
+<a href=\"mailto:netrek-web@mirror.to\">Netrek Webmasters</a> Comments and suggestions
 as well as articles are welcomed!
 
 <p>
@@ -514,9 +637,10 @@ us your 468x60 banner and an url!
 
 function getSidebarHints()
 {
-	if ($_GET['print'] == "yes") { return ""; }
+  //	global $UNDERSCORE_GET_PRINT;
+  //	if ($UNDERSCORE_GET_PRINT == "yes") { return ""; }
 
-	if ($_GET['hints'] == "no") return "";
+  //	if ($UNDERSCORE_GET_PRINT == "no") { return ""; }
 
 	$fd = fopen (NPH_LOC_FILEROOT."hints.dat", "r");
 	while (!feof ($fd))
@@ -590,7 +714,10 @@ You can browse the <a href=\"".NPH_LOC_WEB_NEWS."\">news archive</a> for past it
 
 function getFooter()
 {
-	if ($_GET['ads'] != "no" && $_GET['print'] != "yes")
+	global $UNDERSCORE_GET_PRINT;
+	global $UNDERSCORE_GET_ADS;
+        $adstring="";
+	if ( $UNDERSCORE_GET_ADS != "no" && $UNDERSCORE_GET_PRINT != "yes")
 	{
 
 	// todo: how to make this global?
@@ -622,7 +749,7 @@ function getFooter()
 	return "
 <div id=\"footer\">$adstring<br>
 Website design &copy; 2004,2005 by ".NHP_AUTHOR.". The content of the netrek home page is copyrighted by their respective authors.
-Please send feedback to <a href=\"" . NPH_LOC_WEB_FEEDBACK . "\">Shadow.Hunter@netrek.org</a>.
+Please send feedback to <a href=\"" . NPH_LOC_WEB_FEEDBACK . "\">netrek-web@mirror.to</a>.
 </div>
 
 </body>

@@ -39,8 +39,8 @@ img {	border-style:none; }
 	clear:left;
 }
 
-#content h2 a:link {text-decoration:none;}
-#content h2 a:visited {text-decoration:none;}
+#content h2 a:link {text-decoration:underline;}
+#content h2 a:visited {text-decoration:underline;}
 #content h2 a:hover {text-decoration:underline;}
 
 #content li {margin-bottom:10px;}

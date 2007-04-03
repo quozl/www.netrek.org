@@ -8,6 +8,7 @@
 // 4) add your file to the $siteparentlist array in nhp.php.
 // 5) Add your page content
 
+require '../set_my_root.php';
 require '../nhp.php';
 
 doNhpHeader();
@@ -27,7 +28,7 @@ echo "</div>\n\n<div id=\"content\">";
 
 <p>
 <i>(<a href="http://www.wired.com/wired/archive/1.06/netrek.html">Original
-article</a> published in WIRED magazine)</i>
+article</a> published in WIRED magazine</i>, December 1993)
 </p>
 
 <p>

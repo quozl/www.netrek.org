@@ -7,6 +7,7 @@
 // 3) The Header, Menu and Footer must remain untouched
 // 4) Add your page content
 
+require 'set_my_root.php';
 require 'nhp.php';
 
 doNhpHeader();

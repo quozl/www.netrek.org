@@ -8,6 +8,7 @@
 // 4) add your file to the $siteparentlist array in nhp.php.
 // 5) Add your page content
 
+require '../set_my_root.php';
 require '../nhp.php';
 
 doNhpHeader();
@@ -23,16 +24,42 @@ echo "</div>\n\n<div id=\"content\">";
 
 <h1>Netrek Software Development</h1>
 <p>
-Netrek software is the result of several years of
+Netrek software is the result of years of
 contributions made by many individuals. If you are interested in
-helping with continued growth and development of Netrek software, look
-below for important development resources. If a specific client or
-server software is not listed below, chances are that it is currently
-not maintained.
-</p>
+being part of this grand tradition by helping with continued growth 
+and development of Netrek software, 
+read on for developer resources. We don't just need coders, by the way;
+we also need people to help with pomotion, and with web page and doc editing.
+ </p>
+<br>
+<h2>General Info and Getting Involved</h2>
+<ul>
+<li>The
+<a href="http://mailman.us.netrek.org/mailman/listinfo/netrek-dev">netrek-dev</a> mailing list and the 
+<a href="irc://irc.freenode.net/netrek">#netrek IRC channel, on irc.freenode.net</a>
+ are the main
+developer hangouts, including folks doing web pages and promotion.
+
+<li>Notes are kept on the 
+<a href="http://wiki.us.netrek.org/">developer wiki</a>. 
+There is an 
+<a href="http://wiki.us.netrek.org/netrek-dev/RecentChanges?action=rss_rc&ddiffs=1&unique=1">RSS feed</a> of wiki updates.
+
+<li>
+For source code, see the Developer Wiki <a
+href="http://wiki.us.netrek.org/netrek-dev/SourceControl">source code control</a>
+page for where to find source code for various Netrek programs. 
+
+<li>
+For binaries and maybe some source code, see 
+<a href="../downloads/">the main download page</a>, 
+the <a href="../downloads/clients/">full client list download page</a>,
+the <a href="http://www.netrek.org/files/">website files repository</a>, 
+and <a href="http://http://ftp.netrek.org/pub/netrek/">the old ftp archive.</a>
+</ul>
 
 <p>
-<h2>Cool Stuff</h2>
+<h2>Future Directions</h2>
 <ul>
 	<li><a href="multiple-roles-multiple-teams.pdf">Multiple Roles,
 	Multiple Teams, Dynamic Environment: Autonomous Netrek Agents</a><br />
@@ -44,122 +71,74 @@ not maintained.
  	from the <a href="http://www.acm.org/dl/">ACM Digital Library</a> if
 	you are a subscribed ACM member (or you can simply use
 	<a href="http://citeseer.ist.psu.edu/27115.html">CiteSeer</a>).</li>
-</ul>
-</p>
-
-<p>
-<h2>General</h2>
-<ul>
-	<li><a href="../downloads/">Netrek Software</a><br />
-	You can download the various client and server source code here.</li>
 
 	<li><a href="http://www.inl.org/netrek/netrekFOCS.html">Netrek
 	Frequently Offered Clever Suggestions (FOCS)</a><br />
 	The same ideas get proposed over and over by people
 	trying to enhance Netrek, and the same discussions come up again and
 	again. The FOCS is an attempt to stem the flow by presenting old
-	discussions and arguments against the ideas.</li>
+	discussions and arguments against the ideas. It's a bit out of
+        date; check the dev mailing list and wiki, and the netrek irc channel
+        for an idea of what mods folks are up to now.</li>
 
-	<li><a href="../about/history_overall.php">Netrek History</a><br />
-	Some documents written mostly by Andy McFadden on the evolution of Netrek.</li>
+</ul>
+</p>
 
-	<li><a href="http://www.inl.org/netrek/design.html">Netrek
+<p>
+<h2>Archival Information</h2>
+<ul>
+	<li><a href="./design.html">Netrek
 	Game Design</a><br />
-	Document describing the major Netrek design changes over the years.</li>
+	1997 document describing the major Netrek design changes over the years.</li>
 
-	<li><a href="http://www.shadowhunter.org/jch/server-secrets.txt">Netrek
+	<li><a href="./server-secrets.txt">Netrek
 	Server Secrets</a><br />
-	(a bit outdated, but interesting). An archive of little known facts, bugs or features
-	of servers from yesteryear.</li>
+	(a bit outdated (1993), but interesting). An archive of little known facts, 
+        bugs or features of servers from yesteryear.</li>
+
+        <li>Also see the <a href="../about">history section</a>.
 </ul>
 </p>
+
 
 <p>
-<h2>Server Development</h2>
+
+<h2>Projects</h2>
+<br><p>
+<b>Current projects include:</b>
 <ul>
-	<li><a href="http://archives.real-time.com/mailman/listinfo/vanilla-list">Vanilla
-	Server Mailinglist</a><br />
-	This is the dedicated mailing list of the Vanilla server developers.
-	To join, send a blank message to <a
-	href="mailto:vanilla-list-subscribe@us.netrek.org">vanilla-list-subscribe@us.netrek.org</a>.
-	You can reach the list at <a href="mailto:vanilla-list@us.netrek.org">vanilla-list@us.netrek.org</a>.
-	To view past messages, browse the <a href="http://archives.real-time.com/pipermail/vanilla-list/">archive</a>.
-	</li>
-
-	<li><a href="http://vanilla.us.netrek.org/">Vanilla Server
-	Development</a><br />
-	The Vanilla Server is currently the only Netrek server
-	software that is being actively developed.
-	The source is available via FTP and anonymous CVS from
-	:pserver:netrek@cvs.us.netrek.org:/home/netrek/cvsroot (password
-	'netrek') under the module 'Vanilla'. The current server maintainer is
-	<a href="mailto:cameron@stl.dec.com">James Cameron</a>.
-	</li>
+<li>The Vanilla Server, game server for Bronco, INL, Hockey, Sturgeon, etc.
+<li>The Metaserver
+<li>The main windows client, Netrek XP 2006
+<li>The main Macintosh client, MacTrek
+<li>COW, the most advanced open source unix client
+<li>BRMH, a unix client with lots of ports available, including OS X
 </ul>
-</p>
 
-<p>
-<h2>Client Development</h2>
-The links below point to active development resources
-for several client software that are currently under development. For
-anonymous CVS access, use the userid 'netrek' and the password 'netrek'.
+<b>Functional Older projects:</b>
 <ul>
-	<li>
-	<a href="http://archives.real-time.com/mailman/listinfo/vanilla-clients/">Netrek
-	Client Developer Mailing List</a><br />
-	There is a mailing list for the general discussion of
-	the various Netrek clients including COW, BRMH, Paradise, TedTurner,
-	NetrekXP, etc. To subscribe to this list, send an empty message to <a
-	href="mailto:vanilla-clients-subscribe@us.netrek.org">vanilla-clients-subscribe@us.netrek.org</a>.
-	You can reach the list at <a
-	href="mailto:vanilla-clients@us.netrek.org">vanilla-clients@us.netrek.org</a>. To view past
-	messages, browse the <a href="http://archives.real-time.com/pipermail/vanilla-clients/">archive</a>.
-	</li>
-
-	<li>
-	<a href="http://www.netrek.org/cow/">COW (Client of Win)</a>,
-	maintainer: <a href="mailto:007@netrek.org">Kurt Siegl</a><br />
-	COW is a popular client with support for 256 full color
-	pixmaps. The source is available via FTP and anonymous CVS, and
-	development efforts are discussed on the Netrek Client Developer
-	Mailing List (above).
-	</li>
-
-	<li>
-	<a href="http://netrek.keyos.org/">Netrek XP Mod Project</a>,
-	maintainer: <a href="mailto:keyos@keyos.org">Stas Pirogov</a><br />
-	This is currently the most recent and actively developed client. It is focussed
-	entirely on the windows platform though. It is based on Steve Sheldon's
-	old Netrek:1999 client.
-	</li>
-
-	<li>
-	<a href="http://www.speakeasy.org/~xyzzy/netrek/">Paradise 2000</a>,
-	maintainer: <a href="mailto:xyzzy@speakeasy.org">Trent Piepho</a><br />
-	This is an enhanced version of the Paradise client for Linux. It features
-	stereo sound effects and a number of new features not found in other clients.
-	</li>
-
-	<li>TedTurner (Paradise) client,
-	maintainer: <a href="mailto:ahn@netrek.org">Dave Ahn</a><br />
-	The TedTurner client is the latest incarnation of the
-	Paradise client with 256 color pixmap support. TedTurner development is also
-	discussed on the <a href="mailto:paradise-workers@goof.com">Paradise
-	Workers Group</a> mailing list. The source is available via FTP and
-	anonymous CVS from :pserver:netrek@ftp.netrek.org:/home/cvs under the
-	module 'TedTurner'.
-	</li>
-
-	<li>
-	<a href="http://www.dtek.chalmers.se/~matso/nttng/">Netrek: The
-	Next Generation</a>, maintainer:
-	<a href="mailto:matso@dtek.chalmers.se">Mats Olsson</a><br />
-	NT:TNG is a complete rewrite of Netrek, done in Java. It has a
-	dedicated mailing list at <a href="mailto:nttng@dtek.chalmers.se">nttng@dtek.chalmers.se</a>.
-	Detailed info is available at the web site.
-	</li>
+<li>TedTurner is a Paradise client for unix, including OS X. If anyone ever wanted to play Paradise on a Mac, dusting off this with a build against more current OS X might be nice. 
+<li>The Netrek Paradise server is the only game server not unified into the Vanilla server. 
+<li>Netrek XP Mod, a Windows client which formed the basis of XP 2006. It is expected that the 4.4.0.4 release from the spring of 2006 will be the final release. 
+<li>There were a bunch of developmental projects that formed the path from the unix clients to the Windows clients. These included a COW port to windows and Netrek:1999. 
+<li>trekhopd was written to allow Netrek play over TCP from behind a dual-homed firewall. 
+<li>pledit was written to edit player lists, but was obsoleted by LTD-style statistics.
 </ul>
-</p>
+
+<b>Incomplete Older projects:</b>
+<ul>
+<li>glTrek was a project to write a client in Java. It reached Alpha release in summer of 2003.
+<li>JTrek was a project to write a client in Java. It reached Alpha release in Fall 1998. 
+<li>
+<a href="http://www.dtek.chalmers.se/~matso/nttng/">Netrek: The
+Next Generation</a>, was a project by 
+<a href="mailto:matso@dtek.chalmers.se">Mats Olsson</a><br />
+to do  a complete rewrite of Netrek in Java. Project died out in 1999.
+</li>
+
+</ul>
+
+
 
 
 <?

@@ -8,6 +8,7 @@
 // 4) add your file to the $siteparentlist array in nhp.php.
 // 5) Add your page content
 
+require '../set_my_root.php';
 require '../nhp.php';
 
 doNhpHeader();
@@ -29,104 +30,72 @@ there are many possibilities to discuss netrek and get answers to your
 questions. Get in touch!
 </p>
 
-<p><h2>Ask Questions. Get Answers</h2>
+<p><h2>Ask Questions. Get Answers.</h2>
 <ul>
-	<li><b>In-Game Messaging</b><br>
-	How to send Messages: Type 'm' or put your mouse cursor in the
-	outgoing message window.  It is the upper of the two thin
-	one-line windows at the bottom right of the netrek window.
-	Type the letter for who you want to send to:
-
-	<table border="0" bgcolor="#444444">
-        <tr><td width="60"><b>A</b></td><td>Send to All (Everyone!)</td></tr>
-        <tr bgcolor="#333333"><td><b>t</b></td><td>Send to your own team</td></tr>
-	<tr><td><b>0</b>-<b>9</b>, <b>a</b>-<b>j</b></td><td>Message is sent to player of that number/letter</td></tr>
-        <tr bgcolor="#333333"><td><b>F</b>,<b>K</b>,<b>R</b>,<b>O</b></td><td>Send to <b>F</b>ederation, <b>K</b>lingons, <b>R</b>omulans or <b>O</b>rions</td></tr>
-	</table>
-	Type now your message followed by enter. Use the Esc key to cancel a message before sending it.
+	<li>Talk to people in the game with <a href="../beginner/messaging.php">In-Game Messaging</a></li>
+	<li>Chat live at the 
+	<a href="irc://irc.freenode.net/netrek">#netrek IRC channel, on irc.freenode.net</a><br>
+	This is an IRC (Internet Relay Chat) channel dedicated
+	to, of course, the topic of Netrek.<br>Hop on if you've got burning
+	questions and need quick interactive help!
 	</li>
 
-	<li>
-	<a href="http://www.inl.org/netrek/netrekFAQ.html">Netrek
-	Frequently Asked Questions (FAQ) List</a><br>
-	Many questions regarding Netrek are answered in this
-	list. Regardless of whether you know nothing about Netrek or
-	have been playing for a year, the answer to your question is
-	probably here.	Please read this FAQ before asking for help on
-	Usenet or via email.
-	</li>
 
 	<li>
 	<a href="news://rec.games.netrek/">Usenet: rec.games.netrek
-	newsgroup</a><br>
+	newsgroup</a><br>Or, if you don't have a newsreader and want 
+        to view it thru Google Groups, look at <a href="http://groups.google.com/group/rec.games.netrek">http://groups.google.com/group/rec.games.netrek</a>
 	This is a Usenet newsgroup (often referred to as RGN) dedicated
 	to the topic of Netrek. You can join in on discussions with
 	fellow players. This is the primary communication medium for the
 	Netrek community. A word of warning: asking common questions
 	like &quot;How do I play Netrek?&quot; or &quot;Where do I
 	download a client?&quot; will generally backfire with rude
-	replies about getting a &quot;clue&quot; and reading the <a
-	href="http://www.inl.org/netrek/netrekFAQ.html">FAQ</a>.  So,
+	replies about getting a &quot;clue&quot; and reading the stuff
+        on this website. So,
 	please look for the answer to any beginner questions on this
 	home page before posting.
 	</li>
 
-	<li>
-	<a href="irc://irc.freenode.net/netrek">IRC: #netrek channel</a><br>
-	This is an IRC (Internet Relay Chat) channel also dedicated
-	to, of course, the topic of Netrek. Join if you've got burning
-	questions and need quick interactive help!
-	</li>
-</ul>
+        <li>
+        There are <a href="http://www.playnetrek.org/smf/">webforums over at playnetrek.org</a>.
+        </li>
 
-<p><h2><a href="http://facefiles.netrek.org/">Netrek Face Files</a></h2>
-Did you ever wonder what the people you play with every day look like? There is
-now a perfect opportunity to satisfy your need for information: go visit the 
-<a href="http://facefiles.netrek.org/">Netrek Face Files</a>! And, most 
-important of all, do not forget to leave your own photograph!
-
-<p><h2>Advanced Netrek</h2>
-Think you rewl? Yeah, whatever! Clue games are usually
-reserved for players who have logged hundreds of hours in
-&quot;pickup&quot; Netrek. If you've never played on a clue game, you
+        <li>
+        We've got mailing lists, too. <br><br>
+        <ul>
+        <li><a href="http://mailman.us.netrek.org/mailman/listinfo/netrek">netrek@us.netrek.org</a><br>for general discussion. 
+        <li><a href="http://mailman.us.netrek.org/mailman/listinfo/netrek-dev">netrek-dev</a><br>for game developers, server admins, website work, etc. 
+        <li><a href="http://groups.google.com/group/netrek-clue-games/">The Clue Game list.</a><br>
+Once you know the basics, if you want to take it to the next
+level and see what Netrek is really about, you want to play clue games. Some
+of the players in these games have played thousands of hours. 
+If you've never played on a clue game, you
 should join as an observer first to become familiarized with real
 teamwork and gameplay.
 
-<ul>
-	<li>
-	<a href="http://archives.real-time.com/mailman/listinfo/vanilla-clue-pickup">Clue-pickup
-	Mailing List</a><br>
-	If you want to play on league-style
-	clued games, join this mailing list. Various teams announce clued games
-	open to players during the league seasons. To subscribe to the list,
-	send a message to <a
-	href="mailto:vanilla-clue-pickup-subscribe@us.netrek.org">vanilla-clue-pickup-subscribe@us.netrek.org</a>.
-	You can browse past messages in the
-	<a href="http://archives.real-time.com/pipermail/vanilla-clue-pickup/">Archive</a>. 
-	</li>
+        </ul>
+        </li>
 
-	<li>
-	<a href="../leagues/">Netrek Leagues</a><br>
-	There are several organized Netrek Leagues where best players
-	from all over the world form teams to play each other. Join and
-	play with your friends in organised teams and enjoy high quality
-	games of Netrek. Find out more about the different leagues
-	<a href="../leagues/">here</a>.
-	</li>
 </ul>
 
-<p><h2><a href="http://www.shadowhunter.org/gatherings/">Gatherings</a></h2>
-Meet players in person! Netrek gatherings are events in which netrekkers
-from all over the world converge to one place to play a lot of netrek,
-drink lots of beer and generally have a good time. There have been
-many gatherings in the past, also on smaller (national) scale. <a
-href="http://www.shadowhunter.org/gatherings/">Here</a> are the few events
-where we do have recordings from. There definately must have been lots
-more gatherings in the USA.
 
-<p><h2><a href="../developer/">Netrek Development</a></h2>
-If you are interested in helping to improve or enhance
-Netrek, check out <a href="../developer/">this link</a>.
+<p>
+<h2>Gatherings</h2>
+
+<h4><font color="yellow">Currently,</font> 
+<a href="http://www.hargelsberg.at/nasg2007/">plans are underway for a gathering in Austria</a>, 
+<font color="yellow">to be held during the Summer of 2007.</font></h4>
+<br>
+Sometimes there are Netrek gatherings, where players from all over
+the world converge to one place to play a lot of netrek,
+drink lots of beer and generally have a good time. 
+<br>
+ShadowHunter has 
+<a href="http://www.shadowhunter.org/gatherings/">a page of photos and other stuff</a> from past 
+gatherings. 
+
+
 
 
 <?

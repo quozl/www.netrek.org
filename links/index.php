@@ -8,6 +8,7 @@
 // 4) add your file to the $siteparentlist array in nhp.php.
 // 5) Add your page content
 
+require '../set_my_root.php';
 require '../nhp.php';
 
 doNhpHeader();
@@ -20,48 +21,14 @@ echo getSidebarHints();
 echo "</div>\n\n<div id=\"content\">";
 ?>
 
-
-<h1>Miscellaneous Cool Stuff</h1>
-<p>
-The following are miscellaneous Netrek related links. 
-Some of these links may be out of date. The links are mostly in 
-chronologically added order.</p>
-
-<p><h2>Neat links</h2>
-<ul>
-<li>
-	<a href="http://facefiles.netrek.org/">Netrek Face 
-	Files</a> - Gallery of scanned photos of 
-	Netrek players. Sign up yourself as well!
-	</li>
+<!-- Caching. 
+   We should add caches of some of the dead sites if we can get
+   them from archive.org or whereever. I'm gonna list some here:
 <li>
 	<a href="http://nl.netrek.org/">Dutch 
 	Netrek Startpage</a> - Netrek in Dutch.
 	</li>
-<li>
-	<a href = "../cinema2/">Netrek Cinema</a> - The Netrek Cinema
-	contains collections of Netrek game snapshots and recordings
-	submitted by various players over the years.
-	</li>
-<li>
-	<a href="http://vismod.media.mit.edu/vismod/demos/netrek/index.html">Netrek
-	Collective</a> - A project at MIT to build advanced interfaces for
-	Netrek. Really cool stuff! 
-	</li>
-<li>
-	<a href="http://home.comcast.net/~dantes/">Dantes Dogfighting Strategy</a> - 
-	A guide with good advice on how to actually fly a netrek ship.
-	</li>
-<li>
-	<a href="http://netrek.hwy.com.au/">Netrek in Australia</a> - 
-	A website to serve the community of Netrek players in Australia.
-	</li>
-<li>
-	<a href="http://www.outfitters.com/~peter/gamer/netrekcm.htm">
-	Default Netrek Commands</a> - A 
-	list of the default keymap for most clients.
-	</li>
-<li>
+
 	<a href="http://www.coe.uncc.edu/~drh/NetrekTshirt.html">Netrek T-Shirt Offer</a> - Picture 
 	of the old Netrek T-shirt from '96. It is no longer available, but 
 	there is a snapshot of the shirt.
@@ -71,8 +38,57 @@ chronologically added order.</p>
 	of neat Netrek macros. 
 	</li>
 <li>
-	<a href="http://www.reference.com/Dir/Games/Internet/Netrek/">Netrek at Reference.com</a> - 
-	Netrek has its own category!
+	<a href="http://www3.sympatico.ca/mfurrow/netrek/">Caradhras'
+	Netrek page</a> - Clean looking appetiser for the game of netrek.
+	</li>
+    
+-->
+
+
+<h1>Linkfest</h1>
+<p>
+The following are miscellaneous Netrek related links. 
+</p>
+
+
+
+
+
+<p><h2>Misc links</h2>
+<ul>
+
+<!-- Facefiles are broken...
+        <li>
+	<a href="http://facefiles.netrek.org/">Netrek Face 
+	Files</a> - Gallery of scanned photos of 
+	Netrek players. Sign up yourself as well!
+	</li> -->
+
+<li>    <A href="http://www.playnetrek.org">PlayNetrek.org</a> - 
+	The home of the Netrek <a href="http://www.playnetrek.org/smf/">web forums</a>, client downloads and flash tutorials,
+        and other trekish goodness.
+
+<li>
+	<a href="http://netrek.hwy.com.au/">Netrek in Australia</a> - 
+	A website to serve the community of Netrek players in Australia.
+
+	</li>
+<li>
+	<a href="http://members.tripod.com/~netrek/">Netrek: 
+	Outpost</a> - Sulman Syed's contribution: a 
+	compilation of Netrek resources. 
+	</li>
+
+<li>	<a href="http://www.continuum.us.netrek.org/">Netrek Continuum</a> -
+	A big collection of netrek stuff; cluefiles, intros, etc. 
+	</li>
+ 
+<li>    <a href="http://paradise.netrek.org">Paradise.Netrek.Org</a> - the home of Netrek Paradise. Not very active. 
+        </li>
+
+<li>	<a href="http://vismod.media.mit.edu/vismod/demos/netrek/index.html">Netrek
+	Collective</a> - A project at MIT to build advanced interfaces for
+	Netrek. Pretty neat.
 	</li>
 </ul>
 
@@ -117,58 +133,36 @@ chronologically added order.</p>
 </ul>
 
 
-<p><h2>Personal Netrek home pages</h2>
+<p><h2>Personal and Team Netrek home pages</h2>
+In no particular order. 
 <ul>
-<li>
-	<a href="http://www3.sympatico.ca/mfurrow/netrek/">Caradhras'
-	Netrek page</a> - Clean looking appetiser for the game of netrek.
-	</li>
-<li>
-	<a href="http://members.tripod.com/~netrek/">Netrek: 
-	Outpost</a> - Sulman Syed's contribution: a 
-	compilation of Netrek resources. 
-	</li>
-<li>
-	<a href="http://www.cc.utah.edu/~bj0038/netrek/">Bret 
-	Jordan's Netrek Home Page</a> - Neat 
-	graphics, but no longer maintained.
-	</li>
-<li>
-	<a href="http://free.prohosting.com/~jthirsk/netrek/">Netrek Home Site of Mifiq</a> - 
-	Mifiq's personal Netrek page.
-	</li>
+
 <li>
 	<a href="http://web.mit.edu/madpit/www/netrek/">DOOSH! 
 	- Netrek</a> - Subby's personal home page.
 	</li>
-</ul>
 
-
-<p><h2>INL team home pages</h2>
-<ul>
 <li>
-	<a href="http://www.shadowhunter.org/rookies2/">Rookies 2</a>
+	Team <a href="http://www.shadowhunter.org/rookies2/">Rookies 2</a>
 	</li>
 <li>
-	<a href="http://www.ping.de/~sven/netrek/ET.html">EuroTwinks</a>
+	Team <a href="http://www.ping.de/~sven/netrek/ET.html">EuroTwinks</a>
 	</li>
-</ul>
+<li>
+	<a href="http://www.cc.utah.edu/~bj0038/netrek/">Bret 
+	Jordan's Netrek Home Page</a> - A ~1997 player's site, with some
+        documentation on it, scores for his characters, etc. 
+	</li>
 
+<li>
+	<a href="http://free.prohosting.com/~jthirsk/netrek/">Netrek Home Site of Mifiq</a> - 
+	Mifiq's personal Netrek page.
+	</li>
 
-<p><h2>Other Netrek team home pages</h2>
-<ul>
 <li>
 	<a href="http://www.mindspring.com/~rickwood/schmack_foo/index.html">Team SchmackFoo</a>
 	</li>
-<li>
-	<a href="http://koala.ilog.fr/FF/FF.html">Flying Froggies</a>
-	</li>
-<li>
-	<a href="http://www.solace.mh.se/~jsf/taod.html">The Army Of Darkness</a>
-	</li>
-<li>
-	<a href="http://www.dtek.chalmers.se/~d4sand/swedish_erotica.html">Swedish Erotica</a>
-	</li>
+
 <li>
 	<a href="http://www.dtek.chalmers.se/~d8samol/cthns.html">Chalmers Local Netrek Home Page</a>
 	</li>
