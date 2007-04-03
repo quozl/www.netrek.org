@@ -1,0 +1,857 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+
+<title>Netrek FAQ list</title>
+<BODY BGCOLOR="#FFFFFF" TEXT="#111100" LINK="#336699" ALINK="AA0000"
+VLINK="#996600">
+
+<h2 align=center>Netrek FAQ list</h2>
+
+Last-Updated: 7 Feb 2004<br>
+Changes: Added info about Cygwin server
+
+
+<p>
+<h3>Table of Contents</h3>
+
+<ol>
+<a href="#1">
+<li>What is Netrek?
+</a>
+
+<a href="#2">
+<li>It sounds interesting; how do I get started?
+</a>
+
+<a href="#3">
+<li>What's the difference between Xtrek and Netrek?
+</a>
+
+<a href="#4">
+<li>I've seen a game called Nettrek for the Macintosh; is that the 
+same thing as Netrek?
+</a>
+
+<a href="#5">
+<li>What platforms are supported?
+</a>
+
+<a href="#6">
+<li>I'm playing on my Mac/IBM PC/Amiga, but I can't seem to fit all the 
+windows on the screen.  Is there a version that will run in 640x480?
+</a>
+
+<a href="#7">
+<li>I would like to start a new server; what kind of hardware 
+will I need?
+</a>
+
+<a href="#8">
+<li>I'm trying to start a new server, and I'm having problems.  
+Where can I get help?
+</a>
+
+<a href="#9">
+<li>How do I get people to play my server?
+</a>
+
+<a href="#10">
+<li>I compiled the client source, but every time I try to connect 
+to a server it kicks me out or tells me to get a 'blessed' binary.  What 
+gives?
+</a>
+
+<a href="#11">
+<li>The game runs fine, but when the Netrek window comes up, I 
+can't type anything into it.  How can I fix this?
+</a>
+
+<a href="#12">
+<li>OK, the game runs fine and I found a server and logged in, but there
+doesn't seem to be anyone else around.  How can I find a game with
+people in it?
+</a>
+
+<a href="#13">
+<li>OK, now I'm in a game with other people.  What do I do?
+</a>
+
+<a href="#14">
+<li>When I'm playing the game, people keep sending messages to me.  How can
+I talk back to them?
+</a>
+
+<a href="#15">
+<li>I would like to change what some of the keys do; for example, I'd
+like 't' instead of 'T' to activate my tractor beam.  Is there a way
+to change this?
+</a>
+
+<a href="#16">
+<li>How does the rating/promotion system work?
+</a>
+
+<a href="#17">
+<li>I keep dying.  How can I get better at the game?
+</a>
+
+<a href="#18">
+<li>What is 't-mode'?
+</a>
+
+<a href="#19">
+<li>What does DI stand for, anyway?
+</a>
+
+<a href="#20">
+<li>What is UDP?
+</a>
+
+<a href="#21">
+<li>Some of the servers and clients are called 'RSA'; what does that mean?
+</a>
+
+<a href="#22">
+<li>What is the INL (International Netrek League)?
+</a>
+
+<a href="#23">
+<li>What is the INHL (International Netrek Hockey League)?
+</a>
+
+<a href="#24">
+<li>What is the WNL (Weenie Netrek League)?
+</a>
+
+<a href="#25">
+<li>What is the Draft League?
+</a>
+
+<a href="#26">
+<li>Pickup games are full of twinks.  How can I find games with clued teams?
+</a>
+
+<a href="#27">
+<li>I have some ideas and/or bug fixes for the INL Server; where should I
+send them?
+</a>
+
+<a href="#28">
+<li>I'm looking at stats from a clue/INL game; what do all the abbreviations 
+mean?
+</a>
+
+<a href="#29">
+<li>I just played a clue/INL game; where can I get the stats?
+</a>
+
+<a href="#30">
+<li>How can I record and view recordings of netrek games?
+</a>
+
+<a href="#31">
+<li>Where can I get the most recent copy of this FAQ list?
+</a>
+
+<a href="#32">
+<li>My GPA has fallen 25% since I started playing Netrek last semester.
+How do you find time to do your homework and still make Admiral?
+</a>
+
+</ol>
+
+<ol>
+
+<a name="1"><h4>
+<li>What is Netrek?
+</h4></a>
+
+<strong>The short version:</strong> Netrek is a 16-player
+two-dimensional graphical real-time battle simulation with a Star Trek
+theme.  A game is divided into two teams of 8 players (or fewer), who
+dogfight each other and attempt to conquer each other's planets.  
+<p>
+
+<strong>The long version:</strong> Netrek is the probably the first
+video game which can accurately be described as a "sport."  It has more
+in common with basketball than with arcade games or Quake.  Its vast and
+expanding array of tactics and strategies allows for many different play
+styles; the best players are the ones who think fastest, not necessarily
+the ones who twitch most effectively.  It can be enjoyed as a twitch
+game, since the dogfighting system is extremely robust, but the things
+that really set Netrek apart from other video games are the team and
+strategic aspects.  Team play is dynamic and varied, with roles
+constantly changing as the game state changes.  Strategic play is
+explored in organized league games; after 9+ years of league play,
+strategies are still being invented and refined.  
+<p>
+
+The game itself has existed for over 15 years, and has a solid
+playerbase, including some people who have been playing for nearly as
+long as the game has existed.
+<p>
+
+All netrek clients and servers are completely free of charge, although
+there are several people working on commercial netrek variants or
+derivatives.
+
+
+<a name="2"><h4>
+<li>It sounds interesting; how do I get started?
+</h4></a>
+
+First, you need to get a client binary for your machine; read the 
+<a href="http://inl.org/netrek/netrekFTP.html">Netrek FTP List
+</a> to find an FTP site.  The client should run on anything that
+runs X Windows, and there are Windows and Mac OS X clients available.
+You can play over a modem, but it will be slow.  DSL, cable modems
+and the like should provide good performance.
+<p>
+
+Once you have the binary, rename it to something logical like 'netrek'
+and run it with 'netrek -m'.  This will contact the <a href="#12">Metaserver
+</a> to find a list of currently active games.  Click on the game you want
+to join; it might be a good idea to join an empty server to get used to
+the controls before you get in a game with actual people.  On most servers,
+"*" will send in a practice robot if there is no one else in the game;
+you can use the practice robot to practice aiming and dodging.
+<p>
+
+If you get a 'netrek: Permission denied' message, try 'chmod 755 netrek'.
+After the game is over, try 'man chmod.'
+<p>
+
+<a name="3"><h4>
+<li>What's the difference between Xtrek and Netrek?
+</h4></a>
+
+Xtrek is a precursor to Netrek.  It has many of the same elements,
+but it doesn't work as well because it isn't set up as a client-server
+combination (it uses raw X protocol).
+<p>
+
+Netrek is sometimes called Xtrek.  This causes much confusion.
+This newsgroup really is dedicated to Netrek, but feel free to talk about
+Xtrek if you want; many people here have played both.
+<p>
+
+<a name="4"><h4>
+<li>I've seen a game called Nettrek for the Macintosh; is that the 
+same thing as Netrek?
+</h4></a>
+
+No.  Nettrek is in the same family as Netrek (it's unclear which was
+created first), but it's not the same game.  It runs over AppleTalk
+and doesn't have a whole lot of complexity.  If you're interested in it, 
+the original version can be found in most net archive sites that support
+Mac games.  The most recent version is a commercial program called
+"Nettrek 3.0 - The Real Version," and is published by Premiere Technology,
+Inc.
+
+<a name="5"><h4>
+<li>What platforms are supported?
+</h4></a>
+
+Netrek was originally developed on Unix, and usable compiled binaries are
+available for all major Unix-based OS'es.  If you have a strange OS,
+you may need to compile the freely-available source code.
+<p>
+
+There are now several different clients available for Windows machines.
+<p>
+
+There is a client for Macintoshes running Mac OS X, with XFree86
+installed.  It reportedly works well.  If you are running Linux on
+your Mac, there are several clients that should work.
+<p>
+
+If you are running Linux or FreeBSD on your IBM PC, there are several
+clients available.
+<p>
+
+To find any of these clients, go to the Netrek FTP list at
+
+<a href="http://inl.org/netrek/netrekFTP.html">
+
+http://inl.org/netrek/netrekFTP.html
+
+</a>
+
+and search for your platform name.
+
+
+<a name="6"><h4>
+<li>I'm playing on my Mac/IBM PC/Amiga, but I can't seem to fit all the
+windows on the screen.  Is there a version that will run at 640x480?
+</h4></a>
+
+Not really.  To be comfortable, your monitor resolution needs to be
+1024x768 or greater.  The <a
+href="http://inl.org/netrek/netrekFTP.html#cow2">COW</a>
+client has a compile-time option to run in an 800x600 mode, but it
+cuts down the amount of game space you can see on your tactical map.
+It would theoretically be possible to play at 640x480, but you'd have
+to chop things off pretty severely.  Bottom line: get a better
+monitor.
+
+<a name="7"><h4>
+<li>I would like to start a new server; what kind of hardware will 
+I need?
+</h4></a>
+
+The server should run on any major Unix-like platform.  It has also
+been compiled and run under the "cygwin" Unix emulation package under
+Windows.  It doesn't take much CPU power--it's possible to run a
+server on an early Pentium.  Good net connections are essential if you
+want lots of players--your DSL or cable modem connection won't cut it.
+<p>
+
+Read the <a href="http://inl.org/netrek/netrekFTP.html#vanilla">
+Netrek FTP list</a> to find out where you can get the server source.
+<p>
+
+Please get the permission of your sysadmins before setting up a
+server.  There is one ex-server-admin who was criminally prosecuted
+for running a netrek server on a government machine.  No joke.
+
+<a name="8"><h4>
+<li>I'm trying to start a new server, and I'm having problems.  Where 
+can I get help?
+</h4></a>
+
+There are a bunch of somewhat dated server secrets 
+<a href="http://www.cirr.com/~pmagrude/trek/server-secrets">here.</a>
+You can also try posting to the <a href="news:rec.games.netrek">newsgroup.</a>
+There's now a mailing list for server code maintainers, 
+<a href="mailto:vanilla-list@us.netrek.org">
+vanilla-list@us.netrek.org</a>.
+Check out the <a href="http://vanilla.us.netrek.org/">Vanilla Server</a>
+development team web page.
+
+<a name="9"><h4>
+<li>How do I get people to play my server?
+</h4></a>
+
+Generally, people call up the <a href="#12">Metaserver</a> and try to get into
+a game that already has people in it.  If your school has a bunch of
+people who play netrek, encourage them to use your server and people
+from other places will begin to.  If you don't have a local netrek
+population, log on to the machine yourself and fight Hosers.
+<p>
+
+The other option is to modify the server enough that people are 
+interested in it for the novelty.  Several of the more popular servers
+have been created this way (Sturgeon and Paradise come to mind).  Keep
+in mind, if you do this, that you will attract weenies more than
+serious players.
+<p>
+
+To get your server listed on the <a href="#12">Metaserver</a>, follow
+the documentation file docs/metaservers-HowTo in the Vanilla kit, or mail
+<a href="mailto:vanilla-metaserver@us.netrek.org">
+
+vanilla-metaserver@us.netrek.org
+
+</a>.  Newer server code releases can be configured to automatically
+contact the Metaserver and insert a new listing.
+
+
+<a name="10"><h4>
+<li>I compiled the client source, but every time I try to connect to
+a server it kicks me out or tells me to get a 'blessed' binary.  
+What gives?
+</h4></a>
+
+It's possible to modify the client source to do lots of tedious tasks
+(like aiming, dodging, that sort of thing) for you.  Since this gives
+you a big advantage over a mere human, netrek has a way of knowing whether
+you have a client that was compiled by the netrek Gods or by you.  If
+you compiled it, netrek will assume it's a cyborg, and will kick you out
+if it's not cyborg hours.  
+<p>
+
+You might also run into this problem if you are playing behind a NAT
+gateway or firewall.  The netrek server initiates a "call-back" on a
+random port, which fails in most such configurations.  To get around
+this, you can turn on a feature called UDP_PORTSWAP in your client.
+Put the following in your .netrekrc file (or netrekrc on Windows):
+<p>
+
+If you're using the COW client:
+<pre>
+portSwap: on
+</pre>
+
+If you're using Paradise:
+<pre>
+udpTryPortswap: on   
+</pre>
+
+Unfortunately, the actual syntax is client-specific; some Windows clients,
+for example, don't modify the netrekrc--instead, you run "netrekp.exe"
+instead of "netrek.exe".  You'll have to consult your client documentation.
+<p>
+
+There are several different messages you can get when your binary
+isn't what the server is expecting:
+<p>
+
+<ol>
+<li>"User binary failed to verify."
+<p>
+
+The server is expecting a standard blessed client; read the 
+<a href="http://inl.org/netrek/netrekFTP.html">Netrek FTP
+List</a> to find out where you can get one.  
+<p>
+
+<li>"No customized binaries.  Please use a blessed one."
+<p>
+
+You have an RSA client, but the key for your client isn't on the list.  
+Mail the server god if you think your key should be included.
+<p>
+
+<li>"You need a spiffy new RSA client for this server!"
+<p>
+
+You have a standard blessed client (or an unblessed client) but the
+server accepts only RSA clients; read the 
+<a href="http://inl.org/netrek/netrekFTP.html">Netrek FTP List</a>
+to find out where you can get one.
+<p>
+
+</ol>
+
+If you are interested in playing a cyborg, get the source
+from one of the <a href="http://inl.org/netrek/netrekFTP.html">
+FTP</a> sites and start hacking.  It's probably not a good idea for new 
+players to use cyborgs; cyborg players get called lots of nasty names, and
+they tend not to learn how to play the game (since their client is
+doing most of the work).  
+
+
+<a name="11"><h4>
+<li>The game runs fine, but when the Netrek window comes up, I can't 
+type anything into it.  How can I fix this?
+</h4></a>
+
+This is a problem under a few older window managers (OpenWindows and
+ovlwm, for example); it's netrek's fault, but you can fix it by adding
+the line "<window manager name>.FocusLenience: True" to your
+.Xdefaults file.  Log out and log back in and it should work.  Also,
+sometimes moving the mouse cursor out of the netrek window and back in
+will fix it.
+
+<a name="12"><h4>
+<li>OK, the game runs fine and I found a server and logged in, but 
+there doesn't seem to be anyone else around.  How can I find 
+a game with people in it?
+</h4></a>
+
+Andy McFadden has written a nice little utility called Metaserver II
+(based on METASERVER, written by ERic Mehlhaff) that will tell you
+where there are active games.  
+<a href="telnet://metaserver.netrek.org:3521">telnet 
+metaserver.us.netrek.org 3520</a> lists all known servers and current 
+number of players.  You can also try telnet metaserver.netrek.org 3521, 
+3522, 3523, or 3524 for more information.
+<p>
+
+There is now a WWW-based version of the Metaserver at 
+<a href="http://metaserver.netrek.org:1080">
+
+http://metaserver.netrek.org:1080
+
+</a>
+<p>
+
+Most modern clients recognize a -m option; if you start the client with
+"netrek -m", it will contact the Metaserver and put up a list of currently
+active games.
+<p>
+
+The metaserver location has changed.  The new location is
+metaserver.us.netrek.org (the previous was
+metaserver.ecst.csuchico.edu).  Some clients still default to the old
+metaserver; if you get an error trying to connect, try adding the
+following lines to your .xtrekrc:
+<p>
+
+metaserver:     metaserver.netrek.org
+<br>
+metaport:       3521
+
+<a name="13"><h4>
+<li>OK, now I'm in a game with other people.  What do I do?
+</h4></a>
+
+The first thing you should do is bring up your message window (by
+hitting '?') and your player list (by hitting 'L').  Most clients will
+now do this by default.  On some servers, you will be asked to respond to
+a question to be sure you're reading messages; if you don't respond within
+a certain amount of time, you will be automatically kicked out of the game.
+<p>
+
+Pressing a number key chooses your warp speed.  The left mouse button fires 
+torpedos at your cursor, the middle mouse button fires phasers at your cursor, 
+and the right mouse button turns your ship towards your cursor.  Hitting
+'h' will bring up a help window with a list of basic commands.
+<p>
+
+There's a pretty good tutorial for new players at the 
+<a href="http://www.netrek.org/">Netrek Home Page.</a>
+
+
+<a name="14"><h4>
+<li>When I'm playing the game, people keep sending messages to me.  
+How can I talk back to them?
+</h4></a>
+
+On the bottom right-hand side of your main window you'll see two 
+long boxes.  The top one is where messages like "Not enough fuel for
+phaser" come up just before you die.  The bottom one is the one you
+use to talk to people.  Move your cursor down there and type a character
+to choose who to send the message to: 'A' for ALL, the capitalized 
+team letter for the team (i.e., 'F' for Federation), or the player
+number for a message to a single player (i.e., 'c' to send to Rc).
+Type your message and hit enter when you're done.  Don't do this in
+combat.
+<p>
+
+On most new clients you can also begin a message by tying the "M" key.
+Exactly what this does depends on which client you're using; it will either
+move your cursor down to the message window, or just change your cursor 
+into a text insertion bar.  Either way, hitting "return" should end the
+message and bring you back to normal game play.
+
+<a name="15"><h4>
+<li>I would like to change what some of the keys do; for example, I'd
+like 't' instead of 'T' to activate my tractor beam.  Is there 
+a way to do this?
+</h4></a>
+
+There are two ways: first, do a shift-O.  This brings up the options
+window.  Near the bottom (or elsewhere, depending on your client) there is 
+a box for 'New keymap entries'.  Move your cursor to this box and type your 
+new keymap entries.  The format is <newchar><oldchar>, so 'tT' will remap 
+tractor beam to 't'.
+<p>
+
+Netrek also recognizes a .xtrekrc file; a 'keymap:' line in there 
+will allow you to map as many as you want.  Format is the same
+as above.
+<p>
+
+If you forget where you mapped a key, remapping it to itself ('ee', for
+example) will reset that keymap.  On some clients, the "h" help window will
+display not only the defaults, but also your keymappings.
+
+<a name="16"><h4>
+<li>How does the rating/promotion system work?
+</h4></a>
+
+Do a shift-I on yourself; you'll see four ratings there, one for planets,
+one for bombing, one for offense, and one for defense.  The planet, 
+bombing, and offense ratings are measured in DI/hour; for each planet
+you take, army you bomb, and player you kill you get a certain amount
+of DI (which varies depending on the server)--the average amount per
+hour is your rating.  Your rating is equal to (your DI/your hours)/
+(total DI/total hours); therefore, if you have a bombing rating of
+2.0, you bomb twice as many armies as the average person on the server.
+This is true for all ratings.  All ratings are updated only in <a href="#17">
+t-mode.</a>
+<p>
+
+Now do a shift-U.  Listed there are the thresholds for each rank.  
+Your overall rating is your planets+bombing+offense.  To make a rank,
+you need to have the DI required for that rank, and your ratings need
+to be above the rating required for that rank (i.e., to make Admiral,
+you need 320 DI and your ratings need to be above 8.0).  You can also
+make a ranking by having ratings good enough for a level and <u>twice</u>
+the DI you would need for the next level (So you can make Admiral 
+with ratings of 7.0 and 640 DI).  This equation is recursive, so you
+can also make it with 6.0 ratings and 1280 DI (which would take about 
+200 hours), or 5.0 ratings and 2560 DI (which would take 500).  On some
+servers the equation is recursive only once, so you can't make ranks on
+8xDI.
+<p>
+
+Note that suggestions on how to improve the rating system occur
+about twice a week in rec.games.netrek, and the general consensus
+is that it isn't worth the hassle.
+
+<a name="17"><h4>
+<li>I keep dying.  How can I get better at the game?
+</h4></a>
+
+The best way is probably to talk with someone who knows how to play.
+There is also an archive of hints and suggestions on how to play 
+better; go to the <a href="http://www.netrek.org/">Netrek 
+Home Page</a> to check it out.
+
+<a name="18"><h4>
+<li>What is 't-mode'?
+</h4></a>
+
+T-mode is short for 'tournament mode.'  To keep some integrity in the
+database, ratings are calculated only when there are a certain number
+of people in the game (actually, when there are a certain number of
+people on two separate teams.  On many servers, you need 4 players
+on 2 different teams; 4 teams of 2 players won't do it).  When 
+the game goes into t-mode, there will be a 't' flag in your list
+of flags, and there will be a message like "Dan Quayle declares self
+as Galactic Emperor and chaos breaks out!"  When the game drops out
+of t-mode (because someone quit), the 't' flag will disappear and
+there'll be a "Dan Quayle is locked up and order returns to the galaxy"
+message.  
+<p>
+
+It's generally considered rude to bomb or take planets out of t-mode.
+Some servers punish people for trying.
+
+<a name="19"><h4>
+<li>What does DI stand for, anyway?
+</h4></a>
+
+Destruction Inflicted.  It's worth noting that, unlike most games, netrek
+rewards people who inflict more destruction, not people who survive longer.  
+You actually get <b>stronger</b> when you die, and you usually get more DI.
+You also tend to win more.
+
+<a name="20"><h4>
+<li>What is UDP?
+</h4></a>
+
+UDP is a network protocol that is much more lenient than TCP (which is 
+what netrek originally used).  If you don't have a local server, using a 
+UDP client on a UDP server could reduce your lag considerably.  
+All mainstream clients now support UDP.  Many thanks to Andy McFadden, 
+Netrek Guru, for implementing the UDP stuff.
+
+<a name="21"><h4>
+<li>Some of the servers and clients are called 'RSA'; what does
+that mean?
+</h4></a>
+
+RSA is a way for servers to make sure that players are not using
+cyborg clients.  The RSA package generates a header file containing
+a public and a private encryption key.  These keys are compiled into
+the client; the private key encrypts the data and the public key
+decrypts it.  The main advantage of RSA over the old reserved.c
+method is that the server gods need know only the public key; the
+RSA package can be kept in a few select hands.  Also, if someone
+breaks the protection on a certain private key, that key can be
+turned off by the server god, and that specific client will no longer work.  
+
+<a name="22"><h4>
+<li>What is the INL (International Netrek League)?
+</h4></a>
+
+The INL is the International Netrek League, a collection of teams from 
+around the world who periodically beat up on each other.  The summer/fall
+league is now accepting team rosters; see the 
+<a href="http://inl.org/how_to_join.html">
+How To Join</a> page to find a team or submit your rosters. 
+<p>
+
+All INL administrative stuff is available from the  
+<a href="http://inl.org/">INL homepage</a>.  
+You can get game statistics and schedules at
+<a href="http://www.netrek.org/statboy/">the INL Statboy Home Page</a>.
+Mail <a href="mailto:doosh@inl.org">doosh@inl.org</a> if you have
+any questions about the INL.
+
+<a name="23"><h4>
+<li>What is the INHL (International Netrek Hockey League)?
+</h4></a>
+
+The INHL is a league for Netrek Hockey teams.  Netrek Hockey is a variant
+of netrek where ships use tractor and pressor beams to move a "puck" around.
+The INHL home page is at <a href="http://wolfeandlois.org/~wolfe/hockey/">
+http://wolfeandlois.org/~wolfe/hockey/</a>. 
+
+The league is run by the INHL council, who can be reached at 
+<a href="mailto:hockey-council@godzilla.des.ucdavis.edu">
+hockey-council@godzilla.des.ucdavis.edu</a>.  
+
+The hockey home page is at
+<a href="http://www.panix.com/~jasonlee/netrek/">
+http://www.panix.com/~jasonlee/netrek/</a>.
+
+<a name="24"><h4>
+<li>What is the WNL (Weenie Netrek League)?
+</h4></a>
+
+The WNL was a league started by a few people disgruntled with the INL.
+It is now defunct.
+<p>
+The Weenie Netrek League home page may still be alive at 
+<a href="http://www.netrek.org/wnl/">
+
+http://www.netrek.org/wnl/
+
+</a>
+
+<a name="25"><h4>
+<li>What is the Draft League?
+</h4></a>
+
+The Draft League is an occasional league organized by various people.
+The teams are all chosen in a single draft at the beginning of the
+season; the idea is that this will create balanced games, and teams
+where top players can help out newbies.  
+
+<a name="26"><h4>
+<li>Pickup games are full of twinks.  How can I find games with 
+clued teams?
+</h4></a>
+
+<STRONG>WARNING:</STRONG> These mailing lists are available so that clued 
+players can get together for high-quality games.  If you are not yet a clued 
+player, you will probably be yelled at if you show up for a clue-pickup game.
+If you aren't sure whether you qualify as "clue" or not, you don't.
+<p>
+
+The clue-pickup mailing list is for organizing INL-style clue games.  You
+can join by mailing <a href="mailto:vanilla-clue-pickup-request@us.netrek.org">
+vanilla-clue-pickup-request@us.netrek.org</a> with the word
+"subscribe" in the subject line of your message.
+ The 
+list address is <a href="mailto:vanilla-clue-pickup@us.netrek.org">
+vanilla-clue-pickup@us.netrek.org</a>.
+<p>
+
+The euroclue mailing list is for organizing INL-style clue games for 
+European players.  You can get information about the list, including
+how to subscribe, at 
+<a href="http://enl.netrek.org/euroclue.html">
+http://enl.netrek.org/euroclue.html.
+</a>
+
+<p>
+
+The Hockey mailing list is for organizing hockey games, as well as 
+discussing hockey strategy and changes to the game/league structure.  You
+can subscribe by mailing <a href="mailto:majordomo@lists.panix.com">
+majordomo@lists.panix.com</a> with "subscribe hockey" in the body of the message.  
+The list address is
+<a href="mailto:hockey@lists.panix.com">hockey@lists.panix.com</a>.  
+Upcoming clue games are also posted on the 
+<a href="http://www.panix.com/~jasonlee/netrek/">
+
+Netrek Hockey Home Page (http://www.panix.com/~jasonlee/netrek/).
+
+</a>
+
+<a name="27"><h4>
+<li>I have some ideas and/or bug fixes for the INL server; 
+where should I send them?
+</h4></a>
+
+Mail the INL Council at <a href="mailto:inlcouncil@csua.berkeley.edu">
+inlcouncil@csua.berkeley.edu</a>.
+
+<a name="28"><h4>
+<li>I'm looking at stats from a clue/INL game; what do all the
+abbreviations mean?
+</h4></a>
+
+The INL server records many statistics.  A typical example looks like this:
+<p>
+
+<pre>
+                      Planets        Armies                    Kills    Deaths
+                    ----------- ------------------- --- ---Good-----Bad -------
+Name       team min tpt tpd tpb tab tac pad fao eao tof eck pck tek fck def acc
+Mojo Riser  F5   87  17  14   0   0  64  92   0   8 116   2   7  80   0  72   5
+</pre>
+
+<p>
+
+<dl>
+<dt>Name: <dd>The player's name.
+<dt>team: <dd>The player's team and player number.
+<dt>min: <dd>Number of minutes the player was in the game.
+<dt>
+tpt: <dd>Total planets taken.
+<dt>
+tpb: <dd>Total planets destroyed (neutralized).
+<dt>
+tpb: <dd>Total planets bombed.
+<dt>
+tab: <dd>Total armies bombed.
+<dt>
+tac: <dd>Total armies carried.
+<dt>
+pad: <dd>Percentage of armies dropped.  In this case I carried 64 armies, 
+dropped 59 of those (92%, on enemy planets or friendly planets needing 
+reinforcement), and was ogged with 5 (ow).
+<dt>
+fao: <dd>Friendly armies ogged (blew up on the carrier AGAIN?).
+<dt>
+eao: <dd>Enemy armies ogged (DOOSH!).
+<dt>
+tof: <dd>True offense; a measure of how far away from the enemy homeworld you 
+were, compared to other team members.  Lower is closer.
+<dt>
+eck: <dd>Enemy carriers killed (see eao).
+<dt>
+pck: <dd>Potential carriers killed (people with kills, but no armies).
+<dt>
+tek: <dd>Total enemies killed.
+<dt>
+fck: <dd>Friendly carriers killed (see fao).
+<dt>
+def: <dd>Deaths by enemy fire.
+<dt>
+acc: <dd>Actual carriers created; people who got their first kill from me and 
+picked up armies, or who got their second kill from me and picked up 
+3 or more armies.
+</dl>
+
+Newer INL servers have a more comprehensive stat system; this information
+will be updated soon.
+
+<a name="29"><h4>
+<li>I just played a clue/INL game; where can I get the stats?
+</h4></a>
+
+It depends on the server, but many of them get posted to 
+<a href="http://www.netrek.org/stats/">
+
+http://www.netrek.org/stats/
+
+</a>
+
+<a name="30"><h4>
+<li>How can I record and view recordings of netrek games?
+</h4></a>
+
+The best way to view and record games is with <a
+href="http://inl.org/netrek/netrekFTP.html#brmh"> the BRMH
+client</a>, version 2.3 or higher.  Newer server releases can also
+record games at the server level.
+
+<a name="31"><h4>
+<li>Where can I get the most recent copy of this FAQ list?
+</h4></a>
+
+You can either look in the back messages of <a href="news:rec.games.netrek">
+rec.games.netrek</a>, or via the Web at 
+<a href="http://inl.org/netrek/netrekFAQ.html">
+http://inl.org/netrek/netrekFAQ.html</a>.
+It's also in the Usenet archive at <a href="ftp://rtfm.mit.edu/pub/usenet/">
+rtfm.mit.edu</a>.
+
+<a name="31"><h4>
+<li>My GPA has fallen 25% since I started playing Netrek last 
+semester.  How do you find time to do your homework and 
+still make Admiral?
+</h4></a>
+
+Sorry, nobody's found an answer to this one yet.  Just remember that
+(GPA+kill ratio) is constant.
+
+</body>
+</html>
