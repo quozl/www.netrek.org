@@ -1,0 +1,165 @@
+# Automatic created xtrekrc with default values
+#	DefLite: 0
+#	PhaserMsg: 2
+#	PhaserStats: 0
+#	ROMVLVS: 0
+#	ScrollBar: <bool>
+#	ScrollBarWidth: <int>
+#	ScrollSaveLines: <int>
+#	UseLite: 0
+#	WMXYHintMode: <string>
+#	arrowCursorDef: <string>
+#	autoquit: 60
+#	b1keymap: <string>
+#	b2keymap: <string>
+#	b3keymap: <string>
+#	backgroundPix: 1
+#	baseUdpLocalPort: 0
+#	bigfont: <string>
+#	boldfont: <string>
+#	buttonmap: <string>
+#	censorMessages: 0
+#	ckeymap: <string>
+#	cloakChars: <string>
+#	cloakPix: 1
+#	colorgalactic: 1
+#	continuetractor: 1
+#	continuousMouse: 0
+#	documentation: <string>
+#	enemyPhasers: 1
+#	explosionPix: 1
+#	extraAlertBorder: 1
+#	fedPix: 1
+#	font: <string>
+#	forcemono: <bool>
+#	ignoreCaps: 1
+#	ignoreSignals: 0
+#	indPix: 1
+#	infoCursorDef: <string>
+#	italicfont: <string>
+#	keepInfo: 15
+#	keeppeace: 0
+#	keymap: <string>
+#	kliPix: 1
+#	localCursorDef: <string>
+#	logfile: <string>
+#	logging: 0
+#	login: <string>
+#	macroKey: <string>
+#	mapCursorDef: <string>
+#	mapPix: 1
+#	message.mapped: 1
+#	messageHUD: 0
+#	messageHoldThresh: 0
+#	metaCache: <string>
+#	metaStatusLevel: <int>
+#	metaport: 3521
+#	metaserver: <string>
+#	motionThresh: 16
+#	mouseAsShift: 0
+#	name: <string>
+#	netstatfreq: 5
+#	netstats: 0
+#	newDashboard: 0
+#	newDistress: 0
+#	newPlanetBitmaps: 0
+#	newPlist: <bool>
+#	oriPix: 1
+#	ownerhalo: 0
+#	partitionPlist: <bool>
+#	password: <string>
+#	phaserShrink: 0
+#	phaserWindow: 0
+#	pixFlags: 0
+#	pixmapDir: <string>
+#	planetCycleTime: 10
+#	playerCycleTime: 10
+#	playerListStyle: -1
+#	playerlist: <string>
+#	port: <int>
+#	redrawDelay: 0
+#	rejectMacro: 0
+#	reportKills: 1
+#	romPix: 1
+#	server: <string>
+#	shellTools: 1
+#	shiftedMouse: 0
+#	shipPix: 1
+#	showIND: 0
+#	showLock: 3
+#	showMotd: 1
+#	showPlanetOwner: 0
+#	showTractorPressor: 1
+#	showgalactic: 1
+#	showlocal: 1
+#	showplanetnames: 1
+#	showstars: 1
+#	showstats: 0
+#	shrinkPhaserOnMiss: 0
+#	sortMyTeamFirst: <bool>
+#	sortPlayers: <bool>
+#	sound: 0
+#	sounddir: <string>
+#	soundplayer: <string>
+#	textCursorDef: <string>
+#	theirPhaserShrink: 0
+#	tryShort: 1
+#	tryUdp: 1
+#	tts_color: <string>
+#	tts_font: <string>
+#	tts_max_len: 40
+#	tts_pos: <int>
+#	tts_time: 25
+#	udpClientReceive: 1
+#	udpClientSend: 1
+#	udpDebug: 0
+#	udpSequenceCheck: 1
+#	updatespersec: 5
+#	useRsa: 1
+#	useTNGBitmaps: 0
+#	varyShields: 1
+#	warnHull: 0
+#	warnShields: 0
+#	weaponPix: 1
+#	whichNewPlanetBitmaps: 0
+# Windows (specify mapped, geometry and parent)
+#	DocWin
+#	MetaServer List
+#	UDP
+#	count
+#	help
+#	info
+#	lagMeter
+#	local
+#	macrow
+#	map
+#	message
+#	motdbutton
+#	netrek
+#	netrek_icon
+#	netstat
+#	network
+#	option
+#	pingStats
+#	planet
+#	player
+#	quit
+#	rank
+#	review
+#	review_all
+#	review_kill
+#	review_phaser
+#	review_team
+#	review_your
+#	scanner
+#	sound
+#	stats
+#	tools
+#	tstat
+#	wait
+#	waitmotd
+#	waitquit
+#	war
+#	warn
+#	xtrekrcWin
+#	xtrekrc_help
