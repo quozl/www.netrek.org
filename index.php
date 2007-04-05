@@ -78,7 +78,7 @@ against each other. Currently there isn't much league action, but you never
 know when things will start up again. You can find stats and game recordings
 from past league play here, including the International Netrek League (INL),
 the World Netrek League (WNL), and the Draft League (DL), as well
-as links for others.
+as links for others.<br><br>
 
 <h2><a href="about/"><img src="img/icon_about.png" alt="">
 The First Internet Team Game</a></h2>
