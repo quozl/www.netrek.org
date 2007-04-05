@@ -76,7 +76,7 @@ if (isset($GET['ads'])) {
 
 /* ok, there are unset vars all over shadowhunter's code; I'm just turning
  off the notices. -- akb 11-mar-2007 */
-error_reporting(E_ALL ^ E_NOTICE);
+error_reporting(E_ALL ^ E_NOTICE ^E_WARNING);
 
 
 
@@ -87,20 +87,21 @@ $siteparentlist = array(
 			"Netrek Nexus Homepage"
 	),
 
-	"test.php" => array(
-			"/",
-			"HTML and CSS testing page"
-	),
+//       	"test.php" => array(
+//			"/",
+//			"HTML and CSS testing page"
+//	 ), 
+
 
 	"about/" => array(
 			"/",
 			"About Netrek"
 	),
 
-	"about/index2.php" => array(
-			"/",
-			"About Netrek"
-	),
+//	"about/index2.php" => array(
+//			"/",
+//			"About Netrek"
+//	),
 
 	"about/akira-history-of-ogg.php" => array(
 			"about/",
@@ -192,12 +193,12 @@ $siteparentlist = array(
 			"Clue Guides"
 	),
 
-	"clueguides/cow-manual.php" => array(
-			"clueguides/",
-			"Manual for the COW client",
-			"Bret Jordan (Redshirt)",
-			"September 1995"
-	),
+	//	"clueguides/cow-manual.php" => array(
+	//			"clueguides/",
+	//			"Manual for the COW client",
+	//			"Bret Jordan (Redshirt)",
+	//			"September 1995"
+	//	),
 
 	"clueguides/dantesdogfightguide.php" => array(
 			"clueguides/",
@@ -285,10 +286,10 @@ $siteparentlist = array(
 			"Ship Types"
 	),
 
-	"clueguides/ships/sc.php" => array(
-			"clueguides/ships/",
-			"Playing SC"
-	),
+	//	"clueguides/ships/sc.php" => array(
+	//			"clueguides/ships/",
+	//			"Playing SC"
+	//	),
 
 	"downloads/" => array(
 			"/",
@@ -874,13 +875,16 @@ function searchWebpageContents( $searchtext='' )
 				// now try to summarize the content string to only text around the first few hits
 				while ( $hitsPrinted < $hitCount && strlen( $result ) < 255 )
 				{
-					//echo "<br>result: $result<br>";
-					//echo "length: ".strlen( $result )."<br>";
-					//echo "start: $start<br>";
-					//echo "end: $end<br>";
-					//echo "pos: $pos<br>";
-					// Find start and end of scentence in which the match was found upto 40 chars back
-					$lineBegin = max( $pos - 40, strrpos( $lowerContent, ".", $pos ), 0 );
+				  //echo "<br>result: $result<br>";
+				  //echo "length: ".strlen( $result )."<br>";
+				  //echo "start: $start<br>";
+				  //echo "end: $end<br>";
+				  //echo "pos: $pos<br>";
+				  //echo "lowercontent: $lowerContent<br>";
+				 // Find start and end of scentence in which the match was found upto 40 chars back
+				  $lineBegin = max( $pos - 40, strrpos( $lowerContent, ".", $pos ), 0 );
+				  //$lineBegin = max( $pos - 40, strpos( $lowerContent, ".", $pos ), 0 );
+                                        //echo "lowercontent: $lowerContent<br>";
 					$lineEnd   = min( $pos + 50, strpos( $lowerContent, ".", $pos + 1) );
 					if ( $lineEnd == "" ) $lineEnd = min( $pos + 50, strlen( $content ) );
 					//echo "lineBegin: $lineBegin<br>";
