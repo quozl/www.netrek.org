@@ -155,7 +155,7 @@ galaxy resets to a new configuration to set up for the next game.
 <br><p>
 Ogging is the art of killing a carrier, or potential carrier, by a suicide
 run. The basic idea is to cloak before you get on his tactical, run up
-to him until youre about half an inch away, then tractor-phaser-torp-torp-torp
+to him until you're about half an inch away, then tractor-phaser-torp-torp-torp
 until he dies. Ogging is a simple tactic and any dummy can do it. On the
 other hand, ogging well is an art, involving exactly when to uncloak, how
 fast to go, etc. 
@@ -177,9 +177,9 @@ it sounds.
 <p>Keys to a good ogg are:
 
 <p>&nbsp;&middot;all oggers uncloak at once. If you do not, the base can
-pick you off easily one at a time. Thus, if you know youre going to have
+pick you off easily one at a time. Thus, if you know you're going to have
 a head start on the other oggers using a heavy ship (BB/AS) is a good idea.
-Conversely, dont take one if it will make your team wait for you.
+Conversely, don't take one if it will make your team wait for you.
 
 <p>&nbsp;&middot;oggers come from different directions, for much the same
 reason that ogging a normal ship from the same direction is inefficient.
@@ -190,7 +190,7 @@ enough to call an ogg when the base is alone, you also have to watch the
 galactic to make sure that the enemy is not heading towards the base, otherwise
 by the time your ogg gets there he could have several defenders.
 
-<p>&nbsp;&middot;dont maxwarp directly at the base once you are on his
+<p>&nbsp;&middot;don't maxwarp directly at the base once you are on his
 tactical! It is trivial for a good base to tell you are heading in a straight
 line and pick you off with torps or phasers! If you head in at about warp
 7 (in a CA) you will be able to dodge torps much more easily. It can also
@@ -209,7 +209,7 @@ and try to do as much damage as you can, finishing by exploding on him.
 Or, you can slam on the maxwarp while firing torps at him. The latter is
 more effective before an ogg, because the base will be forced to use more
 wtemp phasering you and likely wtemp completely during the ogg. The former
-option is only recommended if you are low on fuel or if youre youre really
+option is only recommended if you are low on fuel or if you are really
 close to the base when he starts firing.
 
 <p>&nbsp;&middot;if the base has ships docked on it and does not pressor
@@ -231,7 +231,7 @@ at all costs. Go especially for cloakers and anyone trying to orbit the
 planet. Call for help! Kill the carrier! Exploding on him works, but remember
 that a ship dropping armies is very vulnerable. His shields are down and
 he is following a precise little circle. A cloaked orbiting ship is easy
-to hit, so kill it! Also, if he is foolish enough not to cloakor out of
+to hit, so kill it! Also, if he is foolish enough not to cloaker out of
 fuel! -- tractor him out of orbit so he cannot drop.
 
 <p>&nbsp;Sometimes it is useful to just orbit a planet to protect it. This
@@ -251,7 +251,7 @@ at all costs. Go especially for cloakers and anyone trying to orbit the
 planet. Call for help! Kill the carrier! Exploding on him works, but remember
 that a ship dropping armies is very vulnerable. His shields are down and
 he is following a precise little circle. A cloaked orbiting ship is easy
-to hit, so kill it! Also, if he is foolish enough not to cloakor out of
+to hit, so kill it! Also, if he is foolish enough not to cloaker out of
 fuel! -- tractor him out of orbit so he cannot drop.
 
 <p>&nbsp;Sometimes it is useful to just orbit a planet to protect it. This
@@ -266,7 +266,7 @@ time, and you need to be fully up to speed by the time you engage.
 <p>If you are the only one in the area in and you must defend a planet,
 your job st to delay the enemy until help arrives 
 (you did call for help when you saw that
-enemy formation approaching on the galactic map, didnt you?) Critical
+enemy formation approaching on the galactic map, didn't you?) Critical
 to this is <b>getting between the enemy and the planet</b>. 
 Then they have to go through you, not you through them, and you have room to
 retreat/buttorp. If you can do this, you have a very good chance of at
@@ -278,7 +278,7 @@ armies icon suddenly disappears from the planet they are orbiting
 (from one of their planets, obviously; if it disappears from one of
 your planets you just got bombed!) Often you will see messages of the
 form 6++ @ CAPor just 6++. This means that player number six just
-picked up armies at Cappella.  If you see someone pickup, dont
+picked up armies at Cappella.  If you see someone pickup, don't
 hesitate to tell your team with a similar message. (Hint: use macros
 for this! See section 5.2.) Lock onto the enemy carrier, maxwarp,
 cloak, get inside the enemy formation, uncloak just before reaching
@@ -287,8 +287,8 @@ torpedoes) and fire everything you have, exploding in a burst of glory
 right over him, and killing him. If there is just a single unescorted
 taker going for a planet you can ogg him as described above, but you
 might try coming in uncloaked. Sometimes this will scare him enough to
-make him turn around, as he doesnt want to get killed while
-carrying. This doesnt work on anyone who can kill you easily,
+make him turn around, as he doesn't want to get killed while
+carrying. This doesn't work on anyone who can kill you easily,
 obviously.
 
 
@@ -374,7 +374,7 @@ network info screen.
 It's possible to play with pretty bad lag; on a dialup modem line you
 can routinely expect over 200 milliseconds (1/5 of a second).
 This is a pain but playable; you just have to anticipate well. 
-(hint: dodge before youre fired upon, and lead
+(hint: dodge before you're fired upon, and lead
 with your phasers, not just torpedos.) A few people routinely play with
 half a second of lag, but that's pretty hard. A good broadband connection,
 by contrast, can get you 30ms or even faster. On poor connections,
@@ -399,7 +399,7 @@ change something on the screen.
 
 <p>If you see a strange leftover 
 artifact such as a phaser or couse locked line that just hangs 
-around indefinately, you have probably lost an update. You can request
+around indefinitely, you have probably lost an update. You can request
 a small update from the server using the "-" key and a full update 
 from using the "=" key. (Unless you've remapped
 things so that the keys do something different). This should clear things

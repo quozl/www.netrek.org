@@ -45,7 +45,7 @@ echo "</div>\n\n<div id=\"content\">";
 
         <li>
         <a href="../beginner/macros.php#rcdtable">Table of Distress Calls</a>
-        <br>From the <a href="../beginner/macros.php">Macro and Messaging Guide</a>
+        <br>From the <a href="../beginner/macros.php">Message and Macros Guide</a>
 
         <li>
         <a href="./ships/">Ships of Netrek</a><br>
@@ -154,8 +154,9 @@ observer mode; watching can be a good way to pick up clue.
 	 Big collection of netrek stuff, much of it derived from the JCH materials. 
 	</li>
 
-       <li>
-       <a href="./jthirsk-netrek_strategy.html">mifiqs Team Strategy Guide</a>
+       <li>And More! 
+       <a href="./jthirsk-netrek_strategy.html">mifiq's Team Strategy Guide</a>,
+       <a href="./ogging-101.html">Ogging 101</a>, 
        </li>
        </ul>
 

@@ -17,13 +17,6 @@
   /* define('NPH_LOC_FILEROOT',      '/var/www/genocide.netrek.org/'); */
   /* define('NPH_LOC_WEBROOT',       '/'); */
 
-  /* works on akb's desktop */
-  /*     define('NPH_LOC_FILEROOT',	'/var/www/'); */
-  /*     define('NPH_LOC_WEBROOT',	'/'); */
-
-/*   define('NPH_LOC_FILEROOT',	'/var/www/');  */
-/*     define('NPH_LOC_WEBROOT',	'/'); */
-
 $server_name = $_SERVER['SERVER_NAME'];
 
 if ($server_name == 'www.netrek.org' || $server_name == 'netrek.org') {
@@ -36,4 +29,10 @@ if ($server_name == 'www1.cs.columbia.edu') {
    define('NPH_LOC_WEBROOT', 'http://www1.cs.columbia.edu/~bressen/netrek/');
 }
 
+if ($server_name == 'horizon.mirror.to') {
+   define('NPH_LOC_FILEROOT', '/var/www/www.netrek.org/');
+   define('NPH_LOC_WEBROOT', '/');
+}
+
 ?>
+

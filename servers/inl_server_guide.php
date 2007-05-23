@@ -360,7 +360,7 @@ confine		Toggles confine mode, which is enabled if either captain
 		planets that prevents enemy ships from passing through.
 		Ships inside the barrier are teleported back outside. It
 		is possible to lock a server by becoming captain, setting
-		confine, and orbitting a fuel planet cloaked. Obnoxious
+		confine, and orbiting a fuel planet cloaked. Obnoxious
 		with a capital O.
 </p>
 

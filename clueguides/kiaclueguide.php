@@ -56,7 +56,7 @@ but here are a few hints that will help you on the way.
 <li>Look at the playerlist every now and then, this to see which of the
     enemy players that are potential carriers. Keep an eye at those
     players with kills and keep track on them if they pick up armies,
-    dont forget to alert your teammates.</li>
+    don't forget to alert your teammates.</li>
 
 <li>You have to keep an eye at the message window as well, this to see
     if any of your teammates has spotted a enemy carrier or if your team
@@ -67,11 +67,11 @@ but here are a few hints that will help you on the way.
     if there is anything important that you could do to help your team right
     away as you appear at the homeworld.<br><br>
 	<ul>
-	<li>Helping a friendly carrier thats in trouble in your own core. This
+	<li>Helping a friendly carrier that's in trouble in your own core. This
 	    could mean checking the enemy SC bomber to help save a pop or to simply
 	    kill him off before he can hurt your carrier.</li>
-	<li>Check if there is a friendly ship thats leaving the front to move back
-	    to pickup. Move in his direction to be able to help him if he's beeing
+	<li>Check if there is a friendly ship that's leaving the front to move back
+	    to pickup. Move in his direction to be able to help him if he's being
 	    ogged, if there is a ogger you might be able to pick up an easy kill.
 	    Anyway, since he's leaving the front your presence there will probably
 	    be needed, controlling etc.</li>
@@ -96,7 +96,7 @@ letting your shield/hull take a real beating. I also use 'det' to create
 I Never fire 8 torps salvoes unless I'm 100% sure to hit something, it 
 costs a lot of fuel and you cant afford running out of fuel when that 
 enemy ogger might be coming at you with warp 9. I fire 3-5 torps at the 
-time carefully aimed, use your phasor when you get within the 15-20 pts
+time carefully aimed, use your phaser when you get within the 15-20 pts
 range. (Remember to use pressor if you get too close to him, explosions 
 hurt)
 </p>
@@ -117,7 +117,7 @@ CA, BB and SB.
 <b>Hints:</b>
 Remember to count the hits inflicted on the opponent. Lets say I fly
 a cruiser (CA) and I dogfight an enemy cruiser, I hit him with 3 torps 
-(each makes 40 points of damage) + a 20 points phasor I know that he's  
+(each makes 40 points of damage) + a 20 points phaser I know that he's  
 almost done for (140 points of damage from his total of 200), another
 60 points and he buys the farm. 
 </p>
@@ -159,18 +159,18 @@ Of course all the above is depending on the situation
 </p>
 
 <p>
-When escorting a taker be agressive (No don't run at warp 9 towards
-the enemys buttorps) put preassure on the defenders by shooting torps
-and phasors. If you're outnumbering the defenders mutualing with them
+When escorting a taker be aggressive (No don't run at warp 9 towards
+the enemy's buttorps) put pressure on the defenders by shooting torps
+and phasers. If you're outnumbering the defenders mutualing with them
 is a good option, but remember the longer it takes to clear a planet
 the more defenders will arrive.
 </p>
 
 <p>
 <b>Hints:</b>
-After your team has taken the planet it will be very wounerable so
+After your team has taken the planet it will be very vulnerable so
 you and your team has to defend it right after the take. This applies
-especially to AGRI planets wich will "pop" very fast, stay close and
+especially to AGRI planets which will "pop" very fast, stay close and
 protect the planet it pays off.
 </p>
 
@@ -190,8 +190,8 @@ his escort(s).
 </p>
 
 <p>
-If alone at a planet thats under assault by multiple enemies, DISTRESS 
-and then DELAY the take, Stay alive, lob torps, phasor, look threathening,
+If alone at a planet that's under assault by multiple enemies, DISTRESS 
+and then DELAY the take, Stay alive, lob torps, phaser, look threatening,
 the important thing is to get more defenders there in time to stop the take, 
 its unessential who gets the carrier in the end as long as you stop their 
 take.
@@ -234,14 +234,14 @@ happened.
 <p>
 <b>Ships:</b>
 Depending a little on what kind of planet you about to take you should
-chose the ship thats most qualified for the mission. I tend to use the
+chose the ship that's most qualified for the mission. I tend to use the
 CA when taking frontline planets and the 3rd space planets. When going
-into their core I usually use the DD bacause its good maneuvrability
+into their core I usually use the DD because its good maneuverability
 and feint and dodge my way though while remaining cloaked. For LPS
 situations the AS ship is probably the best choice. Because of its extra
 hull you will get that extra half a second to beam down that extra army and 
 that really counts. The AS also has a great cloaking ability. Scouts are 
-perfect in the engame as well, use the SC to sneak in and drop armies on 
+perfect in the endgame as well, use the SC to sneak in and drop armies on 
 whatever planets the enemy has left. That will weaken their defenses and 
 give them less armies to use for retaking planets.
 </p>
@@ -269,7 +269,7 @@ to NEVER run out of fuel. Basically I keep to 2 simple strategies:
   use pressorbeam at him (if he has uncloaked) and buttorp him. 
   Try to cripple him instead of just killing him, if you cripple him
   he will sit damaged in your core and just watch you go for the take
-  without beeing able to do anything. Remember to 'det' his torps if 
+  without being able to do anything. Remember to 'det' his torps if 
   it looks as if they're going to hit.</li>
 
 <li>Just cloak and run at a 90 degree angle away from him. The best thing
@@ -324,7 +324,7 @@ take exactly those planets that you want. The LPS should not be the
 enemy homeworld or a fuel planet if it can be avoided, the further
 away from the homeworld the better. Why? you might ask. First, all
 killed enemy ships start close to the homeworld which makes it very
-hard to get, second dont leave them a fuel planet where they can
+hard to get, second don't leave them a fuel planet where they can
 refuel their empty tanks.
 </p>
 
@@ -343,7 +343,7 @@ that he's been cheated.
 <br><p>
 <b>Ship:</b>
 Chosing the ship is a little depending on the target, I mostly use
-the cruiser (CA) because it's torps and phasor are more powerful
+the cruiser (CA) because it's torps and phaser are more powerful
 than the destroyer (DD). SCs are really neat to ogg with too but then
 you have to use a little different tactic.
 </p>
@@ -362,9 +362,9 @@ isn't too far away from him, then I wait for the right time to move
 in. Then I cloak and move in at him at maxwarp, if I see that he
 hasn't spotted me (he's not fleeing) I keep at maxwarp just until
 before I uncloak. Then when uncloaking I get him with my tractorbeam
-and hit him with the phasor and torps. Remember to 'det' his incoming 
+and hit him with the phaser and torps. Remember to 'det' his incoming 
 torps this will get you the last inch all the way in on him, this to 
-get him in your explosion if you havent got him already.
+get him in your explosion if you haven't got him already.
 </p>
 
 <p>
@@ -387,7 +387,7 @@ lucky the escorts will blow you up on him as well
 <p>
 Another good opportunity to SC ogg a taker is when your defenders have 
 scared him off from a take and are chasing him back towards his core
-your approach him from the opposite direction as his persuers and you
+your approach him from the opposite direction as his pursuers and you
 will be able to catch him a bit off guard or without fuel.
 </p>
 
@@ -412,7 +412,7 @@ and determination.
 <b>Coordination:</b>
 The best thing is to use the message line and call for a baseogg,
 like: "get in position for a baseogg sync with Rf". Then its the
-player Rf that calls the ogg, when he cloakes and moves in so does
+player Rf that calls the ogg, when he cloaks and moves in so does
 does all the others. It's really important that the player that
 is leading the ogg waits for all to get in position, if the timing
 is really good and enough oggers get through the base will probably
@@ -422,10 +422,10 @@ be at warp 1 or maybe even dead.
 <p>
 <b>Conducting:</b>
 I use 2 different tactics when ogging a base, either I conduct a
-ordinary ogg, uncloak, tractor, phasor and torps or I try to get
-all the way into the base (ontop of him) and then uncloak. By doing
+ordinary ogg, uncloak, tractor, phaser and torps or I try to get
+all the way into the base (on top of him) and then uncloak. By doing
 the latter you will surely get him in your full explosion (100 pts
-of damage) plus any torps/phasors you can fire before you die.
+of damage) plus any torps/phasers you can fire before you die.
 </p>
 
 <p>
@@ -452,7 +452,7 @@ you might not get all the way into the base because of that.
 <h2 id="basedefense">Basedefense</h2>
 <br><p>
 As a basedefender you have to be real observant for cloaked enemy
-ships and be quite handy with the phasor and you have to be willing
+ships and be quite handy with the phaser and you have to be willing
 to sacrifice yourself for the base.
 </p>
 
@@ -462,7 +462,7 @@ I want my defender to be at my side or at one of the sides just infront
 of me. This will enable me to use the pressor/tractor on him
 so I can dodge torps and he can help me 'det' a few torps  now and
 then. The worst thing is people hiding behind the base thinking its
-some kind of undestructable fortress.
+some kind of indestructable fortress.
 </p>
 
 <p>
@@ -503,7 +503,7 @@ I prefer to look at bombing as 'initial' and 'non-initial'. The initial
 bombing is the first stage in a new game when your side has to
 bomb all the enemy planets, the planets will then contain around 30
 enemy armies or so (this might vary from server to server). The non-initial 
-bombing is the continous bombing that occurs during a game, 
+bombing is the continuous bombing that occurs during a game, 
 where the purpose is to keep the enemy planets clean from armies.
 </p>
 
@@ -535,7 +535,7 @@ out of orbit when you are bombing.
 
 <p>
 When playing the scout-bomber be smart and use the scouts great
-speed and maneuvrability to feint your opponents. Pretend to be
+speed and maneuverability to feint your opponents. Pretend to be
 heading for one planet (you are cloaked of course) and then when the
 defenders come racing, switch direction and move to the alternative
 target and bomb it. Then when they come at you again you do the same
@@ -552,10 +552,10 @@ world.
 
 <p>
 <b>Note)</b> When defending armies at your own rear planets you have to
-take care of that enemy scout, either by just controling the space
+take care of that enemy scout, either by just controlling the space
 and not letting him bomb or by ogging him. The ogging part is pretty
 easy, the key is to get him in your tractor beam. As soon you get
-him in the tractor start phasoring him to death, don't waste fuel
+him in the tractor start phasering him to death, don't waste fuel
 on torps because they will surely miss. Remember to 'det' his torps
 when you are ogging him. 
 </p>
@@ -568,7 +568,7 @@ the ass. The worst thing is a base that needs 3+ permanent defenders
 all the time and still needs to go and repair every now and then,
 all you do then is occupy a slot in your team and are more a burden
 to the team than an asset. A good baseplayer should be able to manage 
-with 1 defender, unless he's beeing heavily ogged.
+with 1 defender, unless he's being heavily ogged.
 </p>
 
 <p>
@@ -621,8 +621,8 @@ you in predicting when a baseogg is imminent.
 
 <p>
 First when you are under heavy ogging the most important thing is to
-NEVER get wtemped, if you do get wtemp you have probably used the phasor
-and plasma too freqvently. I try not to fire the phasor unless
+NEVER get wtemped, if you do get wtemp you have probably used the phaser
+and plasma too frequently. I try not to fire the phaser unless
 I'm pretty sure that I'll hit something.
 </p>
 
@@ -641,10 +641,10 @@ over me.
 </p>
 
 <p>
-Now the hard part begins, try not to panic and phasor at the closest 
+Now the hard part begins, try not to panic and phaser at the closest 
 enemy and detting all that is fired at you, keep firing at the other 
 nearby cloaks while dodging or detting the pressored enemy torps 
-(I never said basing was easy). All of the above depends on how syncronized
+(I never said basing was easy). All of the above depends on how synchronized
 the oggers are, if they are really synced you will take a 
 serious beating no matter how good you are. The important thing is 
 to survive the first wave so that you can get more defenders there to 
@@ -655,7 +655,7 @@ see your status if you're hurt.
 <p> 
 <b>Hints:</b>
 Even tho the starbase is the most powerful ship and can take a real
-beating, be cautious and dont go too deep into enemy space unless you
+beating, be cautious and don't go too deep into enemy space unless you
 have defenders at your side. It's been so many times that I've seen 
 a good base get plinked to death in enemy space after his defenders
 got blown away. Ie know your limits.
@@ -663,7 +663,7 @@ got blown away. Ie know your limits.
 
 <p>
 Help damaged teammates by tractoring them out of danger and by letting
-them repair at you. Dont do this unless you're sure that you wont get
+them repair at you. Don't do this unless you're sure that you wont get
 him blown up all over you.
 </p>
 
@@ -682,12 +682,12 @@ anything with your kills so let the other players get the kill instead.
 <b>A)</b> Because when your last planet pops you will get 1-3 armies, then 
    you should bomb the closest planets with a assaultship (AS) and 
    try to get them down to 1-3 armies defending, then you can take 
-   the planet even tho you had so few armies. If you bomb continously
+   the planet even tho you had so few armies. If you bomb continuously
    the AGRI planets will pop back up to 4 armies in no time.
 <br />
 <b>Note)</b> This goes for the offensive side as well, pick up armies of the
    planets closest to your enemies, this to prevent them from bombing
-   the planet to less that 4 armies. In this case it doesnt matter if 
+   the planet to less that 4 armies. In this case it doesn't matter if 
    you get killed while carrying.
 </p>
 
@@ -705,23 +705,23 @@ anything with your kills so let the other players get the kill instead.
 </p>
 
 <p>
-<b>Q)</b> how do I get phasor lock on cloaked players?
+<b>Q)</b> how do I get phaser lock on cloaked players?
 <br />
-<b>A)</b> The key is the strategic map, set the galatic updates to 'frequently' 
+<b>A)</b> The key is the strategic map, set the galactic updates to 'frequently' 
    then when you get the update (the ships move on the galactic) you 
-   phasor at the cloaker. 
+   phaser at the cloaker. 
 <br />
-   I used to phasor at the galactic screen but I had trouble moving 
+   I used to phaser at the galactic screen but I had trouble moving 
    the cursor back to the tactical screen and maintain the lock. So 
-   now I watch the galactic for the update and phasor at the tactical
+   now I watch the galactic for the update and phaser at the tactical
    and that seem to work really well now.
 </p>
 
 <p>
-<b>Q)</b> Why should i help anyone else in my team, it doesnt give me any
+<b>Q)</b> Why should i help anyone else in my team, it doesn't give me any
    DI?
 <br />
-<b>A)</b> The team that plays together and help eachother will win in the
+<b>A)</b> The team that plays together and help each other will win in the
    end. If you help other players you will soon find that they will
    come to your aid when you need it. DI-scummers will get less and
    less help and in the end he wont get any help at all.
@@ -751,7 +751,7 @@ some advanced hints/help as well.
 <a name="vocab"></a>
 <h2 id="vocabulary">Appendix: Vocabulary</h2>
 <br><p>
-This might seem uneccessary, but I'm writing this for the novice
+This might seem unneccessary, but I'm writing this for the novice
 player(s) as to the experienced ones. So here's a few expressions
 used by players and what they mean.
 </p>
@@ -775,13 +775,13 @@ an AGRI or FUEL planet.</p>
 
 <p>
 <b>Scummer:</b>	
-A person that are mainly playing to get high stats and doesnt really care 
+A person that are mainly playing to get high stats and doesn't really care 
 about his own team. This type of player is also known as DI-scummer.</p>
 
 <p>
 <b>d++:</b>		
 This a very cryptic but useful way to describe that an enemy player is 
-carrying armies. This particilour case (d++) would mean that the enemy 
+carrying armies. This particular case (d++) would mean that the enemy 
 ship with the letter d has picked up 2 armies. A + indicates an army. b++++ 
 would mean that b has picked up 4 armies. This is also used when planets 
 "pop", TAU++ means that there is excess armies at TAU.</p>
@@ -812,7 +812,7 @@ armies or that are potential carriers (see Ogging further down for more info).</
 
 <p>
 <b>Plock:</b>
-A shorter word for Phasor Lock.</p>
+A shorter word for Phaser Lock.</p>
 
 <p>
 <b>Core:</b>

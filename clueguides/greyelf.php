@@ -25,20 +25,20 @@ echo "</div>\n\n<div id=\"content\">";
 <center><h2>
 GREY ELF'S GUIDE TO PLANET TAKING</h2></center>
 <br><p>
-First of all, before anything, know whats going on. How youre going to
-take planets depends on which planets youre trying to take. Are you taking
-back your own space? Youll have to be careful with your armies as you dont
+First of all, before anything, know what's going on. How you're going to
+take planets depends on which planets you're trying to take. Are you taking
+back your own space? You'll have to be careful with your armies as you don't
 have many. Are you taking planets in the third space? You probably need
 a fast ship. Taking core planets? You either need something really heavy,
 (an AS), or something really fast. Know how many kills you need, there
 might be a planet with only 1 army on it, that you can pick off with a
-1 kill ship. If youre trying to take an agri, youre going to need two kills
-and at least 4 armies, and your effort will be wasted if you dont get them
+1 kill ship. If you're trying to take an agri, you're going to need two kills
+and at least 4 armies, and your effort will be wasted if you don't get them
 all down.
 
 <p>&nbsp;Next, the key to winning the game is to take planets faster than
 the enemy is taking them back. There are a lot of skills to help you do
-this, but if youre serious about taking planets you dont have time to wander
+this, but if you're serious about taking planets you don't have time to wander
 around trying to get your second kill. The key is speed...you have no time
 to waste.
 
@@ -53,12 +53,12 @@ can rack up kills if the enemies line up right.
 
 <p>Another method is to get in front of your Starbase. If hes anywhere
 near the enemy he is probably attracting oggers...try to pick them off
-before your starbase gets at them. If he blows up someone youve just crippled,
-call him a kill thief and tell him youd like some reward for destroying
+before your starbase gets at them. If he blows up someone you've just crippled,
+call him a kill thief and tell him you'd like some reward for destroying
 oggers for him. Hell probably understand that you really want some kills
 to take planet. Note that Im NOT advising you to sit behind your SB and
 scum a kill after he damages it...first of all it usually takes too long,
-and makes enemies to boot. You certainly dont want your team against you
+and makes enemies to boot. You certainly don't want your team against you
 when you really need some help.
 
 <p>&nbsp;A third way is to try to force enemies into an outnumbered situation.
@@ -68,13 +68,13 @@ there are several people ogging indiscriminately, or ogging you in particular.
 Basically you try to get behind a person so he cant get away. Then you
 sandwich him between your torps/phasers and those of your teammates, and
 out of the random spread you have an even chance of getting a kill, better
-if your teammates arent as good.
+if your teammates aren't as good.
 
 <p>&nbsp;Once you have kills, be careful. Good oggers will pinpoint anyone
 with more than 1 kill, and especially focus on known planet takers. Always
 watch the long range scanner for cloakers, and know if good players are
 headed in your direction. If you spend 5 minutes getting 2 kills, you certainly
-dont want a battleship running you over when you least expect it. This
+don't want a battleship running you over when you least expect it. This
 holds true everywhere, at all times. Little sucks more than getting blown
 up at your home planet as you refit to an assault ship...especially if
 the guy them bombs the armies you were planning to pick up. (A little secret:
@@ -85,9 +85,9 @@ theres no guarantee they will still be there when I get back).
 <p>&nbsp;There are a couple of ways to deal with oggers. First, you have
 to know they are there. Watch the long range scanner at all times, even
 when dogfighting. Remember that your ship still has weapons, and use them.
-If you are planning to take planets, dont get in close with enemies...they
+If you are planning to take planets, don't get in close with enemies...they
 may just be trying to suicide into you. Im not encouraging people to runner-scum,
-but dont close with the enemy either. If an enemy is coming in cloaked,
+but don't close with the enemy either. If an enemy is coming in cloaked,
 there are two things to do. If hes coming in very fast, either blast some
 torps into his path, since he cant dodge, or cloak just before he gets
 within phaser range. Slow, spin to the side, and speed up again...he will
@@ -95,9 +95,9 @@ uncloak, go flying past you, miss with his torp spread (which you just
 dodged), and try to come back after you, now rather low on fuel. If hes
 coming in slow, fly away around warp 6, burning no fuel, and wait for the
 ogger to run out of fuel. Then go do what you were before he got there.
-Remember that most oggs are ineffective unless you dont see it coming,
+Remember that most oggs are ineffective unless you don't see it coming,
 are already hurt, or the ogger is really good. Also, let your teammates
-help you, but dont hide behind their coattails: if youre going to be effective
+help you, but don't hide behind their coattails: if you're going to be effective
 you have to take some risks, and sometimes you get burned. Take your loss
 and come back fighting.
 
@@ -121,31 +121,31 @@ ogg one without even checking how many kills it has.
 
 <p>Another choice is how many armies to carry. This depends on what you
 are trying to do, and how many armies your team has to use or lose. If
-you expect that your team can defend the planet youre taking, only carry
+you expect that your team can defend the planet you're taking, only carry
 enough armies to leave one of yours on the planet, and let it grow. Carrying
-more is an invitation to be ogged, and is probably a waste unless youre
+more is an invitation to be ogged, and is probably a waste unless you're
 sure that you can grab more than one planet in a single run. If you think
-your team cant defend the planet, and youre just taking it to deny its
+your team cant defend the planet, and you're just taking it to deny its
 growth to the enemy, try to carry enough to bring it to 3 or 4, so that
 the enemy will have to waste many armies to get it back. Again, carrying
 more is just an invitation to be ogged, and it actually reduces your effectiveness,
-because youll be so timid defending your piles of armies that you wont
+because you'll be so timid defending your piles of armies that you wont
 be able to get anything done. Sometimes you gotta die to take a planet...If
 you are taking a planet that is heavily defended (like a last planet stand)
-then carrying more than 4 is probably useless, because youll probably just
+then carrying more than 4 is probably useless, because you'll probably just
 die with them all, and theres no point in losing lots of armies at a time.
 Of course, it all depends on how many armies you have: if you have 15 planets
-with 20 armies each, it doesnt really matter how many you die with, while
+with 20 armies each, it doesn't really matter how many you die with, while
 if you have few armies you have to conserve every one you can get.
 
 <p>There are several different situations in which one takes planets.
 
-<p>&nbsp;These are: your team is down, its an even battle, youre driving
-the enemy back, youre trying to break core planets, or a last planet stand.
+<p>&nbsp;These are: your team is down, its an even battle, you're driving
+the enemy back, you're trying to break core planets, or a last planet stand.
 
 <p>&nbsp;If you are short on planets, you are probably also short on armies,
 so defending them is a must. Hordes of oggers will come for you as soon
-as you pick armies up, if not sooner, so be ready. Dont just take a planet
+as you pick armies up, if not sooner, so be ready. don't just take a planet
 and fly away, because a planet with 1 army is easy pickings for anyone
 with a kill. Stay and defend it, or make sure someone else is. Otherwise,
 you might as well have died with the armies for all the good they did your
@@ -165,8 +165,8 @@ point in the game. Take agris first, then fuel, then repair. Your team
 will love you for it :-)
 
 <p>&nbsp;Try to con your team into clearing the planet so you can take
-it. If they arent, you can try to clear it yourself, depending on how good
-you and the target are. If you think you need help, but arent getting it,
+it. If they aren't, you can try to clear it yourself, depending on how good
+you and the target are. If you think you need help, but aren't getting it,
 try this trick: wait for a teammate to get near, then fire some torps and
 try to get the enemy to shoot back. Toggle your shields a couple of times
 too. Look like your having a really tough battle. Hopefully your teammate
@@ -174,7 +174,7 @@ will get the idea and come chase the enemy off. Theres a lesson here that
 Ill mention again and again: people notice what happens on their short
 range scanner more than they notice the long range scanner. This is more
 true with less skilled players. If you want someone to notice you, do something
-on their short range view: if you dont want people to notice you, stay
+on their short range view: if you don't want people to notice you, stay
 off their short range view. We all have tunnel vision, and often see only
 what we want to see. Use this to your advantage.
 
@@ -183,11 +183,11 @@ start to have more armies than the enemy...you can afford to be more aggressive
 in taking planets. Every army you kill is another blow, every planet is
 production lost by the enemy. A really strong push at this point can force
 the enemy into a last planet stand. The enemy will be fighting back hard,
-but they dont have enough people to defend all of their planets heavily.
+but they don't have enough people to defend all of their planets heavily.
 Use this to your advantage.
 
 <p>&nbsp;Oggers have an easy time at you when you are in their space, so
-watch for them all of the time. Dont be conspicuous; just kind of fly around
+watch for them all of the time. don't be conspicuous; just kind of fly around
 until you see an opening. The key is that, as time goes on, different enemy
 planets will become weakly defended. People fly around, and others get
 killed. What you have to do is be ready for an opening to occur, and JUMP
@@ -195,7 +195,7 @@ on it before the opportunity closes again. What I like to do is pick a
 promising side of the enemy space and float...careful not to get on the
 short range scanner of any enemies. A lot of times, someone might be floating
 perfectly aimlessly, headed somewhere else, but will zero in on you if
-they see you at short range. Even if you kill them, youve lost valuable
+they see you at short range. Even if you kill them, you've lost valuable
 time and opportunity, plus the person might very well look at the kill
 list and send out an ogg call on you. I wait for something: sometimes a
 planet just gets left open. Other times a teammate causes a distraction
@@ -210,8 +210,8 @@ down as you go in (to conserve fuel), but keep your finger on the shields
 key so you can toggle them instantly. I usually raise them once Im close
 enough to take damage from the planet. At this point there are four keys
 you need: bomb, beam down, det others torps, and shields (these are by
-default b, x, d, and uor s). I find it useful to remap the bomb key to
-something near xand d; I use s. This way you can hit all three keys without
+default b, x, d, and u or s). I find it useful to remap the bomb key to
+something near x and d; I use s. This way you can hit all three keys without
 looking down. Its also useful to have the resource display on the short
 range view: this way you can see if you should bomb before beaming down
 armies. As soon as you start orbiting the planet, start bombing or beaming
@@ -222,7 +222,7 @@ shields stops you from attacking the planet, so you have to hit the bomb
 key again. Look for the army picture to disappear, then start beaming down.
 As you beam down, look back and forth between incoming torps and the little
 window above the message window which counts down the armies: 4..3..2..1..0..1..
-As soon as youve beamed down all your armies, raise your shields and hit
+As soon as you've beamed down all your armies, raise your shields and hit
 warp 6. Try to dodge torps on your way out, and punch it as soon as you
 are in the clear. Spin parry dodge. Lower your shields if no torps are
 hitting you, to save your fuel. Also, uncloak as soon as is feasible to
@@ -230,48 +230,48 @@ avoid getting caught without any fuel. Head for the nearest friend and
 have him get in the way of the oncoming enemy hordes.
 
 <p>For a beginner, it can be a real problem to remember which keys to hit,
-and to hit them in the right order. Practice on planets that arent so defended:
+and to hit them in the right order. Practice on planets that aren't so defended:
 pretend there are enemies about, cloak, and take the planet as if someone
 were about to kill you. You never know, someone might be.....At all times,
-dont panic, and never give up: that battleship MIGHT just miss :-)
+don't panic, and never give up: that battleship MIGHT just miss :-)
 
 <p>Taking last planets is even tougher, because there are less openings.
 
-<p>Usually youll have to beat one, two, or even more enemies to take the
+<p>Usually you'll have to beat one, two, or even more enemies to take the
 planet. An assault ship is usually necessary for this, unless the defenders
 are really clueless. You have to pick your attack carefully; you cant just
 charge in and take the planet. Wait for things to look good. Bide your
-time: if the enemy only has one planet, they probably arent coming back
+time: if the enemy only has one planet, they probably aren't coming back
 anytime soon. Wait for their admiral to fly away, THEN crash the planet.
 Always be ready; sometimes the enemy home planet will be totally undefended
 for just long enough to get in and take it. One of the best times to take
 a last planet is when the enemy has burned most of their fuel dealing with
 others: they might not have enough fuel to finish you off, especially if
-you det their torps for less damage. Sometimes youll wait for 15 minutes
+you det their torps for less damage. Sometimes you'll wait for 15 minutes
 for those 3 seconds that the starbase drifts away from the planet. Only
-three seconds, but youre in and beaming down before he can find his plasma.
+three seconds, but you're in and beaming down before he can find his plasma.
 Try to get the enemy to forget about you; let them deal with other people,
 and then suddenly pop out of nowhere to take the planet.
 
-<p>&nbsp;As you fly in, youre expecting to get fired upon, so be ready
+<p>&nbsp;As you fly in, you're expecting to get fired upon, so be ready
 for it.
 
 <p>Have one finger on the shields, and use your other fingers to change
 speeds. I usually try to slide in at about warp 5, dodging the enemy torps
 as I go in. I accelerate as I see a clear path to the planet, and hope
-I can orbit quickly. Always remember that youll probably have to lock on
-the planet again, as youve been spinning around in circles all this time.
+I can orbit quickly. Always remember that you'll probably have to lock on
+the planet again, as you've been spinning around in circles all this time.
 Once you lock on, keep the shields up and move your hand over the beam
 down key. As soon as you orbit, start beaming down, and have another finger
 ready to det the incoming torps. This is probably a suicide mission, so
-dont worry about what to do after you take the planet. Only stop beaming
+don't worry about what to do after you take the planet. Only stop beaming
 down if a plasma is incoming: then it might be worthwhile to take the plasma
 to the shields, then continue beaming down. Usually its all over before
 you can think about making it out alive. If you somehow manage to get all
 your armies down, try to fly away and get to your friends...but even if
-you die, youve really done a lot for your team.
+you die, you've really done a lot for your team.
 
-<p>&nbsp;If theres more than one defender, or the one is fairly good, youll
+<p>&nbsp;If theres more than one defender, or the one is fairly good, you'll
 probably need help to take it. What you want is to have your enemies too
 busy to look at the long range scanner to see if cloakers are incoming.
 This usually means you want the distraction uncloaked, so that the enemies
@@ -287,7 +287,7 @@ they are probably going to see the cloaker anyway.
 <p>&nbsp;If you are helping someone take a last planet, your job is to
 keep the enemy busy...too busy. If there are only a few (3 or less), and
 no SB, then pick out the best of the defenders and suicide into him. They
-will all burn fuel shooting at you, and youll take out the person most
+will all burn fuel shooting at you, and you'll take out the person most
 likely to kill your planet taker. The planet taker can then come in and
 take the planet in those few seconds before the enemy looks back at their
 long range scanner. If there are too many defenders for this to work, you
@@ -303,15 +303,15 @@ against all comers.
 <p>This is all well and good, but usually you just get blown to bits without
 getting a single army down. If this happens, hurry back out and get some
 more kills. Pick up more armies, and start floating around again. You know
-youre doing well if the enemy says You have kills AGAIN???Hang around,
+you're doing well if the enemy says You have kills AGAIN???Hang around,
 look, wait, and then sneak in from behind, and get blown to smithereens.
-Come back again...and often that third time, theyll have just a little
+Come back again...and often that third time, they'll have just a little
 too fuel, and be a little too far away...and its all over.
 
-<p>&nbsp;So thats the advice I have to give on planet taking. Ill just
+<p>&nbsp;So that's the advice I have to give on planet taking. Ill just
 summarize:
 
-<p>&nbsp;move: dont waste time
+<p>&nbsp;move: don't waste time
 
 <p>&nbsp;get kills quickly
 

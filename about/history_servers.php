@@ -45,7 +45,7 @@ track those.
 <p>
 The dates for most of these are based on the earliest appearance of the
 server in Tom Holub's server FAQ posting (thanks go to Sam Shen and Neil
-Cook for sending me about half a dozen each; Sam gets gthe prize for the
+Cook for sending me about half a dozen each; Sam gets the prize for the
 earliest known FAQ posting).  The earliest date that the server is listed
 on an FAQ sheet was used as the server inception date; similarly, the first
 date that the server is listed as "down" is used as the retirement date.

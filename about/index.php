@@ -110,7 +110,7 @@ bugs or features of servers from yesteryear.</li>
 <li><a href="./netrekFAQ.html">The Netrek FAQ</a>. Last updated in 2004, this
 is the FAQ that used to be posted regularly to the Usenet rec.games.netrek group.</li>
 
-<li><a href="./2005-newbie.html">Version 1.7 of the Newbie Guide</a>. The 2.x Newbie Guide was basically cut down from this, with lots of stuff taken out, some of which has been placed into various clue guides. We list the older version here for referance; it includes such chestnuts as "How to play over a SLIP line".</li>
+<li><a href="./2005-newbie.html">Version 1.7 of the Newbie Guide</a>. The 2.x Newbie Guide was basically cut down from this, with lots of stuff taken out, some of which has been placed into various clue guides. We list the older version here for reference; it includes such chestnuts as "How to play over a SLIP line".</li>
 
 </ul>
 

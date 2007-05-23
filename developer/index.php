@@ -29,7 +29,7 @@ contributions made by many individuals. If you are interested in
 being part of this grand tradition by helping with continued growth 
 and development of Netrek software, 
 read on for developer resources. We don't just need coders, by the way;
-we also need people to help with pomotion, and with web page and doc editing.
+we also need people to help with promotion, and with web page and doc editing.
  </p>
 <br>
 <h2>General Info and Getting Involved</h2>

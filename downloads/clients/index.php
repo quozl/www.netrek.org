@@ -13,8 +13,8 @@ require '../../nhp.php';
 
 doNhpHeader();
 
-echo getSidebarHints();
-// echo getSidebarNews();
+// echo getSidebarHints();
+echo getSidebarNews();
 // echo getSidebarColofon();
 
 echo "</div>\n\n<div id=\"content\">";
@@ -32,12 +32,13 @@ which means that the Netrek source code is freely available.
 To prevent cheating, all
 official client binaries authenticate themselves via RSA to the server.
 They are called "blessed" clients. Select your favorite official Netrek client
-from the lists below.
+from the lists below. There are also a few utilities.
 </p>
 
 <p>
 Minimum requirements for Netrek are a minimum screen resolution of 1024x768
-and preferably a sturdy three-button mouse. Netrek can be played over a
+and preferably a sturdy three-button mouse or trackball. 
+Netrek can be played over a
 modem without any problems, but a faster internet connection is recommended.
 The lower your round trip time (lag) to the server, the better is your
 responsiveness.
@@ -57,7 +58,20 @@ Clients:
 Also see the <a href="#ancient">end notes</a> 
 about ancient client and server code archives. 
 
-<br>
+
+<br><br><p>
+Utilities:
+<ul>
+<li><a href="http://www.playnetrek.org/netrek/cambot-helper.exe">The Windows CamBot Helper</a>.<br>
+This helps you record and playback games for in-depth analysis, making
+screenshots, etc. 
+<li><a href="http://www.playnetrek.org/netrek/cluegameqc.exe">The Windows Clue Game Quick Connect Helper</a><br>
+This helps you connect to clue games that are not listed on the Metaservers.
+These days, virtually all clue games are listed, so you probably won't 
+need this. 
+</ul>
+</p>
+
 
 
 
@@ -138,10 +152,25 @@ copy than what we have listed here.
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
-	<td><a href="http://downloads.sourceforge.net/mactrek/MacTrek-1.1.0.dmg?modtime=1167061197&big_mirror=0">MacTrek-1.1.0.dmg</a>	<td>1.1.0</td>
-	<td>Dec 19 2006</td>
-	<td>Sourceforge</td>
-	<td>28 MB</td>
+	<td><a href="../../files/MacTrek/MacTrek-1.2.0.dmg">MacTrek-1.2.0.dmg</a>	<td>1.2.0</td>
+	<td>May 04, 2007</td>
+	<td>Main Site</td>
+	<td>56 MB</td>
+</tr>
+<tr>
+	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
+	<td><a href="../../files/MacTrek/MacTrekUserManual-1.2.0.pdf">MacTrekUserManual-1.2.0.pdf</a> (User Manual)</td>
+	<td>1.2.0</td>
+	<td>May 04, 2007</td>
+	<td>Main Site</td>
+	<td>18 MB</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
+	<td><a href="../../files/MacTrek/MacTrek-1.1.2.zip">MacTrek-1.1.2.zip</a>	<td>1.1.2</td>
+	<td>Mar 27, 2007</td>
+	<td>Main Site</td>
+	<td>16 MB</td>
 </tr>
 <tr>
 	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
@@ -150,6 +179,13 @@ copy than what we have listed here.
 	<td>Mar 16 2007</td>
 	<td>Sourceforge</td>
 	<td>16 MB</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
+	<td><a href="../../files/MacTrek/MacTrek-1.1.0.dmg">MacTrek-1.1.0.dmg</a>	<td>1.1.0</td>
+	<td>Dec 19 2006</td>
+	<td>Main Site</td>
+	<td>28 MB</td>
 </tr>
 </table>
 
@@ -651,7 +687,7 @@ a slow link.
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="../../files/NetrekXP_Mod/NetrekXP4404_installer.exe">NetrekXP4404_installer.exe</a></td>
+	<td><a href="../../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe">NetrekXPMod-4.4.0.4.installer.exe</a></td>
 	<td>4.4.0.4</td>
 	<td>May 06, 2006</td>
 	<td>Main site</td>
@@ -667,7 +703,7 @@ a slow link.
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="../../files/NetrekXPMod-4.4.0.4.bin.zip">NetrekXPMod-4.4.0.4.bin.zip</a></td>
+   <td><a href="../../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.bin.zip">NetrekXPMod-4.4.0.4.bin.zip</a></td>
 	<td>4.4.0.4</td>
 	<td>May 06, 2006</td>
 	<td>Main site</td>
@@ -683,7 +719,7 @@ a slow link.
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="../../files/NetrekXPMod-4.4.0.4.src.zip">NetrekXPMod-4.4.0.4.src.zip</a> (source code)</td>
+	<td><a href="../../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.src.zip">NetrekXPMod-4.4.0.4.src.zip</a> (source code)</td>
 	<td>4.4.0.4</td>
 	<td>May 06, 2006</td>
 	<td>Main site</td>

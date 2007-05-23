@@ -956,7 +956,7 @@ Silvey used the AT&T "death star" logo for the bitmap as a joke about the
 conflict between BSD and System V UNIX.  Originally the ship didn't appear
 in player listings and was completely invisible when cloaked, but these
 changes had to be done away with for game security reasons when the
-client/server modfications were made.
+client/server modifications were made.
 <p>
 
 Other features were removed as well after.  Co-piloting of ships carried
@@ -1256,7 +1256,7 @@ Joseph Young (jfy@cis.ksu.edu)
 </dl>
 
 Much of the credit for the Empire section goes to Felix Gallo (#2 on the
-Empire All-Time Hall of Fame list), from whom I have plagarised without
+Empire All-Time Hall of Fame list), from whom I have plagiarized without
 mercy.
 </p>
 

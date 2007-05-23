@@ -25,7 +25,10 @@ echo "</div>\n\n<div id=\"content\">";
 <p>
 Netrek software is mostly divided into two categories: clients and
 servers.<br> If you want to simply play Netrek, you will need to download a
-client, but you don't need the server.</p>
+client, but you don't need the server.
+<br>There are also a few utilities; you can find them on 
+the <a href="./clients/">full client download listing page</a>.
+</p>
 
 <h2>Netrek Client Software</h2>
 <p>
@@ -55,7 +58,7 @@ The most recent clients are:
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../img/dl_icon_macosx.png" width="25" height="22" alt="Mac OS X" /></td>
-	<td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1.1.0.dmg"><tt>MacTrek v1.1.0</tt></a></td>
+	<td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1.2.0.dmg"><tt>MacTrek-1.2.0.dmg</tt></a></td>
 	<td>Nice new native Mac client. Requires OS X 10.4 or higher.</td>
 </tr>
 <tr>
@@ -75,10 +78,9 @@ The most recent clients are:
 There are a bunch of older clients (COW for Windows, BRMH and TedTurner for
 Unixes including Mac OS X) available on the 
 <a href="./clients/">full client download listing page</a>.
-And if you want the really ancient stuff, it's on the <a href="http://ftp.netrek.org/pub/netrek/clients/">ftp server</a>, or possibly the 
+<br>And if you want the really ancient stuff, it's on the <a href="http://ftp.netrek.org/pub/netrek/clients/">ftp server</a>, or possibly the 
 <a href="../files/">files directory of this website.</a>
 </p>
-
 
 <h2>Netrek Server Software</h2>
 If you want to run your own server, you'll need server code.

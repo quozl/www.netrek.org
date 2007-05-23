@@ -39,14 +39,13 @@ short and sweet, or hardcore.<br><br>
 users (COW and Paradise 2000), read on. Or read the 
 source code if you're so damned geeky.<br><br>
 
-<font color="cyan">Mac</font> users, the screenshots used in this 
+<font color="cyan">Mac</font> users, there's a <a href="../files/MacTrek/MacTrekUserManual-1.2.0.pdf">User Manual for MacTrek</a>. You can also read this guide; the screenshots used in this 
 guide are mostly from the Unix and Windows clients, but the commands
 and gameplay are essentially the same, so this guide should be
 good for you. As is usual for a Mac, your screens look prettier 
 and are easier to use. The client is changing quickly enough that this 
-guide may sometimes be a little out of date. There are Mac screenshots at 
-<a href="http://mactrek.sourceforge.net/Downloads.html">http://mactrek.sourceforge.net/Downloads.html</a>. 
-Note that it's a lot easier to play with a three button mouse.<br><br>
+guide may sometimes be a little out of date. 
+<font color="yellow">Note that it's a lot easier to play with a three button mouse.</font><br><br>
 
 </h3>
 

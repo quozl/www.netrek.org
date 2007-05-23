@@ -145,7 +145,7 @@ Sep 1992	Frequently Offered Clever Suggestions (FOCS) list created
 		  by A.McFadden
 
 Oct 1992	RSA sources available
-Oct 1992	Hadley client relased by T.Hadley
+Oct 1992	Hadley client released by T.Hadley
 Oct 1992	Moo client (Berkeley + Hadley clients) released by R.Weinstein
 
 Nov 1992	ENL is born, run by L.Barbaresi
@@ -213,7 +213,7 @@ Jul 1995	European Metaserver opens at carrier.cs.vu.nl
 May 1995	timeprod overflows 32 bits on bigbang.astro.indiana.edu.
 Oct 1995	timeprod overflows 32 bits on wormhole.ecst.csuchico.edu.
 Dec 1995	Netrek home page move from J.Pirnie's site to D.Grant's site (http://www.cycor.ca/TCave/netrek.html)
-Jan 1996	INL home pgae and Statsboy page merge to http://indigo2.medeng.bgsm.edu/~ahn/INL/
+Jan 1996	INL home page and Statsboy page merge to http://indigo2.medeng.bgsm.edu/~ahn/INL/
 </pre>
 
 
@@ -280,7 +280,7 @@ K.Powell (Keven R. Powell): author of COW-lite client
 S.Sheldon (Steve Sheldon): author of RomaBerkMoo client
 D.Teo (David Teo): wrote gfborg
 N.Trown (Nick Trown): developed guzzler server sources, wrote RSA utilities,
-	maintained RSA key list, maintained vanilla distrubtion, maintains US 
+	maintained RSA key list, maintained vanilla distribution, maintains US 
 	metaserver
 D.Tsang (Donald Tsang): created sturgeon-style server
 S.Silvey (Scott Silvey): Netrek co-author (added plasmas, different ship

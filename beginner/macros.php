@@ -29,7 +29,7 @@ Communication is a key element of Netrek.
 Typing takes time. Time is critical in dogfighting or teamwork. Most 
 of the messages sent in Netrek are standard warnings, distress calls, 
 requests, notifications, etc. Also retyping that insulting message 
-everytime you doosh someone is a drag. Fortunately, Netrek has a system 
+every time you doosh someone is a drag. Fortunately, Netrek has a system 
 with a bunch of messages all set to relay critical information 
 for you. This is a guide to that system. It's pretty complex, with a lot 
 more abilities than most people will ever need; for most players, 
@@ -443,7 +443,7 @@ recipient.  For example, it could be invoked by:
      XfA             &lt;- if you are stupid, send to ALL
 </pre>
 The %a is replaced with how many armies you are carrying. And multiline
-macros can be flakey or not work at all if they require a destination,
+macros can be flaky or not work at all if they require a destination,
 so don't try that. 
 
 <br><p>
@@ -582,12 +582,12 @@ system, which had no substitution codes, may still work.
      mac.E.T         Help!  I'm carrying again!!
      macro.E.A       You all suck even worse NOW!
 </pre>
-     The suprising results would be that pressing XE would broadcast the
+     The surprising results would be that pressing XE would broadcast the
 first two messages, and then wait for the destination of the third.  It
 would be impossible to ever use the last two.  
 
 <p>
-Note that macro syntax is not printf synxtax. Not hardly.
+Note that macro syntax is not printf syntax. Not hardly.
 
 
 <h3><a name="examplemacros"></a><h3>A Few More Example Macros</h3>
@@ -750,7 +750,7 @@ t   taking
 
 2   base_ogg,   
        %T%c-&gt;%O Sync with --]&gt; %g &lt;[-- OGG ogg OGG base!!
-       That greatest of manuevres, the Ogg, as applied to an enemy SB. 
+       That greatest of maneuvers, the Ogg, as applied to an enemy SB. 
        Example:
           &quot;F0-&gt;FED Sync with --] c [--- OGG ogg OGG base!!&quot;
 
@@ -828,7 +828,7 @@ beginning of the RCD.  For example, instead  of
 We'll map the generic distress call (help) to 'h', 
 and make it appear as: &quot;I'm about to die with %a of your team's armies!&quot;
 
-<br><br><p>First, try to seperate in your mind the two types of configurability
+<br><br><p>First, try to separate in your mind the two types of configurability
 that are going on here.
 <ol>
      <li> you are changing the key that sends the message
@@ -889,7 +889,7 @@ as you may have guessed, they work a lot like RCD's, in that you can change
 how they appear to you. 
 <p>
 Short packet kill messages may be freely configured using
-the macro syntax. Things are interpretated as follows:
+the macro syntax. Things are interpreted as follows:
 <ul>
 <li> the killed person corresponds to the sender,
 <li> the killer corresponds to the target player,
@@ -929,7 +929,7 @@ msg.kill:  %i (%S) (%T%c%?%a&gt;0%{+%a armies%!%}) %&gt;30 kill
 
 This document was based on material from the COW manual sections which
 were written by Jeff Nelson sometime around 6/4/1993. In March of 2007,
-akb4 rewrote and reformatted a bunch to create this as a seperate manual.
+akb4 rewrote and reformatted a bunch to create this as a separate manual.
 Probably other people contributed as well. 
 
 <?
