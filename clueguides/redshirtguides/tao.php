@@ -40,7 +40,7 @@ warrior in the Bhagavad-Gita (The Song of God).  The Gita is sort of
 the Gospel of Hinduism.  Arjuna is an archer who is supposed to go into
 battle, and Krishna is his charioteer (as well as being God).  Krishna
 explains to Arjuna a yoga, actually several yogas, which are
-precribed paths of spiritual life.  Now I'm not religious, and don't
+prescribed paths of spiritual life.  Now I'm not religious, and don't
 know much about this stuff, so take this with a grain of salt.  But I
 liked the "Karma Yoga", the path of selfless, God-dedicated action.
 Here are a few quotes regarding this yoga:
@@ -77,7 +77,7 @@ Here are a few quotes regarding this yoga:
 </p>
 
 <p>
-<li>	Stop hoping for wordly rewards.  Fix your mind on the Atman
+<li>	Stop hoping for worldly rewards.  Fix your mind on the Atman
 	[the Godhead within each being].  Be free from the sense of
 	ego.  Dedicate all your actions to me [Krishna].  Then go
 	forward and fight.

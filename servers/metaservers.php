@@ -24,7 +24,7 @@ echo "</div>\n\n<div id=\"content\">";
 <p><h2>Metaservers</h2>
 
 <br><p>"Metaservers" are used so that clients can find out what servers 
-are out there, what kind of game (form the list above) they have running, 
+are out there, which <a href="./variants.php">kind of game</a> they have running, 
 and how many folks are playing. 
 Your client will connect to one or more of them and show you a list of what's
 out there, something like<br> 

@@ -49,7 +49,7 @@ second is to change speed constantly. The third is to det incoming torps.
 
 <p>&nbsp;Remapping the keyboard in the .xtrekrc file is important. For
 those interested, heres mine: keymap: dTeyadllrrqe D I think some of that
-was redundant, but it works, so I dont care! :)
+was redundant, but it works, so I don't care! :)
 
 <p>I. Tractoring/pressoring
 
@@ -96,7 +96,7 @@ the string of torps.
 <p>&nbsp;D. In the opposing situation, if an enemy tries this on me, I
 turn in his direction and pressor off of him at the same time, which (most
 of the time) propels me out of his incoming swath of torps. Pressors are
-most useful for maneuvering into and out of positions for battle. I dont
+most useful for maneuvering into and out of positions for battle. I don't
 use them extensively in battle but perhaps to keep a phaser-thirsty ship
 out of range so that I can torp him, or, in cases where there is a good
 BB playing, pressors are a key to survival.
@@ -113,9 +113,9 @@ BB playing, pressors are a key to survival.
 
 <p>&nbsp;off of to move you sideways out of the torps, that is even
 
-<p>better. If youre using a teammate as a t/p post, though, make
+<p>better. If you're using a teammate as a t/p post, though, make
 
-<p>&nbsp;sure youre not moving him into torps at the same time!]
+<p>&nbsp;sure you're not moving him into torps at the same time!]
 
 <p>&nbsp;II.Changing speeds
 
@@ -172,14 +172,14 @@ have a chance of catching him.
 
 <p>Here is the Netrek concept that will get me in trouble with other good
 dogfighters. Most never det in battle. I, however, live on detting. I will
-cover detting on the accepted scalefrom A to C.
+cover detting on the accepted scale from A to C.
 
 <p>&nbsp;A.Det when tractoring scouts in and phaser them to death. Scouts
 fire dinky 25 pt torps that do 6 pts of damage when you det them. If you
 can tractor them and you are moving at sufficient speed, you can crunch
 a scout in a CA. As long as you det. This goes for any wounded ship, too.
 If a CA is wounded and is sitting stopped, rush at an angle, fire torps
-and tractor him in. However, you MUST remember to det torps. If you dont
+and tractor him in. However, you MUST remember to det torps. If you don't
 10 to 1 you will mutual with him.
 
 <p>&nbsp;B.Det torps for wounded ships, planet takers, and SBs. If you
@@ -195,11 +195,11 @@ on the taker to make it to the planet as fast as possible before oggers
 overwhelm the escorts.
 
 <p>&nbsp;D.OK, I also det a lot in combat. When I am dodging, I will often
-det to open a holein a stream of torps, or det the first few torps in a
+det to open a hole in a stream of torps, or det the first few torps in a
 string so that I can zoom by. Remember, detting ideally only inflicts 25%
 of the damage on your ship, so detting 4 or 5 torps really is nothing in
 a CA. I also tend to det whenever I make a pass at an enemy. Granted, at
-one inch away those torps might not hit me, but I dont take the chance.
+one inch away those torps might not hit me, but I don't take the chance.
 50-130 pts norm on a dogfight, I guess. At one inch, one pass is usually
 enough :). Some good players can use my detting against me, but not always.
 
@@ -217,7 +217,7 @@ allow me to destroy the incoming ship, but I in turn usually take almost
 
 <p>better to mutual than to go to 90% damage and spend a lot of
 
-<p>&nbsp;time repairingif you mutual, you immediately get a new ship.]
+<p>&nbsp;time repairing if you mutual, you immediately get a new ship.]
 
 <p>&nbsp;F.If you are in a situation where both you and your opponent are
 both wounded and he is taking pot shots at your ship, go into repair mode.
@@ -237,7 +237,7 @@ has no fuel).
 
 <p>&nbsp;
 
-<p>Never keep your shields up all the time. Your hull doesnt repair and
+<p>Never keep your shields up all the time. Your hull doesn't repair and
 your fuel regenerates slower. Get in the habit of putting shields up ONLY
 when you are doing the following:
 
@@ -267,10 +267,10 @@ you, tractor him in and kill him.
 
 <p>&nbsp;PRACTICE. Some people here at Duke who program borgs say my torps
 are almost perfect anyway. I have been accused many times of having a blessed
-borg.It is because I practiced lots last year (this year I dont play very
+borg.It is because I practiced lots last year (this year I don't play very
 much anymore). PRACTICE AIMING THOSE TORPS. Learn to lead your opponent.
 
-<p>&nbsp;B. Dont det your own torps when you are first learning. This is
+<p>&nbsp;B. don't det your own torps when you are first learning. This is
 the lazy mans way of getting another shot. When you are first learning,
 and you die cause your first shot missed, you will soon learn to start
 aiming better. If, however, you keep detting your torps, you will waste
@@ -287,11 +287,11 @@ that kills him. It is difficult to remember to tractor, torp 8 times, shields
 up, det, phaser, and move...but the extra 40 pt phaser sometimes is all
 you can get on the guy.
 
-<p>&nbsp;B. I dont suggest attempting to whittle down an enemy with phasers.
+<p>&nbsp;B. I don't suggest attempting to whittle down an enemy with phasers.
 The only person Ive ever known to do this effectively against me was Val,
 and hes gone...
 
-<p>&nbsp;[JE: youd be surprised how quickly a man who uses both
+<p>&nbsp;[JE: you'd be surprised how quickly a man who uses both
 
 <p>&nbsp;phasers and torps well can take down someone who only
 
@@ -305,7 +305,7 @@ and hes gone...
 
 <p>&nbsp;
 
-<p>A. Dont cloak (remember, this is a dogfighters manual).
+<p>A. don't cloak (remember, this is a dogfighters manual).
 
 <p>&nbsp;B. Cloaking is only for dodging outgoing oggers(those coming to
 ogg you before you reach your target) or to pass over some interference

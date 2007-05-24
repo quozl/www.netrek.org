@@ -95,18 +95,18 @@ possibilities to give you an idea how complex the process really can be:
 </p>
 
 <p>
-The way Planet Takes often unfold is that the a 
+The way Planet Takes often unfold is that the
 ship that is carrying will target a planet or selection of planets and 
 call the Take to the team for the planet where the Taker wants the 
 escort to go. This planet may or may not be the intentional target, but 
 for the purposes of the Take the Taker is the grand master of illusion. 
 With assistance from the attacking team members the Taker will create 
-an artiface to present to the defending team and in this way will 
+an artifice to present to the defending team and in this way will 
 increase the likelihood of Taking the real target planet. Escort 
 precedes the Taker to the Planet and engages the defending ships, or 
 will push them from the area, or will Ogg the defending Star Base, or 
 will threaten the last remaining horde of armies, or will cloak and 
-threaten a more likely target to draw defening ships, or will tie up 
+threaten a more likely target to draw defending ships, or will tie up 
 the carriers on the defending team who will probably selfishly call for 
 escort, or any number of a billion other strategies depending on the 
 circumstances of the respective teams. It is the Escort's foremost role 
@@ -117,17 +117,17 @@ Play with the view that taking a planet is like scoring a goal in a
 ball-sport. The Taker may feint towards the planet and then veer off, 
 causing all hell to break loose in high orbit. The defenders may charge 
 or be split up as some engage the planet or empty their fuel tanks 
-prematurely, ejaculating torpedos into the vaccuum in a frantic rush of 
+prematurely, ejaculating torpedos into the vacuum in a frantic rush of 
 concern. The Taker may be cloaked or uncloaked for effect. The Taker 
 will be calling the targets as appropriate, probably giving priority to 
 the bigger ships with more powerful weaponry. The Taker will be dodging 
 phasers by warping at moderate speeds to regions of space where the 
 phaser has already been shot. The Taker may detonate some random single 
 torpedos and then move away from the area to create the impression that 
-the defending team should be focussing their attention there. With 
+the defending team should be focusing their attention there. With 
 luck, escort, hasty actions by the defending team, and the grace of the 
 god of net-lag the Taker reaches the planet and stops being 
-maneouverable and in control of its own future. All events up to this 
+maneuverable, and in control of its own future. All events up to this 
 point have been with the aim of reducing the defenders firepower and 
 their commitment to the task of defending the planet. The Taker orbits 
 while bombing existing armies until the planet has no more than 4 
@@ -137,7 +137,7 @@ way. The Taker then deposits the armies from its hold onto the planet,
 which may or may not be in the process of breeding new armies (POP!). 
 The Taker may be raising shields to distribute damage, detting errant 
 torps, or just sitting with their eyes closed counting off the seconds. 
-The Taker may be killed during or after the planet has been neutralised 
+The Taker may be killed during or after the planet has been neutralized 
 or taken. After the planet is Taken that planet is either safe or 
 vulnerable. The enemy may have been serious in the defense to the point 
 that the attacking armada is now a remnant of its former glory and the 
@@ -158,7 +158,7 @@ plans of the once-defending team who may now be carrying and lining up
 a counter strike. [eot]</p>
 
 <p>
-Let me rewrite that, paraphrasing to display the behaviour often 
+Let me rewrite that, paraphrasing to display the behavior often 
 encountered:</p>
 
 <p>
@@ -190,7 +190,7 @@ remember that the Taker will at some point in the Planet Take be a
 "sitting duck" orbiting a planet with shields down. There is 
 no other way to beam down armies! Solitary takes against defended 
 planets do not favour the Taker at all. These Takes leave the Taker 
-exposed and susceptable to premature death.</p>
+exposed and susceptible to premature death.</p>
 
 <p>
 At the other end of the scale is where the Taker 
@@ -586,7 +586,7 @@ lightly armed Romulan team.</p>
 	<font color="#999999">(1)</font></p>
 	</li><li>
 	K2 "pinwheels" on Cygni for a period. This is where a ship 
-	will sit on a fuel planet, firing torps into the vaccuum at distant 
+	will sit on a fuel planet, firing torps into the vacuum at distant 
 	ships. It is a bad idea as it makes your ship's movements predictable - 
 	if you don't move you will continue to orbit, if you do move you will 
 	start from rest. The best way to break orbit when under threat is to 

@@ -55,7 +55,7 @@ and she can probably kill or cripple you at her option.
 
 <p>
 If a teammate is carrying armies and trying to take a particular
-planet (usually she'll indiciate this on the team message board), you can try
+planet (usually she'll indicate this on the team message board), you can try
 to "escort" her.   In general this means staying between her and the enemy
 ogger(s), to prevent the oggers from getting to her.  Also if they shoot torps
 at her, you'll be in position to detonate them so they don't hurt her.  She'll
@@ -155,7 +155,7 @@ you should be pounding him with phasers.
 </p>
 
 <p>
-In a protacted dogfight, fly slowly to conserve fuel.  Warp 2, 3, or 4
+In a protracted dogfight, fly slowly to conserve fuel.  Warp 2, 3, or 4
 is good, and punch a higher speed when you need to (or if you're trying to
 get somewhere).  In a relative lull, fueling may be more important than
 dodging, in which case you should stop entirely (perhaps enter repair mode).

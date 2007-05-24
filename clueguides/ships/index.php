@@ -241,7 +241,7 @@ Other docs available:
 
 <p>
 These ships are for bombing and capturing
-planets (something that beginners should't try until after mastering a few 
+planets (something that beginners shouldn't try until after mastering a few 
 basics). They are slow and clumsy, but have tough hulls and can carry more 
 than anything else. They can carry 3 armies per kill as opposed to the usual
 two per kill, and can cloak without burning as much fuel as other ships.
