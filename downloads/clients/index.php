@@ -128,7 +128,7 @@ The latest version of XP 2006 is also available from <a href="http://www.playnet
 <tr><td>Homepage: <td><a href="http://mactrek.sourceforge.net/">http://mactrek.sourceforge.net</a><br>
 <tr><td>Version history:<td><a href="http://mactrek.sourceforge.net/News/News.html">http://mactrek.sourceforge.net/News/News.html</a><br>
 <tr><td>Source Code Repository:&nbsp; <td>SVN (SubVersioN) at <a href="http://mactrek.svn.sourceforge.net/viewvc/mactrek/">http://mactrek.svn.sourceforge.net/viewvc/mactrek/</a>
-<tr><td>Lineage: <td> JTrek -> MacTrek
+<tr><td>Lineage: <td> MacTrek (from scratch, though author looked at JTrek and COW code for ideas)
 </table>
 
 <br><p>
