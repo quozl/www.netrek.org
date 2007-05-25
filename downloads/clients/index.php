@@ -128,6 +128,7 @@ The latest version of XP 2006 is also available from <a href="http://www.playnet
 <tr><td>Homepage: <td><a href="http://mactrek.sourceforge.net/">http://mactrek.sourceforge.net</a><br>
 <tr><td>Version history:<td><a href="http://mactrek.sourceforge.net/News/News.html">http://mactrek.sourceforge.net/News/News.html</a><br>
 <tr><td>Source Code Repository:&nbsp; <td>SVN (SubVersioN) at <a href="http://mactrek.svn.sourceforge.net/viewvc/mactrek/">http://mactrek.svn.sourceforge.net/viewvc/mactrek/</a>
+<tr><td>Bug Tracking: <td><a href="http://sourceforge.net/tracker/?group_id=165507">http://sourceforge.net/tracker/?group_id=165507</a>
 <tr><td>Lineage: <td> MacTrek (from scratch, though author looked at JTrek and COW code for ideas)
 </table>
 
@@ -135,7 +136,7 @@ The latest version of XP 2006 is also available from <a href="http://www.playnet
 This is a new and exciting client. It's the first all-native Mac client ever,
 so it looks and works like Mac software instead of like traditional Unix
 software. While you can play just fine with a one-button mouse, 
-more is better. There are <a href="http://downloads.sourceforge.net/mactrek/MacTrek-Trailer-large.mov?modtime=1169048369&big_mirror=0">large (25 MB)</a> and <a href="http://downloads.sourceforge.net/mactrek/MacTrek-Trailer-small.mov?modtime=1169048387&big_mirror=0">small (8.3 MB)</a> versions of a "trailer" 
+more is better. It is the first Netrek client to support voice commands. There are <a href="http://downloads.sourceforge.net/mactrek/MacTrek-Trailer-large.mov?modtime=1169048369&big_mirror=0">large (25 MB)</a> and <a href="http://downloads.sourceforge.net/mactrek/MacTrek-Trailer-small.mov?modtime=1169048387&big_mirror=0">small (8.3 MB)</a> versions of a "trailer" 
 movie you can watch. This client is evolving pretty quickly, so visiting
 the <a href="http://sourceforge.net/project/showfiles.php?group_id=165507">sourceforge download page</a> may get you a more up to date
 copy than what we have listed here. 
@@ -171,21 +172,6 @@ copy than what we have listed here.
 	<td>Mar 27, 2007</td>
 	<td>Main Site</td>
 	<td>16 MB</td>
-</tr>
-<tr>
-	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
-	<td><a href="http://downloads.sourceforge.net/mactrek/MacTrek-1.1.1RC2.zip?modtime=1174039766&big_mirror=0">MacTrek-1.1.1RC2.zip</a>
-	<td>1.1.1 RC2</td>
-	<td>Mar 16 2007</td>
-	<td>Sourceforge</td>
-	<td>16 MB</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
-	<td><a href="../../files/MacTrek/MacTrek-1.1.0.dmg">MacTrek-1.1.0.dmg</a>	<td>1.1.0</td>
-	<td>Dec 19 2006</td>
-	<td>Main Site</td>
-	<td>28 MB</td>
 </tr>
 </table>
 
@@ -230,7 +216,7 @@ architecture only.
 	<td>1.4 MB</td>
 </tr>
 </table>
-<br><p>Older versions of this client are archived on netrek.org at <a href="../../files/Paradise_2000/">http://www.netrek.org/files/Paradise_2000</a> and on the author's site at <a href="http://www.speakeasy.org/~xyzzy/download/paradise/">http://www.speakeasy.org/~xyzzy/download/paradise/</a>. Source code is not available for this client. The build is only blessed for one
+<br><p>Older versions of this client are archived on netrek.org at <a href="../../files/Paradise_2000/">http://www.netrek.org/files/Paradise_2000</a>. Source code is not available for this client. The build is only blessed for one
 year, so older builds will not work with servers that require RSA. 
 
 
