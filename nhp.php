@@ -170,6 +170,11 @@ $siteparentlist = array(
 			"Customizing the Keymap"
 	),
 
+	"beginner/joes-flash-tutorial/joee-tutorial.php" => array(
+			"beginner/",
+			"Flash Tutorial for Windows Clients"
+	),
+
 	"beginner/macros.php" => array(
 			"beginner/",
 			"Messaging Macros"
