@@ -49,12 +49,6 @@ might not otherwise know, like which ones have robot players.
     <td><a href="http://continuum.us.netrek.org/blog/index.rss">Yes</a>
     <td>Runs at 50 frames per second if your client supports it. 
 <tr>
-<tr><td><a href="http://netrek.hwy.com.au">netrek.hwy.com.au</a>
-    <td>
-    <td>Bronco Pick-up
-    <td>
-    <td>Australian, but you don't have to be local to play there. 
-<tr>
 <tr><td><a href="http://base-practice.psychosis.net">base-practice.psychosis.net</a>
     <td>Yes, bots take commands
     <td>Base practice
