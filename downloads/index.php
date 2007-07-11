@@ -58,7 +58,7 @@ The most recent clients are:
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../img/dl_icon_macosx.png" width="25" height="22" alt="Mac OS X" /></td>
-	<td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1.2.0.dmg"><tt>MacTrek-1.2.0.dmg</tt></a></td>
+	<td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1.3.0.zip"><tt>MacTrek-1.3.0.zip</tt></a></td>
 	<td>Nice new native Mac client. Requires OS X 10.4 or higher.</td>
 </tr>
 <tr>

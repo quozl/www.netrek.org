@@ -38,19 +38,16 @@ might not otherwise know, like which ones have robot players.
 <tr><th>Server<th>Robots?&nbsp;&nbsp;<th>Type<th>RSS<th>Notes
 <tr>
 <tr><td><a href="http://pickled.netrek.org/">pickled.netrek.org</a>
-    <td>Nope
+    <td>Pre-T practice robots enabled. 
     <td>Bronco Pick-up
     <td>
     <td>
 <tr>
 <tr><td><a href="http://continuum.us.netrek.org">continuum.us.netrek.org</a>
-    <td>Dogfight
+    <td>Pre-T practice robots enabled. 
     <td>Bronco Pick-up
     <td><a href="http://continuum.us.netrek.org/blog/index.rss">Yes</a>
-    <td>If you are the only player on the server, you can hit <font color="yellow">*</font> multiple 
-        times to bring
-        in practice robots to dogfight with, but they don't take
-        planets or fight each other.
+    <td>Runs at 50 frames per second if your client supports it. 
 <tr>
 <tr><td><a href="http://netrek.hwy.com.au">netrek.hwy.com.au</a>
     <td>
@@ -58,16 +55,8 @@ might not otherwise know, like which ones have robot players.
     <td>
     <td>Australian, but you don't have to be local to play there. 
 <tr>
-<tr><td><a href="http://netrek.pulsar-zone.net">netrek.pulsar-zone.net</a>
-    <td>Yes
-    <td>Bronco Pick-up
-    <td>
-    <td>Sundays are Twinky GA day.<br>
-        SB rank is Lieutenent, so you can practice basing.<br> 
-        Server has no continuousTorps; one torp per mouse click.
-<tr>
 <tr><td><a href="http://base-practice.psychosis.net">base-practice.psychosis.net</a>
-    <td>
+    <td>Yes, bots take commands
     <td>Base practice
     <td>
     <td>

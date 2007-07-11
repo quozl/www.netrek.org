@@ -139,7 +139,7 @@ software. While you can play just fine with a one-button mouse,
 more is better. It is the first Netrek client to support voice commands. There are <a href="http://downloads.sourceforge.net/mactrek/MacTrek-Trailer-large.mov?modtime=1169048369&big_mirror=0">large (25 MB)</a> and <a href="http://downloads.sourceforge.net/mactrek/MacTrek-Trailer-small.mov?modtime=1169048387&big_mirror=0">small (8.3 MB)</a> versions of a "trailer" 
 movie you can watch. This client is evolving pretty quickly, so visiting
 the <a href="http://sourceforge.net/project/showfiles.php?group_id=165507">sourceforge download page</a> may get you a more up to date
-copy than what we have listed here. 
+copy than what we have listed here. There are a bunch of developer files, including a developer's guide, <a href="../../files/MacTrek">in the files directories.</a> 
 
 <br><p>
 <table border="0" bgcolor="#444444">
@@ -151,14 +151,24 @@ copy than what we have listed here.
 	<td width="75">Location</td>
 	<td width="50">Size</td>
 </tr>
+
+
 <tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
+	<td><a href="../../files/MacTrek/MacTrek-1.3.0.zip">MacTrek-1.3.0.zip</a>	<td>1.3.0</td>
+	<td>Jul6, , 2007</td>
+	<td>Main Site</td>
+	<td>26 MB</td>
+</tr>
+
+<tr>
 	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
 	<td><a href="../../files/MacTrek/MacTrek-1.2.0.dmg">MacTrek-1.2.0.dmg</a>	<td>1.2.0</td>
 	<td>May 04, 2007</td>
 	<td>Main Site</td>
 	<td>56 MB</td>
 </tr>
-<tr>
+<tr bgcolor="#333333">
 	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
 	<td><a href="../../files/MacTrek/MacTrekUserManual-1.2.0.pdf">MacTrekUserManual-1.2.0.pdf</a> (User Manual)</td>
 	<td>1.2.0</td>
@@ -166,7 +176,7 @@ copy than what we have listed here.
 	<td>Main Site</td>
 	<td>18 MB</td>
 </tr>
-<tr bgcolor="#333333">
+<tr>
 	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
 	<td><a href="../../files/MacTrek/MacTrek-1.1.2.zip">MacTrek-1.1.2.zip</a>	<td>1.1.2</td>
 	<td>Mar 27, 2007</td>

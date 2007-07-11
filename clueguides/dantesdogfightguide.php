@@ -22,11 +22,12 @@ echo "</div>\n\n<div id=\"content\">";
 
 ?>
 
-<h1>Dantes Dogfight Guide - Basics, Mechanics, Strategy</h1>
+<h1>Dante's Dogfight Guide - Basics, Mechanics, Strategy</h1>
+<center>Note: This copy has been spellchecked and formatted for www.netrek.org; the author's original is at <a href="http://www.geocities.com/dantes_tb3/">http://www.geocities.com/dantes_tb3/</a></center>
 <h2>
 <a name="WordFromAuthor"></a><b>Word from the Author</b></h2>
 Netrek is a 16-player online game, open source & freeware. For the
-unfamiliar, I invite you to visit the slightly out of date 
+unfamiliar, I invite you to visit 
 <a href="http://www.netrek.org/">www.netrek.org</a>
 to find resources and how to play.
 <p>
@@ -38,8 +39,8 @@ At the moment, this site is host to my dogfighting guide. I have written
 it since in my opinion good advice on how to actually fly a netrek ship
 has been extremely sparse, and most people never really figure it out.
 <p>
-Dogfighting's very hard to learn. High level dogfighting requires reflex,
-which requires repetition and manual dexterity. But it's very, very fun.
+Dogfighting is very hard to learn. High level dogfighting requires reflexes,
+which require repetition and manual dexterity. But it's very, very fun.
 <p>
 Summary of Qualifications:
 <ul>
@@ -168,7 +169,7 @@ Pressor on r<br>
 Tractor on t<br>
 Remove pressor/tractor on g*
 <p>
-*There are two keysets for tractor & pressor, toggles & absolutes. The
+*There are two keys each for tractor & pressor, toggles & absolutes. The
 absolutes must be turned off by an extra key. The three key setup is
 considered superior for hockey & basing.
 <p>
@@ -227,7 +228,7 @@ I use the 3 key unchanged, and the e key as maxwarp. It is sensible to
 assign a single finger to movement, since you never ever have a need to
 hit both maxwarp & your minwarp at the same time.<br>
 Changing my keymap would be rather difficult, since I have 6 years of
-playing beind this version. I might have considered placing the commands
+playing behind this version. I might have considered placing the commands
 on say w and s or q and a were I to try this again.<br>
 
 Use of speed keys:
@@ -250,7 +251,7 @@ Torps can be dodged & detted.<br>
 High level dogfighting involves heavy use of phasers, and torp sprays that are geared towards going for one or two hits. Sprays are hard to det, so dodging is the avoidance of choice. <p>
 
 To make good torp sprays, you need to have one of a couple possible assists.<br>
-Some people work with keyrepeats to produce clumps of torps. Many old time dogfighters put torps on keyboards.<br>
+Some people work with key repeats (holding down the key) to produce clumps of torps. Many old time dogfighters put torps on keyboards.<br>
 Then came out the version of COW that most Windows clients are based on, which includes continuousmouse. It's a nice thing that helps to send<br>
 and extra torp or two out on occasion when you're jigging the mouse back & forth (more than that, but this is simplifying)<br>
 
@@ -329,7 +330,7 @@ t/p becomes instinctive. I'm most comfortable fighting at a particular range, so
 Work on building a tendency to pressor when an enemy is starting to shoot at you.<br>
 Then a tendency to tractor just as you're about to shoot.<br>
 <br>
-Start learning to have fun with people, yo-yoing them, throwing them off, pressoring 3rd ships to get an extra lateral motion, and you'll have pretty much arrived.<p>
+Start learning to have fun with people, yo-yo'ing them, throwing them off, pressoring 3rd ships to get an extra lateral motion, and you'll have pretty much arrived.<p>
 
 <p>
 <h2>
@@ -505,7 +506,7 @@ One of the tips of an otherwise ok dogfighting guide from yesteryear
 was to pull up next to someone at warp 8 or warp 9, unload a volley of
 torps, and tractor. This is an outdated tactic. Ah, heck - outdated is
 too kind. It's a stupid tactic that's mostly used by people who don't
-know how to playWhy?
+know how to play. Why?
 <p>
 First, since that was written the typical number of updates per second
 has increased from 5 to 10 per second. This means it's possible to see

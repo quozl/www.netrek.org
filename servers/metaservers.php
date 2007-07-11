@@ -95,10 +95,6 @@ to this, you'll see something like:
 
 </tr>
 
-<tr><td>netrek.hwy.com.au</td><td>2592</td>
-<td>99</td><td>Nobody playing</td><td>  R   B</td>
-</tr>
-
 <tr><td>continuum.us.netrek.org</td><td>2592</td>
 <td>0</td><td>OPEN: 1 player</td><td>  R   B</td>
 
