@@ -154,9 +154,17 @@ copy than what we have listed here. There are a bunch of developer files, includ
 
 
 <tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
+        <td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
+        <td><a href="../../files/MacTrek/MacTrek-1.4.0.zip">MacTrek-1.4.0.zip</a>       <td>1.4.0</td>
+        <td>July 11, 2007</td>
+        <td>Main Site</td>
+        <td>26 MB</td>
+</tr>
+
+<tr>
+        <td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
 	<td><a href="../../files/MacTrek/MacTrek-1.3.0.zip">MacTrek-1.3.0.zip</a>	<td>1.3.0</td>
-	<td>Jul6, , 2007</td>
+	<td>July 06, 2007</td>
 	<td>Main Site</td>
 	<td>26 MB</td>
 </tr>
