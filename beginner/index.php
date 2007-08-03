@@ -43,13 +43,13 @@ Netrek!</h2>
 	Download and install a client for your platform. </h2>
         <UL>
         <LI>For Windows users, download
-	<a href="../files/NetrekXP_2006/netrekXP2006v12install.exe">Netrek
+	<a href="../files/NetrekXP_2006/netrekXP2006v13install.exe">Netrek
   XP 2006</a>
         <LI>For Windows users with slow Internet links, the
 	<a href="../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe">Netrek
 	XP Mod</a> client is only 2.4 MB to download, vs 8.4 MB for XP 2006
         <LI>For Mac users, download 
-         <a href="../files/MacTrek/MacTrek/MacTrek-1.1.0.dmg">MacTrek</a>
+         <a href="../files/MacTrek/MacTrek-1.4.0.zip">MacTrek</a>
         <LI>For Linux users, download 
          <a href="../files/Paradise_2000/paradise-2000-rc6.tar.gz">Paradise 2000</a>
         </UL>

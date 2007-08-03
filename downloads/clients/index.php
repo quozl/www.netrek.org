@@ -103,11 +103,11 @@ If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkou
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="../../files/NetrekXP_2006/netrekXP2006v12install.exe">netrekXP2006v12install.exe</a></td>
-	<td>1.2</td>
-	<td>Mar 05 2007</td>
+	<td><a href="../../files/NetrekXP_2006/netrekXP2006v13install.exe">netrekXP2006v13install.exe</a></td>
+	<td>1.3</td>
+	<td>July 19, 2007</td>
 	<td>Main site</td>
-	<td>8.1 MB</td>
+	<td>8.3 MB</td>
 </tr>
 <tr>
 	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Linux" /></td>
