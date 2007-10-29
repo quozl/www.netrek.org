@@ -76,12 +76,12 @@ This guide is a mix of practical information on layout and tactics with theory. 
 
 <P> Organized By:
 <UL>
-<LI><A HREF="dfbasics.html#intro">I. Intro: Biomechanics and its Relation to Netrek</A>
-<LI><A HREF="dfbasics.html#damage">II. Theory: Doing Damage That Can't Be Avoided</A>
-<LI><A HREF="dfbasics.html#setup">III. Controls: How to Prepare Your Setup for Dogfighting (Keymap)</A>
-<LI><A HREF="dfbasics.html#use">IV. Comments for Beginners on Movement & Weapons </A>
-<LI><A HREF="dfbasics.html#misc">V. Tactical Dogfighting Tips <A>
-<LI><A HREF="dfbasics.html#strat">VI. Dodging & a System for Developing Movement </A>
+<LI><A HREF="dfbasics.php#intro">I. Intro: Biomechanics and its Relation to Netrek</A>
+<LI><A HREF="dfbasics.php#damage">II. Theory: Doing Damage That Can't Be Avoided</A>
+<LI><A HREF="dfbasics.php#setup">III. Controls: How to Prepare Your Setup for Dogfighting (Keymap)</A>
+<LI><A HREF="dfbasics.php#use">IV. Comments for Beginners on Movement & Weapons </A>
+<LI><A HREF="dfbasics.php#misc">V. Tactical Dogfighting Tips <A>
+<LI><A HREF="dfbasics.php#strat">VI. Dodging & a System for Developing Movement </A>
 
 </UL>
 
