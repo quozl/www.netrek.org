@@ -14,534 +14,468 @@ require '../nhp.php';
 doNhpHeader();
 
 // echo getSidebarDownload();
-echo getSidebarHints();
-// echo getSidebarNews();
+ echo getSidebarHints();
+ echo getSidebarNews();
 // echo getSidebarColofon();
 
 echo "</div>\n\n<div id=\"content\">";
 
 ?>
 
-<h1>Dante's Dogfight Guide - Basics, Mechanics, Strategy</h1>
-<center>Note: This copy has been spellchecked and formatted for www.netrek.org; the author's original is at <a href="http://www.geocities.com/dantes_tb3/">http://www.geocities.com/dantes_tb3/</a></center>
-<h2>
-<a name="WordFromAuthor"></a><b>Word from the Author</b></h2>
-Netrek is a 16-player online game, open source & freeware. For the
-unfamiliar, I invite you to visit 
-<a href="http://www.netrek.org/">www.netrek.org</a>
-to find resources and how to play.
-<p>
-Netrek is an extremely fun and deep game. It the most difficult game to
-master that I am aware of. It is the only action/strategy game that I
-know of that people play for years and quite literally thousands of hours.
-<p>
-At the moment, this site is host to my dogfighting guide. I have written
-it since in my opinion good advice on how to actually fly a netrek ship
-has been extremely sparse, and most people never really figure it out.
-<p>
-Dogfighting is very hard to learn. High level dogfighting requires reflexes,
-which require repetition and manual dexterity. But it's very, very fun.
-<p>
-Summary of Qualifications:
-<ul>
-<li>Space Control/Dogfighting specialist</li>
-<li>League Seasons: 1995, 1998, 1999, 2000, 2001, 2002</li>
-<li>League Championship Teams: Frickin' Leprechauns, Evil Empire/Zero Wing</li>
-<li>Dogfighting Practice Partners: Psychosis/psychos, Stoopit/Lee, pissedoffguest/tseug</li>
-<li>Offense rating 2.0 - 3.0 as desired.</li>
-</ul>
+<center><h1>Dante's Dogfight Guide - Basics, Mechanics, Strategy</h1></center>
+<center>Note: This copy has been edited for formatting for www.netrek.org; the author's original is at <a href="http://www.geocities.com/dantes_tb3/">http://www.geocities.com/dantes_tb3/</a></center>
 
-You can trust my guide. I'll spruce it up a bit over time.
-If you see me online & sucking, just remember - anyone can get rusty. 
-<p>
+<P>
+<hr width=68%>
+<P><FONT FACE="Arial, helvetica">
+<CENTER> 
+<h2>Preface</h2>
 
+<br><br>
+Welcome!<P>
+In case someone stumbles in here: <BR>
+Netrek is a 16-player online game, open source & freeware. I invite you to visit <A HREF="http://www.netrek.org">www.netrek.org</A> to find resources and how to play. <P
 
-<h2>Contents:</h2>
-<ol>
-<li><b><a href="#Keys">A. Keymaps & Command Structures That Work</a></b>
-<ul>
-<li><a href="#TP">Tractor & Pressor</a></li>
-<li><a href="#Speeds">Speeds</a></li>
-<li><a href="#Weapons">Weapons</a></li>
-</ul>
-</li>
-<li><b><a href="#Start">B. Putting Things Together</a></b>
-<ul>
-<li><a href="#DFmovement">A Dogfighting System</a></li>
-<li><a href="#TP2">How to use Tractor/Pressor</a></li>
-<li><a href="#Torps">How to use torps</a></li>
-<li><a href="#Phasers">How to use phasers</a></li>
-<li><a href="#Sequence">A dogfighting sequence</a><br></li>
-</ul>
-</li>
-<li><b><a href="#NoDD">C. Avoid the DD if New</a></b></li>
-<li><b><a href="#Basics2">D. Further Basics</a></b>
-<ul>
-<li><a href="#Philosophy">Netrek Philosophy</a>
-<li><a href="#Dynamics">Further Netrek Dynamics</a>
-</ul>
-</li>
-<li><b><a href="#Tips">E. Assorted Dogfighting Tips</a></b>
-<ul>
-<li><a href="#Clouds">Torp Sprays Are Your Friend</a></li>
-<li><a href="#Lagged">Using Phasers While Lagged</a></li>
-<li><a href="#Flyby">The Flyby Attack & Avoiding it</a></li>
-</ul>
-</li>
-</ol>
-<p>
+This is an extremely fun and deep game. It the most difficult game to master that I am aware of. It is the only action/strategy game that I know of that some people have played for ten years or more.<P>
 
-<h2>
-<a name="Keys"></a><b>A. Keymaps that work</b></h2>
-When attempting to improve your dogfighting, keymap is an excellent
-place to start. A good keymap places every last dogfighting command in
-a place where it's accessible by one hand, and where it can't conflict
-with any other command. If you've not carefully organized your keymap
-before, please review these notes and consider how they can help.
-<p>
-It takes about one to two weeks to adjust to a new keymap for most
-folks, but longer for someone who's built up accurate, strong reflexes.
-<p>
-Commands Necessary:</p>
+Revised October 2007<BR>
+Improved introduction<BR>
+Introducing Graphics & Diagrams<BR>
+Greatly Improved Discussion on Torping and Dodging <BR>
+Rewrites Throughout <BR>
+<P>
+On the To-Do Agenda<BR>
+Positioning & Clue Guide
+</center>
+<P>
+<BR>
+If you see me online & sucking, and find yourself saying "why the hell should I listen to this guy?" just remember - anyone can get rusty. And were you EVER a 2.0+ offense top tier df? I was, and if you weren't - I can still tool your ass. ;)   (Hmm... tongue in cheek's a little tough to convey on a page - 'know?) <BR>
+</center>
+<P>
+Good Luck,<br>
+Dantes (tb3)<br>
+<br>PS: 
+There is also a <A HREF="http://cha.rlie.nl/dfmanual/">DF Manual for Total Beginners by Charlie/Zex</A>.
 
-Primary Importance
-<ul>
-<li>Base Speed key</li>
-<li>Maxwarp key</li>
-<li>Torps</li>
-<li>Phasers</li>
-<li>Tractor</li>
-<li>Pressor</li>
-</ul>
+<br><br>
+<hr width=68%>
 
-Secondary Importance<br>
-<ul>
-<li>Det own torps</li>
-<li>Det enemy torps</li>
-<li>Shields</li>
-<li>Repair</li>
-</ul>
+<br><br>
+<center><h2>Dante's DF Guide</h2></center><BR>
 
-<p>
-<h2>
-<a name="TP"></a>I. Tractor & Pressor:</h2>
-This tool is often neglected by inexperienced players. Do NOT forgo
-this weapon.  After all, if you can be where someone expects, or 1/2 cm
-from where they expect, where would you rather be?
-<p>
-
-Here are some possible uses:<p>
-
-Tractor:
-<ul>
-<li>Tractor an enemy who's trying to escape you. Fire phasers at them
-    while you keep them close</li>
-<li>Tractor another ship to pull you sideways out of the path of enemy
-    torps</li>
-<li>Tractor an enemy ship to pull them into your torps, or to keep them
-    from moving far enough to dodge your torps</li>
-</ul>
-<br>
-Pressor:
-<ul>
-<li>Slow an enemy who's flying straight at you, keeping them and their
-    phasers away from you</li>
-<li>Slow an enemy who's flying straight at you at a low warp speed to
-    reduce them to a crawl, making them easy pickings for your torps</li>
-<li>Slow yourself when you are flying straight at an enemy, buying a
-    small amount of extra time in which to slow down & dodge if you
-    expect torps.</li>
-<li>Pressor another ship to help you dodge enemy torps.</li>
-</ul>
-
-<p>
-<i>Considerations in Mapping Tractor & Pressor.</i><br>
-Essential considerations: Make tractor & pressor easily & quickly
-accessed.</p>
-<p>
-My method:<br>
-Dedicate the forefinger (pointing finger) to no combat task other than
-tractor & pressor.</p>
-<p>
-
-My map:<br>
-Pressor on r<br>
-Tractor on t<br>
-Remove pressor/tractor on g*
-<p>
-*There are two keys each for tractor & pressor, toggles & absolutes. The
-absolutes must be turned off by an extra key. The three key setup is
-considered superior for hockey & basing.
-<p>
-**Dan (tuber) disagrees with me on the appropriateness of using one
-finger to control every tractor/pressor command. Fast as I can move from
-r to t, he believes that tractor & pressor should be different fingers,
-so you don't even have the lag of moving one key to the right.<br>
--- That's right, at least one other strong dogfighter (and Dan has a
-greater legend than moi) gives tractor & pressor an even MORE prominent
-place in his keymap.
-
-<p>I think you can toss t/p in if you make it easy to reach. 
-</p>
-
-<p>
-<h2>
-<a name="Speeds"></a>II. Speeds:</h2>
-The only netrek game where you might need to consider an extra speed
-key is hockey.<br>
-With bronco you can accomplish whatever speed you want by combining a
-low warp speed with the maxwarp command.<br>
-Choice of low warp key is a matter of preference. I've had a few
-discussions with other dogfighters, so I have a sense of whats common:
-
-<p>
-Most common: Warp 3<br>
-Next most common: Warp 2<br>
-
-Least common: Warp 0
-<p>
-My choice is warp 3. Warp 3 is an excellent speed for a CA, since at
-this speed it can turn sharply while not being a rock. It is an excellent
-speed for weaving between torps.<br>
-Another logical choice is warp 2. Warp 2 is perhaps the best choice for
-a BB, since the BB's strong tractors & pressors can make up for the lack
-of the extra warp speed. Both the CA & the BB can turn even just that
-much faster at this speed, but the benefits are more pronounced for the
-larger ship. One possible way to run this setup would be to maintain a
-frequent tapping back & forth between warp 2 & the maxwarp key, aimed at
-keeping within a band of warp 2-4. This would be difficult, however.<br>
-A very difficult choice would be warp 0. I've only known one person
-who's claimed to do this, and who knows? He mighta been shitting. But
-the basic idea is to keep a back & forth tapping of the warp keys, such
-that the ship is in a band between warp 1 and warp 4. I wouldn't advise
-this for the sane or even the crazies who are slightly faint of heart.
-<p>
-Do NOT use a base speed key of warp 4. At this speed the CA has a 180
-turn radius of about a centimeter or so. It's not at this speed to change
-direction fast enough to avoid many sets of torps. It's fine if you want
-to be a runnerscum, but runners can't really fight when it's time to do
-a goal line stand.
-<p>
-
-My keymap:<br>
-I use the 3 key unchanged, and the e key as maxwarp. It is sensible to
-assign a single finger to movement, since you never ever have a need to
-hit both maxwarp & your minwarp at the same time.<br>
-Changing my keymap would be rather difficult, since I have 6 years of
-playing behind this version. I might have considered placing the commands
-on say w and s or q and a were I to try this again.<br>
-
-Use of speed keys:
-Again, don't 100% ignore tapping back & forth to keep you within a
-band. It's very helpful when chasing down an enemy; a pattern that
-brings you to warp 6 or 7 is one that already anticipates needing to
-dodge buttorps. A slowdown, turn, pressor, turn back, tractor, speedup
-is a helpful pattern.
+<BR>
+<BR>
+<FONT FACE="Arial, Helvetica">
+<BR>
 
 
-<p>
-<h2>
-<a name="Weapons"></a>III. Weapons:</h2>
-It's possible to do damage with both torps and phasers at the same time. It's worthwhile to work towards melding the two. The practice comes in moving the mouse accurately from firing where the enemy will go (torps) to on top of the enemy (phaser)<br>
-<br>
+<A NAME="top"></A><P>Dogfighting Basics: Guide by Dantes (tb3)</P>
 
-Phasers cannot be dodged.<br>
-Torps can be dodged & detted.<br>
-<br>
-High level dogfighting involves heavy use of phasers, and torp sprays that are geared towards going for one or two hits. Sprays are hard to det, so dodging is the avoidance of choice. <p>
-
-To make good torp sprays, you need to have one of a couple possible assists.<br>
-Some people work with key repeats (holding down the key) to produce clumps of torps. Many old time dogfighters put torps on keyboards.<br>
-Then came out the version of COW that most Windows clients are based on, which includes continuousmouse. It's a nice thing that helps to send<br>
-and extra torp or two out on occasion when you're jigging the mouse back & forth (more than that, but this is simplifying)<br>
-
-<br>
-Whatever it is, you want to have a fast enough finger to get good sprays and some sort of very minor, non-borg software assistance (that you might already have).<br>
-<br>
-My Keymap:<br>
-I placed phaser on d and torps on mouse. Placing phaser on d was a very large mistake.<br>
-<br>
-My phaser conflicts with my movement commands; the transition is not as fast as it should be. It's hard for me to phaser and dodge seamlessly. I phaser less frequently than many peers. But I've gotten by by working on having good torps.<br>
+This guide is a mix of practical information on layout and tactics with theory. <BR>
 
 
-<p>
-<h2>
-<a name="Start"></a><b>B. Putting Things Together</b></h2>
+<P> Organized By:
+<UL>
+<LI><A HREF="dfbasics.html#intro">I. Intro: Biomechanics and its Relation to Netrek</A>
+<LI><A HREF="dfbasics.html#damage">II. Theory: Doing Damage That Can't Be Avoided</A>
+<LI><A HREF="dfbasics.html#setup">III. Controls: How to Prepare Your Setup for Dogfighting (Keymap)</A>
+<LI><A HREF="dfbasics.html#use">IV. Comments for Beginners on Movement & Weapons </A>
+<LI><A HREF="dfbasics.html#misc">V. Tactical Dogfighting Tips <A>
+<LI><A HREF="dfbasics.html#strat">VI. Dodging & a System for Developing Movement </A>
 
-<h2>
-<a name="DFmovement"></a>I. A Dogfighting System</h2>
-<p>
-Here is some rough philosophy on approaching an enemy without tending to fall into the patterns of buttorping or the yo-yo movement (buttorp, then turn around to mutual or such)
-</P>
-<p>
-Slow Movement<br>
-The best general slow movement is to zig-zag towards an opponent. You fly in a straight line without flying straight at the opponent. This is preferable.
-<p>
-Fast Movement<br>
-If you're forced by circumstance to fly at high warp at an enemy, which you will frequently be, it's usually still more profitable to fly, say, 15 degrees off than right where you'll have torps streamed directly at you. The sensible person would on occasion slow down by an extra warp, turn, and speed back up to avoid the likely buttorps. The person doing an escort would want to accompany such a rush with an excellent, tight cloud that makes the enemy want to retreat. 
-<p>
-<I>Dogfighting System: Weave & Spin</I><br>
-
-<p>
-The point of this system is to fight & dodge without really giving up ground or making one.s self particularly vulnerable. I.m sure other fighters have different ideas, but this is intellectually exactly the system I settled on while trying to get better. It works. 
-<p>
-The core: 
-<ul>
-<li>	Maintain an orientation approaching the enemy on a right or left diagonal. 
-<li>	When needing to avoid enemy torps, spin your ship. Fly in a tight circle for about 300 degrees, to end on the original or the opposite diagonal approach.
-<li>	Repeat as necessary.
-</ul>
-<p>
-The approach.<br>
-As described above, do something like a zig zag. Maintain a very aggressive approach on the enemy, but keep an area, say 30 or 45 degrees of a circle (enemy centered) where you try to keep your nose from pointing more than on occasion. 
-
-<p>
-I want to reiterate. This is an approach based on aggression. You are always ready to bear down on your opponent. There is no drift in this system if you do it right. 
-<p>
-Avoiding enemy fire.<br>
-Go ahead and put netrek physics to work for you. If someone fires in front of you (they can.t hit you otherwise), you turn. However, in this case the turn is a full rotation; flying in a circle. 
-<p>
-You do this by clicking behind your ship, then clicking again where you want your ship to end up. Since you are flying in a circle, you end up exactly where you started, but timing a brief period of away to when enemy torps are nearly upon you. It.s a good, quick dodge.
-<p>
-Speeds<br>
-A low warp speed (warp 3) allows the ship to turn fast enough so the spins are tight. Warp 4 makes you too predictable and slow for this kind of work. Warp 2 leaves too little lateral motion for my liking unless supplemented by tractor or pressor. 
-<p>
-Again, note how large the angle is; you have a brief period in which you're flying away from the enemy, but when you complete the spin you're right back at him. 
-<p>
-In general<br>
-
-You probably want to spin away from the enemy instead of within that cone of facing him. There are plenty of exceptions according to circumstance.
-<p>
-As a matter of course, such spins tend to devolve into tighter arcs of movement according to necessity, but the strategy is remarkably resilient overall.
-<p>
-Final note<br>
-You.re reading the first draft of my attempt to write down the flying system that I used during my ramp-up in skill. I.d appreciate any constructive requests for clarification, or comments for improving and fine turning this.
+</UL>
 
 
-<p>
-<h2>
-<a name="TP2"></a>II. How to use Tractor/Pressor</h2>
-A note: When you hit the tractor or pressor key, you end up affecting the ship that is closest to your cursor. It doesn't matter where your cursor is - behind you or what - it'll work. So realize that t/p is comparatively easier to slip into a routine than weapons, which work best with precision mouse positioning.<br>
-<br>
-Style Comments:<br>
-t/p becomes instinctive. I'm most comfortable fighting at a particular range, so if people move away I tend to tractor, and if they move towards I pressor. I've found this a sound tactic that puts me at little risk. Try it to become more familiar with the commands.<br>
+<br><br><br><P>
+<A NAME="intro"></A>
+<B><FONT SIZE=+1>
+I. Intro: Advice About Biomechanics and Implementing its Lessons in Netrek</B></FONT>
+<P>
 
-<br>
-Work on building a tendency to pressor when an enemy is starting to shoot at you.<br>
-Then a tendency to tractor just as you're about to shoot.<br>
-<br>
-Start learning to have fun with people, yo-yo'ing them, throwing them off, pressoring 3rd ships to get an extra lateral motion, and you'll have pretty much arrived.<p>
-
-<p>
-<h2>
-<a name="Torps"></a>III. How to use torps</h2>
-60-80% of the time: Spray, cloud, whatever. The best way to use torps is often to wiggle the mouse a little while shooting. Or, to send a cloud to one location and then another couple to where the enemy will dodge to. 
-<p>
-The objective; Send torps in such a way that the enemy CAN NOT dodge. 
-<p>
-Learn to lead an enemy so your torps will hit if they fly straight is good.
-<p>
-
-Learn to send something of a nice cloud so if they dodge somewhat they might still get hit is better.
-<p>
-Learn to send beautiful clouds, or to guess when someone's going to turn right or left, and thus to split your spray, and you've arrived.
+Are you an analytical type? Then you'll want maybe to read this article. 
+<A HREF="http://www.nytimes.com/2007/03/04/sports/playmagazine/04play-talent.html">How to Grow a Super Athlete:</A>
+<P>
+If not, here's the basic advice: if you want to get good at a physical activity:
+<UL>
+<LI>	Hours matter a ton, but it's not just practice:
+<LI>	Train with correct form. Practice the right kind of movements, and then repeat. Incessantly.</UL>
+<P>
+So what does this mean? Here's my advice. <UL>
+<LI>	Get used to moving the mouse to several different points with precision and within a second and a half.
+<LI>	While being used to hitting other keys and mouse buttons with speed and accuracy. Meaning:
+<UL>
+<LI>	You move the mouse to direct your ship, 
+<LI>	you move it to fire, 
+<LI>	you move it to pressor off of another ship, 
+<LI>	you move it to fire again, you move it to turn. </UL>
+</UL>
+<P> All of the above saying: a netrek dogfight at its highest levels is a very click and button-intensive thing. And you don't ever get to learn how to do this unless you practice doing the same mouse and key-work. 
+<P>Good dogfighting is very useful to your team. And very fun. 
 
 
-<p>
-<h2>
-<a name="Phasers"></a>IV. How to use phasers</h2>
-As often as you can, as long as you are within about 20 pt phaser range. You can have your client report to you the phaser damage that you do. This is good; it helps you know how well you're doing, and to know whether you're being wasteful.
-<p>
-20 pt range is about 1 inch on a 17" Trinitron at 1024 x 768.
-<p>
-Phasers are an aggressive weapon. The closer you are to an enemy, the more damage they do.
-<p>
-You're starting, when you manage to get an average of let's say two phasers into a combat.
-<p>
-You are doing better when you improve your accuracy, and start doing something closer to half of your damage with phasers.
-<p>
-When you realize that you can defeat an enemy by only phasering constantly (every 1 second) and dodging their torps you will have arrived.
+<br<br><br><P>
+<A NAME="damage"></A><B><FONT SIZE=+1>II. Doing Damage & The Core of Dogfighting</FONT></B><BR>
+<P><B>A. Unpreventable Damage</B><P>
+The core principle is obvious. Do damage, and avoid damage yourself. Knowing when NOT to avoid damage is part of being clueful, but that's another discussion. 
+<P>
+Here we're talking about: <UL>
+<LI>	Using weapons in a way that the enemy cannot avoid them, 
+<LI>	Doing your best to avoid the stuff that you can 
+<LI>	And doing so without giving up ground (that might be occupied by an enemy for, say, dropping armies)
+</UL>
+
+There are four ways to do damage that enemies cannot avoid, only three of which you can do consistently. These four are:
+<OL>
+<LI>The Phaser. The phaser can NOT be dodged by enemies, and its damage cannot be reduced. They do plenty of damage at medium range.
+<LI>The Torp Cloud. Torpedo clouds when well formed are hard to dodge. A core of my routine, for better or worse, has always been about really good torp clouds. 
+<LI>Buttorping. Tricking the enemy into flying directly at your torps at a speed high enough that they cannot dodge. 
+<LI>The Team Det. I LOVE doing this, but it's not practical in most fights. Most enemies know better than to fire torpedoes over their teammates.
+</OL>
+
+For visual details on these methods, I highly recommend visiting Charlie's excellent introductory dogfighting web page, located <A HREF="http://www.rlie.nl/dfmanual/"> here.</A> The team det is the fourth method on his list. Plasma is never an assured way of doing damage.
+<P>
+<A HREF="dfbasics.html#top">To the Top </A>
+
+<br><br><br><P>
+<A NAME="setup"></A><B><FONT SIZE=+1>Keymap / Setting Up Your System </FONT></B><BR>
+
+<P>
+An almost sinfully bad part of netrek has to do with the default keymap that comes on clients these days. It's just... bad.
+<P>
+Fortunately, everyone these days has a text editor (Notepad or Wordpad for the Windows folks) and a manual on how to configure your client that comes with the download. Basically open up the netrekrc file (.xtrekrc for Unix variants, do your edits and save without renaming the file. Here is what you should consider. 
+
+<P>
+Keys Important to Dogfighting:</P>
+Primary Level Of importance / Prioritize: 
+<UL>
+<LI>	Maxwarp --- (normally mapped to %, automatically brings you to full speed)
+<LI>	Low Warp  --- (a number key for slowdown)
+<LI>	Phaser --- Weapon
+<LI>	Torpedoes --- Weapon
+<LI>	Tractor Beam --- (pull ships together)
+<LI>	Pressor Beam --- (push ships apart)
+</UL> 
+Secondary / Useful in Combat: 
+<UL>
+<LI>	Det Own Torps
+<LI>	Det Enemy Torps
+<LI>	Shields
+<LI>	Repair
+</UL>
+
+Here are thoughts on how you might arrange those commands, and why. 
 
 
-<p>
-<h2>
-<a name="Sequence"></a>V. A Dogfighting Sequence:</h2>
-Meeting an enemy at the front.<br>
-Spray torps<br>
-Tractor briefly<br>
-Phaser<br>
-Pressor quickly, while turning<br>
-Tractor again, if they start moving away<br>
+<P>
+<OL>
+<LI><B>Speed Controls: </B><BR><P>
 
-Turn<br>
-Phaser<br>
-Pressor<br>
-Turn<br>
-Torp<br>
-Tractor<br>
+You can go at whatever speed you want by using two keys - a low speed, and the maxwarp key. That low speed should be warp 3 or less. The turning radius of a CA at warp 4 is too large for it to be the slowest that you go. You NEED to be able to turn on a dime when the situation warrants. 
+
+<P>
+Experienced Players use:<P>
+I use the 3 key (warp 3) and the e key (custom mapped to maxwarp) for motion. Accelerate with maxwarp, hit 3 to slow back down. I tend to hover at 3, and am often between 3 and 5. When chasing I tend to hover between 6 and 9 - Get up to 9, slow down key (until w6), maxwarp again... Warp 6 is a much easier dodge than 9. Some players use warp 2, and pog claims to use warp 0 as his lowt warp speed. Tap back and forth, indeed. 
 
 
-<p>
-<h2>
-<a name="NoDD"></a>C. Why I dislike the DD as a ship for new players:</h2>
-Because it teaches people bad habits by its weaknesses. 
-<p>
+<P>
+<LI><B>Tractor & Pressor</B><BR>
+<P>
 
-The ship is deficient in a couple of the most important tools of dogfighting, phaser and tractor/pressor. The player who flies this thing does not learn how to use these tools properly. 
-<p>
-The DD's best offense is torps. For most players, its best offensive tactic is to sucker enemy ships into flying at them, and buttorping. But can you learn to do any of the techniques I've described above with a ship that has these characteristics? Not as easily as the ship they're designed for. Practice for good habits, instead. 
-<p>
-The ability to execute a hairpin turn at warp 4 is meaningless when you are getting down & dirty.
-<p>
-If you don't have access to the best techniques, you'll never arrive. And having tried all of it, frankly, getting down & dirty is so much more FUN.<br> Please, take some time to learn how to mix it up, <I>then</I> twink around to your heart's content. 
-<p>
-
-
-<p>
-<h2>
-<a name="Basics2"></a><b>D. Further Basics & Philosophy</b></h2>
-
-<h2>
-<a name="Philosophy"></a>I. Netrek DF Philosophy</h2>
-Netrek has been quite accurately described as a game of taking planets. With obstacles. 
-<p>
-Dogfighting is about the removal or outmaneuvering of those obstacles. A pick & roll is an effective basketball maneuver. It works in Netrek too. 
-<p>
-Positioning has a high impact on dogfighting maneuvers. As you become more experienced, your objectives will have an ever greater impact upon your methods. 
-<p>
-There's a big difference between trying to maintain a strategic position, trying to acquire a strategic position, escorting a carrier against enemies in position, and retreating. 
-<p>
-Part of being a complete player in trek is being able to adapt your fighting style to any circumstance. Too many people don't know how to transition to the aggressive. My problem? Transitioning to the passive - at times. 
+Tractor and Pressor can:<OL>
+<LI>	Increase your dodging ability, 
+<LI>	Pull and push enemies into torpedoes, 
+<LI>	Throw off enemies' aim (wiggling the distance between your ship and theirs makes things less predictable)
+<LI>	Increase your potential maximum speed
+</OL>
+<P>
+Enough said? There's <B>NO SUCH THING </B>as a top flight dogfighter in netrek who does not use t/p (tractor/pressor - it has its own catchphrase acronym) extensively. 
+<P>
+Experience Players use: <BR>
+Me: I have prioritized them sufficiently to make them the only task of my pointing finger. Pressor on on r, Tractor on on t, Remove pressor/tractor on g.<BR>
+Dan/Tuber: Put them (what was it, Dan? d and f?) on TWO fingers, for quickly flipping back and forth. <BR>
+Erik/el0g: Apparently put tractor and pressor on his MOUSE, for crying out loud! (Ah, we all miss Erik). It might have had something to do with his quality as a base, btw<BR>
+ <P>
+I prefer absolute on (specially mapped key) over toggles, but that's just a matter of preference. You don't twitch yourself into turning it off then, and they work for hockey. It doesn't affect your overall potential.<P>
+ 
+Recap: <B><I>I insist.</B></I> In building your keymap, t/p must be prioritized. 
 
 
-<p>
-<h2>
-<a name="Dynamics"></a>II. Further Netrek dynamics:</h2>
 
-Torpedoes fly at<br>
-Warp 12 (CA, BB, SB),
-Warp 14 (DD, SC), or
-Warp 16 (AS)
-<p>
-Torps do damage of:<br>
-40 Points (CA, BB)
-30 Points (SB, DD, AS)
-25 Points (SC)
-<p>
-A 40 point torpedo that is detted by an enemy ship can do far less
-damage. At the edge of a det radius, 40 points can become 10. Torpedoes
-can be dodged by people with good net  connections.
-<p>
-Two 40 pt torps + Four 30 pt phasers = 200 points of damage. It's easier
-to tag a good player with a couple torps than a lot, and they can't
-dodge phasers. Fit in a dodge with this gameplan and you are doing well.
-<p> 
-A lot of people play the game of buttorping. If you can trick an enemy
-into flying straight at your ship, your torpedoes will reach their ship
-that much faster. (W12 + W4 = W16). Essential at times, dumb at others.
-<p>
-As a general policy buttorping is a lazy and stupid way to fight. Makes
-the game boring, too. The buttorper tries to lead the opponent into
-following them, upon which out come the torps. It is not always
-strategically sound to give up territory this way, and as a tactic it
-requires little df skill, meaning very little is learned.
-<p>
-As good policy, you will occupy a space where an enemy will want to be;
-with them forced to attack you head on, then you have the buttorping
-advantage in the context of excellent strategy.
+<P>
+<LI><B>Weapons</B><BR>
+Make sure you can easily access torpedoes and phasers without interfering with any of the other critical commands. In other words, do NOT use the same finger for speeds and phaser, because there will be times when you want to phaser while accelerating or decelerating and if you have set up a conflict, you can't.
+<P>
+I set up that exact key conflict by accident, and it hurt. I still got extremely good, but it held me back from being where I could have been. 
+<P>
+<LI><B> A Proposed Keymap</B></P>
+Try plugging this line into your netrekrc file, replacing the one that is already there. This is only a set of ideas, which could use some tweaking, so PLEASE fix this up if you find any part of it uncomfortable or unintuitive. 
+<P>
+Keymap: r^t_g$alqR dfDw%hedpvr
+<P>
+What does this keymap do?
+<UL>
+<LI>Puts tractor, pressor, and remove t/p on r, t and g. 
+<LI>Puts lock on, repair, and det enemy torps on a, q and space bar.
+<LI>Puts det own torps, maxwarp, and starbase docking permissions on f, w, and h. 
+<LI>Puts phaser and change ship type on d and v.
+<LI>Weakness: I am putting maxwarp on a weak finger. This might not be the way to go. 
+</UL>
+<P>
+Other possibilities:<BR>
+Place phaser on mouse<BR>
+Place maxwarp/minwarp or tractor/pressor to a and s, move lock on to w
 
-
-<p>
-<h2>
-<a name="Tips"></a><b>E. Assorted Dogfighting Tips</b></h2>
-
-<h2>
-<a name="Clouds"></a>I. Torp Sprays Are Your Friend</h2>
-Let me preface this by saying I've had trouble with top players fighting
-me with nothing but phasers. My torps are sometimes lax & some folks
-have more reliable phasers.  As a general tactic, though - they use
-clouds/sprays. Really. This is important enough to bear repeating.
-<p>
-The first thing that someone should notice is that all of the best
-players will send at least their initial torps out in clouds.
-<p>
-You want a nice clump that will be a reasonable balance between being
-spread out to make dodging tougher and tight enough that the ship can't
-weave through it.
-<p>
-The spray is your cover when trying to clear ground for a carrier. It'll
-be your lead-n for most fights.
-<p>
-The spray makes enemies turn to avoid you, and during the time that they
-are occupied, you can pounce & then dodge away as they retaliate.
-<p>
-One of the best skills to have is finding holes in other folks'
-sprays. But perhaps an equally good skill is the ability to send out
-awesome sprays.
-<p>
-There's nothing like sending something that almost literally can not be dodged. 
+<P>
+<LI><B>Another Legitimate Perspective (Helpful!)</B>
+<P>
+A couple years before I put up this guide, Niclas (Big Swede!, River Runs Red) posted some keymap advice on rgn. Some of his ideas are different, and I like them quite a lot. I've put it up <A HREF="./dantes_tb3/keymap2.php">here.</A> Highly recommended. 
+<P>
+If any of this keymap advice is confusing, I suggest visiting an empty server and pulling up the help menu, which will have every key listed. It SHOULD be h on a default client setup, but it's also available through the options menu screens (shift o).
+</OL>
+<P>
+<A HREF="dfbasics.html#top">To the Top </A>
 
 
-<p>
-<h2>
-<a name="Lagged"></a>II. Using Phasers While Lagged</h2>
-Lots of folks play this game with 250 ms lag. I did it for a good while,
-with some success. So here's the deal.
-<p>
-You can shoot people when they face toward you or away from you. When they
-are flying perpendicular/side to side they are a pain in the ass to hit.
-<p>
-It's simple. There's a delay between when you click and when the phaser
-comes out. They're still in the same line as the phaser if they're flying
-at you, no matter when the thing actually comes out.
-<p>
-Remember, without them, you lose half of your offense.<br>
-Remember, lines cannot be dodged. 
+<br><br><br><p>
+<A NAME="use"></A><B><FONT SIZE=+1>IV. Comments for Beginners on Movement & Weapons</FONT></B><BR>
+
+<P>
+<B>Maneuvering and Positioning Tactics</B><BR>
+Ultimately, Netrek is a game about taking planets, where enemies are the obstacles. Dogfighting is about the removal or outmaneuvering of those obstacles. Means to an end.<P>
+ 
+As such, consider this - a pick & roll is an effective basketball maneuver for helping another player to approach the basket. It works in Netrek as well. You don't always need to blow someone up to be tactically very effective.
+ <P>
+Next, realize the value of being where someone else wants to be. Try getting in the way of where enemies will have to fly in order to make plays. Get in the middle, and then you can engage in delaying tactics, including buttorping.
+ <P>
+I must repeat - <B>positioning and situation have a high impact</B> on the best choice of dogfighting maneuvers. As you become more experienced, your objectives will have an ever greater impact upon your methods. 
+<P>
 
 
-<p>
-<h2>
-<a name="Flyby"></a>III. The Flyby Attack & Avoiding it</h2>
-One of the tips of an otherwise ok dogfighting guide from yesteryear
-was to pull up next to someone at warp 8 or warp 9, unload a volley of
-torps, and tractor. This is an outdated tactic. Ah, heck - outdated is
-too kind. It's a stupid tactic that's mostly used by people who don't
-know how to play. Why?
-<p>
-First, since that was written the typical number of updates per second
-has increased from 5 to 10 per second. This means it's possible to see
-what people are doing and react faster than the days of yore. Dodging
-is much easier.
-<p>
-Second, folks who have played this game much have good senses of where
-torps will end up, and how to avoid these things quickly.
-<p>
-Thus, don't incorporate this into your main strategy. It's mildly
-effective against folks who can't play. It's far less effective on clue
-than you'd think.
-<p> 
-What we can use it for, though, is a little training on understanding
-torp movement & dodging. Thus:
 
-<p>
+<B> How to use Tractor/Pressor</B>
 
+<P>
+Tractor and Pressor are easy to slip into a routine. If you hit the tractor or pressor key, it affects the ship that is closest to your cursor. This means that while you have to pay some attention to where your cursor is, you don't need precision.
+<P>
+Tractor is useful when you want to pull the ships together. You might want to pull the enemy into stray torps, or pull them in for an agressive (and more damaging) phaser shot, or to pull yourself out of the line of stray torps.
+<P>
+Pressor is extremely effective for dodge. You push the other ship away. Like when they are charging at you. Or when you need just a slight fraction of a centimeter more space to dodge their torps. You can also push someone into or away from torps with it. 
+<P>
+Used together, they can be extremely effective. And yo-yoing your opponent is a very good way to throw them off. It's absolutely great when you can do this without getting thrown off, yourself.
+<P>
+<B>How to use Torps</B>
+<P>
+I've already discussed torps in part. The cloud is the solution 60-80% of the time --- try to hit a few torps but not all of them. Wiggle the mouse a little bit. Make sure there's a line in your netrekrc file that says continuousMouse: on. See below --- a cloud is hard to dodge. 
+<P>
+<IMG SRC="./dantes_tb3/Torpspray.jpg">
+<BR>
+<P>But you can also do a lot of good with half size clouds. Think of it this way: You can have some fun sending a few torps to where someone is heading, THEN send a few to where you think they'll dodge to. And you You have more fun when you see people doing familiar patterns, especially high warp speed patterns.
+<P>
+<IMG SRC="./dantes_tb3/hockeystream.jpg">
+<BR>
+
+It's all about leading torps and dispersing them in a useful manner. I've made a franchise out of sending torp streams like the above against enemies moving at high speed. It's about dragging the mouse down their flight path. 
+
+<P>
+<B>How to use Phasers</B>
+<P>
+Phasers are an aggressive weapon that is impossible to dodge.Phasers are an aggressive weapon. The closer you are to an enemy, the more damage they do. Phaser a lot, and you will find yourself doing more damage quicker, and learning how to fight up close. These are good. You should get accustomed to the 1 second (except for bases) recharge rate for phasers. Fire a phaser then do something else. Then fire again. 
+<P>
+<P>
+I cannot walk away unscathed from a fight against someone who phasers me. Newbies who try to torp me often miss, because I can dodge. I can't dodge phasers.
+<P>
+Remember: 20 point phaser range is about what people have theorized is the best MINIMUM damage. I suggest doing a lot of fighting at the 30-40 point phaser range, myself. 
+<P>
+When I wrote the first version of this guide, I used a 17" Trinitron for a monitor. 20 pt range was about 1 physical inch at 1024 x 768
+<P>
+
+
+
+
+<B>Expanded comments on the DD & weapons training:</B>
+<P>
+The ramifications of the above?<P>
+ 
+The BB and CA are the two strongest ships for dogfighting. BBs used to win almost all of the dogfighting contests of yesteryear, and would be best for sure if it didn't turn and accelerate like a pregnant yak. Thus we have the CA. And my strong recommendation to most players to NOT play the DD as their ship of choice.<P>
+ 
+The tale of the tape is simple enough. The DD is inferior in the department of the phaser (15 points less damage per shot than the CA at equal range), torps (30 points as opposed to 40), tractor strength, and pressor strength. This means it can't be aggressive as other ships in doing useful things for your team. 
+<UL>
+ 
+<LI>	The torp cloud and phaser are critical weapons when attempting to grab territory. The cloud forces enemies to spend time dodging, and the phaser lets you do damage to someone consistently while you spend time dodging, yourself. 
+<LI>	Lower tractor & pressor means the DD can't pull ships back and forth like a rag doll, save teammates, or dodge without running away.
+ </UL><P>
+What the DD is good at is buttorping, at which it is frankly above average. You fly up, play rope a dope, and Spathi away while your warp 14 torps arrive faster than people expect. It's just darn seductive for a new player, and darn poor for their development as a player. 
+ <UL>
+<LI>	You can't always buttorp in a face to face confrontation
+<LI>	Experienced players will be able to dodge you often enough - you need other tactics accessible
+<LI>	You can't limit your own clicking speed and accuracy by always trying to make it easy
+</UL> <P>
+Where I think it has a specific use is as a specialty ship. I've seen the DD used effectively in trying to take enemy planets, especially core planets (close to, but not at LPS). Mainly the tactic is to fake to one planet, and then use the DD's fuel efficiency, cloaking efficiency, acceleration and speed to move to another. It seems to me that this is a legitimate tactic when done well.
+
+<P>
+<A HREF="dfbasics.html#top">To the Top </A>
+
+<br><br><br><p>
+<A NAME="strat"></A><B><FONT SIZE=+1>V.	Assorted Dogfighting Tips</FONT></B><BR>
+<P>
+<B>Analysis of torp spray uses</B>
+<P> 
+Let me preface this by saying I've gotten my rear kicked many times by top players fighting me with nothing but phasers. It's because they dodge my torps and have slightly more reliable phasers. As a general tactic, though - they still spray too. Really. You want a nice clump that will be a reasonable balance between being spread out to make dodging tougher and tight enough that the ship can't weave through it. 
+ <P>
+But it's so tactical too. The spray is your cover when trying to clear ground for a carrier. It'll be your lead-n for most fights. The spray makes enemies turn to avoid you, and during the time that they are occupied, you can pounce & then dodge away as they retaliate. And you can spray an area of space where someone is cloaked to try to tag them and figure out where they are (a common base tactic). 
+ <P>
+There's nothing like sending something so damaging that is virtually impossible to dodge
+
+<P>
+
+
+<B>Using Phasers While Lagged</B>
+<P>
+Lots of folks used to play this game with 250 ms lag. I did it for a good while, with some success. So here's the deal.
+<P>
+You can shoot people when they face toward you or away from you. When they are flying perpendicular/side to side they are a pain in the ass to hit. 
+<P>
+It's simple. There's a delay between when you click and when the phaser comes out. They're still in the same line as the phaser if they're flying at you, no matter when the thing actually comes out.
+<P>
+Remember, without them, you lose half of your offense. Remember, lines cannot be dodged. 
+<P>
+<B>Phasering to Find Cloaked Enemies</B>
+<P>
+Cloaking is not an extremely effective tactic, but it is effective against newer players often.
+<P>
+Experience will teach you something about where someone will be. A player with a lot of experience can tag someone who's cloaked out of nowhere seemingly. Some of that's a matter of instinctively estimating the speed of someone and where they're going. But there's another part of this.
+<P>
+An enemy that is moving from left to right is not going to be easy to attack if you are not on the same plane as them. As in, two inches south of them. 
+<P>
+When you move to where you reduce the angle - where they are flying at your phasers - you have a much higher chance of hitting. THIS is how people phaser oggers.
+<P>
+<B>Buttorping - Basics</B>
+<P>
+Buttorping is an essential activity at times when you are holding enemy territory and you don't want to get blown up. Part of the trick to buttorping well is being able to send accurate torps at enemies' faces, while NOT getting pushed very much.
+ <P>
+A turn ninety degrees can encourage an enemy to turn as well. Since the other person had to react to do this, they are following you. Boom, a buttorping opportunity.  Buttorp well, and it will not always be a tactical disadvantage.<P>
+<IMG SRC="./dantes_tb3/90bt.gif">
+<P>
+If R8 heads in the direction of the arrow, F0 will be behind him quickly if he turns late (and is foolish) Note that this is NOT an advanced tactic. This is NOT something you should rely on -- but good buttorping does often operate on this principle. 
+ <P>
+As commented in my suggestion not to fly the DD, buttorping can be death of your tactical advance, and your evolution of skill if you rely upon it to get the job done. You need plenty of practiced motion devoted towards flying towards people or halfway towards them if you want to escort on short notice, defend your base, and so on.
+ <P> 
+Oh, my though. You want the buttorping advantage at times - you really do. 
+  <P>
+<I>The Buttphaser</I><BR>
+The buttphaser is a high quality tactic that you do find top dogfighters using. You're pointed mostly away from the enemy, but you turn so you stay close enough to do decent damage with the phaser. Just dodge constantly, and keep making 20-25 point jabs. 
+
+<P>
+
+
+<B>The Flyby Attack & Avoiding it</B>
+<P>
+One of the tips of an otherwise ok dogfighting guide from yesteryear was to pull up next to someone at warp 8 or warp 9, unload a volley of torps, and tractor. This is an outdated tactic. Why?
+<P>
+First, since that was written the typical number of updates per second has increased from 5 to 10 per second. This means it's possible to see what people are doing and react faster than the days of yore. Dodging is much easier. Second, folks who have played this game a lot have good senses of where torps will end up, and how to avoid these things quickly. Third, it's easy and doesn't develop your skills and instincts if you rely upon it. 
+<P>
+So don't incorporate this into your main strategy. It can be effective at times, but it's such a common tactic and is far less effective on clue than you'd think.
+<P>
 How to avoid the flyby & a broader dogfighting tip:
-<p>
-The flyby sets torps going towards you at a diagonal, outward and forward
-from the enemy. Your dodge? Go either inward or backward. You go against
-one of the vectors, and it's pretty easy to dodge the torps.
-<p>
-A variation on the above is actually written in the original guide. 
-<p>
-You see variations on this flyby at higher and lower warps all the
-time. Everyone will at one point or another launch torps in this pattern
-at you. Just remember and fly counter to a vector and you'll do well
-enough.
-<p>
-That's it. They try the flyby, and they are suddenly going at high warp
-with you unhurt and able to shoot them. And at high warp speed, they're
-easy pickings or at minimum heading toward a less relevant place with
-less fuel.
+
+<UL>
+
+<LI>The flyby sets torps going towards you at a diagonal, outward and forward from the enemy. Vector going north, you go south. Go either inward or backward. Any time you go against one of the vectors it's pretty easy to dodge torps.
+<P><IMG SRC="./dantes_tb3/Flyby1.jpg">
+<LI>Torps are fired towards the space F0 will occupy. If he tries to outrun them in the same direction, he's toast.
+<P><IMG SRC="./dantes_tb3/Flyby2.jpg">
+<LI>
+But no worries. He's quick on the uptake, and does a turn away / probably using pressor to get a hair more leverage. Vector pointing west, you turn east
+<P><IMG SRC="./dantes_tb3/Flyby3.jpg"
+<LI>On the other hand, maybe he's aggressive - he has another dodge. He can move underneath the torps and closer to his enemy. Dodge through where the torps will arrive - before they get there. It's a more nerve wracking but surprisingly easy dodge to perform. And oh look, the rom is nearby and just waiting to get shot at at close range. 
+<P>
+</UL>
+You see variations on this flyby at higher and lower warps all the time, and in a broader sense this is all about a person trying to lead you with torps, and you trying to dodge. The flyby itself is a ham handed version of that. Just pay attention to the direction of the torps, choose your dodge angle, and shoot them. 
+<P>
+<B>Dealing With The Ogg</B>
+<P>
+
+An attack based on cloaking, approaching an enemy, uncloaking and firing at them is known in netrek parlance as an ogg. 
+<P>
+
+The ogg is extremely helpful in attacking starbases, who otherwise have extremely strong pressor beams to keep themselves safe. A good ogg on a starbase is a coordinated attack, where SEVERAL people uncloak at one time and fire. It is about overloading the base. 
+<P>
+
+When synchronized, the ogg means that several people get to pop off shots at a starbase while it worries about dodging one set of torps and blowing one person up. The starbase who only has to blow up one enemy at a time is much safer. The ogg is much different in one on one.
+<P>
+
+It is most effective when an enemy is not aware. Most people pay enough attention to the galactic that it is a little hard to pull off unless the person is engaged otherwise. But that is not to call it effective in general or even in that situation. Only sometimes. The biggest benefit of cloaking is getting around enemies other than your target. 
+<P>
+
+So let's say an enemy tries to ogg you. There is a delay built into the game in between them uncloaking and them firing. That's your window. Punish someone who tries this BS with you.
+<P>
+
+First, positioning. You can't always fly at an enemy who's ogging you. You can't do well flying at high warp parallel to them. Instead, the most reliable defense is to move 90 degrees or 180 degrees away from them. 90 degrees does the job and doesn't take you out of the action entirely. 180 does the job when you do it as a bob and weave low warp defense - in other words, spongy but not REALLY going anywhere.
+<P>
+
+Someone flying straight at you is phaser bait. So phaser.<BR>
+When they unloak, IMMEDIATELY hit pressor, turn and accelerate. Hit slowdown & turn again if they send torps to where you are dodging to. But pressor IS YOUR FRIEND here. It slows them down to a crawl, making them easy fodder for YOUR torps, and gets you out of the way of theirs.
+
+<P>
+
+
+<A HREF="dfbasics.html#top">To the Top </A>
+
+<br><br><br><p>
+<A NAME="system"></A><B><FONT SIZE=+1>VI. Dodging & A System for Developing Movement</FONT></B><BR>
+<P>
+It's not a good idea to leave yourself vulnerable to attack. Dodging is kind of more difficult to discuss, since it involves a lot of quick reactions. But we've covered a lot of the essentials above in understanding the benefits of tractor/pressor and turn-on-a-dime warp speeds.
+<P>
+
+<B><I> A Weave & Spin Dogfighting System</I></B>
+<P>
+
+In figuring out how to dogfight, I came to the idea of being able to fight & dodge without really giving up ground or making myself particularly vulnerable. I'm sure other fighters have different ideas, but this is intellectually exactly the system I settled on while trying to get better. It works. <P>
+The core: <P>
+Habit 1 = weave. Your objective is to be able to advance without being easy buttorp meat
+<UL>
+<LI>	Maintain an orientation approaching the enemy on a right or left diagonal. Weave back & forth while approaching.  Flying straight at a guy tends to earn you torps in your face.
+<IMG SRC="./dantes_tb3/Weave.jpg">
+ 
+<LI>	Nonetheless, someone will try to shoot at you while you approach. So let's talk about dodging. 
+ </UL>
+<P>
+Habit 2 = Spin/rotate. Your objective is to be able to dodge effectively without losing excessive ground. 
+<UL>
+<LI>	If someone fires in front of you (they can't hit you otherwise since you are weaving), you turn. However, you make this turn a near full 360 degree rotation, because you want to still stay near where you are - and to keep on your enemy
+<P>
+<IMG SRC="./dantes_tb3/Spindodge.jpg">
+ 
+<LI>	You do this by clicking behind your ship, then clicking again where you want your ship to end up. Since you are flying in a circle, you end up exactly where you started, but timing a brief period of away to when enemy torps are nearly upon you. It's a good, quick dodge.
+
+<LI>	You can only get away with this at low warp speeds. At warp 4 or 5 you're less likely to get out of the way in time, and more likely to be predictable in where you end up.
+</UL>
+<P>
+I want to reiterate. This is an approach based on aggression. You are always prepared to bear down on your opponent, and you're always ready to dodge. So what's the concept?
+<P>Objective = start using moves like this on a regular basis, and I do believe you will start developing the kind of precision hand/eye coordination that will help you succeed in netrek dogfighting. 
+<P>So let's return to biometrics and why I think little techniques and ideas like this can work. The concepts involve:
+<OL>
+<LI>  Practice using technique that you can use at all levels
+<LI>  Practice with consistency in your choice of techniques
+<LI>   Practice an awful lot
+</OL>
+<P>
+Since I'm laying out above what amounts to an absolute clickfest though one that doesn't inherently make you lunchmeat, and since this really and truly is how I visualized things when I started getting good, I'm pretty sure that you can get mileage from it. 
+ <P>
+Netrek clue is about choosing the right tactic for the right occasion. Dogfighting is about being able to get the job done. 
+
+Good luck!
+<P>
+
+<A HREF="dfbasics.html#top">To the Top </A>
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+
+
+
 
 
 <?
