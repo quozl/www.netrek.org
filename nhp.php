@@ -216,7 +216,14 @@ $siteparentlist = array(
 			"clueguides/",
 			"Dantes Dogfight Guide",
 			"Dante",
-			"February 06 2004"
+			"October 2007"
+	),
+
+	"clueguides/dantes_tb3/keymap2.php" => array(
+			"clueguides/",
+			"Dantes Dogfight Guide",
+			"Dante",
+			"October 2007"
 	),
 
 	"clueguides/greyelf.php" => array(
