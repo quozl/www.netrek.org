@@ -134,7 +134,7 @@ There are four ways to do damage that enemies cannot avoid, only three of which 
 
 For visual details on these methods, I highly recommend visiting Charlie's excellent introductory dogfighting web page, located <A HREF="http://www.rlie.nl/dfmanual/"> here.</A> The team det is the fourth method on his list. Plasma is never an assured way of doing damage.
 <P>
-<A HREF="dfbasics.html#top">To the Top </A>
+<A HREF="#top">To the Top </A>
 
 <br><br><br><P>
 <A NAME="setup"></A><B><FONT SIZE=+1>Keymap / Setting Up Your System </FONT></B><BR>
@@ -233,7 +233,7 @@ A couple years before I put up this guide, Niclas (Big Swede!, River Runs Red) p
 If any of this keymap advice is confusing, I suggest visiting an empty server and pulling up the help menu, which will have every key listed. It SHOULD be h on a default client setup, but it's also available through the options menu screens (shift o).
 </OL>
 <P>
-<A HREF="dfbasics.html#top">To the Top </A>
+<A HREF="#top">To the Top </A>
 
 
 <br><br><br><p>
@@ -313,7 +313,7 @@ What the DD is good at is buttorping, at which it is frankly above average. You 
 Where I think it has a specific use is as a specialty ship. I've seen the DD used effectively in trying to take enemy planets, especially core planets (close to, but not at LPS). Mainly the tactic is to fake to one planet, and then use the DD's fuel efficiency, cloaking efficiency, acceleration and speed to move to another. It seems to me that this is a legitimate tactic when done well.
 
 <P>
-<A HREF="dfbasics.html#top">To the Top </A>
+<A HREF="#top">To the Top </A>
 
 <br><br><br><p>
 <A NAME="strat"></A><B><FONT SIZE=+1>V.	Assorted Dogfighting Tips</FONT></B><BR>
@@ -419,7 +419,7 @@ When they unloak, IMMEDIATELY hit pressor, turn and accelerate. Hit slowdown & t
 <P>
 
 
-<A HREF="dfbasics.html#top">To the Top </A>
+<A HREF="#top">To the Top </A>
 
 <br><br><br><p>
 <A NAME="system"></A><B><FONT SIZE=+1>VI. Dodging & A System for Developing Movement</FONT></B><BR>
@@ -467,7 +467,7 @@ Netrek clue is about choosing the right tactic for the right occasion. Dogfighti
 Good luck!
 <P>
 
-<A HREF="dfbasics.html#top">To the Top </A>
+<A HREF="#top">To the Top </A>
 </TD>
 </TR>
 </TABLE>
