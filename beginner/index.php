@@ -50,8 +50,8 @@ Netrek!</h2>
 	XP Mod</a> client is only 2.4 MB to download, vs 8.4 MB for XP 2006
         <LI>For Mac users, download 
          <a href="../files/MacTrek/MacTrek-1.4.0.zip">MacTrek</a>
-        <LI>For Linux users, download 
-         <a href="../files/Paradise_2000/paradise-2000-rc6.tar.gz">Paradise 2000</a>
+        <!-- <LI>For Linux users, download 
+         <a href="../files/Paradise_2000/paradise-2000-rc6.tar.gz">Paradise 2000</a> -->
         </UL>
 </li>
 <br>

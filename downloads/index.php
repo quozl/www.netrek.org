@@ -61,7 +61,7 @@ The most recent clients are:
 	<td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1.4.0.zip"><tt>MacTrek-1.4.0.zip</tt></a></td>
 	<td>Nice new native Mac client. Requires OS X 10.4 or higher.</td>
 </tr>
-<tr>
+<!-- <tr>
 	<td><img src="../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
 	<td><a href="../files/Paradise_2000/paradise-2000-rc6.tar.gz"><tt>Paradise 2000 RC6</tt></a></td>
         <td>OSS sound effects and other enhancements. <br>No source code available.</td>
@@ -70,7 +70,7 @@ The most recent clients are:
 	<td><img src="../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
 	<td><a href="../files/archive/COW/COW-bin/COW.3.01pl0.linux_glibc23.gz"><tt>Netrek COW v3.01pl10</tt></a></td>
 	<td>The classic Netrek client.</td>
-</tr>
+</tr> -->
 </table>
 
 
