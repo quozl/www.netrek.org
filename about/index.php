@@ -76,7 +76,7 @@ on the first Internet game protocol, ever.
 	for a long time now and is still the favorite of its patronizers</a>.</li>
 
 <li>Netrek made it on <a href="http://slashdot.org/article.pl?sid=02/05/10/189241">Slashdot</a>
-	<a href="http://ask.slashdot.org/article.pl?sid=03/03/31/2225243">twice</a>!</li>
+	<a href="http://ask.slashdot.org/article.pl?sid=03/03/31/2225243">several</a> <a href="http://yro.slashdot.org/yro/08/02/05/1425252.shtml">times</a>!</li>
 
 <li>Netrek is on the <a href="http://www.heise.de/tp/r4/artikel/25/25040/11.html">Telepolis top ten open source games list.</a> (German). (Local mirrors: <a href="./www.heise.de/tp/r4/artikel/25/25040/11.html">German</a>, <a href="./telepolis-article-translated.html">English auto-translated</a>)
 
