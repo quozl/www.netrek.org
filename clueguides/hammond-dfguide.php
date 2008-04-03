@@ -31,10 +31,7 @@ doing things, such as taking your planets or bombing your space, or killing
 your teams carrier (or you!) when you are trying to take a planet. Killing
 them is one good way, although there are others.
 
-<p>&nbsp;The following is from the Netrek archives by John Kirk Hammond
-a.k.a.
-
-<p>&nbsp;Lance.
+<p>&nbsp;The following is from the Netrek archives by J. Hammond a.k.a. Lance.
 
 <p>&nbsp;Here is the manual I mentioned. I posted it cause many people
 said I should.
@@ -354,9 +351,8 @@ your target with full everything. Bad move. Either cloak before you get
 to outgoing oggers, or hit them with 4 torps to cripple them &lt;-- This
 is possible.
 
-<p>&nbsp;John Kirk Hammond
+<p>&nbsp;J Hammond
 
-<p>jhammond@raphael.acpub.duke.edu
 
 
 <?
