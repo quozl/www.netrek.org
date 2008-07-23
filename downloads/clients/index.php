@@ -47,13 +47,14 @@ responsiveness.
 <p>
 Clients:
 <ul>
-<li><a href="#xp2006">Netrek XP 2006</a> (Windows 98 thru Vista)
+<li><a href="#xp2009">Netrek XP 2009</a> (Windows 98 thru Vista)
 <li><a href="#mactrek">MacTrek</a> (OS X 10.4, PPC or Intel)
-<li><a href="#p2k">Paradise 2000</a> (Linux intel, glibc 2.3)
 <li><a href="#cow">COW</a>  (Linux, other Unixes)
-<li><a href="#brmh">BRMH</a> (many unixes, including OS X)
 <li><a href="#xpmod">Netrek XP Mod</a> (Windows 2000, XP, maybe Vista)
+<li><a href="#xp2006">Netrek XP 2006</a> (Windows 98 thru Vista)
 <li><a href="#tt">TedTurner</a> (OS X, other Unixes)
+<li><a href="#p2k">Paradise 2000</a> (Linux intel, glibc 2.3)
+<li><a href="#brmh">BRMH</a> (many unixes, including OS X)
 </ul>
 Also see the <a href="#ancient">end notes</a> 
 about ancient client and server code archives. 
@@ -73,16 +74,14 @@ need this.
 </p>
 
 
-
-
-<a name="xp2006"></a><p><h2>Netrek XP 2006</h2>
+<a name="xp2009"></a><p><h2>Netrek XP 2009</h2>
 
 <table>
 <tr><td>Maintainer: <td>Bill Balcerski<br><img src="../../img/bill-email.png" /><br>
 <tr><td>Homepage: <td><a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a><br>
 <tr><td>Version history: <td><a href=""></a><br>
 <tr><td>Source Code Repository:&nbsp; <td>CVS at <a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a>
-<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod -> XP 2006<br>
+<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod -> XP 2006 -> XP 2009<br>
 </table>
 
 <br><p>
@@ -102,24 +101,26 @@ If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkou
 	<td width="50">Size</td>
 </tr>
 <tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="../../files/NetrekXP_2006/netrekXP2006v13install.exe">netrekXP2006v13install.exe</a></td>
-	<td>1.3</td>
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
+	<td><a href="../../files/NetrekXP_2009/netrekinstall2009v1.exe">netrekinstall2009v1.exe</a></td>
+	<td>1.0</td>
 	<td>July 19, 2007</td>
 	<td>Main site</td>
 	<td>8.3 MB</td>
 </tr>
 <tr>
 	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="../../files/NetrekXP_2006/netrekXP2006src-v1.2.zip">netrekXP2006src-v1.2.zip</a></td>
-	<td>1.2</td>
-	<td>Mar 05 2007</td>
+	<td><a href="../../files/NetrekXP_2009/netrekXP2009src-v1.0.zip">netrekXP2009src-v1.0.zip</a></td>
+	<td>1.0</td>
+	<td>Jul 19 2008</td>
 	<td>Main Site</td>
-	<td>13.9 MB</td>
+	<td>14.3 MB</td>
 </tr>
 </table>
 <br><p>
-The latest version of XP 2006 is also available from <a href="http://www.playnetrek.org">playnetrek.org</a>. Older versions are archived at <a href="http://www.netrek.org/files/NetrekXP_2006/">http://www.netrek.org/files/NetrekXP_2006/</a>.
+The latest version of XP 2009 is also available from <a href="http://www.playnetrek.org">playnetrek.org</a>.
+
+
 
 <a name="mactrek"></a><p><h2>MacTrek</h2>
 
@@ -194,48 +195,6 @@ copy than what we have listed here. There are a bunch of developer files, includ
 </table>
 
 
-<a name="p2k"></a><p><h2>Paradise 2000</h2>
-<table>
-<tr><td>Maintainer:<td>Trent Piepho<br><img src="../../img/xyzzy-email.png" /> </a><br>
-<tr><td>Homepage: <td><a href="http://www.speakeasy.org/~xyzzy/netrek/">www.speakeasy.org/~xyzzy/netrek/</a><br>
-<tr><td>Version history: <td><a href="http://www.speakeasy.org/~xyzzy/netrek/README">README</a>
-<tr><td>Lineage:<td>Paradise/TedTurner -> Paradise 2000
-</table>
-<br><p>
-This is an enhanced version of the Paradise client for Linux. It features
-stereo sound effects (OSS sound system) and pioneered several innovative
-features such as the Refit and Repair timer. Graphics aren't exciting
-by PC gamer standards, but
-are very efficient. It is built against glibc 2.3 for Linux on the intel
-architecture only. 
-<table border="0" bgcolor="#444444">
-<tr>
-	<td width="30">OS</td>
-	<td width="350">Filename</td>
-	<td width="65">Version</td>
-	<td width="85">Date</td>
-	<td width="75">Location</td>
-	<td width="50">Size</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="../../files/Paradise_2000/paradise-2000-rc6.tar.gz">paradise-2000-rc6.tar.gz</a></td>
-	<td>RC6</td>
-	<td>Dec 31 2006</td>
-	<td>Main site</td>
-	<td>1.4 MB</td>
-</tr>
-<tr>
-	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="http://www.speakeasy.org/~xyzzy/download/paradise-2000-rc4.tar.gz">paradise-2000-rc6.tar.gz</a></td>
-	<td>RC6</td>
-	<td>Dec 13 2006</td>
-	<td>Author's site</td>
-	<td>1.4 MB</td>
-</tr>
-</table>
-<br><p>Older versions of this client are archived on netrek.org at <a href="../../files/Paradise_2000/">http://www.netrek.org/files/Paradise_2000</a>. Source code is not available for this client. The build is only blessed for one
-year, so older builds will not work with servers that require RSA. 
 
 
 <a name="cow"></a><p><h2>COW</h2>
@@ -348,6 +307,235 @@ curiousity.
 
 
 
+
+<a name="xpmod"></a><p><h2>Netrek XP Mod</h2>
+
+<table>
+<tr><td>Maintainer: <td>Stas Pirogov<br><img src="../../img/keyos-email.png" />
+<tr><td>Homepage: <td><a href="http://netrek.keyos.org/">netrek.keyos.org</a><br>
+<tr><td>Version history: <td>on homepage, or at <a href="../../files/NetrekXP_Mod/NetrekXP_Mod_README.txt">NetrekXP_Mod_README.txt</a><br>
+<tr><td>Source Code Repository:&nbsp;<td>None active; zip of source downloadable
+<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod
+</table>
+<br><p>
+There are no plans to further develop this client, with version 4.4.0.4
+of May 06, 2006 as the final release. <br>It works just fine on Windows 
+2000 and XP (and probably Vista), and is a tiny download if you have
+a slow link. 
+<br><br>
+
+<table border="0" bgcolor="#444444">
+<tr>
+	<td width="30">OS</td>
+	<td width="350">Filename</td>
+	<td width="65">Version</td>
+	<td width="85">Date</td>
+	<td width="75">Location</td>
+	<td width="50">Size</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
+	<td><a href="../../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe">NetrekXPMod-4.4.0.4.installer.exe</a></td>
+	<td>4.4.0.4</td>
+	<td>May 06, 2006</td>
+	<td>Main site</td>
+	<td>2.5 MB</td>
+</tr>
+<tr bgcolor="#444444">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
+	<td><a href="http://netrek.keyos.org/netrek-4.4.0.4.exe">NetrekXP4404_installer.exe</a></td>
+	<td>4.4.0.4</td>
+	<td>May 06, 2006</td>
+	<td>Israel</td>
+	<td>2.5 MB</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
+   <td><a href="../../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.bin.zip">NetrekXPMod-4.4.0.4.bin.zip</a></td>
+	<td>4.4.0.4</td>
+	<td>May 06, 2006</td>
+	<td>Main site</td>
+	<td>2.2 MB</td>
+</tr>
+<tr bgcolor="#444444">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
+<td><a href="http://netrek.keyos.org/netrek-4.4.0.4.zip">netrek-4.4.0.4.zip</a></td>
+	<td>4.4.0.4</td>
+	<td>May 06, 2006</td>
+	<td>Israel</td>
+	<td>2.2 MB</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Windows" /></td>
+	<td><a href="../../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.src.zip">NetrekXPMod-4.4.0.4.src.zip</a> (source code)</td>
+	<td>4.4.0.4</td>
+	<td>May 06, 2006</td>
+	<td>Main site</td>
+	<td>6.7 MB</td>
+</tr>
+<tr bgcolor="#444444">
+	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Windows" /></td>
+<td><a href="http://netrek.keyos.org/netrekxpsrc-4.4.0.4.zip">netrekxpsrc-4.4.0.4.zip</a> (source code)</td>
+	<td>4.4.0.4</td>
+	<td>May 06, 2006</td>
+	<td>Israel</td>
+	<td>6.7 MB</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
+	<td><a href="NetrekXP4403_installer.exe">NetrekXP4403_installer.exe</a></td>
+	<td>4.4.0.3</td>
+	<td>Jul 11 2004</td>
+	<td>Main site</td>
+	<td>2.5 MB</td>
+</tr>
+<tr bgcolor="#444444">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
+	<td><a href="http://netrek.keyos.org/netrek.exe">NetrekXP4403_installer.exe</a></td>
+	<td>4.4.0.3</td>
+	<td>Jul 11 2004</td>
+	<td>Israel</td>
+	<td>2.5 MB</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_src.gif" width="25" height="22" alt="Source" /></td>
+	<td><a href="http://netrek.keyos.org/netrekxpsrc.zip">netrekxpsrc.zip</a> (source code)</td>
+	<td>4.4.0.3</td>
+	<td>Jul 11 2004</td>
+	<td>Israel</td>
+	<td>5.4 MB</td>
+</tr>
+<tr bgcolor="#444444">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
+	<td><a href="playnetrekdotorg_beginner_package.exe">playnetrekdotorg_beginner_package.exe</a></td>
+	<td>4.4.0.2</td>
+	<td>Jun 06 2004</td>
+	<td>U.S.A.</td>
+	<td>1.9 MB</td>
+</tr>
+</table>
+
+<a name="xp2006"></a><p><h2>Netrek XP 2006</h2>
+
+<table>
+<tr><td>Maintainer: <td>Bill Balcerski<br><img src="../../img/bill-email.png" /><br>
+<tr><td>Homepage: <td><a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a><br>
+<tr><td>Version history: <td><a href=""></a><br>
+<tr><td>Source Code Repository:&nbsp; <td>CVS at <a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a>
+<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod -> XP 2006<br>
+</table>
+
+<br><p>
+This is here for historical purposes. It's the Windows client between XP Mod and XP 2009; you probably want to run 2009, but might want XP Mod if you need a small download or have a very slow machine. 
+If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkout*/netrek/client/netrekxp/resources/docs/README%20for%20Win95%2C%20Win98%2C%20and%20WinME.TXT">see the docs</a> for configuration info. 
+
+<br><p>
+<table border="0" bgcolor="#444444">
+<tr>
+	<td width="30">OS</td>
+	<td width="350">Filename</td>
+	<td width="65">Version</td>
+	<td width="85">Date</td>
+	<td width="75">Location</td>
+	<td width="50">Size</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Linux" /></td>
+	<td><a href="../../files/NetrekXP_2006/netrekXP2006v13install.exe">netrekXP2006v13install.exe</a></td>
+	<td>1.3</td>
+	<td>July 19, 2007</td>
+	<td>Main site</td>
+	<td>8.3 MB</td>
+</tr>
+<tr>
+	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Linux" /></td>
+	<td><a href="../../files/NetrekXP_2006/netrekXP2006src-v1.2.zip">netrekXP2006src-v1.2.zip</a></td>
+	<td>1.2</td>
+	<td>Mar 05 2007</td>
+	<td>Main Site</td>
+	<td>13.9 MB</td>
+</tr>
+</table>
+<br><p>
+The latest version of XP 2006 is also available from <a href="http://www.playnetrek.org">playnetrek.org</a>. Older versions are archived at <a href="http://www.netrek.org/files/NetrekXP_2006/">http://www.netrek.org/files/NetrekXP_2006/</a>.
+
+
+<a name="tt"></a><p><h2>TedTurner (Paradise) client</h2>
+<table>
+<tr><td>Maintainer: <td>Dave Ahn
+<tr><td>Homepage: <td>none currently
+<tr><td>Version history: <td><a href="http://www.netrek.org/files/archive/TedTurner/ChangeLog">http://www.netrek.org/files/archive/TedTurner/ChangeLog</a>
+<tr><td>Source Code Repository:&nbsp; <td>None active; tarballs at <a href="http://www.netrek.org/files/archive/TedTurner/src/">http://www.netrek.org/files/archive/TedTurner/src/ </a>
+<tr><td>Lineage: <td>Paradise -> TedTurner<br>
+</table>
+<br><p>
+The TedTurner client is the latest incarnation of the
+Paradise client with 256 color pixmap support. No one has touched
+it in years, but the Mac build probably still works if you want
+to try playing Paradise from a Mac. The archives should still
+have source code if you want to do a new build.
+<br><p>
+<table border="0" bgcolor="#444444">
+<tr>
+	<td width="30">OS</td>
+	<td width="350">Filename</td>
+	<td width="65">Version</td>
+	<td width="85">Date</td>
+	<td width="75">Location</td>
+	<td width="50">Size</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="MacOSX" /></td>
+	<td><a href="TedTurner-1.3.1.Darwin.gz">TedTurner-1.3.1.Darwin.gz</a></td>
+	<td>1.3.1</td>
+	<td>Aug 27 2001</td>
+	<td>Main site</td>
+	<td>533 KB</td>
+</tr>
+</table>
+
+<a name="p2k"></a><p><h2>Paradise 2000</h2>
+<table>
+<tr><td>Maintainer:<td>Trent Piepho<br><img src="../../img/xyzzy-email.png" /> </a><br>
+<tr><td>Homepage: <td><a href="http://www.speakeasy.org/~xyzzy/netrek/">www.speakeasy.org/~xyzzy/netrek/</a><br>
+<tr><td>Version history: <td><a href="http://www.speakeasy.org/~xyzzy/netrek/README">README</a>
+<tr><td>Lineage:<td>Paradise/TedTurner -> Paradise 2000
+</table>
+<br><p>
+This is an enhanced version of the Paradise client for Linux. It features
+stereo sound effects (OSS sound system) and pioneered several innovative
+features such as the Refit and Repair timer. Graphics aren't exciting
+by PC gamer standards, but
+are very efficient. It is built against glibc 2.3 for Linux on the intel
+architecture only. 
+<table border="0" bgcolor="#444444">
+<tr>
+	<td width="30">OS</td>
+	<td width="350">Filename</td>
+	<td width="65">Version</td>
+	<td width="85">Date</td>
+	<td width="75">Location</td>
+	<td width="50">Size</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
+	<td><a href="../../files/Paradise_2000/paradise-2000-rc6.tar.gz">paradise-2000-rc6.tar.gz</a></td>
+	<td>RC6</td>
+	<td>Dec 31 2006</td>
+	<td>Main site</td>
+	<td>1.4 MB</td>
+</tr>
+<tr>
+	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
+	<td><a href="http://www.speakeasy.org/~xyzzy/download/paradise-2000-rc4.tar.gz">paradise-2000-rc6.tar.gz</a></td>
+	<td>RC6</td>
+	<td>Dec 13 2006</td>
+	<td>Author's site</td>
+	<td>1.4 MB</td>
+</tr>
+</table>
+<br><p>Older versions of this client are archived on netrek.org at <a href="../../files/Paradise_2000/">http://www.netrek.org/files/Paradise_2000</a>. Source code is not available for this client. The build is only blessed for one
+year, so older builds will not work with servers that require RSA. 
 
 <a name="brmh"></a><p><h2>BRMH</h2>
 <table>
@@ -664,147 +852,7 @@ in fact prefer this lean and fast client.
 </tr>
 </table>
 
-<a name="xpmod"></a><p><h2>Netrek XP Mod</h2>
 
-<table>
-<tr><td>Maintainer: <td>Stas Pirogov<br><img src="../../img/keyos-email.png" />
-<tr><td>Homepage: <td><a href="http://netrek.keyos.org/">netrek.keyos.org</a><br>
-<tr><td>Version history: <td>on homepage, or at <a href="../../files/NetrekXP_Mod/NetrekXP_Mod_README.txt">NetrekXP_Mod_README.txt</a><br>
-<tr><td>Source Code Repository:&nbsp;<td>None active; zip of source downloadable
-<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod
-</table>
-<br><p>
-There are no plans to further develop this client, with version 4.4.0.4
-of May 06, 2006 as the final release. <br>It works just fine on Windows 
-2000 and XP (and probably Vista), and is a tiny download if you have
-a slow link. 
-<br><br>
-
-<table border="0" bgcolor="#444444">
-<tr>
-	<td width="30">OS</td>
-	<td width="350">Filename</td>
-	<td width="65">Version</td>
-	<td width="85">Date</td>
-	<td width="75">Location</td>
-	<td width="50">Size</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="../../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe">NetrekXPMod-4.4.0.4.installer.exe</a></td>
-	<td>4.4.0.4</td>
-	<td>May 06, 2006</td>
-	<td>Main site</td>
-	<td>2.5 MB</td>
-</tr>
-<tr bgcolor="#444444">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="http://netrek.keyos.org/netrek-4.4.0.4.exe">NetrekXP4404_installer.exe</a></td>
-	<td>4.4.0.4</td>
-	<td>May 06, 2006</td>
-	<td>Israel</td>
-	<td>2.5 MB</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-   <td><a href="../../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.bin.zip">NetrekXPMod-4.4.0.4.bin.zip</a></td>
-	<td>4.4.0.4</td>
-	<td>May 06, 2006</td>
-	<td>Main site</td>
-	<td>2.2 MB</td>
-</tr>
-<tr bgcolor="#444444">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-<td><a href="http://netrek.keyos.org/netrek-4.4.0.4.zip">netrek-4.4.0.4.zip</a></td>
-	<td>4.4.0.4</td>
-	<td>May 06, 2006</td>
-	<td>Israel</td>
-	<td>2.2 MB</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="../../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.src.zip">NetrekXPMod-4.4.0.4.src.zip</a> (source code)</td>
-	<td>4.4.0.4</td>
-	<td>May 06, 2006</td>
-	<td>Main site</td>
-	<td>6.7 MB</td>
-</tr>
-<tr bgcolor="#444444">
-	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Windows" /></td>
-<td><a href="http://netrek.keyos.org/netrekxpsrc-4.4.0.4.zip">netrekxpsrc-4.4.0.4.zip</a> (source code)</td>
-	<td>4.4.0.4</td>
-	<td>May 06, 2006</td>
-	<td>Israel</td>
-	<td>6.7 MB</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="NetrekXP4403_installer.exe">NetrekXP4403_installer.exe</a></td>
-	<td>4.4.0.3</td>
-	<td>Jul 11 2004</td>
-	<td>Main site</td>
-	<td>2.5 MB</td>
-</tr>
-<tr bgcolor="#444444">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="http://netrek.keyos.org/netrek.exe">NetrekXP4403_installer.exe</a></td>
-	<td>4.4.0.3</td>
-	<td>Jul 11 2004</td>
-	<td>Israel</td>
-	<td>2.5 MB</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_src.gif" width="25" height="22" alt="Source" /></td>
-	<td><a href="http://netrek.keyos.org/netrekxpsrc.zip">netrekxpsrc.zip</a> (source code)</td>
-	<td>4.4.0.3</td>
-	<td>Jul 11 2004</td>
-	<td>Israel</td>
-	<td>5.4 MB</td>
-</tr>
-<tr bgcolor="#444444">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="playnetrekdotorg_beginner_package.exe">playnetrekdotorg_beginner_package.exe</a></td>
-	<td>4.4.0.2</td>
-	<td>Jun 06 2004</td>
-	<td>U.S.A.</td>
-	<td>1.9 MB</td>
-</tr>
-</table>
-
-
-<a name="tt"></a><p><h2>TedTurner (Paradise) client</h2>
-<table>
-<tr><td>Maintainer: <td>Dave Ahn
-<tr><td>Homepage: <td>none currently
-<tr><td>Version history: <td><a href="http://www.netrek.org/files/archive/TedTurner/ChangeLog">http://www.netrek.org/files/archive/TedTurner/ChangeLog</a>
-<tr><td>Source Code Repository:&nbsp; <td>None active; tarballs at <a href="http://www.netrek.org/files/archive/TedTurner/src/">http://www.netrek.org/files/archive/TedTurner/src/ </a>
-<tr><td>Lineage: <td>Paradise -> TedTurner<br>
-</table>
-<br><p>
-The TedTurner client is the latest incarnation of the
-Paradise client with 256 color pixmap support. No one has touched
-it in years, but the Mac build probably still works if you want
-to try playing Paradise from a Mac. The archives should still
-have source code if you want to do a new build.
-<br><p>
-<table border="0" bgcolor="#444444">
-<tr>
-	<td width="30">OS</td>
-	<td width="350">Filename</td>
-	<td width="65">Version</td>
-	<td width="85">Date</td>
-	<td width="75">Location</td>
-	<td width="50">Size</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="MacOSX" /></td>
-	<td><a href="TedTurner-1.3.1.Darwin.gz">TedTurner-1.3.1.Darwin.gz</a></td>
-	<td>1.3.1</td>
-	<td>Aug 27 2001</td>
-	<td>Main site</td>
-	<td>533 KB</td>
-</tr>
-</table>
 
 <a name="ancient"></a><p><h2>Archival Clients and Server Code</h2></a>
 <br><p>

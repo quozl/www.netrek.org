@@ -381,7 +381,7 @@ $siteparentlist = array(
 	"cinema2/takefile/" => array(
 			"cinema2/",
 			"The Netrek Take File",
-			"Andrew Moore",
+			"Adrian Moore",
 			"October 23 1998"
 	),
 
