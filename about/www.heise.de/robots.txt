@@ -1,0 +1,85 @@
+User-agent: MS Search 4.0 Robot
+Disallow: /
+
+# leider nimmt GoogleBot die Richtlinien aus
+# der Wildcard-Sektion nicht mit
+# wenn er einen Eintrag fuer sich findet :-(
+User-agent: Googlebot
+Disallow: /bin/
+Disallow: /fastbin/
+Disallow: /icons/
+Disallow: /RealMedia/
+Disallow: /ct/flohmarkt/
+Disallow: /ct/forum/
+Disallow: /newsticker/forum/
+Disallow: /forum/
+Disallow: /foren/write
+Disallow: /ct/foren/
+Disallow: /ct/cd-register/foren/
+Disallow: /ct/tipps/foren/
+Disallow: /newsticker/foren/
+Disallow: /english/foren/
+Disallow: /english/newsticker/foren/
+Disallow: /mobil/foren/
+Disallow: /mobil/newsticker/foren/
+Disallow: /open/foren/
+Disallow: /open/news/foren/
+Disallow: /security/foren/
+Disallow: /security/news/foren/
+Disallow: /software/foren/
+Disallow: /support/foren/
+Disallow: /tp/foren/
+Disallow: /tr/foren/
+Disallow: /tr/themen/foren/
+Disallow: /registration/edit
+Disallow: /registration/delete
+Disallow: /extras/foren/
+Disallow: /netze/news/foren/
+Disallow: /netze/artikel/foren/
+Disallow: /netze/software/
+Disallow: /resale/foren/
+Disallow: /resale/news/foren/
+Disallow: /autos/foren/
+Disallow: /userdb/
+
+User-agent: *
+Disallow: /bin/
+Disallow: /fastbin/
+Disallow: /icons/
+Disallow: /RealMedia/
+Disallow: /ct/flohmarkt/
+Disallow: /ct/forum/
+Disallow: /newsticker/forum/
+Disallow: /forum/
+Disallow: /foren/write
+Disallow: /ct/foren/
+Disallow: /ct/cd-register/foren/
+Disallow: /ct/tipps/foren/
+Disallow: /newsticker/foren/
+Disallow: /english/foren/
+Disallow: /english/newsticker/foren/
+Disallow: /mobil/foren/
+Disallow: /mobil/newsticker/foren/
+Disallow: /open/foren/
+Disallow: /open/news/foren/
+Disallow: /security/foren/
+Disallow: /security/news/foren/
+Disallow: /software/foren/
+Disallow: /support/foren/
+Disallow: /tp/foren/
+Disallow: /tr/foren/
+Disallow: /tr/themen/foren/
+Disallow: /registration/edit
+Disallow: /registration/delete
+Disallow: /extras/foren/
+Disallow: /netze/news/foren/
+Disallow: /netze/artikel/foren/
+Disallow: /netze/software/
+Disallow: /resale/foren/
+Disallow: /resale/news/foren/
+Disallow: /autos/foren/
+Disallow: /userdb/
+
+# Angabe der Sitemap ist Agent-unabhaengig
+Sitemap: http://www.heise.de/sitemap_softwarevz.xml.gz
+Sitemap: http://www.heise.de/handysitemap.xml.gz
