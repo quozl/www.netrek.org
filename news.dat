@@ -6,6 +6,10 @@
 # 3) Prepend each line with a date stamp of YYYYMMDD format
 # 4) Empty lines and lines starting with '#' are ignored
 
+20080721 New release of the Windows client, Netrek XP 2009 1.0!
+
+20080715 New release of the Linux client, netrek-client-cow 3.2.4. Available for download from <a href=http://quozl.linux.org.au/netrek/>http://quozl.linux.netrek.au/netrek</a>.
+
 20080612 Please <a href="https://sourceforge.net/community/cca08-badge?project_name=Netrek&project_url=http://www.netrek.org#">vote for Netrek</a> for "Best Project for Gamers" in the Sourceforge.Net Community Choice Awards. 
 
 20080604 Developer Wiki was broken for a few days. Fixed now. 

@@ -596,7 +596,7 @@ function getSidebarDownload()
 	return "
 <h1>Download Now!</h1>
 <table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">
-<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_win.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."NetrekXP_2006/netrekXP2006v13install.exe\">Netrek XP 2006</a> (8.3 MB)</td></tr>
+<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_win.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."NetrekXP_2009/netrekinstall2009v1.exe\">Netrek XP 2009</a> (8.9 MB)</td></tr>
 <tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_win.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe\">Netrek XP Mod 4.4.0.4</a> (small, fewer features) (2.4 MB)</td></tr>
 <tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_macosx.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."MacTrek/MacTrek-1.4.0.zip\">MacTrek</a> (26 MB)</td></tr>
 

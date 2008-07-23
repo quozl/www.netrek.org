@@ -43,11 +43,11 @@ Netrek!</h2>
 	Download and install a client for your platform. </h2>
         <UL>
         <LI>For Windows users, download
-	<a href="../files/NetrekXP_2006/netrekXP2006v13install.exe">Netrek
-  XP 2006</a>
+	<a href="../files/NetrekXP_2009/netrekinstall2009v1.exe">Netrek
+  XP 2009</a>
         <LI>For Windows users with slow Internet links, the
 	<a href="../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe">Netrek
-	XP Mod</a> client is only 2.4 MB to download, vs 8.4 MB for XP 2006
+	XP Mod</a> client is only 2.4 MB to download, vs 8.9 MB for XP 2009
         <LI>For Mac users, download 
          <a href="../files/MacTrek/MacTrek-1.4.0.zip">MacTrek</a>
         <!-- <LI>For Linux users, download 
@@ -65,14 +65,14 @@ Netrek!</h2>
 
 <h2><li>
 	Start your client and select a server to play on from the list.</h2>
-        <tt>continuum.us.netrek.org</tt> and <tt>pickled.psychosis.net</tt>
+        <tt>continuum.us.netrek.org</tt> and <tt>pickled.netrek.org</tt>
         are the main pickup servers.
 </li>
 <br><br>
 
 <h2><li>
-	Go doosh some twinks!</h2>
-        Actually, at first, you will get totally pwned. 
+	Thanks for your interest in Netrek</h2>
+        Now go kick some butt! 
 </li>
 </ol>
 </h2>
