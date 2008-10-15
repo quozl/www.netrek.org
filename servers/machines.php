@@ -69,12 +69,6 @@ might not otherwise know, like which ones have robot players.
     The server is only online when there is a game on. 
     If the game is between set teams, you should automatically connect as 
     an observer. 
-<tr>
-<tr><td><a href="http://hockey.tamu.edu">hockey.tamu.edu</a>
-    <td>No
-    <td>Hockey
-    <td>
-    <td>
 </table>
 </center>
 

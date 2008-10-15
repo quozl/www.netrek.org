@@ -68,11 +68,11 @@ The following are miscellaneous Netrek related links.
 	The home of the Netrek <a href="http://www.playnetrek.org/smf/">web forums</a>, client downloads and flash tutorials,
         and other trekish goodness.
 
-<li>
+<!--    <li>
 	<a href="http://netrek.hwy.com.au/">Netrek in Australia</a> - 
 	A website to serve the community of Netrek players in Australia.
 
-	</li>
+	</li> -->
 <li>
 	<a href="http://members.tripod.com/~netrek/">Netrek: 
 	Outpost</a> - Sulman Syed's contribution: a 

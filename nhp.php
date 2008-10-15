@@ -326,6 +326,11 @@ $siteparentlist = array(
 			"Client Software"
 	),
 
+	"downloads/linux.php" => array(
+			"downloads/",
+			"Linux Clients"
+	),
+
 	"developer/" => array(
 			"/",
 			"Netrek Software Development"

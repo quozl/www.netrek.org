@@ -56,22 +56,26 @@ The configuration file (netrekrc) of a client will tell it which metaserver
 to use. Some clients are smart enough to look at more than one metaserver,
 but most are not (yet). 
 <br><p>
-Right now, there are two metaservers:
+Right now, there are three metaservers:
 <ul>
 <li><a
 href="http://metaserver.us.netrek.org:1080/">http://metaserver.us.netrek.org:1080/</a>
 <li><a
 href="http://metaserver2.us.netrek.org:1080/">http://metaserver2.us.netrek.org:1080/</a>.
+<li><a
+href="http://metaserver3.us.netrek.org:1080/">http://metaserver3.us.netrek.org:1080/</a>.
 </ul>
 <br>
-If you can't get your client to show you the metaserver list, you could
-try changing to the other metaserver by changing 
+The name metaserver.netrek.org rotates between the three servers 
+(via DNS round robin). If you can't get your client to show you the 
+metaserver list, you could
+try changing to another metaserver by changing 
 your netrekrc configuration file.
 <br>
-The two metaservers have slightly different policies about what games they 
+<!-- The metaservers may have slightly different policies about what games they 
 list. The first metaserver will only list a few machines at first, until 
 some of them have games going. Then it will list the rest of the machines
-it knows about. Metaserver2 just lists everything it knows about all the time. 
+it knows about. Metaserver2 just lists everything it knows about all the time. --!>
 
 <br><p><h3>Metaserver by Web</h3>
 If you want to see the metaserver status without firing up a client,

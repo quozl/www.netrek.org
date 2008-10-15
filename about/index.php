@@ -60,7 +60,8 @@ a LAN party.
 <p>
 If you're a programmer and you want to change how the 
 game works, you can do it and get people to try it out. You'll be hacking
-on the first Internet game protocol, ever. 
+on the oldest Internet game protocol that's still in use (the third one 
+ever written).
 
 <p>
 <h2>Articles and Reviews</h2>

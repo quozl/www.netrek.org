@@ -25,9 +25,9 @@ echo "</div>\n\n<div id=\"content\">";
 <p><h2>Netrek Variants</h2>
 Or, what's all this "server type" stuff?
 <br><br>
-Netrek has a long development history. Probably the longest of any Internet
+Netrek has a long development history, the longest of any Internet
 based game. Lots of ideas have been tried, and many discarded. 
-<br>Several variants remain viable. 
+Several variants remain viable. 
 
 
 <ul>

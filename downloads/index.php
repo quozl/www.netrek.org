@@ -59,13 +59,13 @@ The most recent clients are:
 <tr bgcolor="#333333">
 	<td><img src="../img/dl_icon_macosx.png" width="25" height="22" alt="Mac OS X" /></td>
 	<td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1.4.0.zip"><tt>MacTrek-1.4.0.zip</tt></a></td>
-	<td>Nice new native Mac client. Requires OS X 10.4 or higher.</td>
+<td>Nice new native Mac client. OS X 10.4 (Tiger) suggested, may have problems under 10.5 (Leopard)</td>
 </tr>
 
 <tr>
 	<td><img src="../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="http://www.netrek.org/para299/paradise-2_99-linux.tar.bz2"><tt>Paradise 2.99</tt></a></td>
-        <td>Dynamically linked client for Linux</td>
+	<td><a href="./linux.php"><tt>Several to choose from</tt></a></td>
+        <td>As usual, Linux is powerful but not simple.</td>
 </tr>
 
 

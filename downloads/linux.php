@@ -23,7 +23,7 @@ echo "</div>\n\n<div id=\"content\">";
 
 <h1>COW</h1>
 <p>
-There are a number of Netrek clients for Linux. COW is the most actively maintained and most stable. COW is available as a Debian package for Debian and Ubuntu, as an ebuild for Gentoo, as source code you can compile yourself, and there's a tarball of the binaries and libraries. Other clients listed further down the page are <a href="#netrek-client-pygame">netrek-client-pygame</a>, <a href="#paradise">Paradise 2.99</a>, <a href="#p2k">Paradise 2000</a>, and <a href="#brmh">BRMH</a>.</p>
+There are a number of Netrek clients for Linux. COW is the most actively maintained and most stable. COW is available as a Debian package for Debian and Ubuntu, as an ebuild for Gentoo, as source code you can compile yourself, and there's a tarball of the binaries and libraries. Other clients listed further down the page are <a href="#netrek-client-pygame">netrek-client-pygame</a> (new client written in Python), <a href="#paradise">Paradise 2.99</a> and <a href="#p2k">Paradise 2000</a> (available as stand-alone binaries, just download and run), and <a href="#brmh">BRMH</a>.</p>
 
 <h2>COW for Debian and Ubuntu</h2>
 <p>This has been tested on Debian Etch and Lenny, and Ubuntu Hardy.
@@ -51,9 +51,9 @@ The wonder that is free software means that if a package that suits
 your system doesn't already exist, you can download the source code and 
 compile one yourself in a few easy steps. 
 <ol>
-<LI>Download <a href="http://www.netrek.org/files/COW/netrek-client-cow-3.2.7.tar.gz">COW 3.2.7 source code</a>
-<LI>Unpack the file with "tar -xzf netrek-client-cow-3.2.7.tar.gz"
-<LI>Issue the command "cd netrek-client-cow-3.2.7"
+<LI>Download <a href="http://www.netrek.org/files/COW/netrek-client-cow-3.2.8.tar.gz">COW 3.2.8 source code</a>
+<LI>Unpack the file with "tar -xzf netrek-client-cow-3.2.8.tar.gz"
+<LI>Issue the command "cd netrek-client-cow-3.2.8"
 <LI>Issue the command "./configure"
 <LI>Issue the command "make"
 <LI>Issue the command "make install"
@@ -96,7 +96,7 @@ netrek-client-pygame is an all new client written in the Python programming lang
 <a name="paradise"></a>
 <h1>Paradise 2.99</h1>
 <p>
-Paradise 2.99 is an oldie but a goodie; unmaintained for a long time, this build still works (as of Fall 2008 on Debian). It has a few features COW doesn't, and some people prefer the way it looks. Get it at <a href="http://www.netrek.org/files/Paradise/paradise-2.99-intel-linux.dynamic.bin.gz">http://www.netrek.org/files/Paradise/paradise-2.99-intel-linux.dynamic.bin.gz</a>.
+Paradise 2.99 is an oldie but a goodie; unmaintained for a long time, this build still works (as of Fall 2008 on Debian). It has a few features COW doesn't, and some people prefer the way it looks. Get it at <a href="http://www.netrek.org/files/Paradise/paradise-2.99-intel-linux.dynamic.bin.gz">http://www.netrek.org/files/Paradise/paradise-2.99-intel-linux.dynamic.bin.gz</a>, then just unpack and run.
 
 <a name="p2k"></a>
 <h1>Paradise 2000</h1>

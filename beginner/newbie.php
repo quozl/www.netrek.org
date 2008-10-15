@@ -25,21 +25,16 @@ echo "</div>\n\n<div id=\"content\">";
 
 <p><h3>
 This guide assumes you've got a client downloaded and installed on your
-computer. If not, go to <a href="../downloads/">the downloads section</a>
+computer. <br>If not, go to <a href="../downloads/">the downloads section</a>
 and do that.<br><br>
 
-For <font color="cyan">Windows</font> clients (Netrek XP 4.4.0.4 and Netrek XP 2006), 
-there's a spiffy graphical guide (requires flash player) at 
+
+<ol>
+<li>For <font color="cyan">Windows</font> clients, either read this manual (longer and detailed) or go read the flash guide at 
 <a href="http://www.playnetrek.org/netrek-tutorial.html">http://www.playnetrek.org/netrek-tutorial.html</a>. 
+<br><br>
 
-<br><br>This boring html manual is a bit more detailed, so pick your poison, 
-short and sweet, or hardcore.<br><br>
-
-<font color="cyan">Linux</font> 
-users (COW and Paradise 2000), read on. Or read the 
-source code if you're so damned geeky.<br><br>
-
-<font color="cyan">Mac</font> users, there's a <a href="../files/MacTrek/MacTrekUserManual-1.2.0.pdf">User Manual for MacTrek</a>. You can also read this guide; the screenshots used in this 
+<li><font color="cyan">Mac</font> users, there's a <a href="../files/MacTrek/MacTrekUserManual-1.2.0.pdf">User Manual for MacTrek</a>. <br>You can also read this guide; the screenshots used in this 
 guide are mostly from the Unix and Windows clients, but the commands
 and gameplay are essentially the same, so this guide should be
 good for you. As is usual for a Mac, your screens look prettier 
@@ -47,9 +42,19 @@ and are easier to use. The client is changing quickly enough that this
 guide may sometimes be a little out of date. 
 <font color="yellow">Note that it's a lot easier to play with a three button mouse.</font><br><br>
 
+<li><font color="cyan">Linux</font> 
+users, read on. Or read the 
+source code if you're so damned geeky.<br><br>
+
+
+<li><font color="cyan">Impatient?</font> <br>Here's how to start in one paragraph:<br> 
+Start the program, choose a server, log in as guest, choose a team. 
+0 thru 9 sets your speed, left mouse button is torpedos, middle mouse button (scroll wheel) is phasers, right mouse button sets course. "s" to raise or drop your shields. "mt" to send a message to your teammates, "mA" to send a message to everyone. Read messages, watch your fuel level, and destroy the other team's ships. Don't worry about getting killed; just grab a new ship and jump back in. 
+</ol>
 </h3>
 
-<center>Revision 2.0, February 2007&nbsp;
+<br><br>
+<center>Revision 2.0.1, October 2008&nbsp;
 <hr></center>
 
 

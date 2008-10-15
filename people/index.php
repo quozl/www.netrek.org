@@ -83,17 +83,11 @@ teamwork and gameplay.
 <p>
 <h2>Gatherings</h2>
 
-<h4><font color="yellow">Currently,</font> 
-<a href="http://www.hargelsberg.at/nasg2007/">plans are underway for a gathering in Austria</a>, 
-<font color="yellow">to be held during the Summer of 2007.</font></h4>
 <br>
 Sometimes there are Netrek gatherings, where players from all over
 the world converge to one place to play a lot of netrek,
-drink lots of beer and generally have a good time. 
-<br>
-ShadowHunter has 
-<a href="http://www.shadowhunter.org/gatherings/">a page of photos and other stuff</a> from past 
-gatherings. 
+drink lots of beer and generally have a good time. ShadowHunter has 
+<a href="http://www.shadowhunter.org/gatherings/">a page of photos and other stuff</a> from the European gatherings of the 1990s. 
 
 
 
