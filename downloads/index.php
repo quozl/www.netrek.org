@@ -65,7 +65,7 @@ The most recent clients are:
 <tr>
 	<td><img src="../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
 	<td><a href="../downloads/linux.php"><tt>Several to choose from</tt></a></td>
-        <td>As usual, Linux is powerful but not simple.</td>
+        <td>See the list of fine choices.</td>
 </tr>
 
 

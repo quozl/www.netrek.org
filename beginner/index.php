@@ -52,8 +52,8 @@ echo "</div>\n\n<div id=\"content\">";
 
 <tr>
 	<td><img src="../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="./linux.php"><tt>Several to choose from</tt></a></td>
-        <td>As usual, Linux is powerful but not simple.</td>
+	<td><a href="../downloads/linux.php"><tt>Several to choose from</tt></a></td>
+        <td>See the list of fine choices.</td>
 </tr>
 </table>
 </li>
@@ -68,7 +68,7 @@ echo "</div>\n\n<div id=\"content\">";
 
 <h1><li>
 	Start your client and select a server to play on from the list.</h1>
-        <tt>continuum.us.netrek.org</tt> and <tt>pickled.netrek.org</tt>
+        <tt>pickled.netrek.org</tt> and <tt>continuum.us.netrek.org</tt> 
         are the main pickup servers.
 </li>
 <br><br>
