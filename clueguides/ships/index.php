@@ -1104,11 +1104,9 @@ Other docs available:
 </TR>
 </TABLE></CENTER>
 
-<CENTER><DT><BR>
 <BR>
-<IMG SRC="comline.gif" HEIGHT=31 WIDTH=575><BR>
 <BR>
-</DT></CENTER>
+<BR>
 
 <CENTER><TABLE BORDER=1 >
 <TR>
