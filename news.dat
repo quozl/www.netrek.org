@@ -6,6 +6,10 @@
 # 3) Prepend each line with a date stamp of YYYYMMDD format
 # 4) Empty lines and lines starting with '#' are ignored
 
+20090205 Netrek now has a Google mailing list, <a href="http://groups.google.com/group/netrek-forever">http://groups.google.com/group/netrek-forever</a>. Join up!
+
+20090126 The COW client is now available in the <a href="http://www.ubuntu.com">Ubuntu Linux</a> "Jaunty" release. 
+
 20090121 The COW client is <a href="http://packages.debian.org/sid/netrek-client-cow">now available</a> in the <a href="http://www.debian/org">Debian Linux</a> Sid package repositories. 
 
 20080915 New release of the Linux COW client! <a href="http://www.netrek.org/files/COW/netrek-client-cow-3.2.7.tar.gz">Version 3.2.7 available</a> as source code for your downloading pleasure. 
