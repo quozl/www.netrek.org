@@ -43,11 +43,11 @@ developer hangouts, including folks doing web pages and promotion.
 <li>Notes are kept on the 
 <a href="http://wiki.us.netrek.org/">developer wiki</a>. 
 There is an 
-<a href="http://wiki.us.netrek.org/netrek-dev/RecentChanges?action=rss_rc&ddiffs=1&unique=1">RSS feed</a> of wiki updates.
+<a href="http://wiki.us.netrek.org/index.php?title=Special:RecentChanges&feed=rss">RSS feed</a> of wiki updates.
 
 <li>
 For source code, see the Developer Wiki <a
-href="http://wiki.us.netrek.org/netrek-dev/SourceControl">source code control</a>
+href="http://wiki.us.netrek.org/index.php?title=SourceControl">source code control</a>
 page for where to find source code for various Netrek programs. 
 
 <li>
