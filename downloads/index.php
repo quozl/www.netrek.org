@@ -127,14 +127,14 @@ deb-src http://quozl.linux.org.au/netrek ./
 <p>
 There are also binaries for <a href="http://openwrt.org">OpenWRT</a>, so you can run
 a server on an "embedded" device such as a home firewall or WiFi Hard Drive. 
-See the <a href="http://wiki.us.netrek.org/netrek-dev/OpenWrt">Developer Wiki article.</a>
+See the <a href="http://wiki.us.netrek.org/index.php?title=OpenWrt">Developer Wiki article.</a>
 
 
 <br><p>
 <h2>Source Code, Old Code, and More</h2>
 <br><p>
 See the Developer Wiki <a
-href="http://wiki.us.netrek.org/netrek-dev/SourceControl">source code control</a>
+href="http://wiki.us.netrek.org/index.php?title=SourceControl">source code control</a>
 page for where to find source code for various Netrek programs.
 <br><p>
 <font color="yellow">If

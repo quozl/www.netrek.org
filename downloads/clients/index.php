@@ -212,7 +212,7 @@ is maintained. The Linux release below (3.01 p10 glibc 2.3) still
 works fine. It is likely that Debian Linux packages will be released
 soon after the release of Debian <i>etch</i>. You can, however, build
 it yourself; 
- <a href="http://wiki.us.netrek.org/netrek-dev/Building/Compiling_HOWTOs">see the instructions for downloading and
+ <a href="http://wiki.us.netrek.org/index.php?title=Building">see the instructions for downloading and
 building directions</a> on the development wiki.
 <br><p>
 COW was eventually ported to Windows, forming the basis for all later
