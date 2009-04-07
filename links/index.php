@@ -68,6 +68,9 @@ The following are miscellaneous Netrek related links.
 	The home of the Netrek <a href="http://www.playnetrek.org/smf/">web forums</a>, client downloads and flash tutorials,
         and other trekish goodness.
 
+<li>    <A href="http://wiki.netrek.org">The Netrek Wiki</a> - 
+	Netrek Player and Developer Wiki.
+
 <!--    <li>
 	<a href="http://netrek.hwy.com.au/">Netrek in Australia</a> - 
 	A website to serve the community of Netrek players in Australia.
