@@ -806,7 +806,7 @@ for people who know how to play at least moderately well.
 With material from Jonathan Ellis (aka maniac)<br>
 Herbert Enderton (aka Red Shirt),<br>
 ...and many others.<br><br>
-2.0 by akb4 (Retrograde/Xenophile) based on 1.7. 
+2.001 by akb4 (Retrograde/Xenophile) based on 1.7. 
 
 
 <?
