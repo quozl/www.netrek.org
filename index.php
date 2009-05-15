@@ -36,9 +36,11 @@ of ongoing strategy. <br>It costs no money to play, there are no ads, and
 it's open source. 
 </p>
 
-<div id="getstartedbox">
 <center>
-<h2>To get started, download a client:</h2><br>
+<table bgcolor="#555555">
+<tr><td align="center"><h2>To get started, download a client:</h2>
+<tr><td align="center">
+
 <table>
 <tr><td><a href="./files/NetrekXP_2009/netrekinstall2009v1.exe"><img src="./img/dl_icon_win.png" width="25" height="22" alt="Windows" /></a> For Windows, choose <a href="./files/NetrekXP_2009/netrekinstall2009v1.exe"><tt>Netrek XP 2009 v1.0</tt></a>, <br>or for a small download, <a href="../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe"><tt>Netrek XP Mod v4.4.0.4</tt></a>
 <tr><td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1.4.0.zip"><img src="./img/dl_icon_macosx.png" width="25" height="22" alt="Mac OS X"></a> For Apple's OS X, grab <a href="http://www.netrek.org/files/MacTrek/MacTrek-1.4.0.zip"><tt>MacTrek-1.4.0.zip</tt></a>
@@ -46,9 +48,10 @@ it's open source.
   For Linux, <a href="./downloads/linux.php">See this page</a>
 </table>
 
-<h3>Then, read <a href="./beginner/quickstartguide.php">Netrek in one paragraph</a> or the full <a href="./beginner/newbie.php">Newbie Guide</a> and start playing.</h3> <br>
+<tr><td><h3>Then, read <a href="./beginner/quickstartguide.php">Netrek in one paragraph</a> or the full <a href="./beginner/newbie.php">Newbie Guide</a> and start playing.</h3>
+</table>
 </center>
-</div>
+
 
 <br><br>
 <center><h2>New Utility: Netrek Game On!</h2></center>
