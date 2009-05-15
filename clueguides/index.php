@@ -21,6 +21,7 @@ echo "</div>\n\n<div id=\"content\">";
 
 ?>
 
+
 <h2>Getting Started</h2>
 <ul>
 	<li>
