@@ -68,9 +68,11 @@ img {	border-style:none; }
 #getstartedbox { 
         float: left;
         width:600px;
-	background:#555555;
-        border: solid #888888;
+	background:#444444;
+        border: solid #888899;
 	color:#ffffff;
+        margin-left:10%;
+        margin-bottom:15px
  }
 
 #sidebar {
