@@ -95,46 +95,18 @@ If you want to run your own server, you'll need server code.
 Almost all server code has now been merged; you can run Bronco, INL, Chaos,
 Sturgeon, and Hockey from the same source. 
 <br><br>
-The Vanilla Server code  has now been merged such that it can run Bronco, 
-INL, Chaos, Sturgeon, and Hockey. You can get it from:
-<ul>
-<li>the <a href="http://www.darcs.net/">darcs source code control system</a>, by issuing the command <br><tt>
-$ darcs get http://www.netrek.org/repos/netrek-server</tt><br>if you have darcs
-installed. This is the best way to go for keeping up to date, because server
-patches are issued thru darcs by the developers.</li>
-<li><a href="http://sourceforge.net/project/showfiles.php?group_id=968&package_id=3504">Netrek server source</a> at SourceForge.net. Note that CVS at SourceForge is not current, since code is now maintained in darcs, however there will 
-probably be current server source code tarballs in the downloads section.
-<li>The Debian source package; see Debian instructions below. 
-<li>At some point, there should be a tarball in the 
-<a href="../files/">files directory of this website.</a>
-<li>If all else fails, you can grovel around on <a href="http://quozl.linux.org.au/netrek/">http://quozl.linux.org.au/netrek/</a>.
-</ul>
-
-<br>
-<b>Binaries</b>
-<br><br><p>
-Prebuilt server binaries are available for 
-Debian Linux ("etch" release on i386 only).<br> 
-To access these,  add these lines to your <tt>/etc/apt/sources.list</tt> 
-and use your package manager to build or install.
-<ul>
-<pre>
-# Debian Etch (Testing) Netrek Server Vanilla
-deb http://quozl.linux.org.au/netrek ./
-deb-src http://quozl.linux.org.au/netrek ./
-</pre>
-</ul>
-<p>
-There are also binaries for <a href="http://openwrt.org">OpenWRT</a>, so you can run
-a server on an "embedded" device such as a home firewall or WiFi Hard Drive. 
-See the <a href="http://wiki.us.netrek.org/netrek-dev/OpenWrt">Developer Wiki article.</a>
-
+You can get the latest release from
+<a href="http://www.netrek.org/files/Vanilla/">http://www.netrek.org/files/Vanilla/</a><p>
+<br><br>
+See <a
+href="http://vanilla.netrek.org/">http://vanilla.netrek.org/</a> or
+the <a href="http://wiki.us.netrek.org/">the wiki</a> for more detail.
 
 <br><p>
 <h2>Source Code, Old Code, and More</h2>
 <br><p>
 See the Developer Wiki <a
-href="http://wiki.us.netrek.org/netrek-dev/SourceControl">source code control</a>
+href="http://wiki.netrek.org/index.php/SourceControl">source code control</a>
 page for where to find source code for various Netrek programs.
 <br><p>
 <font color="yellow">If
