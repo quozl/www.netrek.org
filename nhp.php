@@ -93,6 +93,12 @@ $siteparentlist = array(
 //	 ), 
 
 
+       	"index2.php" => array(
+			"/",
+			"Site Overview"
+	 ), 
+
+
 	"about/" => array(
 			"/",
 			"About Netrek"
@@ -331,6 +337,16 @@ $siteparentlist = array(
 			"Linux Clients"
 	),
 
+	"downloads/linux-cow.php" => array(
+			"downloads/",
+			"Linux COW Installation"
+	),
+
+	"downloads/linux-not-cow.php" => array(
+			"downloads/",
+			"Linux clients"
+	),
+
 	"developer/" => array(
 			"/",
 			"Netrek Software Development"
@@ -505,7 +521,8 @@ if ($UNDERSCORE_GET_PRINT != "yes")
 </head>
 <body>
 <div id=\"title\">
-<a href=\"".NPH_LOC_WEB_HOME."\"><img src=\"".NPH_LOC_IMGBASE."nexus800.jpg\" alt=\"NETREK NEXUS\"></a>
+
+<a href=\"".NPH_LOC_WEB_HOME."\"><img src=\"".NPH_LOC_IMGBASE."nexus800.jpg\" alt=\"Netrek Nexus banner\"></a>
 </div>
 ";
 	}

@@ -64,7 +64,7 @@ questions. Get in touch!
         <li>
         We've got mailing lists, too. <br><br>
         <ul>
-        <li><a href="http://mailman.us.netrek.org/mailman/listinfo/netrek">netrek@us.netrek.org</a><br>for general discussion. 
+        <li><a href="http://groups.google.com/group/netrek-forever">Netrek-Forever Google Group</a><br>for general discussion. 
         <li><a href="http://mailman.us.netrek.org/mailman/listinfo/netrek-dev">netrek-dev</a><br>for game developers, server admins, website work, etc. 
         <li><a href="http://groups.google.com/group/netrek-clue-games/">The Clue Game list.</a><br>
 Once you know the basics, if you want to take it to the next

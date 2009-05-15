@@ -65,6 +65,14 @@ img {	border-style:none; }
 	margin-top:0px;
 }
 
+#getstartedbox { 
+        float: left;
+        width:600px;
+	background:#555555;
+        border: solid #888888;
+	color:#ffffff;
+ }
+
 #sidebar {
 	float:right;
 	right:0px;
@@ -108,8 +116,10 @@ img {	border-style:none; }
 	clear:both;
 }
 
+
 #title img {
-	width:800px;
+        display: inline; 
+	/* width:800px; */
 	height:80px;
 }
 

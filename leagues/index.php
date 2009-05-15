@@ -62,9 +62,7 @@ trash those uppity punks.
 <h3>Leagues</h3>
 When there are enough teams around, say five or more, a league is formed 
 and there's a season of play. There hasn't been league play in a number
-of years, but recently (early 2007) we've had some team on team action, 
-and there have been mutterings about starting a new Draft League to 
-start bringing more people up to speed on league-style play. 
+of years, but we hope there will be again some day. 
 
 <p><h3>History</h3>
 See the <a href="../about/leagues.php">League History pages</a> 

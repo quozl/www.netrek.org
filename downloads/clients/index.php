@@ -29,10 +29,6 @@ echo "</div>\n\n<div id=\"content\">";
 <p>
 Since the start Netrek has been developed according to an Open Source Model, 
 which means that the Netrek source code is freely available. 
-To prevent cheating, all
-official client binaries authenticate themselves via RSA to the server.
-They are called "blessed" clients. Select your favorite official Netrek client
-from the lists below. There are also a few utilities.
 </p>
 
 <p>

@@ -56,18 +56,15 @@ The configuration file (netrekrc) of a client will tell it which metaserver
 to use. Some clients are smart enough to look at more than one metaserver,
 but most are not (yet). 
 <br><p>
-Right now, there are three metaservers:
+Right now, there are two metaservers:
 <ul>
 <li><a
 href="http://metaserver.us.netrek.org:1080/">http://metaserver.us.netrek.org:1080/</a>
 <li><a
-href="http://metaserver2.us.netrek.org:1080/">http://metaserver2.us.netrek.org:1080/</a>.
-<li><a
 href="http://metaserver3.us.netrek.org:1080/">http://metaserver3.us.netrek.org:1080/</a>.
 </ul>
 <br>
-The name metaserver.netrek.org rotates between the three servers 
-(via DNS round robin). If you can't get your client to show you the 
+If you can't get your client to show you the 
 metaserver list, you could
 try changing to another metaserver by changing 
 your netrekrc configuration file.

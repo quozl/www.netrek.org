@@ -43,11 +43,11 @@ developer hangouts, including folks doing web pages and promotion.
 <li>Notes are kept on the 
 <a href="http://wiki.us.netrek.org/">developer wiki</a>. 
 There is an 
-<a href="http://wiki.us.netrek.org/index.php?title=Special:RecentChanges&feed=rss">RSS feed</a> of wiki updates.
+<a href="http://wiki.us.netrek.org/netrek-dev/RecentChanges?action=rss_rc&ddiffs=1&unique=1">RSS feed</a> of wiki updates.
 
 <li>
 For source code, see the Developer Wiki <a
-href="http://wiki.us.netrek.org/index.php?title=SourceControl">source code control</a>
+href="http://wiki.us.netrek.org/netrek-dev/SourceControl">source code control</a>
 page for where to find source code for various Netrek programs. 
 
 <li>
@@ -55,7 +55,7 @@ For binaries and maybe some source code, see
 <a href="../downloads/">the main download page</a>, 
 the <a href="../downloads/clients/">full client list download page</a>,
 the <a href="http://www.netrek.org/files/">website files repository</a>, 
-and <a href="http://http://ftp.netrek.org/pub/netrek/">the old ftp archive.</a>
+and <a href="http://ftp.netrek.org/pub/netrek/">the old ftp archive.</a>
 </ul>
 
 <p>
@@ -109,9 +109,10 @@ and <a href="http://http://ftp.netrek.org/pub/netrek/">the old ftp archive.</a>
 <ul>
 <li>The Vanilla Server, game server for Bronco, INL, Hockey, Sturgeon, etc.
 <li>The Metaserver
-<li>The main windows client, Netrek XP 2006
+<li>The main windows client, Netrek XP 2009
 <li>The main Macintosh client, MacTrek
 <li>COW, the most advanced open source unix client
+<li>netrek-client-pygame, a new client written in Python using the pygame library
 <li>BRMH, a unix client with lots of ports available, including OS X
 </ul>
 
