@@ -42,7 +42,7 @@ it's open source.
 <tr><td align="center">
 
 <table>
-<tr><td><a href="./files/NetrekXP_2009/netrekinstall2009v1.exe"><img src="./img/dl_icon_win.png" width="25" height="22" alt="Windows" /></a> For Windows, choose <a href="./files/NetrekXP_2009/netrekinstall2009v1.exe"><tt>Netrek XP 2009 v1.0</tt></a>, <br>or for a small download, <a href="../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe"><tt>Netrek XP Mod v4.4.0.4</tt></a>
+<tr><td><a href="./files/NetrekXP_2010/netrekinstall2010v1.exe"><img src="./img/dl_icon_win.png" width="25" height="22" alt="Windows" /></a> For Windows, choose <a href="./files/NetrekXP_2010/netrekinstall2010v1.exe"><tt>Netrek XP 2010 v1.0</tt></a>, <br>or for a small download, <a href="../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe"><tt>Netrek XP Mod v4.4.0.4</tt></a>
 <tr><td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1.4.0.zip"><img src="./img/dl_icon_macosx.png" width="25" height="22" alt="Mac OS X"></a> For Apple's OS X, grab <a href="http://www.netrek.org/files/MacTrek/MacTrek-1.4.0.zip"><tt>MacTrek-1.4.0.zip</tt></a>
 <tr><td><img src="./img/dl_icon_linux.png" width="25" height="22" alt="Linux" />
   For Linux, <a href="./downloads/linux.php">See this page</a>

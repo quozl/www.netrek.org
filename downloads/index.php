@@ -47,7 +47,7 @@ The most recent clients are:
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="../files/NetrekXP_2009/netrekinstall2009v1.exe"><tt>Netrek XP 2009 v1.0</tt></a></td>
+	<td><a href="../files/NetrekXP_2010/netrekinstall2010v1.exe"><tt>Netrek XP 2010 v1.0</tt></a></td>
 	<td>Newest and flashiest windows client.<br>Can do 50 frames per second and yet it will run on Windows 98.</td>
 </tr>
 <tr>

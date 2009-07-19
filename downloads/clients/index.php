@@ -43,7 +43,7 @@ responsiveness.
 <p>
 Clients:
 <ul>
-<li><a href="#xp2009">Netrek XP 2009</a> (Windows 98 thru Vista)
+<li><a href="#xpbill">Netrek XP 2010</a> (Windows 98 thru Vista)
 <li><a href="#mactrek">MacTrek</a> (OS X 10.4, PPC or Intel)
 <li><a href="#cow">COW</a>  (Linux, other Unixes)
 <li><a href="#xpmod">Netrek XP Mod</a> (Windows 2000, XP, maybe Vista)
@@ -70,14 +70,14 @@ need this.
 </p>
 
 
-<a name="xp2009"></a><p><h2>Netrek XP 2009</h2>
+<a name="xpbill"></a><p><h2>Netrek XP 2010, 2009, 2006</h2>
 
 <table>
 <tr><td>Maintainer: <td>Bill Balcerski<br><img src="../../img/bill-email.png" /><br>
 <tr><td>Homepage: <td><a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a><br>
 <tr><td>Version history: <td><a href=""></a><br>
 <tr><td>Source Code Repository:&nbsp; <td>CVS at <a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a>
-<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod -> XP 2006 -> XP 2009<br>
+<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod -> XP 2006/2009/2010<br>
 </table>
 
 <br><p>
@@ -86,7 +86,6 @@ lots of newbie-friendly graphic aids, like "det circles" and "lock lines".
 <br>It also can do 50 frames per second. 
 If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkout*/netrek/client/netrekxp/resources/docs/README%20for%20Win95%2C%20Win98%2C%20and%20WinME.TXT">see the docs</a> for configuration info. 
 
-<br><p>
 <table border="0" bgcolor="#444444">
 <tr>
 	<td width="30">OS</td>
@@ -95,6 +94,22 @@ If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkou
 	<td width="85">Date</td>
 	<td width="75">Location</td>
 	<td width="50">Size</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
+	<td><a href="../../files/NetrekXP_2010/netrekinstall2010v1.exe">netrekinstall2010v1.exe</a></td>
+	<td>1.0</td>
+	<td>July 16, 2009</td>
+	<td>Main site</td>
+	<td>8.4 MB</td>
+</tr>
+<tr>
+	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Linux" /></td>
+	<td><a href="../../files/NetrekXP_2009/netrekXP2010src-v1.0.zip">netrekXP2010src-v1.0.zip</a></td>
+	<td>1.0</td>
+	<td>Jul 16 2009</td>
+	<td>Main Site</td>
+	<td>15 MB</td>
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
@@ -112,9 +127,30 @@ If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkou
 	<td>Main Site</td>
 	<td>14.3 MB</td>
 </tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Linux" /></td>
+	<td><a href="../../files/NetrekXP_2006/netrekXP2006v13install.exe">netrekXP2006v13install.exe</a></td>
+	<td>1.3</td>
+	<td>July 19, 2007</td>
+	<td>Main site</td>
+	<td>8.3 MB</td>
+</tr>
+<tr>
+	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Linux" /></td>
+	<td><a href="../../files/NetrekXP_2006/netrekXP2006src-v1.2.zip">netrekXP2006src-v1.2.zip</a></td>
+	<td>1.2</td>
+	<td>Mar 05 2007</td>
+	<td>Main Site</td>
+	<td>13.9 MB</td>
+</tr>
 </table>
 <br><p>
-The latest version of XP 2009 is also available from <a href="http://www.playnetrek.org">playnetrek.org</a>.
+The latest version of XP 2010 is also available from <a href="http://www.playnetrek.org">playnetrek.org</a>. <br>Older versions are archived at <a href="http://www.netrek.org/files/NetrekXP_2006/">http://www.netrek.org/files/NetrekXP_2006/</a> and <a href="http://www.netrek.org/files/NetrekXP_2009/">http://www.netrek.org/files/NetrekXP_2009/</a> 
+
+<br>If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkout*/netrek/client/netrekxp/resources/docs/README%20for%20Win95%2C%20Win98%2C%20and%20WinME.TXT">see the docs</a> for configuration info. 
+
+<br><p>
+
 
 
 
@@ -410,51 +446,6 @@ a slow link.
 	<td>1.9 MB</td>
 </tr>
 </table>
-
-<a name="xp2006"></a><p><h2>Netrek XP 2006</h2>
-
-<table>
-<tr><td>Maintainer: <td>Bill Balcerski<br><img src="../../img/bill-email.png" /><br>
-<tr><td>Homepage: <td><a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a><br>
-<tr><td>Version history: <td><a href=""></a><br>
-<tr><td>Source Code Repository:&nbsp; <td>CVS at <a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a>
-<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod -> XP 2006<br>
-</table>
-
-<br><p>
-This is here for historical purposes. It's the Windows client between XP Mod and XP 2009; you probably want to run 2009, but might want XP Mod if you need a small download or have a very slow machine. 
-If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkout*/netrek/client/netrekxp/resources/docs/README%20for%20Win95%2C%20Win98%2C%20and%20WinME.TXT">see the docs</a> for configuration info. 
-
-<br><p>
-<table border="0" bgcolor="#444444">
-<tr>
-	<td width="30">OS</td>
-	<td width="350">Filename</td>
-	<td width="65">Version</td>
-	<td width="85">Date</td>
-	<td width="75">Location</td>
-	<td width="50">Size</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="../../files/NetrekXP_2006/netrekXP2006v13install.exe">netrekXP2006v13install.exe</a></td>
-	<td>1.3</td>
-	<td>July 19, 2007</td>
-	<td>Main site</td>
-	<td>8.3 MB</td>
-</tr>
-<tr>
-	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="../../files/NetrekXP_2006/netrekXP2006src-v1.2.zip">netrekXP2006src-v1.2.zip</a></td>
-	<td>1.2</td>
-	<td>Mar 05 2007</td>
-	<td>Main Site</td>
-	<td>13.9 MB</td>
-</tr>
-</table>
-<br><p>
-The latest version of XP 2006 is also available from <a href="http://www.playnetrek.org">playnetrek.org</a>. Older versions are archived at <a href="http://www.netrek.org/files/NetrekXP_2006/">http://www.netrek.org/files/NetrekXP_2006/</a>.
-
 
 <a name="tt"></a><p><h2>TedTurner (Paradise) client</h2>
 <table>
