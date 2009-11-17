@@ -54,9 +54,13 @@ it's open source.
 
 
 <br><br>
-<center><h2>New Utility: Netrek Game On!</h2></center>
+<center><h2>New Utilities: Netrek Game On! and Who Plays Netrek</h2></center>
 
-<p>There's a brand new utility for Netrek called "Netrek Game On!". It checks the metaservers and lets you know how many players are on line. It's in Java and should run on Windows, Linux, or Macintosh. Under Windows, you can iconize it to the task bar and keep an eye on when to play. Grab the latest version from <a href="http://www.netrek.org/files/Netrek_Game_On/">the files section.</a>
+<p><br>There are some new utilities for Netrek to let people see how many players are on the servers, so they can see if a game is on and join in. 
+
+  <p><font color="yellow">Netrek Game On!</font> should run on Windows, Linux, or Macintosh; it's written in Java. Under Windows, you can iconize it to the task bar and keep an eye on when to play. Grab the latest version from <a href="http://www.netrek.org/files/Netrek_Game_On/">the files section.</a>
+
+  <p><font color="yellow">Who Plays Netrek</font> is for the Apple iPhone and iPod Touch. <br>No client for these handhelds (yet), but you can find out when to go play. <a href="http://itunes.apple.com/nl/app/who-plays-netrek/id334105941?mt=8">Get it from the Apple App Store.</a>
 
 <p><center><h2>Everything Else</h2></center>
 <h2><a href="people/"><img src="img/icon_people.png" alt="">
