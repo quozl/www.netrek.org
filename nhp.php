@@ -306,6 +306,11 @@ $siteparentlist = array(
 			"1995"
 	),
 
+	"clueguides/yoda_poem.php" => array(
+			"clueguides/",
+			"Netrek poetry"
+	),
+
 	"clueguides/ships/" => array(
 			"clueguides/",
 			"Ship Types"

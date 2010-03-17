@@ -185,6 +185,11 @@ observer mode; watching can be a good way to pick up clue.
        </ul>
 
 
+<h2>Poetry</h2>
+Surprisingly, only one Netrek poem so far.
+        <ul>
+	 <li>"<a href="./yoda_poem.php">Netrek</a>" by Zachery Uram (Yoda/Hyperyoda)
+        </ul>
 
 <?
 echo "</div>\n";
