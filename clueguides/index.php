@@ -30,7 +30,7 @@ echo "</div>\n\n<div id=\"content\">";
 	</li>
 
 	<li>
-	<a href="http://cha.rlie.nl/dfmanual/">Charlie's Beginner's Guide to Dogfighting</a><br />
+	<a href="http://www.pixelshelf.com/~charlie/dfmanual/">Charlie's Beginner's Guide to Dogfighting</a><br />
 	A very good readable guide on the do's and dont's of dogfighting.
 	</li>
 
