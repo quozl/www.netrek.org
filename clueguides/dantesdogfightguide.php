@@ -55,7 +55,7 @@ If you see me online & sucking, and find yourself saying "why the hell should I 
 Good Luck,<br>
 Dantes (tb3)<br>
 <br>PS: 
-There is also a <A HREF="pixelshelf.com/~charlie/dfmanual/">DF Manual for Total Beginners by Charlie/Zex</A>.
+There is also a <A HREF="pixelshelf.com/~charlie/dfmanual/">DF Manual for Total Beginners by Charlie/Zex</A>. (<a href="../cached-sites/pixelshelf.com/~charlie/dfmanual/">local copy</a>).
 
 <br><br>
 <hr width=68%>
@@ -132,7 +132,7 @@ There are four ways to do damage that enemies cannot avoid, only three of which 
 <LI>The Team Det. I LOVE doing this, but it's not practical in most fights. Most enemies know better than to fire torpedoes over their teammates.
 </OL>
 
-For visual details on these methods, I highly recommend visiting Charlie's excellent introductory dogfighting web page, located <A HREF="pixelshelf.com/~charlie/dfmanual/"> here.</A> The team det is the fourth method on his list. Plasma is never an assured way of doing damage.
+For visual details on these methods, I highly recommend visiting Charlie's excellent introductory dogfighting web page, located <A HREF="pixelshelf.com/~charlie/dfmanual/"> here</A> or <a href="../cached-sites/pixelshelf.com/~charlie/dfmanual/">here</a>. The team det is the fourth method on his list. Plasma is never an assured way of doing damage.
 <P>
 <A HREF="#top">To the Top </A>
 
