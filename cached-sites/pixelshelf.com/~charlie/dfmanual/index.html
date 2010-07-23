@@ -1,0 +1,1096 @@
+<HTML>
+<HEAD><TITLE>Beginner's Guide to Dogfighting</TITLE></HEAD>
+
+<script>
+function init() 
+{
+  if (!document.getElementById) return
+  var imgOriginSrc;
+  var imgTemp = new Array();
+  var imgarr = document.getElementsByTagName('img');
+  for (var i = 0; i < imgarr.length; i++) 
+  {
+    if (imgarr[i].getAttribute('hsrc')) 
+    {
+      imgTemp[i] = new Image();
+      imgTemp[i].src = imgarr[i].getAttribute('hsrc');
+      imgarr[i].onmouseover = function() 
+      {
+        imgOriginSrc = this.getAttribute('src');
+        this.setAttribute('src',this.getAttribute('hsrc'))
+      }
+      imgarr[i].onmouseout = function() 
+      {
+<!--        this.setAttribute('src',imgOriginSrc)-->
+        this.setAttribute('src',this.getAttribute('hsrc'))
+      }
+    }
+  }
+}
+onload=init;
+
+</script>
+
+<BODY bgcolor=#FFFFFF TEXT=black>
+<!-- centreert de hele pagina (alles staat in een 'uebertabel') -->
+
+<TABLE cellpadding=0 cellspacing=0 border=0 width=1>
+<TR>
+  <TD>
+  <IMG SRC="dotclear.gif" width=75 height=1>
+  </TD>
+  <TD> 
+  <IMG SRC="dotclear.gif" width=400 height=1> 
+  </TD>
+  <TD> 
+  <IMG SRC="dotclear.gif" width=10 height=1> 
+  </TD>
+  <TD>
+  <IMG SRC="dotclear.gif" width=150 height=1>
+  </TD>
+</TR>
+
+<TR> 
+  <TD COLSPAN=4 bgcolor="#000000"><IMG SRC="http://pixelshelf.com/~charlie/dfmanual/dotclear" width=1 height=2></TD>
+</TR>
+<TR> 
+  <TD COLSPAN=4 bgcolor="#000080"><CENTER><FONT 
+  SIZE=+1 face="Arial, Helvetica" color=#FFFFFF
+
+  >Charlie's Beginner's Guide to Dogfighting</
+
+  font></CENTER></TD>
+</TR>
+<TR> 
+  <TD COLSPAN=4 bgcolor="#000000"><IMG SRC="http://pixelshelf.com/~charlie/dfmanual/dotclear" width=1 height=2></TD>
+</TR>
+       
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top><P align=right><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000080"><b
+
+  >Abstract&nbsp;</
+
+  b></font></TD>
+
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >This chapter will discuss dogfighting, one of the major
+  aspects of the game. The chapter will be split into paragraphs adressing
+  the issues of how to do damage and how to avoid it, a paragraph which tells
+  you what not to do and finally some stuff which is related to dogfighting 
+  on a higher level. In this manual, the standard shiptype of a CA is assumed. 
+  The intricansies of other shiptypes and dogfighting will be discussed in 
+  a seperate section. </
+
+  font></TD>
+
+  <TD><img src="dotclear.gif"></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD COLSPAN=4>
+  <P align=left>
+  <b><i><font size=+2 face="Arial, Helvetica" color="#000080"
+  >Chapter 1: Dealing damage</font></b></i></A>
+  </TD>
+</TR>
+<TR> 
+  <TD COLSPAN=4 bgcolor="#000000"><IMG SRC="http://pixelshelf.com/~charlie/dfmanual/dotclear" width=1 height=2></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >1.1 Introduction</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >In netrek there is basically only five ways to deal damage. 
+  Phasering, torping, using plasma, detting enemy torps and 
+  exploding. Phasering and torping are good options which will 
+  be adressed individually. Using plasma is a definite 
+  <i>don't</i>, and will be discussed in section (3.1). Detting
+  enemy torps is relatively complicated but an essential 
+  mechanic of the game and will be discussed in greater detail
+  in section (1.2.4). Finally, exploding does a great deal of 
+  damage but since it uhm... kills you in the 
+  process, it is the least desirable option.
+  <BR><BR><img src="dotclear.gif" width=10>
+  Figure 1 on the right shows the five basic ways of dealing damage.
+  Feel free to point over the different pictures to start the
+  animations.</
+
+  font></TD>
+        
+  <TD></TD>
+
+  <TD rowspan=11 valign=top>
+  <TABLE cellpadding=0 cellspacing=0 border=0>
+  <TR>
+    <TD bgcolor=black><center><IMG SRC="phaseroff.gif" hsrc="phaseron.gif" ></center></TD>
+  </TR>
+  <TR>
+    <TD bgcolor=black><center><IMG SRC="torpoff.gif" hsrc="torponb.gif" ></center></TD>
+  </TR>
+  <TR>
+    <TD bgcolor=black><center><IMG SRC="plasmaoff.gif" hsrc="plasmaon.gif" ></center></TD>
+  </TR>
+  <TR>
+    <TD bgcolor=black><center><IMG SRC="detkilloff.gif" hsrc="detkillon.gif" ></center></TD>
+  </TR>
+  <TR>
+    <TD bgcolor=black><center><IMG SRC="explooff.gif" hsrc="exploon.gif" ></center></TD>
+  </TR>
+  <TR>
+    <TD><P align=center><FONT
+    SIZE=-2 face="Arial, Helvetica" color="#000000"
+    >Fig. 1. <i>The five basic ways of dealing damage.
+    Top to bottom: phasering, torping, using plasma,
+    detting enemy torps, exploding. Point over the images
+    to start the animations.</font></TD>
+  </TR>
+  </TABLE>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >1.2 How much?</b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD VALIGN=top><P align=right><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000080"><b
+ 
+  ></
+
+  b></font></TD>
+
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >So, there is all these ways to deal damage, but the next
+  question is <i>how much damage should I deal?</i> To 
+  answer that question directly: it all depends on the 
+  ships you are facing. Smaller ships need less damage 
+  to be killed, heavier ships can take more. No rocket 
+  science there. 
+ 
+  For now, assume you will be mostly facing CA's 
+  (cruisers) which need a 200 damage to be killed
+  (100 shields + 100 hull). Read on, and find out
+  how you can rack up that 200 damage...
+  
+  </
+
+  font></TD>
+
+<!-- % plaatje van een statusbar.-->
+
+  <TD>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >1.3 Phasering</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >Phasers are the primary weapons of your ship. 
+  They <i>always</i> deal damage and can <i>not</i> be 
+  dodged. Just point your cursor over an enemy ship, 
+  press the magic button and see how you can tattoo
+  your name on that enemy ship.</
+  font></TD>
+  <!-- the words "my bitch" -->
+  <TD></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000080"><b
+  >1.3.1 Phasering distance</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >
+  Keep one thing in mind when you phaser: the amount of 
+  damage you deal with your
+  phaser depends on the distance from which you phaser. 
+  <BR><BR><img src="dotclear.gif" width=10>
+  Let me run that by you once again. The <b>damage you deal</b>
+  with your phaser depends on the <b>distance at which
+  you phaser</b>. This means that if you phaser from far away,
+  you deal little to no damage, and if you phaser when close, 
+  you deal tons of damage.
+  <BR><BR><img src="dotclear.gif" width=10>
+  Figure 2 on the right shows the amount of damage dealt for
+  different phaser distances. As a general rule of thumb, 
+  always phaser when you can deal at least 20 points of 
+  damage. <b>Learn</b> that phaser range <b>by heart</b>!
+  
+  </
+
+  font></TD>
+  <TD></TD>
+  <TD rowspan=1 valign=top>
+  <TABLE cellpadding=0 cellspacing=0 border=0>
+  <TR>
+    <TD bgcolor=black><center><img src="fig2phaserdamage.gif" align=center></center></TD>
+  </TR>
+  <TR>
+    <TD><P align=center><FONT
+    SIZE=-2 face="Arial, Helvetica" color="#000000"
+    >Fig. 2. <i>Phaser damage depends on phaser 
+    distance.</font></TD>
+  </TR>
+  </TABLE>
+  </TD>
+</TR>
+
+
+<!-- % plaatje van een statusbar.-->
+
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000080"><b
+  >1.3.2 The phaser cycle</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >
+  Once you've tried to phaser, you'll notice that it 
+  needs 1 second to 'recharge'. In this time you 
+  can not use it. The trick is, to learn how long
+  this 1 second actually takes, so you can immediately
+  use it again after it has 'recharged'. Believe me,
+  you want to be phasering every second if you get 
+  the chance, because that will bring you one step 
+  closer to your ultimate goal... humiliating your 
+  opponents in dogfights.
+  
+  </
+
+  font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >1.4 Torping</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >CA torps do 40 damage each. A CA has 100 hull and 100 shields and so
+  require a 200 damage to be killed. This comes down to 5 torps. That is
+  quite a lot, so you better read on to find out how you can make your
+  torps hit. </
+
+  font></TD>
+
+  <TD>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000080"><b
+  >1.4.1 Lines vs. clouds</b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >One of the mistakes beginners typically make, is shooting torps in 
+  a straight line at their opponent. As you can see in Figure 3, it is
+  relatively easy for <b>O1</b> to dodge the torps. There is only one special 
+  situation in which shooting a line of torps is warranted, and that is 
+  when you 'buttorp'. This is one of the things you generally don't want
+  to be doing, so you can read all about it in (4.1.3).
+  <BR><BR><img src="dotclear.gif" width=10>
+  The best way to make your torps hit is to fire them in clouds (Figure 
+  4). For firing a dense cloud like that keyrepeat is almost 
+  essential, however. You might do without keyrepeat, but 
+  make sure you click those buttons at lightning speed.  
+  <BR><BR><img src="dotclear.gif" width=10>
+  The destructive thing about torp clouds is that they are a) hard to 
+  dodge, and b) impossible to det. Dodging is hard because any
+  way you move, there will always be some outer-torp hitting.
+  Detting is difficult because the torps 'surround' you
+  in no-time and pressing det at that time, will det them all, and
+  hence kill you on the spot.</font></TD>
+  <TD>
+  </TD>
+  <TD VALIGN=TOP>
+  <TABLE cellpadding=0 cellspacing=0 border=0>
+  <TR>
+    <TD bgcolor=black><center><img src="fig3linetorp.gif" align=center></center></TD>
+  </TR>
+  <TR>
+    <TD><P align=center><FONT
+    SIZE=-2 face="Arial, Helvetica" color="#000000"
+    >Fig. 3. <b>F0</b> <i>is linetorping </i><b>O1</b><i>, who can easily
+    dodge the stream.</i></font></TD>
+  </TR>
+  </TABLE>
+
+  <TABLE cellpadding=0 cellspacing=0 border=0>
+  <TR>
+    <TD><center><img src="dotclear.gif" width=1 height=20 align=center></center></TD>
+  </TR>
+  </TABLE>
+
+  <TABLE cellpadding=0 cellspacing=0 border=0>
+  <TR>
+    <TD bgcolor=black><center><img src="fig4cloudtorp.gif" align=center></center></TD>
+  </TR>
+  <TR>
+    <TD><P align=center><FONT
+    SIZE=-2 face="Arial, Helvetica" color="#000000"
+    >Fig. 4. <b>F0</b> <i>is cloudtorping </i><b>O1</b><i> now, who will have
+    a hard time dodging this stream.</i></font></TD>
+  </TR>
+  </TABLE>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000080"><b
+  >1.4.2 Torping range</b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >
+  Torping in clouds is one thing, but knowing <i>when</i> to 
+  torp is another. You will notice that unlike the 
+  phaser which <b>always</b> hits, torps need time to 
+  arrive at their destination, e.g.: your opponent. And
+  this is exactly the weakness of using torps as your
+  main weapon: your opponent has time to <i>dodge</i> them.
+  To reduce the chance that your opponent will have the time
+  to dodge your torps, make sure you fire your torps when 
+  you are within 20 point phaser range (as shown previously 
+  in fig. 2). 
+  <BR><BR><img src="dotclear.gif" width=10>
+  There is nothing more pathetic than a sight like 
+  figure 5. 
+<!--
+<b>F0</b> <i>does</i>
+  seem to fire a nice cloud, but it is completely out of range...
+-->
+ 
+  </
+
+  font></TD>
+
+  <TD>
+  </TD>
+  <TD VALIGN=TOP rowspan=8>
+  <TABLE cellpadding=0 cellspacing=0 border=0>
+  <TR>
+    <TD bgcolor=black><center><img src="fig5torplongrange.gif" align=center></center></TD>
+  </TR>
+  <TR>
+    <TD><P align=center><FONT
+    SIZE=-2 face="Arial, Helvetica" color="#000000"
+    >Fig. 5. <b>F0</b> <i>is torping </i><b>O1</b><i>, you think
+    he will hit?</i></font></TD>
+  </TR>
+  </TABLE>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >1.5 Combining</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+  >
+  We've covered the basics of phasering and torping,
+  but you're no dogfighting god yet. To get better, you'll
+  have to start combining...
+  </
+  font></TD>
+  <TD>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000080"><b
+  >1.5.1 Lines vs. dots</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+  >
+  One of the major discussions in netrek is called
+  "lines vs. dots". It basically comes down to the
+  question: 
+  <BR><BR><img src="dotclear.gif" width=10>
+  <i>What is better: phasering or torping?</i>
+  <BR><BR>
+  To answer the question on the spot: phasers. They
+  <b>always</b> hit, and do <b>tremendous damage</b>
+  when used within close range. Torps have this 
+  weakness which is called uhm... <b>dodging</b>.
+
+  <BR><BR><img src="dotclear.gif" width=10>
+  When you play, focus on your phasers. Use them.
+  Then remember about torps: they do damage.
+  Lots of damage if you use them in a smart way.
+  </
+  font></TD>
+  <TD>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000080"><b
+  >1.5.2 The phaser cycle</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+  >
+  Now here comes the real deal, the real treat, 
+  the real secret to winning dogfights and I'll call
+  it <b>the phaser cycle</b>. 
+  <BR><BR><img src="dotclear.gif" width=10>
+  Remember, that phasers are by far the most superior
+  weapons since they always hit and do lots of damage 
+  at close range.
+  Their only drawback is the 1-second 'recharging time'.
+  Keeping this in mind and having practiced a little,
+  you should always be phasering every second, because
+  hey, those are <b>guaranteed</b> hits, and hey, you
+  want to be dealing the <b>most</b> damage in 
+  the <b>shortest</b> timespan possible.
+  <BR><BR><img src="dotclear.gif" width=10>
+  Now, here is
+  the deal. Instead of just <b>waiting</b> during
+  that 1 second recharge time you should try to 
+  <b>shoot torps</b> and <b>dodge</b>. 
+  This is a very important concept. Let me elaborate
+  on it.
+  <BR><BR><img src="dotclear.gif" width=10>
+  During dogfights, 
+  you have to phaser your opponent, shoot torps 
+  and in the mean time dodge <i>his</i> torps.
+  The smartest way to do all of this, is to 
+  <b>learn the phaser recharge time by heart</b> and
+  always be doing your non-phaser stuff (dodging,
+  torping) <b>during</b> the recharge time. 
+  Then, when the phaser is recharged, you can 
+  <b>immediately</b> use your phaser again. 
+  <BR><BR><img src="dotclear.gif" width=10>
+  If you do this properly, you will be dealing 
+  lots of damage in short periods of time. 
+  </
+  font></TD>
+  <TD>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >1.6 Tractoring & Pressoring</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+  >
+  Tractoring and pressoring can be a bit confusing
+  for new players, so I'll just take a short time
+  to explain the basics of <b>T/P</b> (short for <b>Tractoring
+  </b>and <b>Pressoring</b>). After that I'll 
+  explain how you can use it to your advantage.
+  </
+  font></TD>
+  <TD>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000080"><b
+  >1.6.1 The physics</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+  >
+  To <b>tractor</b> someone you need to press the
+  tractor key (the underscore key <b>_</b> by default) 
+  and move your cursor over a ship. You will be 
+  tractoring that ship, be it friend or foe. This is an 
+  important concept: you can <b>tractor enemies and teammates
+  alike</b>. 
+  <BR><BR><img src="dotclear.gif" width=10>
+  Let me warn you right away though: 
+  teammates generally do not appreciate it when you
+  <b>T/P</b> them because they might get pushed into
+  torpstreams. Shoving teammates into torpstreams is 
+  a definite <i>don't</i> and hence, earns it place
+  in section (3.4).
+  <BR><BR><img src="dotclear.gif" width=10>
+  Anyway, when you <b>tractor</b> someone, his and your ship
+  get <b>closer</b>. When you <b>pressor</b> someone, you
+  and his ship <b>move away</b> from eachother. When you tractor
+  someone you will move towards that ship <b>roughly 2
+  warp speeds higher</b>, and similarly, you will move 
+  away 2 warp speeds higher when you pressor.  T/P does use fuel
+  but not an awful lot. <b>Top dogfighters</b> are always
+  <b>leaning heavily on T/P</b>, just to get that edge on 
+  dodging and making torpstreams hit.
+  <BR><BR><img src="dotclear.gif" width=10>
+  When you activate your tractor it <b>stays on</b>, until you 
+  turn it off. You can do that by pressing the tractor key 
+  again, or pressing the separate
+  <b>"T/P off"</b> key. It is very common to keep tractor on 
+  for a few seconds while you torp your opponent.
+  </
+  font></TD>
+  <TD>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000080"><b
+  >1.6.2 How to benefit</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD></TD>
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+  >
+  Tractoring and pressoring are both very important mechanics
+  during dogfighting. It comes down to a simple
+  rule of thumb: you want to be <b>tractoring</b> your 
+  opponent <b>when you torp</b>. That way, he'll have to 
+  accelerate to move away from you and thus, has
+  a harder time to turn out of your torpstream. 
+  <BR><BR><img src="dotclear.gif" width=10>
+  The same goes for phasering: you want to be 
+  <b>tractoring</b> your opponent <b>when you are phasering</b>
+  as well, because that way he will be just that little 
+  bit closer, for just that little 
+  bit of extra damage.
+  <BR><BR><img src="dotclear.gif" width=10>
+  Remember that sometimes it can also
+  help to push your opponent into your torpstreams.
+  You might have miscalculated a torpstream, 
+  which therefore is a bit off: pushing your opponent 
+  at that very time might just be enough to make those 
+  torps hit.
+  <BR><BR><img src="dotclear.gif" width=10>
+  T/P is not only a deciding factor in dealing damage,
+  but has a major impact on dodging as well, but more on 
+  that in the next chapter (Chapter 2, "Avoiding damage").
+  </
+  font></TD>
+  <TD>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD COLSPAN=4>
+	
+  <P align=left>
+  <b><i><font size=+2 face="Arial, Helvetica" color="#000080"
+  >Chapter 2: Avoiding damage</font></b></i></A>
+  </TD>
+</TR>
+<TR> 
+  <TD COLSPAN=4 bgcolor="#000000"><IMG SRC="http://pixelshelf.com/~charlie/dfmanual/dotclear" width=1 height=2></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >2.1 Introduction</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD></TD>
+
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >Avoiding damage is an aspect of dogfighting which is 
+  just as important as dealing damage. Consider this: if 
+  you would never take damage, you'd win all dogfights. 
+  So you better read on to find out how you can stay alive
+  longer, so you can keep dealing damage, and damage and
+  damage...
+  </
+  font></TD>
+  <TD></TD><TD></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >2.2 Changing speeds</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD></TD>
+
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >The most important thing to stay alive is to keep
+  changing speeds. Why? Because it is harder to aim torps
+  at a target which flies at varying speeds. If you
+  aim at a target which flies with a <b>constant</b> 
+  speed you can smart-guess it's future positions, 
+  aim the torps there and make them hit. Aiming torps
+  at a target with varying speeds is hard, because you'll
+  never know exactly where your target will be. So use this
+  to your advantage when you're dogfighting and keep
+  changing those speeds!
+  <BR><BR><img src="dotclear.gif" width=10>
+  You might ask yourself what this means in practice. Should you
+  be pressing all the numberkeys at random to keep 
+  changing the speeds? Well, the answer to that question
+  is a simple: no. The easiest and the best way to
+  keep varying your speeds, is to force yourself to do
+  so by changing your keymap. This basically means, 
+  mapping one key to a <b>basespeed</b> (let's say: warp 2) 
+  and another key to <b>maxwarp</b>. 
+  <BR><BR><img src="dotclear.gif" width=10> 
+  Now, when you are flying somewhere and you want to fly
+  faster you press the maxwarp key, and when you want to
+  fly slower you press the basespeed. You'll never need
+  the numbers in between because you are either flying 
+  somewhere (always at maxwarp), or, slowing down to 
+  dogfight, in which case you just press the basespeed key.
+  <BR><BR><img src="dotclear.gif" width=10> 
+  So far, so good. But how do you use this effectively
+  in dogfights? Easy. The best way to use this 
+  technique is to press maxwarp like a maniac when you 
+  see the first torp of a torpstream flying towards you,
+  and click perpendicular to the direction the torpstream
+  is flying. (Figure 6 explains this in more detail). This
+  way you'll dodge most streams with ease. Just make sure
+  you map basespeed and maxwarp to easy to reach keys. And
+  oh, remember to press the basespeed key again once you're
+  clear from the torps, because otherwise you'll be flying
+  at maxwarp speed to some random direction...
+  </
+  font></TD>
+  <TD></TD>
+  <TD rowspan=1 valign=top>
+  <TABLE cellpadding=0 cellspacing=0 border=0>
+  <TR>
+    <TD bgcolor=black><center><img src="fig6usingmaxwarptododgedropshadow.gif" align=center></center></TD>
+  </TR>
+  <TR>
+    <TD><P align=center><FONT
+    SIZE=-2 face="Arial, Helvetica" color="#000000"
+    >Fig. 6. <i><b></i>O1<i></b> should maxwarp and click
+    on the location of the white cross hair to dodge 
+    </i><b>F1</b><i>'s torpstream.</i>
+    </font></TD>
+  </TR>
+  </TABLE>
+  </TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >2.3 Basespeed 2 vs. 3</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD></TD>
+
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >As soon as you are struck by the beauty of varying
+  speeds you'll definitely want to be changing your 
+  keymap. This will involve making an important 
+  decision: use warp 2 or warp 3 as a basespeed?
+  <BR><BR><img src="dotclear.gif" width=10> 
+  In practice there is no straight answer to this 
+  question. Both basespeeds are being used by a variety 
+  of good dogfighters. In practice, the
+  main difference between the two are, that
+  using warp 2 is easier because you can immediately
+  enter orbit on a planet without having to slow down,
+  and the advantage of warp 3 is that since you are at
+  a higher warp it will be relatively easier to dodge
+  incoming torps. Fighting at a higher basespeed also
+  means that you drain more fuel though. 
+  <BR><BR><img src="dotclear.gif" width=10> 
+  For now, stick to warp 2 because being able to orbit 
+  planets in a split second is a good thing&#153;. Later
+  on, you can always try using warp 3 and see how that 
+  feels.
+  </
+  font></TD>
+  <TD></TD><TD></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >2.4 Dodging</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD></TD>
+
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >Now we arrive at the main thing of avoiding damage:
+  dodging! Dodging is a skill which relies on many
+  principles, but for now the three most basic ones
+  will be explained.
+  <BR><BR><img src="dotclear.gif" width=10> 
+  First of all, in general, you want to turn away 
+  from your opponent when the torps are incoming.
+  That way you'll have more time to try to find an
+  angle to dodge them. Over time torps always spread
+  out so if you move away from them, at some point 
+  you might get lucky and slip through them unharmed.
+  <BR><BR><img src="dotclear.gif" width=10> 
+  Secondly, varying speeds is your friend. As 
+  explained in the previous paragraphs you should 
+  always use your maxwarp key to accelerate away from 
+  torps, so you have more time to dodge. 
+  <BR><BR><img src="dotclear.gif" width=10> 
+  The third way of dodging involves using tractor
+  and pressor beams and is a very important way 
+  of dodging. This will be adressed in the next 
+  paragraph in more detail.
+  <BR><BR><img src="dotclear.gif" width=10> 
+  There are more ways of avoiding damage, but these
+  will be discussed in the advanced section. For now,
+  master these ones and you'll be one step closer to
+  becoming a dogfighting-god.
+  </
+  font></TD>
+  <TD></TD><TD></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >2.5 Tractoring/Pressoring</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD></TD>
+
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >Tractoring and Pressoring has been mentioned in the
+  dealing damage section, but also earns it place in the
+  avoiding damage section. 
+  <BR><BR><img src="dotclear.gif" width=10> 
+  In general, you can tell the difference between twinks
+  and clue in their use of tractors and pressors (T/P). 
+  You can safely state, that someone who does not use 
+  T/P during dogfights will <b>always</b> lose to someone
+  who does. Now, why is T/P so important?
+  <BR><BR><img src="dotclear.gif" width=10> 
+  Well, using Tractors and Pressors can basically give you
+  a momentarily speed-boost of relatively 2 warps. Combined
+  with hitting the maxwarp key at the right time and clicking
+  the right direction to dodge to, this will get you out of
+  hairy situations 99% of the time.
+  <BR><BR><img src="dotclear.gif" width=10> 
+  When you use T/P to dodge you can either push or pull 
+  friend or foe in order to make your ship move in the 
+  desired direction. Remember to be wary of T/P'ing teammates 
+  though, because while you might skillfully dodge that 
+  incoming stream using your buddy as a pressor point, he 
+  will likely be pushed into someone elses torps and die. 
+  That is a definite <b>don't</b>, but you can read more on 
+  that in the next chapter (Chapter 3, "Things not to do").
+  </
+  font></TD>
+  <TD></TD><TD></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR>
+  <TD COLSPAN=4>
+  <P align=left>
+  <b><i><font size=+2 face="Arial, Helvetica" color="#000080"
+  >Chapter 3: Things not to do</font></b></i></A>
+  </TD>
+</TR>
+<TR> 
+  <TD COLSPAN=4 bgcolor="#000000"><IMG SRC="http://pixelshelf.com/~charlie/dfmanual/dotclear" width=1 height=2></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD VALIGN=top COLSPAN=2><P align=left><FONT 
+  SIZE=+1 face="Arial, Helvetica" color="#000080"><b
+  >3.1 Plasma</
+  b></font></TD>
+</TR>
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+<TR> 
+  <TD></TD>
+
+  <TD VALIGN=top bgcolor=#FFFFFF><P align=left><FONT 
+  SIZE=-1 face="Arial, Helvetica" color="#000000"
+
+  >When your ship has two kills, you can refit to a 
+  new ship and get <i>plasma</i>. (This can be done by
+  refitting to CA, DD or BB, but this manual assumes that
+  you'll only fly CA, which is the superior ship to dogfight
+  in). Plasma's are 'special' weapons and are very popular under 
+  inexperienced players. They are basically big torps which 
+  deal 100 damage when hitting. You can only have 1 plasma 
+  in the air at a time.
+  <BR><BR><img src="dotclear.gif" width=10> 
+  OK, the bottomline here. Do not use plasma if you are 
+  seriously trying to become a good dogfighter. To put it even 
+  more extreme: do not ever use plasma, if you ask me. 
+  Why? Because plasma uses a lot of fuel, rarely hits and
+  can explode near you when phasered (dealing damage to you
+  and your buddies in the process). 
+  <BR><BR><img src="dotclear.gif" width=10> 
+  To fire a plasma you need 3000 fuel, which is the equivalent 
+  of 10 torps, or 4 phasers.   Now, when you either <i>miss</i> 
+  your plasma, or your plasma gets <i>phasered</i> (probably 
+  hurting you in the process), you basically missed 4 phasers. 
+  Missing 4 phasers in a dogfight is a bad thing&#153;, and is a 
+  99% guarantee to losing the dogfight. Look at the animation 
+  in fig. 7 and see how easy it is to dodge a plasma.
+  <BR><BR><img src="dotclear.gif" width=10> 
+  The chance that your plasma misses or gets phasered is
+  very high. Plasma can be dodged like torps and phasering
+  them is just a matter of pointing at them and clicking the
+  mousebutton. Consider people who phaser your plasma: you just
+  wasted 3000 fuel on it, while they just blow it up with only 700 
+  fuel and probably hurt you when doing so. Watch the animation 
+  in fig. 8 to see someone get maimed by his own plasma.
+  <BR><BR><img src="dotclear.gif" width=10> 
+  Plasma deals damage to all ships nearby when it explodes. This means,
+  that if someone would phaser your plasma at the very moment you
+  fire it, it would explode near you and deal 100 damage to 
+  <i>you</i>, or worse, to you <i>and</i> your teammates who might
+  happen to be near you at the same time. Your teammates do <b>not</b> 
+  appreciate that.
+  <BR><BR><img src="dotclear.gif" width=10> 
+  To summarize, plasma wastes a lot of fuel, rarely hits, can be
+  easily phasered and hence rendered useless, and even worse, can
+  explode on top of you or your teammates. Tip of the day: stay away
+  from plasma. It is what makes the difference between twinks and
+  clue.
+  </
+  font></TD>
+  <TD></TD>
+  <TD rowspan=1 valign=top>
+  <TABLE cellpadding=0 cellspacing=0 border=0>
+  <TR>
+    <TD bgcolor=black><center><IMG SRC="plasmamissoff.gif" hsrc="plasmamisson.gif" ></center></TD>
+  </TR>
+  <TR>
+    <TD><P align=center><FONT
+    SIZE=-2 face="Arial, Helvetica" color="#000000"
+    >Fig. 7. <b>O1</b> <i>easily dodges the plasma lobbed by</i> <b>F0</b><i>.
+    Point over the image to start the animation.
+    </font></TD>
+  </TR>
+  <TR>
+    <TD bgcolor=white><center><IMG SRC="dotclear.gif" height=50 width=1></center></TD>
+  </TR>
+  <TR>
+    <TD bgcolor=black><center><IMG SRC="plasmakilloff.gif" hsrc="plasmakillon.gif" ></center></TD>
+  </TR>
+  <TR>
+    <TD><P align=center><FONT
+    SIZE=-2 face="Arial, Helvetica" color="#000000"
+    >Fig. 8. <b>O1</b> <i>easily phasers the plasma's lobbed by</i> <b>F0</b><i> 
+    and kills him in the process.
+    Point over the image to start the animation.
+    </font></TD>
+  </TR>
+
+  </TABLE>
+  </TD>
+</TR>
+
+
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+<!-- witregel --> <TR><TD COLSPAN=2>&nbsp;</TD></TR>
+
+
+</TABLE>
+</BODY></HTML>
+
+
