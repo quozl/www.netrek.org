@@ -71,6 +71,9 @@ The following are miscellaneous Netrek related links.
 <li>    <A href="http://wiki.netrek.org">The Netrek Wiki</a> - 
 	Netrek Player and Developer Wiki.
 
+<li>    <A href="http://gytha.oggthebase.org/">Yoda's gytha page</a> - 
+	Info about the new Python-based multiplatform client, gytha. 
+
 <!--    <li>
 	<a href="http://netrek.hwy.com.au/">Netrek in Australia</a> - 
 	A website to serve the community of Netrek players in Australia.
