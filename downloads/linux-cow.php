@@ -70,8 +70,8 @@ The wonder that is free software means that if a package that suits
 your system doesn't already exist, you can download the source code and 
 compile one yourself in a few easy steps. 
 <ol>
-<LI>Download <a href="http://www.netrek.org/files/COW/netrek-client-cow-3.2.8.tar.gz">COW 3.2.8 source code</a>
-<LI>Unpack the file with "tar -xzf netrek-client-cow-3.2.8.tar.gz"
+<LI>Download <a href="http://www.netrek.org/files/COW/netrek-client-cow-3.3.0.tar.gz">COW 3.3.0 source code</a>
+<LI>Unpack the file with "tar -xzf netrek-client-cow-3.3.0.tar.gz"
 <LI>Issue the command "cd netrek-client-cow-3.2.8"
 <LI>Issue the command "./configure"
 <LI>Issue the command "make"
