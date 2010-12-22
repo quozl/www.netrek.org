@@ -59,7 +59,7 @@ The most recent clients are:
 <tr bgcolor="#333333">
 	<td><img src="../img/dl_icon_macosx.png" width="25" height="22" alt="Mac OS X" /></td>
 	<td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1_5_0.zip"><tt>MacTrek-1_5_0.zip</tt></a></td>
-<td>Nice new native Mac client. Should work under OS X 10.5 Leopard and 10.6 Snow Leopard on PPC or Intel, Tiger users may need to go <a href="http://www.netrek.org/files/MacTrek/MacTrek-1.4.0.zip">here for version 1.4.</a></td>
+<td>Native Mac client. Should work under OS X 10.5 Leopard and 10.6 Snow Leopard on PPC or Intel, Tiger users may need to go <a href="http://www.netrek.org/files/MacTrek/MacTrek-1.4.0.zip">here for version 1.4.</a></td>
 </tr>
 
 <tr>
@@ -68,6 +68,11 @@ The most recent clients are:
         <td>See the list of fine choices.</td>
 </tr>
 
+<tr bgcolor="#333333">
+        <td><img src="../img/dl_icon_python.png" width="25" height="22" alt="python for Windows and Linux" /></td>
+        <td>gytha</td>
+<td>The new python client, <a href="http://quozl.us.netrek.org/gytha/">gytha</a>, is available for <a href="http://www.netrek.org/files/gytha/gytha-0.7-1-win32.exe">Windows (32-bit)</a>, <a href="http://www.netrek.org/files/gytha/gytha-0.7-1-win64.exe">(64-bit)</a>, and <a href="http://www.netrek.org/files/gytha/gytha-0.7.tar.gz">Linux</a></td>
+</tr>
 
 <!-- <tr>
 	<td><a href="../files/Paradise_2000/paradise-2000-rc6.tar.gz"><tt>Paradise 2000 RC6</tt></a></td>
