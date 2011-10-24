@@ -316,6 +316,14 @@ curiousity.
 	<td width="75">Location</td>
 	<td width="50">Size</td>
 </tr>
+<tr>
+        <td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
+        <td><a href="../../files/COW/netrek-client-cow-3.3.1.tar.gz">netrek-client-cow-3.3.1.tar.gz</a> (source code tarball)</td>
+        <td>3.3.1</td>
+        <td>Oct 18, 2011</td>
+        <td>Main site</td>
+        <td>1.8 MB</td>
+</tr>
 <tr bgcolor="#333333">
 	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
         <td><a href="../../files/COW/netrek-client-cow-3.3.0.tar.gz">netrek-client-cow-3.3.0.tar.gz</a> (source code tarball)</td>
