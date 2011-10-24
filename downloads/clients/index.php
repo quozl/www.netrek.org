@@ -259,6 +259,14 @@ gytha is a new look for Netrek clients, thanks to the Pygame Python toolkit.
 	<td width="75">Location</td>
 	<td width="50">Size</td>
 </tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Linux" /></td>
+  <td><a href="http://quozl.us.netrek.org/gytha-0.8-1-crutech-win32.exe">gytha-0.8-1-crutech-win32.exe</a> (installer for Microsoft Windows)</td>
+	<td>0.8</td>
+        <td>Oct 24, 2011</td>
+	<td>Developer</td>
+	<td>5 MB</td>
+</tr>
 <tr>
 	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
   <td><a href="../../files/gytha/gytha-0.8.tar.gz">gytha-0.8.tar.gz</a> (python script, requires python and pygame to be installed)</td>
