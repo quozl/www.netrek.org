@@ -259,13 +259,21 @@ gytha is a new look for Netrek clients, thanks to the Pygame Python toolkit.
 	<td width="75">Location</td>
 	<td width="50">Size</td>
 </tr>
-<tr bgcolor="#333333">
+<tr>
 	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
   <td><a href="../../files/gytha/gytha-0.8.tar.gz">gytha-0.8.tar.gz</a> (python script, requires python and pygame to be installed)</td>
 	<td>0.8</td>
         <td>Jun 6, 2011</td>
 	<td>Main site</td>
 	<td>1.8 MB</td>
+</tr>
+<tr bgcolor="#333333">
+        <td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
+  <td><a href="http://quozl.us.netrek.org/gytha/gytha_0.8-1_all.deb">gytha_0.8-1_all.deb</a> (package for Ubuntu or Debian)</td>
+        <td>0.8</td>
+        <td>Jun 11, 2011</td>
+        <td>Developer</td>
+        <td>1.9 MB</td>
 </tr>
 <tr>
 	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
