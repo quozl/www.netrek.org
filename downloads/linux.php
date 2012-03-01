@@ -31,7 +31,7 @@ There are a number of Netrek clients available for Linux. COW and Gytha are the 
 <tr bgcolor="#333333"><td>Debian<td><a href="./linux-cow.php#apt">Install the package from Debian</a>
 <tr><td>Ubuntu<td><a href="./linux-cow.php#apt">Install the package from Ubuntu</a>
 <tr bgcolor="#333333"><td>Mandriva<td>Install the package from Mandriva
-<tr>Other<td><a href="./linux-cow.php#cowtarball">A binary tarball</a>
+<tr><td>Other<td><a href="./linux-cow.php#cowtarball">A binary tarball</a>
 <tr bgcolor="#333333"><td>Other<td><a href="./linux-cow.php#sourcebuild">Build from source code</a>
 <tr><td>
 </table>
