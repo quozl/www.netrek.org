@@ -826,7 +826,7 @@ picks up and then announce it to the rest of your team (se above).</p>
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

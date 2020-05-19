@@ -49,7 +49,7 @@ This client goes back to the dawn of time, but the maintainer claims that a new 
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

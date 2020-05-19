@@ -301,7 +301,7 @@ J.Young (Joseph F. Young): worked on KSU servers
 <address>fadden@amdahl.com</address>
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

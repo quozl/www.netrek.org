@@ -1262,7 +1262,7 @@ mercy.
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

@@ -132,7 +132,7 @@ telnet'ing to the server's port 3521, and extended info on port 3522.
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

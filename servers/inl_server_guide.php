@@ -371,7 +371,7 @@ restrict cmd	Toggle allowing command cmd to be used by anyone, or
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

@@ -122,7 +122,7 @@ is the FAQ that used to be posted regularly to the Usenet rec.games.netrek group
 
 </ul>
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

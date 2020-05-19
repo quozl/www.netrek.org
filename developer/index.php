@@ -140,7 +140,7 @@ to do  a complete rewrite of Netrek in Java. Project died out in 1999.
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

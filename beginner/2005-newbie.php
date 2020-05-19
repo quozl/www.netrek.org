@@ -1726,7 +1726,7 @@ recommended.
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

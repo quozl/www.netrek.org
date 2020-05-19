@@ -169,7 +169,7 @@ these files range in size from 12MB to 40MB.
 	</li>
 </ul>
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

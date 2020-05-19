@@ -40,7 +40,7 @@ echo "</div>\n\n<div id=\"content\">";
 for a step-by-step intro.
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

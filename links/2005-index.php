@@ -176,7 +176,7 @@ chronologically added order.</p>
 </ul>
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

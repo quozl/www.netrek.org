@@ -477,7 +477,7 @@ I have the server lists released on:
 </p>
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

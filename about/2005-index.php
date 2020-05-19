@@ -58,7 +58,7 @@ Netrek History is available for:
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

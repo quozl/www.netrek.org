@@ -87,7 +87,7 @@ of "It's Ogggg! It's Ogggg! Helllppp!!".
 of the situation, the term followed Steve and quickly  
 was picked up among other netrek players. 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

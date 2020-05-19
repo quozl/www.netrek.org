@@ -88,7 +88,7 @@ myspace.com. Really.
 The <a href="../about/">Netrek History</a> section has some information on
 past servers and their configurations. 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

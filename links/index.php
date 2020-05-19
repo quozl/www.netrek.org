@@ -175,7 +175,7 @@ In no particular order.
 </ul>
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

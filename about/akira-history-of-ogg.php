@@ -71,7 +71,7 @@ was picked up among other netrek players.
 <p>The two accounts from which the above were assembled 
 <a href="./akira-history-of-ogg-sources.php">may be found here.</a>
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

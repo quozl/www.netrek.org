@@ -92,7 +92,7 @@ drink lots of beer and generally have a good time. ShadowHunter has
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

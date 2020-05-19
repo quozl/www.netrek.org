@@ -138,7 +138,7 @@ spelsituaties zijn afkomstig van wormhole.ecst.csuchico.edu.
 Ferry van het Groenewoud
 </p>
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

@@ -932,7 +932,7 @@ were written by Jeff Nelson sometime around 6/4/1993. In March of 2007,
 akb4 rewrote and reformatted a bunch to create this as a separate manual.
 Probably other people contributed as well. 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

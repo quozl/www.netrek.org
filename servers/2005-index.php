@@ -145,7 +145,7 @@ additional information. The only actively maintained Netrek server is
 the Vanilla server.
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

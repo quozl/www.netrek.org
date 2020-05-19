@@ -63,7 +63,7 @@ If none of the above works for you, you have two simple choices (besides giving 
 <img src="../img/bill-ogg-motivator.jpg">
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

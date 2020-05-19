@@ -98,7 +98,7 @@ Notes:
 </ul>
   
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

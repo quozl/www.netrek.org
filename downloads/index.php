@@ -126,7 +126,7 @@ past and present.
 </p>
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

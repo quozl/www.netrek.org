@@ -120,7 +120,7 @@ There are a lot more Netrek resources out there on the World Wide Web.
 In this section we do a futile attempt to list the most prominent ones.
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

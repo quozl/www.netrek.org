@@ -478,7 +478,7 @@ Good luck!
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

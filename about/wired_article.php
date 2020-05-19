@@ -258,7 +258,7 @@ There is a Macintosh version and a Linux version playable on IBM PCs;
 details from <a href="news:rec.games.netrek">rec.games.netrek</a>. 
 </p>
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

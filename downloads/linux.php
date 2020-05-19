@@ -37,7 +37,7 @@ There are a number of Netrek clients available for Linux. COW and Gytha are the 
 </table>
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

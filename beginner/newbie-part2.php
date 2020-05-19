@@ -432,7 +432,7 @@ configuration files to use TCP only in case UDP just isn't possible.
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

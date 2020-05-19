@@ -809,7 +809,7 @@ Herbert Enderton (aka Red Shirt),<br>
 2.001 by akb4 (Retrograde/Xenophile) based on 1.7. 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

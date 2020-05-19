@@ -59,7 +59,7 @@ pointer in the "All" window.
 In Windows clients, you can start a message to a player by putting your mouse
 pointer over that player's entry in the playerlist window. 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

@@ -97,7 +97,7 @@ there is also <a href="./machines.php">a page that discusses
 specific server machines</a> you might play on. </p>
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

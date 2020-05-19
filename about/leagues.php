@@ -100,7 +100,7 @@ For more info about Paradise, see the <a href="http://paradise.netrek.org/">Para
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

@@ -355,7 +355,7 @@ is possible.
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

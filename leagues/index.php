@@ -72,7 +72,7 @@ World Netrek League (WNL), European Netrek League (ENL),
 International Netrek Hockey League (INHL), and the Paradise Netrek League. 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

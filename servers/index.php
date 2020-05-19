@@ -56,7 +56,7 @@ If you are interested in running your own server
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

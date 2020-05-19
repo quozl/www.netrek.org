@@ -89,7 +89,7 @@ community</a> for further help!
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

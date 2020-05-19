@@ -350,7 +350,7 @@ Andrew Markiel Rear Adm. Grey Elf (ex-
 
 <p>&nbsp;
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

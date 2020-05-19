@@ -111,7 +111,7 @@ ckeymap: ^A^6^a^6
 
 
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>

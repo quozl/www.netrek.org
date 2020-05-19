@@ -24,7 +24,7 @@ echo "</div>\n\n<div id=\"content\">";
 
 Add your content here
 
-<?
+<?php
 echo "</div>\n";
 echo getFooter();
 ?>
