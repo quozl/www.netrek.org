@@ -20,7 +20,7 @@
 $server_name = $_SERVER['SERVER_NAME'];
 
 if ($server_name == 'www.netrek.org' || $server_name == 'netrek.org') {
-   define('NPH_LOC_FILEROOT', '/var/www/www.netrek.org/');
+   define('NPH_LOC_FILEROOT', '/data/orion/var/www/www.netrek.org/');
    define('NPH_LOC_WEBROOT', '/');
 }
 
@@ -30,7 +30,7 @@ if ($server_name == 'www1.cs.columbia.edu') {
 }
 
 if ($server_name == 'horizon.mirror.to') {
-   define('NPH_LOC_FILEROOT', '/var/www/www.netrek.org/');
+   define('NPH_LOC_FILEROOT', '/data/orion/var/www/www.netrek.org/');
    define('NPH_LOC_WEBROOT', '/');
 }
 

@@ -6,16 +6,6 @@
 # 3) Prepend each line with a date stamp of YYYYMMDD format
 # 4) Empty lines and lines starting with '#' are ignored
 
-20101108 The pygame client has been renamed "gytha". Version 0.7 is out for <a href="http://www.netrek.org/files/gytha/gytha-0.7-1-win32.exe">Windows (32-bit)</a>, <a href="http://www.netrek.org/files/gytha/gytha-0.7-1-win64.exe">(64-bit)</a>, and <a href="http://www.netrek.org/files/gytha/gytha-0.7.tar.gz">Linux</a>.<br><br>For more info, see the <a href="http://quozl.us.netrek.org/gytha/">gytha homepage</a> and <a href="http://gytha.oggthebase.org/">Yoda's gytha site</a>.
-
-20100317 Added a <a href="http://www.netrek.org/clueguides/yoda_poem.php">poem about Netrek</a> to the clueguide section. 
-
-20091116 MacTrek 1.5.0 is released!
-
-20091116 Who Plays Netrek utility for the iPhone and iPod Touch introduced. 
-
-20090716 Netrek XP 2010 client released. 
-
 20090514 The new "Netrek Game On!" app is up! Download this program for the Windows taskbar so you can hear an audio alert when a game has started
 
 20090510 The new Star Trek movie is out and we're seeing a bunch of new players from around the world. 

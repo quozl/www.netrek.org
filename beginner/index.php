@@ -35,7 +35,7 @@ echo "</div>\n\n<div id=\"content\">";
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="../files/NetrekXP_2010/netrekinstall2010v1.exe"><tt>Netrek XP 2010 v1.0</tt></a></td>
+	<td><a href="../files/NetrekXP_2009/netrekinstall2009v1.exe"><tt>Netrek XP 2009 v1.0</tt></a></td>
 	<td>Newest and flashiest windows client.<br>Can do 50 frames per second and yet it will run on Windows 98.</td>
 </tr>
 <tr>
@@ -46,8 +46,8 @@ echo "</div>\n\n<div id=\"content\">";
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../img/dl_icon_macosx.png" width="25" height="22" alt="Mac OS X" /></td>
-	<td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1_5_0.zip"><tt>MacTrek-1_5_0.zip</tt></a></td>
-<td>Nice new native Mac client. Should work under OS X 10.5 Leopard and 10.6 Snow Leopard on PPC or Intel, Tiger users may need to go <a href="http://www.netrek.org/files/MacTrek/MacTrek-1.4.0.zip">here for version 1.4.</a></td>
+	<td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1.5.0.zip"><tt>MacTrek-1.5.0.zip</tt></a></td>
+<td>Native Mac client for MacOS <= 10.14.  <a href="https://apps.apple.com/us/app/netrek/id1456021641?ls=1&mt=12">Mac Switch Netrek client</a> for MacOS >= 10.15 in the App Store.</td>
 </tr>
 
 <tr>

@@ -56,7 +56,7 @@ define('NPH_LOC_WEB_PEOPLE',	NPH_LOC_WEBROOT.'people/');
 define('NPH_LOC_WEB_LINKS',	NPH_LOC_WEBROOT.'links/');
 define('NPH_LOC_WEB_CINEMA',	NPH_LOC_WEBROOT.'cinema2/');
 define('NPH_LOC_WEB_NEWS',	NPH_LOC_WEBROOT.'news.php');
-define('NPH_LOC_WEB_FEEDBACK',	'mailto:netrek-web@mirror.to');
+define('NPH_LOC_WEB_FEEDBACK',	'mailto:webmaster@netrek.org');
 define('NPH_LOC_WEB_ADVERTISE',	NPH_LOC_WEBROOT.'advertise.html');
 
 /* depending on error_level setting of server, php can toss errors
@@ -304,11 +304,6 @@ $siteparentlist = array(
 			"Tao of netrek",
 			"Bert Enderton",
 			"1995"
-	),
-
-	"clueguides/yoda_poem.php" => array(
-			"clueguides/",
-			"Netrek poetry"
 	),
 
 	"clueguides/ships/" => array(
@@ -623,9 +618,10 @@ function getSidebarDownload()
 	return "
 <h1>Download Now!</h1>
 <table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">
-<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_win.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."NetrekXP_2010/netrekinstall2010v1.exe\">Netrek XP 2010</a> (8.4 MB)</td></tr>
+<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_win.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."NetrekXP_2009/netrekinstall2009v1.exe\">Netrek XP 2009</a> (8.9 MB)</td></tr>
 <tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_win.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe\">Netrek XP Mod 4.4.0.4</a> (small, fewer features) (2.4 MB)</td></tr>
-<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_macosx.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."MacTrek/MacTrek-1_5_0.zip\">MacTrek 1.5.0</a> (38 MB)</td></tr>
+<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_macosx.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;<a href=\"".NPH_LOC_WEB_DLFILES."MacTrek/MacTrek-1.5.0.zip\">MacTrek for MacOS <= 10.14</a> (38 MB)</td></tr>
+<tr><td><img src=\"".NPH_LOC_IMGBASE."dl_icon_macosx.png\" width=\"25\" height=\"22\" alt=\"\"></td><td>&nbsp;Netrek for MacOS >= 10.15 in <a href=\"https://apps.apple.com/us/app/netrek/id1456021641?ls=1&mt=12\">App Store</a>!</td></tr>
 
 <tr><td>
 
@@ -812,7 +808,7 @@ function getFooter()
 	return "
 <div id=\"footer\">$adstring<br>
 Website design &copy; 2004,2005 by ".NHP_AUTHOR.". The content of the netrek home page is copyrighted by their respective authors.
-Please send feedback to <a href=\"" . NPH_LOC_WEB_FEEDBACK . "\">netrek-web@mirror.to</a>.
+Please send feedback to <a href=\"" . NPH_LOC_WEB_FEEDBACK . "\">webmaster@netrek.org</a>.
 </div>
 
 </body>

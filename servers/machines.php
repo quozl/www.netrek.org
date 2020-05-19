@@ -55,15 +55,10 @@ might not otherwise know, like which ones have robot players.
     <td>
     <td>
 <tr>
-<tr><td><a href="http://netrek.beeseenterprises.com">netrek.beeseenterprises.com</a>
+<tr><td><a href="http://netrek.warped.us">netrek.warped.us</a>
     <td>Yes
     <td>Sturgeon Pick-up&nbsp;&nbsp;
-    <td><a href="http://netrek.beeseenterprises.com/blog/index.rss">Yes</a>
-    <td>
-<tr><td><a href="http://paradise.beeseenterprises.com">paradise.beeseenterprises.com</a><br>link points to Sturgeon docs; <br>no paradise docs there.
-    <td>
-    <td>Paradise Pick-up&nbsp;&nbsp;
-    <td>
+    <td><a href="http://netrek.warped.us/blog/index.rss">Yes</a>
     <td>
 
 <tr><td>Home and Away.clue.netrek.org&nbsp;&nbsp;

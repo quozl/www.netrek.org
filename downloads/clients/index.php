@@ -43,10 +43,9 @@ responsiveness.
 <p>
 Clients:
 <ul>
-<li><a href="#xpbill">Netrek XP 2010</a> (Windows 98 thru Vista)
-<li><a href="#mactrek">MacTrek</a> (OS X 10.4 or newer, PPC or Intel)
+<li><a href="#xp2009">Netrek XP 2009</a> (Windows 98 thru Vista)
+<li><a href="#mactrek">MacTrek</a> (OS X 10.4, PPC or Intel)
 <li><a href="#cow">COW</a>  (Linux, other Unixes)
-<li><a href="#gytha">gytha</a>  (Python client runs on Windows and Linux)
 <li><a href="#xpmod">Netrek XP Mod</a> (Windows 2000, XP, maybe Vista)
 <li><a href="#xp2006">Netrek XP 2006</a> (Windows 98 thru Vista)
 <li><a href="#tt">TedTurner</a> (OS X, other Unixes)
@@ -71,23 +70,23 @@ need this.
 </p>
 
 
-<a name="xpbill"></a><p><h2>Netrek XP 2010, 2009, 2006</h2>
+<a name="xp2009"></a><p><h2>Netrek XP 2009</h2>
 
 <table>
 <tr><td>Maintainer: <td>Bill Balcerski<br><img src="../../img/bill-email.png" /><br>
 <tr><td>Homepage: <td><a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a><br>
 <tr><td>Version history: <td><a href=""></a><br>
 <tr><td>Source Code Repository:&nbsp; <td>CVS at <a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a>
-<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod -> XP 2006/2009/2010<br>
+<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod -> XP 2006 -> XP 2009<br>
 </table>
 
 <br><p>
-This is the most recent and actively developed Windows-based client. 
-It includes
+This is the most recent and actively developed Windows client. It includes
 lots of newbie-friendly graphic aids, like "det circles" and "lock lines".
 <br>It also can do 50 frames per second. 
 If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkout*/netrek/client/netrekxp/resources/docs/README%20for%20Win95%2C%20Win98%2C%20and%20WinME.TXT">see the docs</a> for configuration info. 
 
+<br><p>
 <table border="0" bgcolor="#444444">
 <tr>
 	<td width="30">OS</td>
@@ -96,22 +95,6 @@ If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkou
 	<td width="85">Date</td>
 	<td width="75">Location</td>
 	<td width="50">Size</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-	<td><a href="../../files/NetrekXP_2010/netrekinstall2010v1.exe">netrekinstall2010v1.exe</a></td>
-	<td>1.0</td>
-	<td>July 16, 2009</td>
-	<td>Main site</td>
-	<td>8.4 MB</td>
-</tr>
-<tr>
-	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="../../files/NetrekXP_2009/netrekXP2010src-v1.0.zip">netrekXP2010src-v1.0.zip</a></td>
-	<td>1.0</td>
-	<td>Jul 16 2009</td>
-	<td>Main Site</td>
-	<td>15 MB</td>
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
@@ -129,30 +112,9 @@ If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkou
 	<td>Main Site</td>
 	<td>14.3 MB</td>
 </tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="../../files/NetrekXP_2006/netrekXP2006v13install.exe">netrekXP2006v13install.exe</a></td>
-	<td>1.3</td>
-	<td>July 19, 2007</td>
-	<td>Main site</td>
-	<td>8.3 MB</td>
-</tr>
-<tr>
-	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Linux" /></td>
-	<td><a href="../../files/NetrekXP_2006/netrekXP2006src-v1.2.zip">netrekXP2006src-v1.2.zip</a></td>
-	<td>1.2</td>
-	<td>Mar 05 2007</td>
-	<td>Main Site</td>
-	<td>13.9 MB</td>
-</tr>
 </table>
 <br><p>
-The latest version of XP 2010 is also available from <a href="http://www.playnetrek.org">playnetrek.org</a>. <br>Older versions are archived at <a href="http://www.netrek.org/files/NetrekXP_2006/">http://www.netrek.org/files/NetrekXP_2006/</a> and <a href="http://www.netrek.org/files/NetrekXP_2009/">http://www.netrek.org/files/NetrekXP_2009/</a> 
-
-<br>If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkout*/netrek/client/netrekxp/resources/docs/README%20for%20Win95%2C%20Win98%2C%20and%20WinME.TXT">see the docs</a> for configuration info. 
-
-<br><p>
-
+The latest version of XP 2009 is also available from <a href="http://www.playnetrek.org">playnetrek.org</a>.
 
 
 
@@ -190,21 +152,13 @@ copy than what we have listed here. There are a bunch of developer files, includ
 
 <tr bgcolor="#333333">
         <td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
-        <td><a href="../../files/MacTrek/MacTrek-1_5_0.zip">MacTrek-1_5_0.zip</a>       <td>1.5.0</td>
-        <td>Nov 16, 2009</td>
-        <td>Main Site</td>
-        <td>38 MB</td>
-</tr>
-
-<tr >
-        <td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
         <td><a href="../../files/MacTrek/MacTrek-1.4.0.zip">MacTrek-1.4.0.zip</a>       <td>1.4.0</td>
         <td>July 11, 2007</td>
         <td>Main Site</td>
         <td>26 MB</td>
 </tr>
 
-<tr bgcolor="#333333">
+<tr>
         <td><img src="../../img/dl_icon_macosx.png" width="25" height="22" alt="Mac" /></td>
 	<td><a href="../../files/MacTrek/MacTrek-1.3.0.zip">MacTrek-1.3.0.zip</a>	<td>1.3.0</td>
 	<td>July 06, 2007</td>
@@ -237,69 +191,7 @@ copy than what we have listed here. There are a bunch of developer files, includ
 </table>
 
 
-<a name="gytha"></a><p><h2>gytha</h2>
-<table>
-<tr><td>Maintainer: <td>James Cameron<br>
-<tr><td>Homepage: <td><a href="http://quozl.us.netrek.org/gytha/">http://quozl.us.netrek.org/gytha/</a>. See also <a href="http://gytha.oggthebase.org/">Yoda's gytha page</a>.
-<tr><td>Version history: <td><a href="http://james.tooraweenah.com/darcs/netrek-client-pygame/ChangeLog">ChangeLog</a> 
-<tr><td>Source Code Repository:&nbsp;<td>darcs from http://james.tooraweenah.com/darcs/netrek-client-pygame/
-<tr><td>Lineage: <td>gytha (original name: netrek-client-pygame), from scratch by an experienced Netrek coder
-</table>
-<br><p>
-gytha is a new look for Netrek clients, thanks to the Pygame Python toolkit. 
-  The use of python also makes it multi-platform, with builds currently available for Windows and Linux. If anyone wants to make a Mac build, that should be possible, and pygame for Android is under development. 
 
-<br><p>
-<table border="0" bgcolor="#444444">
-<tr>
-	<td width="30">OS</td>
-	<td width="350">Filename</td>
-	<td width="65">Version</td>
-	<td width="85">Date</td>
-	<td width="75">Location</td>
-	<td width="50">Size</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Linux" /></td>
-  <td><a href="http://quozl.us.netrek.org/gytha-0.8-1-crutech-win32.exe">gytha-0.8-1-crutech-win32.exe</a> (installer for Microsoft Windows)</td>
-	<td>0.8</td>
-        <td>Oct 24, 2011</td>
-	<td>Developer</td>
-	<td>5 MB</td>
-</tr>
-<tr>
-	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-  <td><a href="../../files/gytha/gytha-0.8.tar.gz">gytha-0.8.tar.gz</a> (python script, requires python and pygame to be installed)</td>
-	<td>0.8</td>
-        <td>Jun 6, 2011</td>
-	<td>Main site</td>
-	<td>1.8 MB</td>
-</tr>
-<tr bgcolor="#333333">
-        <td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-  <td><a href="http://quozl.us.netrek.org/gytha/gytha_0.8-1_all.deb">gytha_0.8-1_all.deb</a> (package for Ubuntu or Debian)</td>
-        <td>0.8</td>
-        <td>Jun 11, 2011</td>
-        <td>Developer</td>
-        <td>1.9 MB</td>
-</tr>
-<tr>
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-  <td><a href="../../files/gytha/gytha-0.7-1-win32.exe">gytha-0.7-1-win32.exe</a> (32-bit)</td>
-	<td>0.7.1</td>
-        <td>Nov 10, 2010</td>
-	<td>Main site</td>
-	<td>4.9 MB</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Windows" /></td>
-  <td><a href="../../files/gytha/gytha-0.7-1-win64.exe">gytha-0.7-1-win64.exe</a> (64-bit)</td>
-	<td>0.7.1</td>
-        <td>Nov 10, 2010</td>
-	<td>Main site</td>
-	<td>5.5 MB</td>
-</tr>
-</table>
 
 <a name="cow"></a><p><h2>COW</h2>
 <table>
@@ -331,62 +223,6 @@ curiousity.
 	<td width="85">Date</td>
 	<td width="75">Location</td>
 	<td width="50">Size</td>
-</tr>
-<tr>
-        <td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-        <td><a href="../../files/COW/netrek-client-cow-3.3.1.tar.gz">netrek-client-cow-3.3.1.tar.gz</a> (source code tarball)</td>
-        <td>3.3.1</td>
-        <td>Oct 18, 2011</td>
-        <td>Main site</td>
-        <td>1.8 MB</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-        <td><a href="../../files/COW/netrek-client-cow-3.3.0.tar.gz">netrek-client-cow-3.3.0.tar.gz</a> (source code tarball)</td>
-	<td>3.3.0</td>
-        <td>Jun 16, 2009</td>
-	<td>Main site</td>
-	<td>1.7 MB</td>
-</tr>
-<tr>
-	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-        <td><a href="../../files/COW/netrek-client-cow-3.2.10.tar.gz">netrek-client-cow-3.2.10.tar.gz</a> (source code tarball)</td>
-	<td>3.3.0</td>
-        <td>Mar 18, 2009</td>
-	<td>Main site</td>
-	<td>618 KB</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-        <td><a href="../../files/COW/netrek-client-cow-3.2.7-i386-portable-0.tar.gz">netrek-client-cow-3.2.7-i386-portable-0.tar.gz</a> (binary tarball)</td>
-	<td>3.2.7</td>
-        <td>Sep 15, 2008</td>
-	<td>Main site</td>
-	<td>3.6 MB</td>
-</tr>
-<tr >
-	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-        <td><a href="../../files/COW/netrek-client-cow-3.2.7.tar.gz">netrek-client-cow-3.2.7.tar.gz</a> (source code tarball)</td>
-	<td>3.2.7</td>
-        <td>Sep 15, 2008</td>
-	<td>Main site</td>
-	<td>677 KB</td>
-</tr>
-<tr bgcolor="#333333">
-	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-        <td><a href="../../files/COW/netrek-client-cow_3.2.7-0_i386.deb">netrek-client-cow_3.2.7-0_i386.deb</a> (i386 debian installer)</td>
-	<td>3.2.7</td>
-        <td>Sep 15, 2008</td>
-	<td>Main site</td>
-	<td>240 KB</td>
-</tr>
-<tr >
-	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
-        <td><a href="../../files/COW/netrek-client-cow_3.2.7-0_amd64.deb">netrek-client-cow_3.2.7-0_amd64.deb</a> (amd64 debian installer)</td>
-	<td>3.2.7</td>
-        <td>Sep 15, 2008</td>
-	<td>Main site</td>
-	<td>273 KB</td>
 </tr>
 <tr bgcolor="#333333">
 	<td><img src="../../img/dl_icon_linux.png" width="25" height="22" alt="Linux" /></td>
@@ -574,6 +410,51 @@ a slow link.
 	<td>1.9 MB</td>
 </tr>
 </table>
+
+<a name="xp2006"></a><p><h2>Netrek XP 2006</h2>
+
+<table>
+<tr><td>Maintainer: <td>Bill Balcerski<br><img src="../../img/bill-email.png" /><br>
+<tr><td>Homepage: <td><a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a><br>
+<tr><td>Version history: <td><a href=""></a><br>
+<tr><td>Source Code Repository:&nbsp; <td>CVS at <a href="http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/">http://netrek.cvs.sourceforge.net/netrek/client/netrekxp/</a>
+<tr><td>Lineage: <td>Berkeley + Rick's Moo => BRM -> COW -> Netrek:1999 -> XP Mod -> XP 2006<br>
+</table>
+
+<br><p>
+This is here for historical purposes. It's the Windows client between XP Mod and XP 2009; you probably want to run 2009, but might want XP Mod if you need a small download or have a very slow machine. 
+If you run windows 98 or ME, <a href="http://netrek.cvs.sourceforge.net/*checkout*/netrek/client/netrekxp/resources/docs/README%20for%20Win95%2C%20Win98%2C%20and%20WinME.TXT">see the docs</a> for configuration info. 
+
+<br><p>
+<table border="0" bgcolor="#444444">
+<tr>
+	<td width="30">OS</td>
+	<td width="350">Filename</td>
+	<td width="65">Version</td>
+	<td width="85">Date</td>
+	<td width="75">Location</td>
+	<td width="50">Size</td>
+</tr>
+<tr bgcolor="#333333">
+	<td><img src="../../img/dl_icon_win.png" width="25" height="22" alt="Linux" /></td>
+	<td><a href="../../files/NetrekXP_2006/netrekXP2006v13install.exe">netrekXP2006v13install.exe</a></td>
+	<td>1.3</td>
+	<td>July 19, 2007</td>
+	<td>Main site</td>
+	<td>8.3 MB</td>
+</tr>
+<tr>
+	<td><img src="../../img/dl_icon_src.png" width="25" height="22" alt="Linux" /></td>
+	<td><a href="../../files/NetrekXP_2006/netrekXP2006src-v1.2.zip">netrekXP2006src-v1.2.zip</a></td>
+	<td>1.2</td>
+	<td>Mar 05 2007</td>
+	<td>Main Site</td>
+	<td>13.9 MB</td>
+</tr>
+</table>
+<br><p>
+The latest version of XP 2006 is also available from <a href="http://www.playnetrek.org">playnetrek.org</a>. Older versions are archived at <a href="http://www.netrek.org/files/NetrekXP_2006/">http://www.netrek.org/files/NetrekXP_2006/</a>.
+
 
 <a name="tt"></a><p><h2>TedTurner (Paradise) client</h2>
 <table>

@@ -42,10 +42,10 @@ it's open source.
 <tr><td align="center">
 
 <table>
-<tr><td><a href="./files/NetrekXP_2010/netrekinstall2010v1.exe"><img src="./img/dl_icon_win.png" width="25" height="22" alt="Windows" /></a> For Windows, choose <a href="./files/NetrekXP_2010/netrekinstall2010v1.exe"><tt>Netrek XP 2010 v1.0</tt></a>, <br>or for a small download, <a href="../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe"><tt>Netrek XP Mod v4.4.0.4</tt></a>
-<tr><td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1_5_0.zip"><img src="./img/dl_icon_macosx.png" width="25" height="22" alt="Mac OS X"></a> For Apple's OS X, grab <a href="http://www.netrek.org/files/MacTrek/MacTrek-1_5_0.zip"><tt>MacTrek-1_5_0.zip</tt></a>
+<tr><td><a href="./files/NetrekXP_2009/netrekinstall2009v1.exe"><img src="./img/dl_icon_win.png" width="25" height="22" alt="Windows" /></a> For Windows, choose <a href="./files/NetrekXP_2009/netrekinstall2009v1.exe"><tt>Netrek XP 2009 v1.0</tt></a>, <br>or for a small download, <a href="../files/NetrekXP_Mod/NetrekXPMod-4.4.0.4.installer.exe"><tt>Netrek XP Mod v4.4.0.4</tt></a>
+<tr><td><a href="http://www.netrek.org/files/MacTrek/MacTrek-1.4.0.zip"><img src="./img/dl_icon_macosx.png" width="25" height="22" alt="Mac OS X"></a> For Apple's MacOS up to 10.14 (Catalina), grab <a href="http://www.netrek.org/files/MacTrek/MacTrek-1.5.0.zip"><tt>MacTrek-1.5.0.zip</tt></a> (<a href="https://sourceforge.net/projects/mactrek/files/">SF.net</a>).<br>For MacOS 10.15 or later, try the <a href="https://apps.apple.com/us/app/netrek/id1456021641?ls=1&mt=12">Mac Swift Netrek</a> client from the MacOS App Store.
 <tr><td><img src="./img/dl_icon_linux.png" width="25" height="22" alt="Linux" />
-  For Linux, <a href="./downloads/linux.php">See this page</a>
+  For Linux and FreeBSD, <a href="./downloads/linux.php">See this page</a>
 </table>
 
 <tr><td><h3>Then, read <a href="./beginner/quickstartguide.php">Netrek in one paragraph</a> or the full <a href="./beginner/newbie.php">Newbie Guide</a> and start playing.</h3>
@@ -54,13 +54,9 @@ it's open source.
 
 
 <br><br>
-<center><h2>New Utilities: Netrek Game On! and Who Plays Netrek</h2></center>
+<center><h2>New Utility: Netrek Game On!</h2></center>
 
-<p><br>There are some new utilities for Netrek to let people see how many players are on the servers, so they can see if a game is on and join in. 
-
-  <p><font color="yellow">Netrek Game On!</font> should run on Windows, Linux, or Macintosh; it's written in Java. Under Windows, you can iconize it to the task bar and keep an eye on when to play. Grab the latest version from <a href="http://www.netrek.org/files/Netrek_Game_On/">the files section.</a>
-
-  <p><font color="yellow">Who Plays Netrek</font> is for the Apple iPhone and iPod Touch. <br>No client for these handhelds (yet), but you can find out when to go play. <a href="http://itunes.apple.com/nl/app/who-plays-netrek/id334105941?mt=8">Get it from the Apple App Store.</a>
+<p>There's a brand new utility for Netrek called "Netrek Game On!". It checks the metaservers and lets you know how many players are on line. It's in Java and should run on Windows, Linux, or Macintosh. Under Windows, you can iconize it to the task bar and keep an eye on when to play. Grab the latest version from <a href="http://www.netrek.org/files/Netrek_Game_On/">the files section.</a>
 
 <p><center><h2>Everything Else</h2></center>
 <h2><a href="people/"><img src="img/icon_people.png" alt="">

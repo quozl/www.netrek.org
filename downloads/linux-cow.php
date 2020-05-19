@@ -24,10 +24,33 @@ echo "</div>\n\n<div id=\"content\">";
 <a name="apt"></a>
 <h2>(1) Installing COW using the APT tools</h2>
 <br>
-<p>If you're running Debian or Ubuntu, pick "netrek-client-cow" from the package list in your system's package manager. This will add the package to a Games menu. Or do it manually: see <a href="http://wiki.netrek.org/index.php/ClientInstallDebian">ClientInstallDebian</a> on the Wiki.
+<p>If you're running any recent version of Debian or Ubuntu, you have it easy; all you need to do is pick "netrek-client-cow" from the package list in your system's package manager. Your system will probably even add the package to a Games menu on your desktop for you. In case you're having trouble, you can simply do the following:
+<ol>
+<li>get to a root shell prompt
+<li>enter <tt>"apt-get&nbsp;install&nbsp;-f&nbsp;netrek-client-cow"</tt>
+<li>or <tt>"apt&nbsp;install&nbsp;netrek-client-cow"</tt>
+</ol>
+</p>
+
+
+
+<a name="cow"></a>
+<h2>(2) Installing the COW .deb package from packages.debian.org</h2>
+<br><p>
+This has been tested on Debian Etch, Debian Lenny, and Ubuntu Hardy. It should also work on Ubuntu Intrepid. These binaries are provided only for intel processor architectures.
+</p>
+<ol>
+<li>Download the .deb package for your platform and Debian version from <a href="https://packages.debian.org/stable/games/netrek-client-cow">packages.debian.org</a>
+<li>If you are not already, become root, using either "su" or "sudo bash"
+<li>Issue the command "dpkg --force-depends -i netrek-client-cow_<version>_<arch>.deb"
+<li>Issue the command "apt-get install -f netrek-client-cow"
+<li>You should now be able to play by simply typing "netrek-client-cow"
+</ol>
+</p><br><br>
+
 
 <a name="cowtarball"></a>
-<h2>(2) COW 3.2.7 binary tarball</h2>
+<h2>(3) COW 3.2.7 binary tarball - AVOID unless you really can't install the .deb</h2>
 <br><p>This binary has been reported to work on some versions of Linux and not others. Also, it includes its own libraries, which means that changes, including security updates, to your operating system's libraries won't apply to Netrek. If it doesn't work for you, try <a href="#sourcebuild">building from source code</a> instead. </p>
 
 <ol>
@@ -39,9 +62,31 @@ echo "</div>\n\n<div id=\"content\">";
 </oL>
 
 <a name="sourcebuild"></a>
-<h2>(3) Building COW from source code</h2>
+<h2>(4) Building COW from source code</h2>
 <br><p>
-See <a href="http://wiki.netrek.org/index.php/Building#netrek-client-cow">Building netrek-client-cow</a> on the Wiki.
+The wonder that is free software means that if a package that suits
+your system doesn't already exist, you can download the source code and 
+compile one yourself in a few easy steps. 
+<ol>
+<LI>Download the COW <a href="http://quozl.netrek.org/netrek/netrek-client-cow-3.3.1.tar.gz">tarball</a> or clone the <a href="https://github.com/quozl/netrek-client-cow">git repository</a>.
+<LI>Follow the <a href="https://github.com/quozl/netrek-client-cow/blob/master/INSTALL">INSTALL instructions</a>.
+<LI>If all goes well, your system will produce a playable binary for you and you can play by issuing the command "netrek-client-cow".
+</oL>
+</p>
+<p>
+For the above to work, your system will need to have 
+certain tools and libraries already installed, but most linux distributions 
+provide these. You'll need a compiler such as gcc, the make utility, and the following libraries, including their header files:
+<ul>
+<li>the C library: libc6
+<li>the GNU multiple precision library: libgmp3c2
+<li>the Imlib image management library, version 2: libimlib2
+<li>SDL, the Simple Direct media Layer, version 1.2: libsdl1.2 and libsdl-mixer1.2
+<li>the X11 library: libx11
+<li>the X11 pixmap library: libxpm4
+<li>the X11 XFree video mode extention library: libxxf86vm1
+</ul>
+
 
 <h2>When you're having problems</h2>
 <br><p>
