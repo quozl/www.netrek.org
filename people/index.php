@@ -34,7 +34,7 @@ questions. Get in touch!
 <ul>
 	<li>Talk to people in the game with <a href="../beginner/messaging.php">In-Game Messaging</a></li>
 	<li>Chat live at the 
-	<a href="irc://irc.libera.chat/#netrek">#netrek IRC channel, on irc.freenode.net</a><br>
+	<a href="ircs://irc.libera.chat:6697/#netrek">#netrek IRC channel, on irc.libera.chat</a><br>
 	This is an IRC (Internet Relay Chat) channel dedicated
 	to, of course, the topic of Netrek.<br>Hop on if you've got burning
 	questions and need quick interactive help!

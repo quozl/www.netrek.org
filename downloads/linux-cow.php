@@ -95,7 +95,7 @@ If none of the above works for you, you have two simple choices (besides giving 
 <h3>Getting Help</h3>
 <p>See the <a href="../people/index.html">Communicate section</a> for the most up-to-date options. These will probably include:
 <ul>
-<li>The <a href="irc://irc.libera.chat/#netrek">#netrek IRC channel, on irc.freenode.net</a><br>
+<li>The <a href="ircs://irc.libera.chat:6697/#netrek">#netrek IRC channel, on irc.libera.chat</a><br>
 <li>The <a href="http://groups.google.com/group/netrek-forever">netrek-forever</a> google group
 <li>The <a href="http://mailman.us.netrek.org/mailman/listinfo/netrek-dev">netrek-dev</a><br>list, where you can reach game developers, server admins, website workers, etc. 
 </ul>
