@@ -36,7 +36,7 @@ we also need people to help with promotion, and with web page and doc editing.
 <ul>
 <li>The
 <a href="http://mailman.us.netrek.org/mailman/listinfo/netrek-dev">netrek-dev</a> mailing list and the 
-<a href="irc://irc.freenode.net/#netrek">#netrek IRC channel, on irc.freenode.net</a>
+<a href="irc://irc.libera.chat/#netrek">#netrek IRC channel, on irc.freenode.net</a>
  are the main
 developer hangouts, including folks doing web pages and promotion.
 

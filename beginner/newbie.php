@@ -782,7 +782,7 @@ as well as a list for weekly clue games
 (<a href="http://groups.google.com/group/netrek-clue-games/">here</a>), 
 for people who know how to play at least moderately well. 
 <li><a href="http://www.playnetrek.org/smf/">The webforums at playnetrek.org</a>
-<li>The irc channel #netrek on irc.freenode.net
+<li>The irc channel #netrek on irc.libera.chat
 </ul>
 
 
